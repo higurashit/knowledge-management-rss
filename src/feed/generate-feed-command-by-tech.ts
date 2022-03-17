@@ -22,6 +22,7 @@ const generateFeedByTechFields = async (
   allFeedItems: CustomRssParserItem[],
 ) => {
   // フィード関連データ取得
+  console.log('[DEBUG] Start GetData & CreateFeed: ' + techfield);
   const [allFeedItemOgsResultMap, allFeedItemHatenaCountMap, feedOgsResultMap] = await Promise.all([
     feedCrawler.fetchFeedItemOgsResultMap(allFeedItems, FEED_OGP_FETCH_CONCURRENCY),
     feedCrawler.fetchHatenaCountMap(allFeedItems),
@@ -30,6 +31,7 @@ const generateFeedByTechFields = async (
   const ogsResultMap = new Map([...allFeedItemOgsResultMap, ...feedOgsResultMap]);
 
   // まとめフィード作成
+  console.log('[DEBUG] Start Generate Feed: ' + techfield);
   const aggregatedFeed = feedGenerator.generateFeed(
     allFeedItems,
     ogsResultMap,
@@ -39,8 +41,10 @@ const generateFeedByTechFields = async (
   );
 
   // まとめフィードのバリデーション。エラーならすぐに終了する
+  console.log('[DEBUG] Check Generated Feed: ' + techfield);
   const isValid = await feedGenerator.validateAggregatedFeed(aggregatedFeed);
   if (!isValid) {
+    console.log('[DEBUG] THIS FEED IS NOT VALID!!!!: ' + techfield);
     process.exit(1);
   }
 
