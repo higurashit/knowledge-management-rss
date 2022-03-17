@@ -1,0 +1,51 @@
+<section class="ui-section-content ui-top-section">
+    <div class="ui-layout-container">
+        <div class="ui-layout-column-12 ui-layout-column-center">
+            <p class="ui-text-intro">
+                技術領域ごとの企業のテックブログの更新をまとめた<br>RSSフィードを配信しています<br>
+            </p>
+            <div class="ui-component-cta ui-layout-flex">
+                <p class="ui-text-note"></p>
+                <div class="list_wrapper_area">
+                    <span class="list_title">RSS URL</span>
+                    {% for tech in constants.techs %} 
+                    <ul class="list_area">
+                        <li class="list_item_title">{{tech}}</li>
+                        <li class="list_item_content">
+                            <a href="{{ constants.feedUrls.rss.replace('/feeds/', '/feeds/' + tech + '/') }}" target="_blank">
+                                {{ constants.feedUrls.rss.replace('/feeds/', '/feeds/' + tech + '/') }}
+                            </a>
+                        </li>
+                    </ul>
+                    {% endfor %}
+                </div>
+                <div class="list_wrapper_area">
+                    <span class="list_title">Atom URL</span>
+                    {% for tech in constants.techs %}
+                    <ul class="list_area">
+                        <li class="list_item_title">{{tech}}</li>
+                        <li class="list_item_content">
+                            <a href="{{ constants.feedUrls.atom.replace('/feeds/', '/feeds/' + tech + '/') }}" target="_blank">
+                                {{ constants.feedUrls.atom.replace('/feeds/', '/feeds/' + tech + '/') }}
+                            </a>
+                        </li>
+                    </ul>
+                    {% endfor %}
+                </div>
+                <div class="list_wrapper_area">
+                    <span class="list_title">Slack URL<small>※Slackに貼り付けると更新を受け取ることができます</small></span>
+                    {% for tech in constants.techs %}
+                    <ul class="list_area">
+                        <li class="list_item_title">{{tech}}</li>
+                        <li class="list_item_content">
+                            <a href="{{ '/feed ' + constants.feedUrls.atom.replace('/feeds/', '/feeds/' + tech + '/') }}" target="_blank">
+                                {{ '/feed ' + constants.feedUrls.atom.replace('/feeds/', '/feeds/' + tech + '/') }}
+                            </a>
+                        </li>
+                    </ul>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,84 @@
+{
+  "name": "tech-blog-rss-feed",
+  "description": "企業のテックブログの更新をまとめたRSSフィードを配信",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "build": "yarn feed:generate && yarn site:build",
+    "feed:generate": "ts-node src/feed/generate-feed-command-by-tech.ts",
+    "site:build": "eleventy",
+    "site:serve": "eleventy --serve",
+    "lint": "eslint ./src ./tests --max-warnings 0 --ext .ts --cache --format node_modules/eslint-formatter-friendly",
+    "lint2": "eslint ./src ./tests --max-warnings 0 --ext .ts --cache --format 'node_modules/eslint-formatter-friendly'",
+    "lint:fix": "yarn lint --fix",
+    "test": "jest",
+    "preinstall": "typesync || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/higurashit/knowledge-management-rss"
+  },
+  "bugs": {
+    "url": "https://github.com/higurashit/knowledge-management-rss/issues"
+  },
+  "author": "higurashit",
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "tech blog",
+    "engineer blog",
+    "engineering blog",
+    "feed",
+    "rss",
+    "atom"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-img": "^1.0.0",
+    "@supercharge/promise-pool": "^2.1.0",
+    "@types/async-retry": "^1.4.3",
+    "@types/eslint": "^8.4.1",
+    "@types/eslint-plugin-prettier": "^3.1.0",
+    "@types/html-minifier-terser": "^6.1.0",
+    "@types/http-server": "^0.12.1",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.17",
+    "@types/prettier": "^2.4.3",
+    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
+    "async-retry": "^1.3.3",
+    "axios": "^0.26.0",
+    "dayjs": "^1.10.7",
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-formatter-friendly": "^7.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "feed": "^4.2.2",
+    "html-minifier-terser": "^7.0.0-alpha.1",
+    "http-server": "^14.1.0",
+    "jest": "^27.5.1",
+    "log4js": "^6.4.1",
+    "open-graph-scraper": "^4.11.0",
+    "prettier": "^2.5.1",
+    "rss-parser": "^3.12.0",
+    "ts-jest": "^27.1.3",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5",
+    "typesync": "^0.8.0"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 120,
+    "bracketSpacing": true,
+    "trailingComma": "all",
+    "quoteProps": "consistent"
+  },
+  "engines": {
+    "node": ">=14",
+    "yarn": "^1.18.0"
+  }
+}

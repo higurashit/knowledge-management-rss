@@ -1,0 +1,12 @@
+---
+layout: layouts/main.njk
+eleventyComputed:
+    pageTitle: "{{ constants.siteTitle }}"
+    lastUpdated: "{{ lastModifiedBlogsDate }}"
+---
+
+{% include 'layouts/partials/top-section.njk' %}
+
+<script>
+    {% include "scripts/index.ts" %}
+</script>

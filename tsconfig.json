@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "downlevelIteration": true, // 追加
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "types": ["node", "jest"],
+    "allowJs": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "skipLibCheck": true,
+    // "esModuleInterop": true, // これを追加
+    "sourceMap": true
+  },
+  "include": ["src/**/*"],
+  "outDir": "",
+  "outFile": ""
+}
