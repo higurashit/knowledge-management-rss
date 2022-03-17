@@ -81,3 +81,4 @@ post: 記事数（左：全記事数、右：対象記事数）
   - チューニング後
     - blog: { feedsCnt: 479, feedsByTechCnt: 6 }
     - post: { feedItemsCnt: 26, feedItemsByTechCnt: 10 }
+  
