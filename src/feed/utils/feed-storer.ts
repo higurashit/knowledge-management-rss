@@ -27,10 +27,15 @@ type BlogFeed = {
 
 export class FeedStorer {
   async storeFeeds(aggregatedFeed: Feed, storeDirPath: string): Promise<void> {
+    console.log('[DEBUG] [FeedStorer] mkdir ' + storeDirPath);
     await fs.mkdir(storeDirPath, { recursive: true });
+    console.log('[DEBUG] [FeedStorer] ' + storeDirPath + 'atom.xml');
     await fs.writeFile(path.join(storeDirPath, 'atom.xml'), aggregatedFeed.atom1(), 'utf-8');
+    console.log('[DEBUG] [FeedStorer] ' + storeDirPath + 'rss.xml');
     await fs.writeFile(path.join(storeDirPath, 'rss.xml'), aggregatedFeed.rss2(), 'utf-8');
+    console.log('[DEBUG] [FeedStorer] ' + storeDirPath + 'feed.json');
     await fs.writeFile(path.join(storeDirPath, 'feed.json'), aggregatedFeed.json1(), 'utf-8');
+    console.log('[DEBUG] [FeedStorer] End.');
   }
 
   async storeBlogFeeds(

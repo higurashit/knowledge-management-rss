@@ -46,6 +46,14 @@ const generateFeedByTechFields = async (
 
   // ファイル出力、画像キャッシュ
   // 技術領域ごとにRSSを出力
+  console.log('[DEBUG] Create Feed ByTech:');
+  console.log({
+    tech: techfield,
+    feedsCnt: feeds.length,
+    allFeedItemsCnt: allFeedItems.length,
+    aggregatedFeedCnt: aggregatedFeed.items.length,
+  });
+
   await Promise.all([
     feedStorer.storeFeeds(aggregatedFeed, `${STORE_FEEDS_DIR_PATH}/${techfield}/`),
     feedStorer.storeBlogFeeds(
@@ -56,13 +64,15 @@ const generateFeedByTechFields = async (
     ),
     feedStorer.cacheImages(allFeedItems, ogsResultMap, feeds),
   ]);
+
+  console.log('[DEBUG] Created Feed ByTech:' + techfield);
 };
 
 (async () => {
   // フィード取得、後処理
   const feeds = await feedCrawler.fetchFeedsAsync(FEED_INFO_LIST, FEED_FETCH_CONCURRENCY);
 
-  TECHS.forEach((tech: Tech) => {
+  TECHS.forEach(async (tech: Tech) => {
     const feedsByTech: CustomRssParserFeed[] = [];
     const allFeedItemsByTech: CustomRssParserItem[] = [];
 
@@ -110,15 +120,17 @@ const generateFeedByTechFields = async (
         allFeedItemsByTech.push(item);
       }
     });
-    console.log({ feedItemsCnt: allFeedItems.length, feedItemsByTechCnt: allFeedItemsByTech.length });
-
     // カテゴリに記号が入る不具合対応
     allFeedItemsByTech.forEach((item) => {
       if (item.categories) {
-        item.categories = item.categories.map((category) => category.replace(/[!"#$%'()=~|&<>?_+*}`{]/g, ''));
+        item.categories = item.categories.map((category: string) => category.replace(/[!"#$%'()=~|&<>?_+*}`{]/g, ''));
       }
     });
+
+    console.log('[DEBUG] Created ByTech:');
+    console.log({ tech: tech.field, feedItemsCnt: allFeedItems.length, feedItemsByTechCnt: allFeedItemsByTech.length });
+
     // 後続処理を実行
-    generateFeedByTechFields(tech.field, feedsByTech, allFeedItemsByTech);
+    await generateFeedByTechFields(tech.field, feedsByTech, allFeedItemsByTech);
   });
 })();
