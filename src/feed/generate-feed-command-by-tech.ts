@@ -4,8 +4,8 @@ import { FeedGenerator } from './utils/feed-generator';
 import * as path from 'path';
 import { FeedStorer } from './utils/feed-storer';
 
-const FEED_FETCH_CONCURRENCY = 50;
-const FEED_OGP_FETCH_CONCURRENCY = 50;
+const FEED_FETCH_CONCURRENCY = 7; // 7倍になっているので 50 → 7へ
+const FEED_OGP_FETCH_CONCURRENCY = 7; // 7倍になっているので 50 → 7へ
 const FILTER_ARTICLE_DATE = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000);
 const MAX_FEED_DESCRIPTION_LENGTH = 200;
 const MAX_FEED_CONTENT_LENGTH = 500;
