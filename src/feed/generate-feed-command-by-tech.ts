@@ -76,7 +76,7 @@ const generateFeedByTechFields = async (
   // フィード取得、後処理
   const feeds = await feedCrawler.fetchFeedsAsync(FEED_INFO_LIST, FEED_FETCH_CONCURRENCY);
 
-  TECHS.forEach(async (tech: Tech) => {
+  const tasks = TECHS.map(async (tech: Tech) => {
     const feedsByTech: CustomRssParserFeed[] = [];
     const allFeedItemsByTech: CustomRssParserItem[] = [];
 
@@ -137,4 +137,7 @@ const generateFeedByTechFields = async (
     // 後続処理を実行
     await generateFeedByTechFields(tech.field, feedsByTech, allFeedItemsByTech);
   });
+
+  await Promise.all(tasks);
+  console.log('[DEBUG] ALL END.');
 })();
