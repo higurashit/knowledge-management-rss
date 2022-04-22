@@ -365,7 +365,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Money Forward Kessai', 'https://tech.mfkessai.co.jp/index.xml'],
   ['N-Technologies', 'https://zenn.dev/n1nc/feed'],
   ['N.F.Laboratories', 'https://blog.nflabs.jp/feed'],
-  ['NAXA', 'https://blog.naxa.co.jp/feed'],
   ['NEMTUS', 'https://zenn.dev/nemtus/feed'],
   ['NHNテコラス', 'https://techblog.nhn-techorus.com/feed'],
   ['NRIネットコム', 'https://tech.nri-net.com/feed/category/Technology'],
@@ -698,7 +697,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
  * 404
  * ['リクルートデータ', 'https://blog.recruit.co.jp/data/index.json'],
  * ['メドレー', 'https://developer.medley.jp/feed'],
- *
+ * ['NAXA', 'https://blog.naxa.co.jp/feed'],
  * 406
  * ['AsiaQuest', 'https://techblog.asia-quest.jp/rss.xml'],
  *
