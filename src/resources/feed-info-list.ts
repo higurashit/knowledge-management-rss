@@ -658,7 +658,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ロコガイド', 'https://techblog.locoguide.co.jp/feed'],
   ['ロジカルビート', 'https://logicalbeat.jp/blog/feed/'],
   ['ロジカル・アーツ', 'https://blog.logical.co.jp/feed'],
-  ['ロジクラ', 'https://blog.logikura.dev/feed'],
   ['ワウテック', 'https://engineer.wowtech.co.jp/feed'],
   ['ワンキャリア', 'https://note.com/dev_onecareer/rss'],
   ['ワンダープラネット', 'https://developers.wonderpla.net/feed'],
@@ -698,6 +697,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
  * ['リクルートデータ', 'https://blog.recruit.co.jp/data/index.json'],
  * ['メドレー', 'https://developer.medley.jp/feed'],
  * ['NAXA', 'https://blog.naxa.co.jp/feed'],
+ * ['ロジクラ', 'https://blog.logikura.dev/feed'],
  * 406
  * ['AsiaQuest', 'https://techblog.asia-quest.jp/rss.xml'],
  *
