@@ -365,7 +365,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Money Forward Kessai', 'https://tech.mfkessai.co.jp/index.xml'],
   ['N-Technologies', 'https://zenn.dev/n1nc/feed'],
   ['N.F.Laboratories', 'https://blog.nflabs.jp/feed'],
-  ['NAXA', 'https://blog.naxa.co.jp/feed'],
   ['NEMTUS', 'https://zenn.dev/nemtus/feed'],
   ['NHNテコラス', 'https://techblog.nhn-techorus.com/feed'],
   ['NRIネットコム', 'https://tech.nri-net.com/feed/category/Technology'],
@@ -393,7 +392,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ROBOT PAYMENT', 'https://tech.robotpayment.co.jp/feed'],
   ['ROXX', 'https://techblog.roxx.co.jp/feed'],
   ['Red Hat', 'https://rheb.hatenablog.com/feed'],
-  ['Reigle', 'https://www.reigle.info/feed'],
   ['Repro', 'https://tech.repro.io/feed'],
   ['Retail AI', 'https://note.com/retail_ai/rss'],
   ['Retty', 'https://engineer.retty.me/feed'],
@@ -698,6 +696,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
  * 404
  * ['リクルートデータ', 'https://blog.recruit.co.jp/data/index.json'],
  * ['メドレー', 'https://developer.medley.jp/feed'],
+ * ['NAXA', 'https://blog.naxa.co.jp/feed'],
  *
  * 406
  * ['AsiaQuest', 'https://techblog.asia-quest.jp/rss.xml'],
@@ -716,4 +715,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
  * https://tech.smartshopping.co.jp/
  * https://olaris.jp/category/technology
  * https://licensecounter.jp/engineer-voice/blog/
+ *
+ * 証明書エラー
+ * ['Reigle', 'https://www.reigle.info/feed'],
+ *
  */
