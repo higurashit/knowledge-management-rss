@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2022-07-29T06:31:19.638Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Client VPNでアクセスする Amazon FSx 環境の構築 | NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ]]></title>
+        <id>https://techblog.nhn-techorus.com/?p=20510</id>
+        <link href="https://techblog.nhn-techorus.com/archives/20510"/>
+        <updated>2022-07-29T06:24:22.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、skです。今回は「AWS Managed Microsoft AD」、「Amazon FSx」、「AWS Client VPN」を利用してAWS環境にあるファイルサーバに、セキュアに接続し、利用できる環境を構築してみたいと思いま... 続きを読む AWS Client VPNでアクセスする Amazon FSx 環境の構築 first appeared on NHN テコラス Tech...]]></summary>
+        <content type="html"><![CDATA[こんにちは、skです。今回は「AWS Managed Microsoft AD」、「Amazon FSx」、「AWS Client VPN」を利用してAWS環境にあるファイルサーバに、セキュアに接続し、利用できる環境を構築してみたいと思いま... 続きを読む AWS Client VPNでアクセスする Amazon FSx 環境の構築 first appeared on NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ.]]></content>
+        <author>
+            <name>sk</name>
+        </author>
+        <category label="AWS"/>
+        <published>2022-07-29T06:24:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CLI も楽しいです | MONEX ENGINEER BLOG │マネックス エンジニアブログ]]></title>
+        <id>https://blog.tech-monex.com/entry/2022/07/29/120319</id>
+        <link href="https://blog.tech-monex.com/entry/2022/07/29/120319"/>
+        <updated>2022-07-29T03:03:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、システム開発一部の山下です。 Infrastructure as Code (IaC) いいですよね AWS クラウド (Amazon Web Services) 楽しいですよね。昔は機材の発注から配線、セットアップなど何週間もかけて実施した試作や検証を、あっという間に実施できるクラウド環境、そしてそれを更に容易にする IaC (Infrastructure as Code) の概念は...]]></summary>
+        <content type="html"><![CDATA[こんにちは、システム開発一部の山下です。 Infrastructure as Code (IaC) いいですよね AWS クラウド (Amazon Web Services) 楽しいですよね。昔は機材の発注から配線、セットアップなど何週間もかけて実施した試作や検証を、あっという間に実施できるクラウド環境、そしてそれを更に容易にする IaC (Infrastructure as Code) の概念は素晴らしいと思います。 AWS でリソースを操作するには大きく分けて以下の3つの手法があります。 Web画面 (AWS マネジメントコンソール) でGUI操作 ターミナル画面 (AWS CLI) でコ…]]></content>
+        <published>2022-07-29T03:03:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[踏み台サーバーをAWS Fargateで構築 | nextbeat-engineering - Medium]]></title>
+        <id>https://medium.com/p/c4d5e30b86f8</id>
+        <link href="https://medium.com/nextbeat-engineering/%E8%B8%8F%E3%81%BF%E5%8F%B0%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92aws-fargate%E3%81%A7%E6%A7%8B%E7%AF%89-c4d5e30b86f8"/>
+        <updated>2022-07-29T02:32:22.000Z</updated>
+        <author>
+            <name>Arata Kurokawa</name>
+        </author>
+        <category label="session-manager"/>
+        <category label="bastion-host"/>
+        <category label="aws-fargate"/>
+        <category label="engineer"/>
+        <category label="ecs-exec"/>
+        <published>2022-07-29T02:32:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Storage for Firebaseで、bucketごとにセキュリティルールを割り当てる | Pirika Developers Blog]]></title>
+        <id>https://devblog.pirika.org/entry/2022/07/29/113000</id>
+        <link href="https://devblog.pirika.org/entry/2022/07/29/113000"/>
+        <updated>2022-07-29T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ピリカ開発チームの九鬼です。 Firebaseを使ったサービスに関して、サービスによっては複数bucketを使いたい場合があります。デフォルトだと単一bucketしかセキュリティルールを割り当てられないのですが、.firebasercおよびfirebase.jsonの設定により対応できました。ここにその方法を記載します。]]></summary>
+        <content type="html"><![CDATA[こんにちは、ピリカ開発チームの九鬼です。 Firebaseを使ったサービスに関して、サービスによっては複数bucketを使いたい場合があります。デフォルトだと単一bucketしかセキュリティルールを割り当てられないのですが、.firebasercおよびfirebase.jsonの設定により対応できました。ここにその方法を記載します。]]></content>
+        <published>2022-07-29T02:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月29日ランキング】Explore Azure Managed Instance for Apache Cassandra's new features | TechFeedおすすめ記事ランキング - Cassandraチャンネル]]></title>
+        <id>https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29</id>
+        <link href="https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29"/>
+        <updated>2022-07-29T02:00:07.164Z</updated>
+        <summary type="html"><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2022/05/Azure_MI_Cassandra_Gif-1.gif"><br>Cassandraチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Explore Azure Ma...]]></summary>
+        <content type="html"><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2022/05/Azure_MI_Cassandra_Gif-1.gif"><br>Cassandraチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Explore Azure Managed Instance for Apache Cassandra's new features（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FCassandra">]]></content>
+        <published>2022-07-29T02:00:07.164Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpringBootの環境でAzure Container Registryにプッシュする方法 | エキサイト TechBlog.]]></title>
+        <id>https://tech.excite.co.jp/entry/2022/07/29/104000</id>
+        <link href="https://tech.excite.co.jp/entry/2022/07/29/104000"/>
+        <updated>2022-07-29T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサ...]]></summary>
+        <content type="html"><![CDATA[はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサービスでは、クラウドサービスにMicrosoft Azureを使用しており、作成したアプリケーションはAzure Container Appsでの運用を考えています。 また、コンテナイメージはAzur…]]></content>
+        <published>2022-07-29T01:40:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2で稼働するプロセスをCloudWatchで監視し自動復旧させる | TechHarmony]]></title>
+        <id>https://blog.usize-tech.com/?p=6940</id>
+        <link href="https://blog.usize-tech.com/process-recovery-on-ec2/"/>
+        <updated>2022-07-29T00:00:03.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。SCSKの松原です。 EC2インスタンス上で稼働するプロセスが停止していたら、復旧・通知等のアクションを実施するといった、プロセス監視を実装したので、ご紹介します。 実現イメージ 今回は、特定のプロセスを監視 […]]]></summary>
+        <content type="html"><![CDATA[こんにちは。SCSKの松原です。 EC2インスタンス上で稼働するプロセスが停止していたら、復旧・通知等のアクションを実施するといった、プロセス監視を実装したので、ご紹介します。 実現イメージ 今回は、特定のプロセスを監視 […]]]></content>
+        <author>
+            <name>松原拓</name>
+        </author>
+        <category label="AWS"/>
+        <category label="技術ナレッジ"/>
+        <category label="Amazon CloudWatch"/>
+        <category label="Amazon EC2"/>
+        <category label="Amazon SNS"/>
+        <published>2022-07-29T00:00:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月29日ランキング】AWS + Python + LINEbotでゴミ出しリマインドをする【後編】／ほか18本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/29</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/29"/>
+        <updated>2022-07-28T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QVdTJTIwJTJCJTIwUHl0aG9uJTIwJTJCJTIwTElORWJvdCVFMyU4MSVBNyVFMyU4MiVCNCVFMyU4MyU5RiVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MyVBQSVFMyU4MyU5RSVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MiU5MiVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MCVFNSVCRSU...]]></content>
+        <published>2022-07-28T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月29日ランキング】Googleの「BigQuery」とどう対峙？　裾野広がるデータ活用、AWSの戦略を「Redshift Serverless」から探る／ほか3本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/29</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/29"/>
+        <updated>2022-07-28T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/news/articles/2207/28/cover_news108.jpg"><br>Google Cloud Platformチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: Googleの「BigQuery」とどう対峙？ 裾野広がるデータ活...]]></summary>
+        <content type="html"><![CDATA[<img src="https://image.itmedia.co.jp/news/articles/2207/28/cover_news108.jpg"><br>Google Cloud Platformチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: Googleの「BigQuery」とどう対峙？ 裾野広がるデータ活用、AWSの戦略を「Redshift Serverless」から探る（www.itmedia.co.jp）<br>1位: How to use App Engine Blobstore (Module 15)（developers.googleblog.com）<br>2位: Accelerating language model training with Cohere and Google Cloud TPUs（cloud.google.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platf...]]></content>
+        <published>2022-07-28T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月29日ランキング】AWS、セキュリティ調査サービス「Amazon Detective」でKubernetesワークロードに対応／ほか6本 | TechFeedおすすめ記事ランキング - Kubernetesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/29</id>
+        <link href="https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/29"/>
+        <updated>2022-07-28T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://codezine.jp/static/images/article/16267/12789_og.jpg"><br>Kubernetesチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事6本）。<br>1位: AWS、セキュリティ調査サービス「Amazon Detective」でKubernetesワークロード...]]></summary>
+        <content type="html"><![CDATA[<img src="https://codezine.jp/static/images/article/16267/12789_og.jpg"><br>Kubernetesチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事6本）。<br>1位: AWS、セキュリティ調査サービス「Amazon Detective」でKubernetesワークロードに対応（codezine.jp）<br>1位: AWS ups security for Elastic Block Store, Kubernetes service（www.theregister.com）<br>2位: A Simple Guide to Container Orchestration with Kubernetes（dev.to）<br>…ほか4本<br><a href="https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/29?from=rss" target="_blank">ランキングはこ...]]></content>
+        <published>2022-07-28T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月29日ランキング】現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティション分割する／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29"/>
+        <updated>2022-07-28T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"><br>Microsoft Azureチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティシ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"><br>Microsoft Azureチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティション分割する（docs.microsoft.com）<br>2位: SCSK、クラウド構築・運用自動化サービス「S-Cred＋プラットフォーム」をMicrosoft Azureに適用（cloud.watch.impress.co.jp）<br>1位: Azure Data Studio July Release with VS Code Updates（cloudblogs.microsoft.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29?f...]]></content>
+        <published>2022-07-28T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS】AWS CDKで書いたLambdaをLambda LayerとあわせてAPI Gatewayにデプロイ【CDK】 | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/yosemat/articles/01c83132a0c705</id>
+        <link href="https://zenn.dev/yosemat/articles/01c83132a0c705"/>
+        <updated>2022-07-28T13:45:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS CDK in Typescript + Lambda in Python 最近個人的にも世間的にもかなり来てるAWS CDKをTypescriptで実装します。CDKは型セーフで簡単にかけるスクリプト言語としてTypescriptを、Lambdaは柔軟にかけるPythonで採用します。 Lambdaはライブラリを複数のコードで使い回せるLambda Layerとあわせて実装します。 これに...]]></summary>
+        <content type="html"><![CDATA[AWS CDK in Typescript + Lambda in Python 最近個人的にも世間的にもかなり来てるAWS CDKをTypescriptで実装します。CDKは型セーフで簡単にかけるスクリプト言語としてTypescriptを、Lambdaは柔軟にかけるPythonで採用します。 Lambdaはライブラリを複数のコードで使い回せるLambda Layerとあわせて実装します。 これによって  Lambda Layerにnumpyをインストール Lambda Function AからLambda Layerのnumpyを呼び出し Lambda Function BからLa...]]></content>
+        <author>
+            <name>Yosemat</name>
+        </author>
+        <published>2022-07-28T13:45:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuxt 3 + AWS + GitHub(コンテンツ管理) で技術ブログをつくった | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/mirumi/articles/sluuuuug-slaaaaag</id>
+        <link href="https://zenn.dev/mirumi/articles/sluuuuug-slaaaaag"/>
+        <updated>2022-07-28T13:35:54.000Z</updated>
+        <summary type="html"><![CDATA[オリジナルのブログシステムをゼロから作ってみたのでご紹介申し上げたい…という記事です。 https://mirumi.tech いわゆる雑記ブログは長いことやっているのですが、自分がこのあとも 5 年 ~ 10 年という単位で継続的に記事を書き続けていけるためには全ての仕組みが自分向けに整備されていないとモチベーションが消えていくな、と思いました。今回はその実験の第一弾として技術ブログをつくってみ...]]></summary>
+        <content type="html"><![CDATA[オリジナルのブログシステムをゼロから作ってみたのでご紹介申し上げたい…という記事です。 https://mirumi.tech いわゆる雑記ブログは長いことやっているのですが、自分がこのあとも 5 年 ~ 10 年という単位で継続的に記事を書き続けていけるためには全ての仕組みが自分向けに整備されていないとモチベーションが消えていくな、と思いました。今回はその実験の第一弾として技術ブログをつくってみたという運びです。 言うまでもなく Zenn で記事を書いた体験がきっかけになっているところがあり、それを思うと安易なリリースおよびその自己紹介は Zenn への尊重心を欠くことになってしまうの...]]></content>
+        <author>
+            <name>みるみ</name>
+        </author>
+        <published>2022-07-28T13:35:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vertex AI Workbench]マネージド環境とユーザー管理環境へのdocker imageの取り込みの違い | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/furuhon/articles/90977c90c2125e</id>
+        <link href="https://zenn.dev/furuhon/articles/90977c90c2125e"/>
+        <updated>2022-07-28T09:37:08.000Z</updated>
+        <summary type="html"><![CDATA[furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)に対して、開発環境を統一したいので、カスタムコンテナ(docker container image)の利用を検討しています。 その際に、マネージドノートブック環境と、ユーザー管理のノートブック環境では、 カスタムコンテナの扱いが異なることに気づいたので、自分なりにまとめてみました。  ...]]></summary>
+        <content type="html"><![CDATA[furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)に対して、開発環境を統一したいので、カスタムコンテナ(docker container image)の利用を検討しています。 その際に、マネージドノートブック環境と、ユーザー管理のノートブック環境では、 カスタムコンテナの扱いが異なることに気づいたので、自分なりにまとめてみました。    workbenchの環境の違い カスタムコンテナの扱い     マネージド環境 カスタムコンテナをカーネルとして追加してインスタンスを作成する。   ユーザー管理 カスタムコンテナをベースに...]]></content>
+        <author>
+            <name>furuhon</name>
+        </author>
+        <published>2022-07-28T09:37:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自社システムをHerokuからGCPにリプレースした話 -全体像 後編- | 開発チーム]]></title>
+        <id>https://note.com/yojo_engineering/n/n8f6d8adf726d</id>
+        <link href="https://note.com/yojo_engineering/n/n8f6d8adf726d"/>
+        <updated>2022-07-28T09:09:21.000Z</updated>
+        <summary type="html"><![CDATA[開発のbonです。 前回の記事ではGCPへのリプレースについて現状と経緯をお話しました。今回はプロジェクトをどう進めてきたかや、戦略・意思決定のプロセスなどをマネジメント観点でお伝えしようかと思います。リプレースに関わる細かい実装上の話や技術的な話は別記事で書いてもらう予定です。 リプレースのスケジュール 続きをみる]]></summary>
+        <content type="html"><![CDATA[開発のbonです。 前回の記事ではGCPへのリプレースについて現状と経緯をお話しました。今回はプロジェクトをどう進めてきたかや、戦略・意思決定のプロセスなどをマネジメント観点でお伝えしようかと思います。リプレースに関わる細かい実装上の話や技術的な話は別記事で書いてもらう予定です。 リプレースのスケジュール 続きをみる]]></content>
+        <published>2022-07-28T09:09:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda + Go | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/rstliz/articles/0a2757c7d16f60</id>
+        <link href="https://zenn.dev/rstliz/articles/0a2757c7d16f60"/>
+        <updated>2022-07-28T08:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Lambda関数をGoで実装し、Httpアクセスする   やること  Lambdaライブラリの取得 Lambda関数作成 Goのビルド Lambdaの設定 テストの実行    Lambdaライブラリの取得 ❯ mkdir -p go_lambda  ❯ cd go_lambda  ❯ go mod init go: creating new go.mod: module go_lambda  ❯ ...]]></summary>
+        <content type="html"><![CDATA[Lambda関数をGoで実装し、Httpアクセスする   やること  Lambdaライブラリの取得 Lambda関数作成 Goのビルド Lambdaの設定 テストの実行    Lambdaライブラリの取得 ❯ mkdir -p go_lambda  ❯ cd go_lambda  ❯ go mod init go: creating new go.mod: module go_lambda  ❯ go get -u github.com/aws/aws-lambda-go/lambda go: added github.com/aws/aws-lambda-go v1.33.0  ❯...]]></content>
+        <author>
+            <name>Ryo Sato</name>
+        </author>
+        <published>2022-07-28T08:58:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Azure Mobile Apps を使ってXamarin.Andoroidアプリをビルドしてみた | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/28/174719</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/28/174719"/>
+        <updated>2022-07-28T08:47:19.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Azure Mobile Apps とは アプリをビルドするまでの手順 必要なもの 使用環境 １．環境構築 １－１．VisualStudio2022(Comunity)インストール １－２．Azureサービス認証 １－３．Azure CLIインストール ２．Azure Mobile Apps 導入 ２－１．資材準備 ２－２．Azure CLI サインイン ２－３．リソース作成 ２－４．サ...]]></summary>
+        <content type="html"><![CDATA[はじめに Azure Mobile Apps とは アプリをビルドするまでの手順 必要なもの 使用環境 １．環境構築 １－１．VisualStudio2022(Comunity)インストール １－２．Azureサービス認証 １－３．Azure CLIインストール ２．Azure Mobile Apps 導入 ２－１．資材準備 ２－２．Azure CLI サインイン ２－３．リソース作成 ２－４．サービスコード発行 ２－５．SQLサーバ接続 ２－６．サービスコード発行（続き） 【トラブルシュート①】ファイルの中身書き換え 【トラブルシュート②】コンポーネントインストール ２－７．サンプルアプリの…]]></content>
+        <published>2022-07-28T08:47:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS】AWS SAMで「API Gateway + Lambda」構成をテンプレート化する | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/megazone_japan/articles/1d85bcf485e310</id>
+        <link href="https://zenn.dev/megazone_japan/articles/1d85bcf485e310"/>
+        <updated>2022-07-28T08:27:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ご覧いただきありがとうございます。阿河です。 最近「サーバレスな構成を複数のアカウントにデプロイする」機会があり、設定ミス/労力の軽減をするためにテンプレート化することは大切だなと改めて実感しました。 以前の記事でCloudFormationで基本的なシングル構成を構築するをテーマとして書きましたが、今回はサーバレス版ということでAWS SAMをテーマに記事を書こうと思います。   対象...]]></summary>
+        <content type="html"><![CDATA[はじめに ご覧いただきありがとうございます。阿河です。 最近「サーバレスな構成を複数のアカウントにデプロイする」機会があり、設定ミス/労力の軽減をするためにテンプレート化することは大切だなと改めて実感しました。 以前の記事でCloudFormationで基本的なシングル構成を構築するをテーマとして書きましたが、今回はサーバレス版ということでAWS SAMをテーマに記事を書こうと思います。   対象者  AWSを運用中 構築管理の手間を省きたい サーバレス構成に興味がある    概要  手作業で「API Gateway + Lambda」構成を作成 AWS SAMで「API Gat...]]></content>
+        <author>
+            <name>MEGAZONE株式会社</name>
+        </author>
+        <published>2022-07-28T08:27:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS Expert Online】SageMaker Studio Lab | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/shigeru_oda/articles/4d35453eb1a01ffae95c</id>
+        <link href="https://zenn.dev/shigeru_oda/articles/4d35453eb1a01ffae95c"/>
+        <updated>2022-07-28T06:47:42.000Z</updated>
+        <summary type="html"><![CDATA[概要 当記事は2022.07.27(水)に開催されましたAWS Expert Online for JAWS-UGの整理記事です。 AWS Expert Online for JAWS-UGはJAWS-UG の各支部勉強会向けに AWS のエキスパートがオンライン登壇をして、最新のアップデート、注目のテクノロジーを共有して頂けるものです。   資料  YouTube スピーカー久保隆宏さんTwit...]]></summary>
+        <content type="html"><![CDATA[概要 当記事は2022.07.27(水)に開催されましたAWS Expert Online for JAWS-UGの整理記事です。 AWS Expert Online for JAWS-UGはJAWS-UG の各支部勉強会向けに AWS のエキスパートがオンライン登壇をして、最新のアップデート、注目のテクノロジーを共有して頂けるものです。   資料  YouTube スピーカー久保隆宏さんTwitter 発表資料 Studio Lab で学べる教材 をまとめ 東京工業大学の機械学習帳を 40 日ちょっとずつ学ぶコンテンツ    やりたいこと SageMaker Studio Labの...]]></content>
+        <author>
+            <name>ShigeruOda</name>
+        </author>
+        <published>2022-07-28T06:47:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 インスタンス (Windows Server) で、Amazon Elastic Network Adapter を外したときの対応について | ForgeVision Engineer Blog]]></title>
+        <id>https://techblog.forgevision.com/entry/ec2_windows_ec2_ena</id>
+        <link href="https://techblog.forgevision.com/entry/ec2_windows_ec2_ena"/>
+        <updated>2022-07-28T06:30:53.000Z</updated>
+        <summary type="html"><![CDATA[EC2 インスタンス (Windows Server) で、Amazon Elastic Network Adapter を外したときの対応について、まとめてみました。]]></summary>
+        <content type="html"><![CDATA[EC2 インスタンス (Windows Server) で、Amazon Elastic Network Adapter を外したときの対応について、まとめてみました。]]></content>
+        <published>2022-07-28T06:30:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSL2 の Ubuntu から SqlConnection を使って Azure SQL Database に接続できない | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/karamem0/articles/2022_07_28_150000</id>
+        <link href="https://zenn.dev/karamem0/articles/2022_07_28_150000"/>
+        <updated>2022-07-28T06:06:19.000Z</updated>
+        <summary type="html"><![CDATA[ハマったのでメモ。 WSL2 上に構築した Ubuntu で Azure SQL Database に接続する C# のプログラムを書いたところ以下のエラーが発生しました。   System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while es...]]></summary>
+        <content type="html"><![CDATA[ハマったのでメモ。 WSL2 上に構築した Ubuntu で Azure SQL Database に接続する C# のプログラムを書いたところ以下のエラーが発生しました。   System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify tha...]]></content>
+        <author>
+            <name>karamem0</name>
+        </author>
+        <published>2022-07-28T06:06:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK で作る AWS Inferentia と Amazon ECS を利用した推論環境（Part 2） | Amazon Web Services ブログ]]></title>
+        <id>0bc332305bd7a0652bd58bb726c6d0e952e240d3</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/inference-environment-using-aws-inferentia-and-amazon-ecs-with-aws-cdk-part2/"/>
+        <updated>2022-07-28T01:10:22.000Z</updated>
+        <summary type="html"><![CDATA[目次 事前準備 AWS Inferentia の制約を考慮した スケールする Amazon ECS を設計する […]]]></summary>
+        <content type="html"><![CDATA[目次 事前準備 AWS Inferentia の制約を考慮した スケールする Amazon ECS を設計する […]]]></content>
+        <author>
+            <name>Toshinobu Akazawa</name>
+        </author>
+        <category label="General"/>
+        <category label="Amazon ECS"/>
+        <category label="AWS CDK"/>
+        <category label="AWS Inferentia"/>
+        <category label="Machine Learning"/>
+        <published>2022-07-28T01:10:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK で作る AWS Inferentia と Amazon ECS を利用した推論環境（Part 1） | Amazon Web Services ブログ]]></title>
+        <id>7a9cbc77ed99301e847f76a098e6ffd833d539c0</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/inference-environment-using-aws-inferentia-and-amazon-ecs-with-aws-cdk-part1/"/>
+        <updated>2022-07-28T01:08:19.000Z</updated>
+        <summary type="html"><![CDATA[目次 事前準備 AWS CDK で 検証用 Amazon EC2 Inf1 インスタンス を構築する アプリケ […]]]></summary>
+        <content type="html"><![CDATA[目次 事前準備 AWS CDK で 検証用 Amazon EC2 Inf1 インスタンス を構築する アプリケ […]]]></content>
+        <author>
+            <name>Toshinobu Akazawa</name>
+        </author>
+        <category label="General"/>
+        <category label="Amazon ECS"/>
+        <category label="AWS CDK"/>
+        <category label="AWS Inferentia"/>
+        <category label="Machine Learning"/>
+        <published>2022-07-28T01:08:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【仮想試験】AWS Ground Stationの練習問題を作ってみた －AWSに関する設問・解答の作り方－   | Technology - NRIネットコムBlog]]></title>
+        <id>https://tech.nri-net.com/entry/practice_question_about_aws_ground_station</id>
+        <link href="https://tech.nri-net.com/entry/practice_question_about_aws_ground_station"/>
+        <updated>2022-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事は 技術書著者Week 最終日の記事です。 📕 5日目 ▶▶ 本記事 小西秀和です。 今回は当社で書籍を執筆したことがある人がブログ記事を投稿する企画「技術書著者Week」ということで記事を書きました。 はじめに私が今までに執筆してきた本について紹介します。 いずれもAWSについて書いた本で、最近の3冊についてはAWS認定に関する書籍となっています。 このAWS認定に関連する本の中でも私は...]]></summary>
+        <content type="html"><![CDATA[本記事は 技術書著者Week 最終日の記事です。 📕 5日目 ▶▶ 本記事 小西秀和です。 今回は当社で書籍を執筆したことがある人がブログ記事を投稿する企画「技術書著者Week」ということで記事を書きました。 はじめに私が今までに執筆してきた本について紹介します。 いずれもAWSについて書いた本で、最近の3冊についてはAWS認定に関する書籍となっています。 このAWS認定に関連する本の中でも私は主に練習問題を作ることが多かったため、今回は仮想試験と題して非常に興味があるけど敷居が高くて触れないAWS Ground Stationについて座学した内容を元に練習問題を作成してみました。 誤解の無い…]]></content>
+        <published>2022-07-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月28日ランキング】[神アップデート]GuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた #reinforce／ほか19本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/28</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/28"/>
+        <updated>2022-07-27T20:00:06.121Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/000_guardduty_malware_protection.jpg"><br>Amazon Web Servicesチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/000_guardduty_malware_protection.jpg"><br>Amazon Web Servicesチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: [神アップデート]GuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた #reinforce（dev.classmethod.jp）<br>2位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>3位: AWSが運営するQ&Aサイト「AWS re:Post」で、ユーザー自身による記事の投稿が可能に（www.publickey1.jp）<br>…ほか17本<br><a href="https://techfeed.io/channels/Amaz...]]></content>
+        <published>2022-07-27T20:00:06.121Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか6本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28"/>
+        <updated>2022-07-27T20:00:06.121Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...]]></summary>
+        <content type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>3位: エージェント型不動産売買仲介のTERASS、GCPやSBIらから10億円をシリーズB調達——エージェント数で国内最大規模目指す（thebridge.jp）<br>…ほか4本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28?from=rss" target="_blank">ランキン...]]></content>
+        <published>2022-07-27T20:00:06.121Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月28日ランキング】[AWS IoT Core] Route53のプライベートホストゾーンを使用して IoT CoreのVPCエンドポイントの名前解決ができるVPCをCDKで作ってみました／ほか17本 | TechFeedおすすめ記事ランキング - IoTチャンネル]]></title>
+        <id>https://techfeed.io/channels/IoT/selections/daily/2022/7/28</id>
+        <link href="https://techfeed.io/channels/IoT/selections/daily/2022/7/28"/>
+        <updated>2022-07-27T20:00:06.121Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/aws-iot-core.png"><br>IoTチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事9本、英語記事9本）。<br>1位: [AWS IoT Core] Route53のプライベートホストゾー...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/aws-iot-core.png"><br>IoTチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事9本、英語記事9本）。<br>1位: [AWS IoT Core] Route53のプライベートホストゾーンを使用して IoT CoreのVPCエンドポイントの名前解決ができるVPCをCDKで作ってみました（dev.classmethod.jp）<br>2位: ラズパイで作る防犯システム（qiita.com）<br>3位: アライグマ(MaaS)の復活に注意、データ窃取能力を向上させてパワーアップ（news.mynavi.jp）<br>…ほか15本<br><a href="https://techfeed.io/channels/IoT/selections/daily/2022/7/28?from=rss" target="_blank">ランキングはこちらから</a><img src="htt...]]></content>
+        <published>2022-07-27T20:00:06.121Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28"/>
+        <updated>2022-07-27T20:00:06.121Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...]]></summary>
+        <content type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>1位: What's new - Azure Sphere（docs.microsoft.com）<br>2位: Basic Authentication For Azure Functions (Open API) .Net 6（www.c-sharpcorner.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28?from=rss" target="_blank">ランキングはこちらから</a><i...]]></content>
+        <published>2022-07-27T20:00:06.121Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS】Lambda関数のLayerを使ってみた | Qiita - 人気の記事]]></title>
+        <id>https://qiita.com/Aichi_Lover/items/71eb30d6f6b39af9e5be</id>
+        <link href="https://qiita.com/Aichi_Lover/items/71eb30d6f6b39af9e5be"/>
+        <updated>2022-07-27T16:17:16.000Z</updated>
+        <summary type="html"><![CDATA[1.はじめに  どうも、ARIの名古屋支社に勤務している愛知県民です♪ (/・ω・)/  先日、AWSのLambda関数をテストしようとしたところ、以下のエラーが出ました。    どうやら、必要なライブラリ…]]></summary>
+        <content type="html"><![CDATA[1.はじめに  どうも、ARIの名古屋支社に勤務している愛知県民です♪ (/・ω・)/  先日、AWSのLambda関数をテストしようとしたところ、以下のエラーが出ました。    どうやら、必要なライブラリ…]]></content>
+        <published>2022-07-27T16:17:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake’s New Engine and Platform Announcements | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203516</id>
+        <link href="https://www.snowflake.com/blog/performance-improvements-summit-2022/"/>
+        <updated>2022-07-27T16:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake’s Data Cloud is powered by a single engine. From day 1, we have been focusing on consistently evolvi […] The post Snowflake’s New Engine and Platform Announcements appeared first on Snowflak...]]></summary>
+        <content type="html"><![CDATA[Snowflake’s Data Cloud is powered by a single engine. From day 1, we have been focusing on consistently evolvi […] The post Snowflake’s New Engine and Platform Announcements appeared first on Snowflake.]]></content>
+        <author>
+            <name>Artin Avanes</name>
+        </author>
+        <category label="Data Warehouse"/>
+        <category label="Product and Technology"/>
+        <category label="cross-cloud"/>
+        <category label="data warehouse"/>
+        <category label="governance"/>
+        <category label="Snowflake Data Cloud"/>
+        <published>2022-07-27T16:01:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hub-Spoke構成の2つのネットワーク間のSpoke-Hub-Hub-SpokeをVNetピアリング＋Azure Firewallで実現 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/zukako/articles/adde75283e286e</id>
+        <link href="https://zenn.dev/zukako/articles/adde75283e286e"/>
+        <updated>2022-07-27T08:35:09.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと AzureのWAFのDocsで見かけるリージョン間のHub-Spokeの連結を実際どうやるのか確認する。下の画像のイメージ。    検証準備   アーキテクチャのイメージ イメージはこんな感じ    Virtual Network  eastusにhub(10.0.0.0/16)とspoke(10.1.0.0/16) centralusにhub(10.101.0.0/16)とspok...]]></summary>
+        <content type="html"><![CDATA[やりたいこと AzureのWAFのDocsで見かけるリージョン間のHub-Spokeの連結を実際どうやるのか確認する。下の画像のイメージ。    検証準備   アーキテクチャのイメージ イメージはこんな感じ    Virtual Network  eastusにhub(10.0.0.0/16)とspoke(10.1.0.0/16) centralusにhub(10.101.0.0/16)とspoke(10.100.0.0/16) 各リージョンのhub-spokeはピアリング hub-hub間はGlobalピアリング    Virtual Machine  各リージョンのSpokeに疎...]]></content>
+        <author>
+            <name>zukako</name>
+        </author>
+        <published>2022-07-27T08:35:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSのローカルモック環境が作れるサービス「Local Stack」 | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/aokkey/articles/b204dab2e7ab90</id>
+        <link href="https://zenn.dev/aokkey/articles/b204dab2e7ab90"/>
+        <updated>2022-07-27T08:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Local Stackとは 開発環境において無料でAWSのアカウント登録なしでAWSのサービスを擬似的に使用できるモックフレームワークでpipやdockerを用いて簡単に環境構築が可能。 ローカルにAWS環境を作ってくれて、料金などを気にすることなくテストや動作確認が可能です。 勉強用に立ち上げたままのEC2が悪用され、数万ドルの請求が来て、夜も眠れない日々もあったでしょう... そんな過去にはも...]]></summary>
+        <content type="html"><![CDATA[Local Stackとは 開発環境において無料でAWSのアカウント登録なしでAWSのサービスを擬似的に使用できるモックフレームワークでpipやdockerを用いて簡単に環境構築が可能。 ローカルにAWS環境を作ってくれて、料金などを気にすることなくテストや動作確認が可能です。 勉強用に立ち上げたままのEC2が悪用され、数万ドルの請求が来て、夜も眠れない日々もあったでしょう... そんな過去にはもうおさらば！   前提条件  AWS CLIが使える。 docker、docker-composeが使える。    使い方   インストール githubからレポジトリを引っ張ってきて、do...]]></content>
+        <author>
+            <name>Aokkey</name>
+        </author>
+        <published>2022-07-27T08:04:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda を Arm プロセッサで動作させる場合の AWS SAM テンプレート | Wedding Park CREATORS Blog]]></title>
+        <id>https://engineers.weddingpark.co.jp/?p=5020</id>
+        <link href="https://engineers.weddingpark.co.jp/lambda-arm/"/>
+        <updated>2022-07-27T07:27:49.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！エンジニアの久保です。 2021/9 より AWS Lambda の動作環境として、Arm/Graviton2 プロセッサが選択できるようになりました。 AWS Graviton2 プロセッサを搭載した AW […] AWS Lambda を Arm プロセッサで動作させる場合の AWS SAM テンプレート first appeared on Wedding Park CREATOR...]]></summary>
+        <content type="html"><![CDATA[こんにちは！エンジニアの久保です。 2021/9 より AWS Lambda の動作環境として、Arm/Graviton2 プロセッサが選択できるようになりました。 AWS Graviton2 プロセッサを搭載した AW […] AWS Lambda を Arm プロセッサで動作させる場合の AWS SAM テンプレート first appeared on Wedding Park CREATORS Blog.]]></content>
+        <author>
+            <name>kubo</name>
+        </author>
+        <category label="バックエンド"/>
+        <category label="AWS Lambda"/>
+        <category label="AWS SAM"/>
+        <published>2022-07-27T07:27:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[問い合わせ追跡レコードとAmazon Lexのログを使って、Amazon ConnectのチャットボットのパフォーマンスをAmazon AthenaとAmazon QuickSightで分析する | Amazon Web Services ブログ]]></title>
+        <id>4cd8dd276294675c0c1901890d611b5881dd3f4f</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/contact-center-analyze-amazon-connect-chatbot-performance-using-contact-trace-record-amazon-lex-logs-amazon-athena-and-amazon-quicksight-part-4/"/>
+        <updated>2022-07-27T03:10:46.000Z</updated>
+        <summary type="html"><![CDATA[注:これは、Amazon Connect レポートブログシリーズの 4 番目のブログです。もし「 Amazon […]]]></summary>
+        <content type="html"><![CDATA[注:これは、Amazon Connect レポートブログシリーズの 4 番目のブログです。もし「 Amazon […]]]></content>
+        <author>
+            <name>Kazuhisa Matsumoto</name>
+        </author>
+        <category label="Amazon Connect"/>
+        <category label="Business Productivity"/>
+        <category label="Contact Lens for Amazon Connect"/>
+        <category label="General"/>
+        <category label="Technical How-to"/>
+        <category label="agent"/>
+        <category label="AI"/>
+        <category label="amazon"/>
+        <category label="center"/>
+        <category label="Chatbot"/>
+        <category label="CloudWatch"/>
+        <category label="Connect"/>
+        <category label="contact"/>
+        <category label="ctr"/>
+        <category label="learning"/>
+        <category label="lex"/>
+        <category label="machine"/>
+        <category label="manager"/>
+        <category label="ML"/>
+        <category label="supervisor"/>
+        <published>2022-07-27T03:10:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新機構Play Integrityを使用したFirebase App Checkの検証を通して見る、スマホアプリの不正検知とBypassの「イタチごっこ」 | Flatt Security Blog]]></title>
+        <id>https://blog.flatt.tech/entry/testing_play_integrity</id>
+        <link href="https://blog.flatt.tech/entry/testing_play_integrity"/>
+        <updated>2022-07-27T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Androidのゲーム、銀行系アプリケーションを開発する上で、チート等の不正を可能にするRoot化や改ざんといった行為からアプリケーションを保護するのは必須と言えます。  そこで本稿では、どのようにアプリケーションを保護すれば良いのかを攻撃者側からの観点も踏まえて解説していきます。]]></summary>
+        <content type="html"><![CDATA[Androidのゲーム、銀行系アプリケーションを開発する上で、チート等の不正を可能にするRoot化や改ざんといった行為からアプリケーションを保護するのは必須と言えます。  そこで本稿では、どのようにアプリケーションを保護すれば良いのかを攻撃者側からの観点も踏まえて解説していきます。]]></content>
+        <published>2022-07-27T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New  World of Data Collaboration at Snowflake Summit | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203303</id>
+        <link href="https://www.snowflake.com/blog/world-data-collaboration-snowflake-summit/"/>
+        <updated>2022-07-26T23:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Did you hear about the massive snowstorm that hit Las Vegas this summer? That’s right—the Snowflake Summ […] The post A New World of Data Collaboration at Snowflake Summit appeared first on Snowflake.]]></summary>
+        <content type="html"><![CDATA[Did you hear about the massive snowstorm that hit Las Vegas this summer? That’s right—the Snowflake Summ […] The post A New World of Data Collaboration at Snowflake Summit appeared first on Snowflake.]]></content>
+        <author>
+            <name>Jennifer Belissent</name>
+        </author>
+        <category label="Around the Company"/>
+        <category label="Events"/>
+        <category label="Perspectives"/>
+        <category label="Thought Leadership"/>
+        <category label="cdo"/>
+        <category label="chief data officer"/>
+        <category label="data collaboration"/>
+        <category label="Data Economy"/>
+        <category label="Data Sharing"/>
+        <category label="Snowflake Summit"/>
+        <published>2022-07-26T23:01:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど／ほか16本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>Amazon Web Servicesチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事7本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>Amazon Web Servicesチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事7本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど（www.publickey1.jp）<br>2位: Amazon S3の脆弱な利用によるセキュリティリスクと対策（blog.flatt.tech）<br>3位: 「[目指せ上級者] 最強にセキュアなAWSアカウントの作り方」というタイトルでDevelopersIO 2022に登壇しました #devio2022（dev.classmethod.jp）<br>…ほか14本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/27?from=r...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】AWS CDKとGitHub ActionsではじめるInfrastructure as CodeのCI/CD #devio2022／ほか1本 | TechFeedおすすめ記事ランキング - 継続的インテグレーションチャンネル]]></title>
+        <id>https://techfeed.io/channels/Continuous%20Integration/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Continuous%20Integration/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/Group-1.jpg"><br>継続的インテグレーションチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: AWS CDKとGitHub ActionsではじめるInfrastruc...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/Group-1.jpg"><br>継続的インテグレーションチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: AWS CDKとGitHub ActionsではじめるInfrastructure as CodeのCI/CD #devio2022（dev.classmethod.jp）<br>2位: GitHub Actionsのセルフホストランナーを使ってJenkinsをサクッと叩けるようにする（tech.mirrativ.stream）<br><a href="https://techfeed.io/channels/Continuous%20Integration/selections/daily/2022/7/27?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか5本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...]]></summary>
+        <content type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: 第1回｜GCPの「Cloud Natural Language」の概要と活用方法（qiita.com）<br>3位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27?from=rss" target="_blank">ランキングはこちらから</a><img src="https...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】Amazon Detective now supports container security in Amazon EKS／ほか3本 | TechFeedおすすめ記事ランキング - Kubernetesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://techcrunch.com/wp-content/uploads/2022/07/IMG_1358.jpg?w=533"><br>Kubernetesチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（英語記事4本）。<br>1位: Amazon Detective now supports container security in...]]></summary>
+        <content type="html"><![CDATA[<img src="https://techcrunch.com/wp-content/uploads/2022/07/IMG_1358.jpg?w=533"><br>Kubernetesチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（英語記事4本）。<br>1位: Amazon Detective now supports container security in Amazon EKS（techcrunch.com）<br>2位: Introduction to Kubernetes Operators（anaisurl.com）<br>3位: Introducing instant Kubernetes logging with Kubernetes Monitoring in Grafana Cloud（grafana.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Kubernetes/selections/daily/2022/7/27?from=rss" target="_blan...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか7本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...]]></summary>
+        <content type="html"><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた（dev.classmethod.jp）<br>3位: Generally available: New KMS DNS in Azure Global Cloud（azure.microsoft.com）<br>…ほか5本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27?fr...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月27日ランキング】AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど／ほか4本 | TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル]]></title>
+        <id>https://techfeed.io/channels/Software%20Design/selections/daily/2022/7/27</id>
+        <link href="https://techfeed.io/channels/Software%20Design/selections/daily/2022/7/27"/>
+        <updated>2022-07-26T20:00:06.404Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>ソフトウェアデザインチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事4本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>ソフトウェアデザインチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事4本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど（www.publickey1.jp）<br>1位: Restful Sleep: What Is It and How to Know if You're Not Getting It（www.cnet.com）<br>2位: ttb adopts faster, microservices-based delivery with Red Hat and Dynatrace（www.redhat.com）<br>…ほか2本<br><a href="https://techfeed.io/channels/Software%20Design/selections/daily/2022...]]></content>
+        <published>2022-07-26T20:00:06.404Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Easily Load and Query XML Data with Snowflake (Part 2) | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=18444</id>
+        <link href="https://www.snowflake.com/blog/how-to-easily-load-and-query-xml-data-with-snowflake-part-2/"/>
+        <updated>2022-07-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PLEASE NOTE: This post was originally published in July 2018. It has been updated to reflect currently availab […] The post How to Easily Load and Query XML Data with Snowflake (Part 2) appeared first...]]></summary>
+        <content type="html"><![CDATA[PLEASE NOTE: This post was originally published in July 2018. It has been updated to reflect currently availab […] The post How to Easily Load and Query XML Data with Snowflake (Part 2) appeared first on Snowflake.]]></content>
+        <author>
+            <name>Seeling Cheung</name>
+        </author>
+        <category label="Data Science  ML"/>
+        <category label="Product and Technology"/>
+        <category label="query xml data"/>
+        <category label="snowflake sql"/>
+        <category label="SQL"/>
+        <category label="SQL functions"/>
+        <category label="xml data"/>
+        <published>2022-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Logic AppsのCustom Connectorを一から作成してみる | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/mizti/articles/c4284360bb15a5</id>
+        <link href="https://zenn.dev/mizti/articles/c4284360bb15a5"/>
+        <updated>2022-07-26T15:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Azure Logic Appsとは Logic Appsとは、Azureで提供されているサービスの一つで、様々なサービスからデータを取得したり連携したりするための処理を極めて簡単に定義できるのが特徴です。  Azureの各種サービス、各種SNSやWebサービス接続用の「コネクタ」がデフォルトで提供されており、フローチャート的に組み合わせるだけで処理を定義できる サーバレスで動作するため、処理が動...]]></summary>
+        <content type="html"><![CDATA[Azure Logic Appsとは Logic Appsとは、Azureで提供されているサービスの一つで、様々なサービスからデータを取得したり連携したりするための処理を極めて簡単に定義できるのが特徴です。  Azureの各種サービス、各種SNSやWebサービス接続用の「コネクタ」がデフォルトで提供されており、フローチャート的に組み合わせるだけで処理を定義できる サーバレスで動作するため、処理が動作している時間のみに課金され極めて安価 (一ヶ月Webクローラーを動かして数十円の課金で済みました）  Logic Appsの編集画面はこんな感じです。 Logic Apps公式チュートリア...]]></content>
+        <author>
+            <name>mizti</name>
+        </author>
+        <published>2022-07-26T15:08:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redshift使いになるためにAWS Redshift Analytics Lab のワークショップを実施してみた | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/taroman_zenn/articles/6d980403666258</id>
+        <link href="https://zenn.dev/taroman_zenn/articles/6d980403666258"/>
+        <updated>2022-07-26T15:07:21.000Z</updated>
+        <summary type="html"><![CDATA[https://redshift-analytics.workshop.aws/intro.html AWSの公式が提供しているRedshift関連のワークショップがあったので、実施してみました。 実施した流れと、躓きポイントをまとめています。 綺麗にまとめていないですが、同じく実施しようと思っている方の参考になれば嬉しいです。   Overview   構成 ELTのパイプラインとRedshif...]]></summary>
+        <content type="html"><![CDATA[https://redshift-analytics.workshop.aws/intro.html AWSの公式が提供しているRedshift関連のワークショップがあったので、実施してみました。 実施した流れと、躓きポイントをまとめています。 綺麗にまとめていないですが、同じく実施しようと思っている方の参考になれば嬉しいです。   Overview   構成 ELTのパイプラインとRedshiftを使った継続的な分析基盤を作っていく。 利用するサービスは以下。 Redshift, StepFunction, Glue, Secrets Manager, Quicksight, Sage...]]></content>
+        <author>
+            <name>酢ろう</name>
+        </author>
+        <published>2022-07-26T15:07:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALB のアクセスログをRedshiftで分析してみる | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/furururu02/articles/e379ab84b000e5</id>
+        <link href="https://zenn.dev/furururu02/articles/e379ab84b000e5"/>
+        <updated>2022-07-26T14:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift を使って大量のアクセスログを解析するために現時点のALBアクセスログのフォーマットより環境を作った方法を書き記してみます。 https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-access-logs.html   ALB のアクセスログの出力 ...]]></summary>
+        <content type="html"><![CDATA[Amazon Redshift を使って大量のアクセスログを解析するために現時点のALBアクセスログのフォーマットより環境を作った方法を書き記してみます。 https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-access-logs.html   ALB のアクセスログの出力 ALB のアクセスログはS3バケットへ出力することができるのでまずは設定。 https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/late...]]></content>
+        <author>
+            <name>fururun02</name>
+        </author>
+        <published>2022-07-26T14:04:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure empowers easy-to-use, high-performance, and hyperscale model training using DeepSpeed | Microsoft Azure Blog]]></title>
+        <id>azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed</id>
+        <link href="https://azure.microsoft.com/blog/azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed/"/>
+        <updated>2022-07-26T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Large-scale transformer-based deep learning models trained on large amounts of data have shown great results in recent years in several cognitive tasks and are behind new products and features that au...]]></summary>
+        <content type="html"><![CDATA[Large-scale transformer-based deep learning models trained on large amounts of data have shown great results in recent years in several cognitive tasks and are behind new products and features that augment human capabilities. Azure Machine Learning (AzureML) brings large fleets of the latest GPUs powered by the InfiniBand interconnect to tackle large-scale AI training.]]></content>
+        <author>
+            <name>Kushal Datta</name>
+        </author>
+        <category label="Machine Learning"/>
+        <published>2022-07-26T09:00:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催報告】製造業向けDXセミナー AWS IoTで加速する製品のスマート化（2022/6/16） | Amazon Web Services ブログ]]></title>
+        <id>3bf4fbb81be255f2e78a2e864ddc40f7ddd8458c</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/smart-product-seminar-20220616/"/>
+        <updated>2022-07-26T08:37:04.000Z</updated>
+        <summary type="html"><![CDATA[始めに こんにちは！アマゾンウェブサービスジャパン合同会社IoTの事業開発を担当している近藤です。2022年6 […]]]></summary>
+        <content type="html"><![CDATA[始めに こんにちは！アマゾンウェブサービスジャパン合同会社IoTの事業開発を担当している近藤です。2022年6 […]]]></content>
+        <author>
+            <name>Shota Iizuka</name>
+        </author>
+        <category label="Customer Solutions"/>
+        <category label="General"/>
+        <category label="Internet of Things"/>
+        <category label="AWS IoT"/>
+        <category label="internet of things"/>
+        <category label="Internet of Things IoT"/>
+        <category label="IoT"/>
+        <category label="IoT Best Practices"/>
+        <category label="IoT platform"/>
+        <category label="Smart Product"/>
+        <category label="利用事例"/>
+        <published>2022-07-26T08:37:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSのコストモニタリングの知見をシェアしたい | Uzabase for Engineers]]></title>
+        <id>https://tech.uzabase.com/entry/2022/07/26/153937</id>
+        <link href="https://tech.uzabase.com/entry/2022/07/26/153937"/>
+        <updated>2022-07-26T06:39:37.000Z</updated>
+        <summary type="html"><![CDATA[NewsPicksの高山です。 今回は、AWSのコストを我々がどのように定点観測しているかを書いていきます。 あわよくば他社さんも事例を広く共有してもらえて業界全体の共有知が増えることに繋がってほしい狙いがあります。 NewsPicksでは過去2年ぐらいかけて地道にコストモニタリングのオペレーションを作ってきました。手法としては、毎週コストモニタリング担当のメンバーで定例ミーティングをして、以下の...]]></summary>
+        <content type="html"><![CDATA[NewsPicksの高山です。 今回は、AWSのコストを我々がどのように定点観測しているかを書いていきます。 あわよくば他社さんも事例を広く共有してもらえて業界全体の共有知が増えることに繋がってほしい狙いがあります。 NewsPicksでは過去2年ぐらいかけて地道にコストモニタリングのオペレーションを作ってきました。手法としては、毎週コストモニタリング担当のメンバーで定例ミーティングをして、以下の手順をやりながら議事録にまとめていきます。 毎週のオペレーション コスト異常検出 コスト異常検出という機能の画面を見て、最近大きく変化したリソースを調査します。 異常検出はメールでも通知していますが、…]]></content>
+        <published>2022-07-26T06:39:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azureで実現できるDevOps環境を調べてみた【SREの登竜門】 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20220726/azure</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20220726/azure"/>
+        <updated>2022-07-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 皆さん、こんにちは。tomo37kunです。 突然ですが、Googleが提唱している「class SRE implements DevOps」の考えを御存知でしょうか？ 「class SRE implements DevOps」は「SREはDevOpsというinterfaceの実装である」という意味を表します。 つまり、「DevOps = 思想」という定義に対し、それを具体化し実装したも...]]></summary>
+        <content type="html"><![CDATA[はじめに 皆さん、こんにちは。tomo37kunです。 突然ですが、Googleが提唱している「class SRE implements DevOps」の考えを御存知でしょうか？ 「class SRE implements DevOps」は「SREはDevOpsというinterfaceの実装である」という意味を表します。 つまり、「DevOps = 思想」という定義に対し、それを具体化し実装したものがSREであるという考えになります。 昨今、注目が集まるSREの考え方を実践していく上で、定義に反する実装を行わないためにも、DevOpsの理解は避けられません。 今回はAzureを使用することで実…]]></content>
+        <published>2022-07-26T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GCP】超入門！GCSってなに？ | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/26/141154</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/26/141154"/>
+        <updated>2022-07-26T05:11:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは！ 株式会社名古屋支店・新米エンジニアのゆいちゃです！ 皆さんはどのような時に夏を感じますか？私は最近、朝起きると蝉の鳴き声が聞こえてくるようになり、あー夏だなと感じています。蝉を捕まえて遊んだあの頃が懐かしい、、、 さて、前回は仮想マシンを作成するサービス「GCE」についてアウトプットさせていただきましたので、今回は「GCS」についてアウトプットしていきたいと思います。 GC...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは！ 株式会社名古屋支店・新米エンジニアのゆいちゃです！ 皆さんはどのような時に夏を感じますか？私は最近、朝起きると蝉の鳴き声が聞こえてくるようになり、あー夏だなと感じています。蝉を捕まえて遊んだあの頃が懐かしい、、、 さて、前回は仮想マシンを作成するサービス「GCE」についてアウトプットさせていただきましたので、今回は「GCS」についてアウトプットしていきたいと思います。 GCSってなに？ GCSとは、「Google Cloud Storage」の略称で、GCPが提供している、インターネット上でデータを保存することができるサービスです。 AWSでいうと、Amazon S3の…]]></content>
+        <published>2022-07-26T05:11:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GCP】超入門！GCEってなに？ | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/26/140501</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/26/140501"/>
+        <updated>2022-07-26T05:05:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは！株式会社BFT名古屋支店・新米エンジニアゆいちゃです！ もうすぐ8月で大学を卒業して、もう4カ月経とうとしていることに驚きが隠せません。 さて、今回はてブロでアウトプットする内容は、GCPのサービスである「GCE」についてです。 GCEってなに？ GCEとは、「Google Compute Engine」の略称で、GCP内で仮想マシンを作成するためのサービスです。 AWSの機...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは！株式会社BFT名古屋支店・新米エンジニアゆいちゃです！ もうすぐ8月で大学を卒業して、もう4カ月経とうとしていることに驚きが隠せません。 さて、今回はてブロでアウトプットする内容は、GCPのサービスである「GCE」についてです。 GCEってなに？ GCEとは、「Google Compute Engine」の略称で、GCP内で仮想マシンを作成するためのサービスです。 AWSの機能で言うと、Amazon EC2にあたります。 特徴 GCEには様々な特徴があるのですが、主に３つの特徴について紹介していきたいと思います。 柔軟性 LinuxやWindowsなどのOS、ミドルウェア…]]></content>
+        <published>2022-07-26T05:05:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイブリッド環境の運用・監視の実現  –  閉域網で AWS Systems Manager と Amazon CloudWatch を構成する | Amazon Web Services ブログ]]></title>
+        <id>e7307a0e00d4c5ede45b599a7430955f58d1d05c</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/operation-of-a-hybrid-environment/"/>
+        <updated>2022-07-26T03:50:35.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ソリューションアーキテクトの村田と申します。 昨今オンプレミスとクラウドを併用した環境が多く、運用 […]]]></summary>
+        <content type="html"><![CDATA[こんにちは。ソリューションアーキテクトの村田と申します。 昨今オンプレミスとクラウドを併用した環境が多く、運用 […]]]></content>
+        <author>
+            <name>Kyosuke Murata</name>
+        </author>
+        <category label="Amazon CloudWatch"/>
+        <category label="AWS Systems Manager"/>
+        <category label="Hybrid Cloud Management"/>
+        <category label="Management  Governance"/>
+        <published>2022-07-26T03:50:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3の脆弱な利用によるセキュリティリスクと対策 | Flatt Security Blog]]></title>
+        <id>https://blog.flatt.tech/entry/s3_security</id>
+        <link href="https://blog.flatt.tech/entry/s3_security"/>
+        <updated>2022-07-26T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[本稿では、Amazon S3 の脆弱な使い方によるセキュリティリスクと対策を解説し、実際の設定不備などに関する事例についても紹介します。]]></summary>
+        <content type="html"><![CDATA[本稿では、Amazon S3 の脆弱な使い方によるセキュリティリスクと対策を解説し、実際の設定不備などに関する事例についても紹介します。]]></content>
+        <published>2022-07-26T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Registry（ACR）でHelmチャートを共有する | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2022/07/26/101500</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2022/07/26/101500"/>
+        <updated>2022-07-26T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれ...]]></summary>
+        <content type="html"><![CDATA[今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれません。 しかし、複数のアプリケーションを何度もデプロイしていると、 「いつも同じ内容書いているなー」とか、「Api Versionの更新や内容を1箇所でまとめたいなー」とか、 「組織内で統一的に管理…]]></content>
+        <published>2022-07-26T01:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2上でUbuntu 22.04のデスクトップ環境を作ってi3wmに切り替える | TechHarmony]]></title>
+        <id>https://blog.usize-tech.com/?p=7082</id>
+        <link href="https://blog.usize-tech.com/ubuntu-desktop-on-ec2/"/>
+        <updated>2022-07-26T00:00:24.000Z</updated>
+        <summary type="html"><![CDATA[どうも、キーボードからマウスに手を動かすのが億劫な寺内です。 Linuxではウィンドウマネージャを自由に選択することができます。ウィンドウのルック&フィールや操作体系は、PCの利用者の操作性に最も影響を与える機能 […]]]></summary>
+        <content type="html"><![CDATA[どうも、キーボードからマウスに手を動かすのが億劫な寺内です。 Linuxではウィンドウマネージャを自由に選択することができます。ウィンドウのルック&フィールや操作体系は、PCの利用者の操作性に最も影響を与える機能 […]]]></content>
+        <author>
+            <name>寺内康之</name>
+        </author>
+        <category label="AWS"/>
+        <category label="Amazon EC2"/>
+        <category label="Ubuntu"/>
+        <published>2022-07-26T00:00:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your Snowflake Data Clean Room Questions Answered | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202526</id>
+        <link href="https://www.snowflake.com/blog/data-clean-room-qa/"/>
+        <updated>2022-07-25T22:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Diverse data delivers richer experiences for customers. Layers of data—of all sizes and kinds—provide insights […] The post All Your Snowflake Data Clean Room Questions Answered appeared first on Snow...]]></summary>
+        <content type="html"><![CDATA[Diverse data delivers richer experiences for customers. Layers of data—of all sizes and kinds—provide insights […] The post All Your Snowflake Data Clean Room Questions Answered appeared first on Snowflake.]]></content>
+        <author>
+            <name>Jennifer BelissentRachel Blum</name>
+        </author>
+        <category label="Collaboration  Marketplace"/>
+        <category label="Product and Technology"/>
+        <category label="data clean rooms"/>
+        <category label="data collaboration"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-25T22:08:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月26日ランキング】AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/26</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/26"/>
+        <updated>2022-07-25T20:00:05.783Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>Amazon Web Servicesチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>Amazon Web Servicesチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど（www.publickey1.jp）<br>2位: AWSの主要サービスをローカルでエミュレート、「LocalStack」が1.0に到達（www.publickey1.jp）<br>3位: 【2022年度ベストプラクティス】AWS IAMまとめ（qiita.com）<br>…ほか10本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/26?from=rss" target="_blank">ランキングはこちらから</a><img sr...]]></content>
+        <published>2022-07-25T20:00:05.783Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月26日ランキング】【2022年度ベストプラクティス】AWS  IAMまとめ／ほか9本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル]]></title>
+        <id>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/26</id>
+        <link href="https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/26"/>
+        <updated>2022-07-25T20:00:05.783Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwMjAyMiVFNSVCOSVCNCVFNSVCQSVBNiVFMyU4MyU5OSVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVBRiVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MiVCOSVFMyU4MCU5MUFXUyUyMCUyMElBTSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtY29...]]></content>
+        <published>2022-07-25T20:00:05.783Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月26日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26"/>
+        <updated>2022-07-25T20:00:05.783Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png"><br>Google Cloud Platformチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elasti...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png"><br>Google Cloud Platformチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）（nonylene.hatenablog.jp）<br>2位: 第1回｜GCPの「Cloud Natural Language」の概要と活用方法（qiita.com）<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b...]]></content>
+        <published>2022-07-25T20:00:05.783Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月26日ランキング】Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた／ほか3本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/26</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/26"/>
+        <updated>2022-07-25T20:00:05.783Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/07/microsoft-eyecatch.jpg"><br>Microsoft Azureチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: Microsoft Entra ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/07/microsoft-eyecatch.jpg"><br>Microsoft Azureチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた（dev.classmethod.jp）<br>2位: NTT東日本、Azure Stack Hubを活用したプライベートクラウド基盤を地域向けに提供する「地域エッジクラウド」を開始（cloud.watch.impress.co.jp）<br>3位: Azure無料枠でTodoアプリ【ASP.NET, CosmosDB】（qiita.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/d...]]></content>
+        <published>2022-07-25T20:00:05.783Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月26日ランキング】AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど／ほか7本 | TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル]]></title>
+        <id>https://techfeed.io/channels/Software%20Design/selections/daily/2022/7/26</id>
+        <link href="https://techfeed.io/channels/Software%20Design/selections/daily/2022/7/26"/>
+        <updated>2022-07-25T20:00:05.783Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>ソフトウェアデザインチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事6本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/aws_cloudscape.png"><br>ソフトウェアデザインチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事6本）。<br>1位: AWS、自社製品のために開発したデザインシステム「Cloudscape」オープンソースで公開。UIコンポーネント、デザインパターンなど（www.publickey1.jp）<br>2位: モジュラモノリスに移行する理由 ─ マイクロサービスの自律性とモノリスの一貫性を両立させるアソビューの取り組み（eh-career.com）<br>1位: Clean Architecture: Applying with React（dev.to）<br>…ほか5本<br><a href="https://techfeed.io/channels/Software%20Design/selections/daily/2022/7/26?from=rss" target="_blank">ランキングはこちらから</a><img s...]]></content>
+        <published>2022-07-25T20:00:05.783Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203096</id>
+        <link href="https://www.snowflake.com/blog/hunters-team-embraces-connected-app-model/"/>
+        <updated>2022-07-25T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[My co-founder and I started Hunters in 2018 with a mission to revolutionize security operations. We designed t […] The post Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model ap...]]></summary>
+        <content type="html"><![CDATA[My co-founder and I started Hunters in 2018 with a mission to revolutionize security operations. We designed t […] The post Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model appeared first on Snowflake.]]></content>
+        <author>
+            <name>Uri May</name>
+        </author>
+        <category label="Partner  Customer Value"/>
+        <category label="Partner Perspectives"/>
+        <category label="connected apps"/>
+        <category label="managed apps"/>
+        <category label="security operations"/>
+        <category label="SOC"/>
+        <published>2022-07-25T17:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS/翻訳】AWS CodePipelineを活用しCI/CDを適用する | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/megazone_japan/articles/e224858c02008f</id>
+        <link href="https://zenn.dev/megazone_japan/articles/e224858c02008f"/>
+        <updated>2022-07-25T09:46:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事は弊社海外法人の記事「AWS CodePipeline을 활용해 CI/CD 적용하기」を翻訳したものです。   AWS CodePipelineを活用しCI/CDを適用する 執筆者: ペク・ソジョン 最近アプリケーションの開発、どのようにしていますか？ モダンアプリケーション開発方法論ではCI/CDはすでに基本となっていますが、AWSでもこのようなCI/CDを200%活用するこ...]]></summary>
+        <content type="html"><![CDATA[はじめに この記事は弊社海外法人の記事「AWS CodePipeline을 활용해 CI/CD 적용하기」を翻訳したものです。   AWS CodePipelineを活用しCI/CDを適用する 執筆者: ペク・ソジョン 最近アプリケーションの開発、どのようにしていますか？ モダンアプリケーション開発方法論ではCI/CDはすでに基本となっていますが、AWSでもこのようなCI/CDを200%活用することができます。😎 AWSではCI/CDを適用するためAWS Code Seriesというサービスを提供しています。 ここにはCodeCommit、CodeBuildおよびCodeDeploy...]]></content>
+        <author>
+            <name>MEGAZONE株式会社</name>
+        </author>
+        <published>2022-07-25T09:46:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firebase AnalyticsからBigQueryへの日次データ同期が突如不規則になった事象に対応した話 | コネヒト開発者ブログ]]></title>
+        <id>https://tech.connehito.com/entry/2022/07/25/170714</id>
+        <link href="https://tech.connehito.com/entry/2022/07/25/170714"/>
+        <updated>2022-07-25T08:07:14.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。インフラエンジニアの永井(shnagai)です。 今回は、Firebase AnalyticsからBigQueryへの日次データ同期処理の時間が大幅にずれた際に取った対策について書こうと思います。 内容はざっくり下記3点です。 背景説明 Firebase AnalyticsからBigQueryへのデータ同期 解決策 背景説明 コネヒトでは、家族ノートという「ママリ」内の検索データとQ&...]]></summary>
+        <content type="html"><![CDATA[こんにちは。インフラエンジニアの永井(shnagai)です。 今回は、Firebase AnalyticsからBigQueryへの日次データ同期処理の時間が大幅にずれた際に取った対策について書こうと思います。 内容はざっくり下記3点です。 背景説明 Firebase AnalyticsからBigQueryへのデータ同期 解決策 背景説明 コネヒトでは、家族ノートという「ママリ」内の検索データとQ&Aデータを可視化したデータ分析サービスを運営しています。 info-kazokunote.mamari.jp 家族ノート内で使っている検索データは、FirebaseAnalyticsを使ってトラッキン…]]></content>
+        <published>2022-07-25T08:07:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュアエレメント搭載のM5StackでAzure IoT Hubへ接続してみた |  | One Tech Blog]]></title>
+        <id>https://tech.gmogshd.com/?p=3550</id>
+        <link href="https://tech.gmogshd.com/m5stack-core-2-for-aws%e3%81%a7azure-iot%e3%81%b8%e6%8e%a5%e7%b6%9a/"/>
+        <updated>2022-07-25T04:00:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。CTO室のringoです。 M5StackとAWS IoTの記事は多く見かけるのですが、Azure IoTについての記事は少ないなと思ったので、セキュアエレメントが搭載されたM5Stack Core2 for AWSでAzure […]]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。CTO室のringoです。 M5StackとAWS IoTの記事は多く見かけるのですが、Azure IoTについての記事は少ないなと思ったので、セキュアエレメントが搭載されたM5Stack Core2 for AWSでAzure […]]]></content>
+        <author>
+            <name>ringo</name>
+        </author>
+        <category label="IoT"/>
+        <category label="Security"/>
+        <category label="Azure"/>
+        <category label="x.509"/>
+        <published>2022-07-25T04:00:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ | Snowflake]]></title>
+        <id>https://www.snowflake.com/blog/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8bsnowflake%e3%81%ae%e6%9c%80%e6%96%b0%e3%83%af%e3%83%bc%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%ef%bc%9a/</id>
+        <link href="https://www.snowflake.com/blog/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8bsnowflake%e3%81%ae%e6%9c%80%e6%96%b0%e3%83%af%e3%83%bc%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%ef%bc%9a/"/>
+        <updated>2022-07-25T03:40:20.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティは、根本的にデータの問題です。セキュリティチームは、データ分析チームが長年にわたって享受してきたような最新のデータスタックを効果的に利用できていません。旧式のテクノロジーと共に時代に取り残されたセキュ […] The post データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ appeared first on Snowflake.]]></summary>
+        <content type="html"><![CDATA[サイバーセキュリティは、根本的にデータの問題です。セキュリティチームは、データ分析チームが長年にわたって享受してきたような最新のデータスタックを効果的に利用できていません。旧式のテクノロジーと共に時代に取り残されたセキュ […] The post データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ appeared first on Snowflake.]]></content>
+        <author>
+            <name>Omer Singer</name>
+        </author>
+        <category label="カテゴリーなし"/>
+        <category label="Snowflakeデータクラウド"/>
+        <category label="サイバーセキュリティ"/>
+        <published>2022-07-25T03:40:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core 使用時のマルチアカウントデバイスプロビジョニングと認証局登録の簡略化 | Amazon Web Services ブログ]]></title>
+        <id>47e1b74beb079b3bc03e09531b5c196d658e9255</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/simplify-multi-account-device-provisioning-and-certificate-authority-registration-using-aws-iot-core/"/>
+        <updated>2022-07-25T03:31:22.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、Syed Rehan によって投稿された Simplify multi-account devic […]]]></summary>
+        <content type="html"><![CDATA[この記事は、Syed Rehan によって投稿された Simplify multi-account devic […]]]></content>
+        <author>
+            <name>Tsugunao Kobayashi</name>
+        </author>
+        <category label="Advanced 300"/>
+        <category label="Announcements"/>
+        <category label="AWS IoT Core"/>
+        <category label="AWS IoT Device Management"/>
+        <category label="AWS Security Token Service"/>
+        <category label="Best Practices"/>
+        <category label="Customer Solutions"/>
+        <category label="Expert 400"/>
+        <category label="Internet of Things"/>
+        <category label="Learning Levels"/>
+        <category label="Security"/>
+        <category label="Security, Identity,  Compliance"/>
+        <category label="Technical How-to"/>
+        <category label="Thought Leadership"/>
+        <category label="aws golden rules for IIoT security"/>
+        <category label="AWS IoT"/>
+        <category label="AWS IoT best practices"/>
+        <category label="aws iot security"/>
+        <category label="aws iot security best practices"/>
+        <category label="AWS Security Blog"/>
+        <category label="Developer Resources"/>
+        <category label="ics/ot security"/>
+        <category label="IEC 62443"/>
+        <category label="iiot security"/>
+        <category label="Industrial Control Systems ICS and Operational Technology OT"/>
+        <category label="industrial iot security best practices"/>
+        <category label="IoT Best Practices"/>
+        <category label="iot devices"/>
+        <category label="secure the industrial internet of things"/>
+        <published>2022-07-25T03:31:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【R&D DevOps通信】Cloud Composerを用いたデータ基盤の転送パイプライン構築 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2022/07/25/110000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2022/07/25/110000"/>
+        <updated>2022-07-25T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。研究開発部でデータエンジニアをしている鈴木翔大です。 今回は【R&D DevOps通信】連載 9回目として、以前構築したデータ基盤の転送パイプラインについて書こうと思います。AWSのS3上に存在するデータをGCPのGCSに転送して、データのETL処理をしながらBigQueryのネイティブテーブルに同期するような仕組みです。この一連の処理の流れ(パイプライン)をCloud Compose...]]></summary>
+        <content type="html"><![CDATA[こんにちは。研究開発部でデータエンジニアをしている鈴木翔大です。 今回は【R&D DevOps通信】連載 9回目として、以前構築したデータ基盤の転送パイプラインについて書こうと思います。AWSのS3上に存在するデータをGCPのGCSに転送して、データのETL処理をしながらBigQueryのネイティブテーブルに同期するような仕組みです。この一連の処理の流れ(パイプライン)をCloud Composer上で管理・運用する方法について紹介します。]]></content>
+        <published>2022-07-25T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core を使用して持続可能な廃棄物管理の効率を向上させる | Amazon Web Services ブログ]]></title>
+        <id>66c028642c1fb78a588d8f8325864532dbc2f126</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/drive-efficiencies-in-sustainable-waste-management-using-aws-iot-core/"/>
+        <updated>2022-07-25T01:05:27.000Z</updated>
+        <summary type="html"><![CDATA[この記事は Satish Mane とManish Dhawaria によって書かれた Drive effic […]]]></summary>
+        <content type="html"><![CDATA[この記事は Satish Mane とManish Dhawaria によって書かれた Drive effic […]]]></content>
+        <author>
+            <name>Tomoya Tozuka</name>
+        </author>
+        <category label="Amazon QuickSight"/>
+        <category label="Amazon Rekognition"/>
+        <category label="Amazon SageMaker Ground Truth"/>
+        <category label="AWS IoT Analytics"/>
+        <category label="AWS IoT Core"/>
+        <category label="AWS IoT Greengrass"/>
+        <category label="General"/>
+        <published>2022-07-25T01:05:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催報告 & 資料公開】AWS AI/ML サービス事例祭り ～最新アップデートとお客様活用事例をまとめてご紹介～ | Amazon Web Services ブログ]]></title>
+        <id>5262da15f9bf0fec92cadb4ba982fe0f368379af</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/aws-aiml-jirei-june/"/>
+        <updated>2022-07-25T01:02:48.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス ジャパン合同会社 機械学習ソリューションアーキテクトの卜部です。2022年6月2日 […]]]></summary>
+        <content type="html"><![CDATA[アマゾン ウェブ サービス ジャパン合同会社 機械学習ソリューションアーキテクトの卜部です。2022年6月2日 […]]]></content>
+        <author>
+            <name>Tatsuya Urabe</name>
+        </author>
+        <category label="Amazon SageMaker"/>
+        <category label="Artificial Intelligence"/>
+        <category label="AI/ML@Tokyo"/>
+        <category label="Amazon Lex"/>
+        <category label="Amazon Rekognition"/>
+        <category label="Amazon SageMaker Fes"/>
+        <category label="MLOps"/>
+        <published>2022-07-25T01:02:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Run を徹底解説！ | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/cloud-run-explained</id>
+        <link href="https://blog.g-gen.co.jp/entry/cloud-run-explained"/>
+        <updated>2022-07-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の佐々木です。当記事では Google Cloud (旧称 GCP) のサーバレスなコンテナサービスである Cloud Run を解説します。 Cloud Run Cloud Run とは Cloud Run の基本 2 つの利用方法 動的スケーリング サービスの冗長性 デプロイ デプロイ元のコンテナイメージ コンテナの要件 トラフィック移行とロールバック 構成 エンドポイント コンテ...]]></summary>
+        <content type="html"><![CDATA[G-gen の佐々木です。当記事では Google Cloud (旧称 GCP) のサーバレスなコンテナサービスである Cloud Run を解説します。 Cloud Run Cloud Run とは Cloud Run の基本 2 つの利用方法 動的スケーリング サービスの冗長性 デプロイ デプロイ元のコンテナイメージ コンテナの要件 トラフィック移行とロールバック 構成 エンドポイント コンテナインスタンスの最大・最小数 CPU・メモリ リクエストのタイムアウト コンテナインスタンスあたりの同時リクエスト最大数 CPU を常に割り当てる Cloud Run サービス サービス連携 (トリガ…]]></content>
+        <published>2022-07-25T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3からGoogle Cloud Storageにアクセスキーを使わずデータコピーする | TechHarmony]]></title>
+        <id>https://blog.usize-tech.com/?p=7046</id>
+        <link href="https://blog.usize-tech.com/datacopy-s3-to-gcs/"/>
+        <updated>2022-07-25T00:00:42.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。SCSK石原です。 GCPのData Transferを利用すると、AWSのIAMロールを利用してS3からCloud Storageにデータをコピーすることができるそうです。 アクセスキーは定期的なローテーシ […]]]></summary>
+        <content type="html"><![CDATA[こんにちは。SCSK石原です。 GCPのData Transferを利用すると、AWSのIAMロールを利用してS3からCloud Storageにデータをコピーすることができるそうです。 アクセスキーは定期的なローテーシ […]]]></content>
+        <author>
+            <name>石原雄太</name>
+        </author>
+        <category label="AWS"/>
+        <category label="Google Cloud"/>
+        <category label="技術ナレッジ"/>
+        <category label="Amazon S3"/>
+        <category label="AWS IAM"/>
+        <category label="Data Transfer"/>
+        <category label="Google Cloud Storage"/>
+        <published>2022-07-25T00:00:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】AWSの主要サービスをローカルでエミュレート、「LocalStack」が1.0に到達／ほか9本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/25</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/25"/>
+        <updated>2022-07-24T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/localstack10.png"><br>Amazon Web Servicesチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事8本、英語記事2本）。<br>1位: AWSの主要サービスをローカルでエミュレート、「LocalStack」が1.0に到達（www.publicke...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/localstack10.png"><br>Amazon Web Servicesチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事8本、英語記事2本）。<br>1位: AWSの主要サービスをローカルでエミュレート、「LocalStack」が1.0に到達（www.publickey1.jp）<br>2位: AWS初心者に捧ぐコスト可視化のススメ #devio2022（dev.classmethod.jp）<br>3位: [アップデート] CloudFormationの各種イベントがAmazon EventBridgeに送信されるようになりました（dev.classmethod.jp）<br>…ほか7本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/25?from=rss" target="_blank">ランキングはこちらから</a><i...]]></content>
+        <published>2022-07-24T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた／ほか8本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル]]></title>
+        <id>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/25</id>
+        <link href="https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/25"/>
+        <updated>2022-07-24T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1...]]></summary>
+        <content type="html"><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"><br>認証 / 認可チャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事7本、英語記事2本）。<br>1位: SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた（www.peridot-green.com）<br>2位: 歯ぎしりの音をイヤフォンで拾い個人認証 米国チーム「ToothSonic」開発（www.itmedia.co.jp）<b...]]></content>
+        <published>2022-07-24T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25"/>
+        <updated>2022-07-24T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png"><br>Google Cloud Platformチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elasti...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png"><br>Google Cloud Platformチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）（nonylene.hatenablog.jp）<br>2位: TurborepoのリモートキャッシュサーバをCloud RunとGCSで構築する（zenn.dev）<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b...]]></content>
+        <published>2022-07-24T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】Azure始める人向けに見てほしい資料など／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25"/>
+        <updated>2022-07-24T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/12704346814673850863/4207112889901883380/1658637960"><br>Microsoft Azureチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Azure始める人向けに見てほしい資料など（kkame...]]></summary>
+        <content type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/12704346814673850863/4207112889901883380/1658637960"><br>Microsoft Azureチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Azure始める人向けに見てほしい資料など（kkamegawa.hatenablog.jp）<br>2位: Azure無料枠でTodoアプリ【ASP.NET, CosmosDB】（qiita.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicroso...]]></content>
+        <published>2022-07-24T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた／ほか2本 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル]]></title>
+        <id>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/25</id>
+        <link href="https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/25"/>
+        <updated>2022-07-24T20:00:05.762Z</updated>
+        <summary type="html"><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1...]]></summary>
+        <content type="html"><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"><br>X as a Serviceチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事3本）。<br>1位: SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた（www.peridot-green.com）<br>2位: 87億調達のスタートアップで働くみんなのデスク環境 10万の建設事業者を支えるSaaSが生まれる働き方（www.itme...]]></content>
+        <published>2022-07-24T20:00:05.762Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】Amazon Aurora MySQLの不具合でローカルディスクが枯渇しクエリが実行出来なくなった話／ほか19本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/17391345971618066118/4207112889900487449/1658462400"><br>Amazon Web Servicesチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: Amazon Aurora MyS...]]></summary>
+        <content type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/17391345971618066118/4207112889900487449/1658462400"><br>Amazon Web Servicesチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: Amazon Aurora MySQLの不具合でローカルディスクが枯渇しクエリが実行出来なくなった話（developer.kaizenplatform.com）<br>2位: AWSでマルチアカウントするならControl Towerなのか？（zenn.dev）<br>3位: AWS Security Hubのセキュリティ基準の検知結果を分析してみたくてCloudWatch Logsに出力してInsightで見てみた（dev.classmethod.jp）<br>…ほか17本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】Cloud Run が作る世界 #devio2022／ほか12本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg"><br>Google Cloud Platformチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事7本、英語記事6本）。<br>1位:...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg"><br>Google Cloud Platformチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事7本、英語記事6本）。<br>1位: Cloud Run が作る世界 #devio2022（dev.classmethod.jp）<br>2位: React と Firebase と Cloud Run を連携するサンプル実装（enakai00.hatenablog.com）<br>3位: Migrate for Compute Engineを解説（blog.g-gen.co.jp）<br>…ほか10本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29?from=rss" target="_b...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム／ほか19本 | TechFeedおすすめ記事ランキング - JavaScriptチャンネル]]></title>
+        <id>https://techfeed.io/channels/JavaScript/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/JavaScript/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>JavaScriptチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）<...]]></summary>
+        <content type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>JavaScriptチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）<br>2位: JavascriptからTypescriptへ1人で5万行修正し、移行した話（qiita.com）<br>3位: みんなが簡単簡単書いているので、React + JavaScript + FullCalendar を触ってみた（qiita.com）<br>…ほか17本<br><a href="https://techfeed.io/channels/JavaScript/selections/weekly/2022/W29?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=r...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】【Teams障害時のワークアラウンド】Azure Communication Service を使って9クリックでグループ通話アプリをデプロイしてみた／ほか19本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwVGVhbXMlRTklOUElOUMlRTUlQUUlQjMlRTYlOTklODIlRTMlODElQUUlRTMlODMlQUYlRTMlODMlQkMlRTMlODIlQUYlRTMlODIlQTIlRTMlODMlQTklRTMlODIlQTYlRTMlODMlQjMlRTMlODMlODklRTMlODAlOTFBenVyZSUyMENvbW11bmljYXRpb24lMjBTZXJ2aWNlJTIwJUU...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか6本 | TechFeedおすすめ記事ランキング - Oracleチャンネル]]></title>
+        <id>https://techfeed.io/channels/Oracle/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/Oracle/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事4本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。Azureか...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事4本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>2位: 記録的熱波によりGoogle CloudとOracle Cloudの2つのクラウドサービスがほぼ同タイミングで停止（gigazine.net）<br>3位: Oracle Java の脆弱性対策について(CVE-2022-34169等)（www.ipa.go.jp）<br>…ほか4本<br><a href="https://techfeed.io/channels/Oracle/selections/weekly/2022/W29?from=rss" target="_blan...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月3週ランキング】AWS Security Hubのセキュリティ基準の検知結果を分析してみたくてCloudWatch Logsに出力してInsightで見てみた／ほか19本 | TechFeedおすすめ記事ランキング - マーケティングチャンネル]]></title>
+        <id>https://techfeed.io/channels/Marketing/selections/weekly/2022/W29</id>
+        <link href="https://techfeed.io/channels/Marketing/selections/weekly/2022/W29"/>
+        <updated>2022-07-24T14:59:59.999Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/aws-security-hub.png"><br>マーケティングチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: AWS Security Hubのセキュリティ基準の検...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/aws-security-hub.png"><br>マーケティングチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: AWS Security Hubのセキュリティ基準の検知結果を分析してみたくてCloudWatch Logsに出力してInsightで見てみた（dev.classmethod.jp）<br>2位: 「97,000,000（千円）」を速読できる？今さら聞けないマーケター必須の算数とは（webtan.impress.co.jp）<br>3位: LUSH｢損失17億でも若者にとって危険｣なInstagramやTikTokで宣伝を停止。代わりのマーケティング手段5つ（www.businessinsider.jp）<br>…ほか17本<br><a href="https://techfeed.io/channels/Marketing/selections...]]></content>
+        <published>2022-07-24T14:59:59.999Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GCP】 Python + Gmail API + Sheets API で 「Gmail 送信」を試してみた | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/kazusa_nakagawa/articles/article7_google_api</id>
+        <link href="https://zenn.dev/kazusa_nakagawa/articles/article7_google_api"/>
+        <updated>2022-07-24T13:36:35.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 今回は、Google Cloud を使って、Gmail 送信を試してみました。 選定理由は、Webサービスにするほど規模もでかくないからです。また、スクリプトを exe化して Windows 環境で実行する背景があります。 メンテナンスするにも、お客様はプログラムの手直しができないので、アカウント管理など、スプレッドシートに持たせることで、ある程度自由に変更することも可能になることを想定...]]></summary>
+        <content type="html"><![CDATA[はじめに 今回は、Google Cloud を使って、Gmail 送信を試してみました。 選定理由は、Webサービスにするほど規模もでかくないからです。また、スクリプトを exe化して Windows 環境で実行する背景があります。 メンテナンスするにも、お客様はプログラムの手直しができないので、アカウント管理など、スプレッドシートに持たせることで、ある程度自由に変更することも可能になることを想定してます。運用コストもDB・サーバを持たないので、APIリクエスト数を気にしておけばそれほどかからないかと。   前提条件 以下の設定はできてる状態から書いていこうかと、結構最初は分けわから...]]></content>
+        <author>
+            <name>なかがわ</name>
+        </author>
+        <published>2022-07-24T13:36:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS認定デベロッパーアソシエイト【DVA】 合格記 | Zennの「AWS」のフィード]]></title>
+        <id>https://zenn.dev/benkyo_ganbaman/articles/d9692724f95a50</id>
+        <link href="https://zenn.dev/benkyo_ganbaman/articles/d9692724f95a50"/>
+        <updated>2022-07-24T12:36:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ヤマダです。この度、AWS認定資格のデベロッパーアソシエイト（DVA）に合格することができました。これから受験を考えている人へ、勉強時間や方法などの参考になればと思い記事を投稿します。 ではまずは私のスペックから  IT系のエンジニア歴、約4年（クラウド関係のサービス利用経験はなし） AWS SAAを取得済み（3か月前） 勉強は好きなほう 夜になかなか寝付けない  こんな感じ...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ヤマダです。この度、AWS認定資格のデベロッパーアソシエイト（DVA）に合格することができました。これから受験を考えている人へ、勉強時間や方法などの参考になればと思い記事を投稿します。 ではまずは私のスペックから  IT系のエンジニア歴、約4年（クラウド関係のサービス利用経験はなし） AWS SAAを取得済み（3か月前） 勉強は好きなほう 夜になかなか寝付けない  こんな感じです。2022年4月末にSAAを取得しました。その時の記事はこちらです。それから少し勉強をさぼっていて、2022年の7月末にDVAを取得しました。 今回取得した資格は「デベロッパー アソシエ...]]></content>
+        <author>
+            <name>勉強頑張るヤマダ</name>
+        </author>
+        <published>2022-07-24T12:36:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCPでIP制限しているVMインスタンスのSSL証明書自動更新 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/haru246/articles/0a89934224dd6f</id>
+        <link href="https://zenn.dev/haru246/articles/0a89934224dd6f"/>
+        <updated>2022-07-24T08:27:24.000Z</updated>
+        <summary type="html"><![CDATA[前提  Dockerを使用してアプリ構築している docker、docker-composeコマンドが使用できる すでにLet's Encryptから証明書を発行している OS：Ubuntu20.04LTS    仕組み IP制限をしていると、証明書を更新できないので更新する前に80番ポートからの通信を許可するファイヤーウォールを作成し、VMインスタンスに割り当てる。更新が終わったらファイヤーウォ...]]></summary>
+        <content type="html"><![CDATA[前提  Dockerを使用してアプリ構築している docker、docker-composeコマンドが使用できる すでにLet's Encryptから証明書を発行している OS：Ubuntu20.04LTS    仕組み IP制限をしていると、証明書を更新できないので更新する前に80番ポートからの通信を許可するファイヤーウォールを作成し、VMインスタンスに割り当てる。更新が終わったらファイヤーウォールを削除するようにする。   手順   VMインスタンス側の設定  Google Cloud コンソール画面> Compute Engine> VMインスタンス>設定する...]]></content>
+        <author>
+            <name>haru246</name>
+        </author>
+        <published>2022-07-24T08:27:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraftのログイン認証ができるAzure Appを作る | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/ddpn08/articles/tech-azure-minecraft</id>
+        <link href="https://zenn.dev/ddpn08/articles/tech-azure-minecraft"/>
+        <updated>2022-07-24T00:28:36.000Z</updated>
+        <summary type="html"><![CDATA[! 初心者のメモ程度の記事です。    概要 Minecraftのログイン処理で使用するアプリの作り方をメモ程度に書きます。   作る   Azure Active Directory を選択    アプリの登録 を選択    アプリの新規作成 をクリック    アプリの情報を入力   アプリ名を入力 (例: SasaLauncher ) アカウントの種類を個人用アカウントのみに変更 リダイレクト...]]></summary>
+        <content type="html"><![CDATA[! 初心者のメモ程度の記事です。    概要 Minecraftのログイン処理で使用するアプリの作り方をメモ程度に書きます。   作る   Azure Active Directory を選択    アプリの登録 を選択    アプリの新規作成 をクリック    アプリの情報を入力   アプリ名を入力 (例: SasaLauncher ) アカウントの種類を個人用アカウントのみに変更 リダイレクトURLにhttp://localhostを入力  登録 をクリックして登録完了。    証明書とシークレット を選択    シークレットの作成    新しいクライアントシークレット をクリック ...]]></content>
+        <author>
+            <name>だだっこぱんだ</name>
+        </author>
+        <published>2022-07-24T00:28:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TurborepoのリモートキャッシュサーバをCloud RunとGCSで構築する | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/aiji42/articles/7bc1b6df91dd76</id>
+        <link href="https://zenn.dev/aiji42/articles/7bc1b6df91dd76"/>
+        <updated>2022-07-23T15:44:56.000Z</updated>
+        <summary type="html"><![CDATA[モチベーション Turborepoを使用する目的はいくつかありますが、リモートキャッシュが一番大きいと個人的には思っています。 リモートキャッシュを使用することで、CIの高速化やチームメンバーのローカルでの開発体験向上にもつながります。 リモートキャッシュを導入する最も簡単な方法は、Vercelを利用することですが、チームでとなるとアカウント管理や料金など問題が発生します。 アカウントレスなチーム...]]></summary>
+        <content type="html"><![CDATA[モチベーション Turborepoを使用する目的はいくつかありますが、リモートキャッシュが一番大きいと個人的には思っています。 リモートキャッシュを使用することで、CIの高速化やチームメンバーのローカルでの開発体験向上にもつながります。 リモートキャッシュを導入する最も簡単な方法は、Vercelを利用することですが、チームでとなるとアカウント管理や料金など問題が発生します。 アカウントレスなチーム専用のリモートキャッシュサーバをセルフホストし、上記の問題を解消することが本稿のモチベーションです。 なお、Turborepoの紹介や導入・使用方法に関しては説明を省きますので、詳しく知りた...]]></content>
+        <author>
+            <name>aiji42</name>
+        </author>
+        <published>2022-07-23T15:44:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MQTTとCloud IoT Core | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/ykdev/articles/9d35a009c0a484</id>
+        <link href="https://zenn.dev/ykdev/articles/9d35a009c0a484"/>
+        <updated>2022-07-23T01:16:17.000Z</updated>
+        <summary type="html"><![CDATA[業務の中でMQTTとCloud IoT Coreを利用したアーキテクチャパターンを見かけたので、実際に構成するとどんな感じなのかな？と思って実際にGCP上で構築してみました。   MQTT MQTTというのは、HTTPと比べると通信量が軽量なプロトコルで、通信時のオーバーヘッドが少ないらしく、スペックの高くないIoT機器で主に用いられているそうです。その辺はあまり詳しく無いので、時間がある時にもう...]]></summary>
+        <content type="html"><![CDATA[業務の中でMQTTとCloud IoT Coreを利用したアーキテクチャパターンを見かけたので、実際に構成するとどんな感じなのかな？と思って実際にGCP上で構築してみました。   MQTT MQTTというのは、HTTPと比べると通信量が軽量なプロトコルで、通信時のオーバーヘッドが少ないらしく、スペックの高くないIoT機器で主に用いられているそうです。その辺はあまり詳しく無いので、時間がある時にもう少し調べてみようと思います。   構成図 今回試してみたGCPの構成は以下の通りです。ローカルマシンからMQTTプロトコルでIoT CoreにPublishを行い、そこからPub/Sub、Dat...]]></content>
+        <author>
+            <name>ykdev</name>
+        </author>
+        <published>2022-07-23T01:16:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Looker User Meetup Online #8」に登壇しました。 | BASEプロダクトチームブログ]]></title>
+        <id>https://devblog.thebase.in/entry/lookermeetup8</id>
+        <link href="https://devblog.thebase.in/entry/lookermeetup8"/>
+        <updated>2022-07-22T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/7/21(木曜日)にオンラインで開催された「Looker User Meetup Online #8」に BASE BANK Dev Groupの永野(@glssmonekey)が登壇しました。 looker-japan-user-group.connpass.com イベントについて 今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」でした。 各社のLookerま...]]></summary>
+        <content type="html"><![CDATA[2022/7/21(木曜日)にオンラインで開催された「Looker User Meetup Online #8」に BASE BANK Dev Groupの永野(@glssmonekey)が登壇しました。 looker-japan-user-group.connpass.com イベントについて 今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」でした。 各社のLookerまでのデータパイプラインの構成やチーム構成など、Lookerを中心にしたデータに関する話題でわいわいしました。 当日は弊社含めて次の4社（敬称略）の発表が行われました。 Unipos株式会社 株式会社タ…]]></content>
+        <published>2022-07-22T11:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vertex AI Workbench] Jupyter ノートブックからBigQueryを実行する3つの方法 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/furuhon/articles/c836614eb97ba0</id>
+        <link href="https://zenn.dev/furuhon/articles/c836614eb97ba0"/>
+        <updated>2022-07-22T09:22:04.000Z</updated>
+        <summary type="html"><![CDATA[furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)から、 bigqueryでデータを取得する3つの方法を整理しました。     bigqueryの利用方法 マネージドノートブック環境 ユーザー管理のノートブック環境     1 マジックコマンド %%bigquery 利用可能 利用可能   2 ライブラリimport bigquery...]]></summary>
+        <content type="html"><![CDATA[furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)から、 bigqueryでデータを取得する3つの方法を整理しました。     bigqueryの利用方法 マネージドノートブック環境 ユーザー管理のノートブック環境     1 マジックコマンド %%bigquery 利用可能 利用可能   2 ライブラリimport bigquery 利用可能 利用可能   3 BigQueryIntegration 利用可能 -    Google公式ドキュメントの以下の内容をもとに整理しています。 https://cloud.googl...]]></content>
+        <author>
+            <name>furuhon</name>
+        </author>
+        <published>2022-07-22T09:22:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure ポータルで特定テナントでサインインを行うための URL | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/okazuki/articles/signin-to-specific-tenant-for-azure-portal</id>
+        <link href="https://zenn.dev/okazuki/articles/signin-to-specific-tenant-for-azure-portal"/>
+        <updated>2022-07-22T07:27:51.000Z</updated>
+        <summary type="html"><![CDATA[追記 Tweet で教えてもらいましたが https://portal.azure.com/@{サインインしたいテナントのドメイン名} でもいいみたいです。 https://twitter.com/kongou_ae/status/1550457292134711296   元の文 Azure ポータルには https://portal.azure.com でサインイン出来ます。 このとき何も指定...]]></summary>
+        <content type="html"><![CDATA[追記 Tweet で教えてもらいましたが https://portal.azure.com/@{サインインしたいテナントのドメイン名} でもいいみたいです。 https://twitter.com/kongou_ae/status/1550457292134711296   元の文 Azure ポータルには https://portal.azure.com でサインイン出来ます。 このとき何も指定しないと、デフォルトのテナントで設定したサブスクリプションが選ばれた状態でサインインされます。 大体のケースでは、サインイン後にテナントの切り替えを行えば良いのですが特定のテナントを指定して...]]></content>
+        <author>
+            <name>Kazuki Ota</name>
+        </author>
+        <published>2022-07-22T07:27:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Key Vault を Bicep から参照する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/skmkzyk/articles/bicep-key-vault-reference</id>
+        <link href="https://zenn.dev/skmkzyk/articles/bicep-key-vault-reference"/>
+        <updated>2022-07-22T06:52:04.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Bicep デプロイ時に Azure Key Vault を使用して、セキュリティで保護されたパラメーター値を渡す の焼き直しです！   パスワードとか PSK とかを Bicep に書きたくない 当たり前ですが、パスワードとか VPN の PSK (Pre-Shared Key) を Bicep ファイルに平文で書くのはあまりセキュアではないですね。 デプロイ時に手で入力するのでもい...]]></summary>
+        <content type="html"><![CDATA[TL;DR Bicep デプロイ時に Azure Key Vault を使用して、セキュリティで保護されたパラメーター値を渡す の焼き直しです！   パスワードとか PSK とかを Bicep に書きたくない 当たり前ですが、パスワードとか VPN の PSK (Pre-Shared Key) を Bicep ファイルに平文で書くのはあまりセキュアではないですね。 デプロイ時に手で入力するのでもいいのですが、ややめんどいです。   Bicep には Azure Key Vault 参照の機能がある Bicep ファイルに直接そういった文字列を書かなくても、Azure Key Vaul...]]></content>
+        <author>
+            <name>skmkzyk</name>
+        </author>
+        <published>2022-07-22T06:52:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[snowflake 地理空間関数でエリア情報を集計してみた | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=51244</id>
+        <link href="https://blog.truestar.co.jp/snowflake/20220722/51244/"/>
+        <updated>2022-07-22T06:02:40.000Z</updated>
+        <summary type="html"><![CDATA[snowflakeの地理空間関数が充実してきたようなので、これらを使ってPODBのデータを空間データを集計してみました。 本記事で紹介する関数 ST_POINT ST_INTERSECTS ST_DISTANCE ST_... snowflake 地理空間関数でエリア情報を集計してみた first appeared on Tableau-id Press -タブロイド-.]]></summary>
+        <content type="html"><![CDATA[snowflakeの地理空間関数が充実してきたようなので、これらを使ってPODBのデータを空間データを集計してみました。 本記事で紹介する関数 ST_POINT ST_INTERSECTS ST_DISTANCE ST_... snowflake 地理空間関数でエリア情報を集計してみた first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>s.noguchi</name>
+        </author>
+        <category label="Snowflake"/>
+        <category label="Prepper"/>
+        <category label="snowflake"/>
+        <category label="SQL"/>
+        <category label="商圏分析"/>
+        <category label="町丁目ポリゴン"/>
+        <category label="空間関数"/>
+        <published>2022-07-22T06:02:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS,SSH SCP】　最終章【悲報】もしかしてTeraTermのGUI、踏み台サーバにしか対応してない...？？ | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/22/121723</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/22/121723"/>
+        <updated>2022-07-22T03:17:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは！ 株式会社BFT名古屋支店・新卒の「なる」と「もな」です！ まだまだたくさん乗り越えた試練はありますが、、今回をもって最終章とさせていただきます。。 前回【第２章】ではsquidを使うことで踏み台サーバであるWEBサーバにフォワードプロキシの役割を持たせ、プライベートサブネットにあるDBサーバで無事にyumを打てるようになりました！ bftnagoya.hateblo.jp ...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは！ 株式会社BFT名古屋支店・新卒の「なる」と「もな」です！ まだまだたくさん乗り越えた試練はありますが、、今回をもって最終章とさせていただきます。。 前回【第２章】ではsquidを使うことで踏み台サーバであるWEBサーバにフォワードプロキシの役割を持たせ、プライベートサブネットにあるDBサーバで無事にyumを打てるようになりました！ bftnagoya.hateblo.jp 今回APサーバのTomcatは作業用PCのローカルから入れるしyumいらんから楽勝やん！と思っていたところ、、、 いざ、Tomcatインストール！ 新卒研修でシステムを構築した際、クライアントPCのロ…]]></content>
+        <published>2022-07-22T03:17:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS, SSH】　第1章【悲報】プライベートサブネットのインスタンスってクライアントPCからSSH接続できなくない...？？ | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/22/114730</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/22/114730"/>
+        <updated>2022-07-22T02:47:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは！ 株式会社BFT名古屋支店・新卒の「なる」と「もな」です。 私たちはシステムエンジニア歴4か月の新参者、、試練いっぱいの毎日です。 未知の単語にもまれ、エラーの度に立ち止まり、キーボードの「Q」キーを失い、、 それでも3か月の新卒研修でエンジニアの知識を多く身につけることができました。 今回、そんな新卒研修の中で構築したブログシステムとストリーミングシステムを、AWS上で再現...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは！ 株式会社BFT名古屋支店・新卒の「なる」と「もな」です。 私たちはシステムエンジニア歴4か月の新参者、、試練いっぱいの毎日です。 未知の単語にもまれ、エラーの度に立ち止まり、キーボードの「Q」キーを失い、、 それでも3か月の新卒研修でエンジニアの知識を多く身につけることができました。 今回、そんな新卒研修の中で構築したブログシステムとストリーミングシステムを、AWS上で再現してみました！ その間で学んだことを皆さんに共有させてください！ さあ、構築スタート！ 最初に考えたシステムの構成図はこんな感じです。 EC2を3台たて、それぞれApache, Tomcat, Mar…]]></content>
+        <published>2022-07-22T02:47:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LaravelをAzureにデプロイする | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2022/07/22/103259</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2022/07/22/103259"/>
+        <updated>2022-07-22T01:32:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ACS事業部の奥山です。 Laravel アプリケーションを Azure へデプロイする方法について調査した結果をブログとして纏めておきます。 Laravel にはdocker-composeを利用したSailと呼ばれる環境構築ツールがありますが、こちらはあくまで開発環境向けということで今回は本番・運用環境はどうするのかという観点での検証です。 本ブログではLaravelアプ...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ACS事業部の奥山です。 Laravel アプリケーションを Azure へデプロイする方法について調査した結果をブログとして纏めておきます。 Laravel にはdocker-composeを利用したSailと呼ばれる環境構築ツールがありますが、こちらはあくまで開発環境向けということで今回は本番・運用環境はどうするのかという観点での検証です。 本ブログではLaravelアプリケーションをコンテナ化してAzureのいろいろなサービスで動作することを確認してみようと思います。 まず、PHP の Laravel とは JavaのSpringBoot や NodeJSのexpr…]]></content>
+        <published>2022-07-22T01:32:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AutoML で自動機械学習を体験してみよう！ | 神戸のデータ活用塾！KDL Data Blog]]></title>
+        <id>https://kdl-di.hatenablog.com/entry/2022/07/22/090000</id>
+        <link href="https://kdl-di.hatenablog.com/entry/2022/07/22/090000"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[画面上の操作のみで自動的に機械学習モデルを作成することができるAzure AutoMLで実際に分類モデルを作成します]]></summary>
+        <content type="html"><![CDATA[画面上の操作のみで自動的に機械学習モデルを作成することができるAzure AutoMLで実際に分類モデルを作成します]]></content>
+        <published>2022-07-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AWS Summit Online 2022」の事例セッションに登壇しました | MOTEX TECH BLOG]]></title>
+        <id>https://tech.motex.co.jp/entry/2022/07/22/083000</id>
+        <link href="https://tech.motex.co.jp/entry/2022/07/22/083000"/>
+        <updated>2022-07-21T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、アプリケーションチームの森田です。 2022年5月25日・26日 に行われた AWS Summit Online 2022 で登壇してきましたので、このブログでもその内容を簡単にまとめたいと思います。 事例セッション：クラウド型IT 資産管理サービスを、サーバレスアーキテクチャを活用してスケーラブルに構築する取り組み 今回の AWS Summit Online 2022 では...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、アプリケーションチームの森田です。 2022年5月25日・26日 に行われた AWS Summit Online 2022 で登壇してきましたので、このブログでもその内容を簡単にまとめたいと思います。 事例セッション：クラウド型IT 資産管理サービスを、サーバレスアーキテクチャを活用してスケーラブルに構築する取り組み 今回の AWS Summit Online 2022 では森田より「クラウド型IT資産管理サービスを、サーバレスアーキテクチャを活用してスケーラブルに構築する取り組み」というテーマでお話をさせていただきました。 LANSCOPE クラウド版は、MOTEX（エ…]]></content>
+        <published>2022-07-21T23:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vertex AI Workbench]マネージドノートブック環境で、MeCab+NEologdを利用できるようにする。 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/furuhon/articles/5c065009a088b8</id>
+        <link href="https://zenn.dev/furuhon/articles/5c065009a088b8"/>
+        <updated>2022-07-21T23:29:08.000Z</updated>
+        <summary type="html"><![CDATA[furuhonです。 今回は、Vertex AI Workbenchのマネージドノートブックに、 MeCab+NEologdを利用できるカーネルを追加する方法をまとめました。    概要 Google Cloud Platform(GCP)のVertex AI Workbenchとして利用できる開発環境には、 Googleが管理するマネージドノートブック環境と、ユーザー管理のノートブック環境の2種...]]></summary>
+        <content type="html"><![CDATA[furuhonです。 今回は、Vertex AI Workbenchのマネージドノートブックに、 MeCab+NEologdを利用できるカーネルを追加する方法をまとめました。    概要 Google Cloud Platform(GCP)のVertex AI Workbenchとして利用できる開発環境には、 Googleが管理するマネージドノートブック環境と、ユーザー管理のノートブック環境の2種類の 開発環境があります。 マネージドノートブック環境では、ノートブックを新規作成する際や既存のノートブックを開く際に、Python,PySpark,Pytorchなどの予め準備されたカーネルを...]]></content>
+        <author>
+            <name>furuhon</name>
+        </author>
+        <published>2022-07-21T23:29:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月22日ランキング】[Amazon Connect]CloudFront + S3 + チャットウィジェット機能を利用してWebサイト上にチャット機能を実装する／ほか18本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/22</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/22"/>
+        <updated>2022-07-21T20:00:06.279Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/07/amazon-connect-20210707.png"><br>Amazon Web Servicesチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事9本）。<br>1位: [Amazo...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/07/amazon-connect-20210707.png"><br>Amazon Web Servicesチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事9本）。<br>1位: [Amazon Connect]CloudFront + S3 + チャットウィジェット機能を利用してWebサイト上にチャット機能を実装する（dev.classmethod.jp）<br>2位: AWSがモダンなデータ分析環境に本腰 主要サービスをサーバレス提供（www.itmedia.co.jp）<br>3位: AWS Glueに異動しました（aajisaka.hatenablog.com）<br>…ほか16本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/22?from=...]]></content>
+        <published>2022-07-21T20:00:06.279Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月22日ランキング】価格 - Azure Active Directory／ほか7本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル]]></title>
+        <id>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22</id>
+        <link href="https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22"/>
+        <updated>2022-07-21T20:00:06.279Z</updated>
+        <summary type="html"><![CDATA[<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315"><br>認証 / 認可チャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事5本）。<br>1位: 価格 - Azure Active Directory（azure.mic...]]></summary>
+        <content type="html"><![CDATA[<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315"><br>認証 / 認可チャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事5本）。<br>1位: 価格 - Azure Active Directory（azure.microsoft.com）<br>2位: ISR、生体情報を用いたMFAの現状と今後を解説 スマホのFIDO準拠拡大でパスワードレス導入が一気に加速か？（cloud.watch.impress.co.jp）<br>3位: 中国配車アプリ「DiDi」に罰金1640億円。スクショ画像や顔認証など647億件の個人情報を違法に取得か（www.huffingtonpost.jp）<br>…ほか5本<br><a href="https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22?f...]]></content>
+        <published>2022-07-21T20:00:06.279Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月22日ランキング】Cloud Run が作る世界 #devio2022／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22"/>
+        <updated>2022-07-21T20:00:06.279Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg"><br>Google Cloud Platformチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Clo...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg"><br>Google Cloud Platformチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Cloud Run が作る世界 #devio2022（dev.classmethod.jp）<br>2位: Cloud TPU v4 が MLPerf 2.0 ベンチマーク 5 項目で最速のトレーニング時間を記録（cloud.google.com）<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&pa...]]></content>
+        <published>2022-07-21T20:00:06.279Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月22日ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか7本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/22</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/22"/>
+        <updated>2022-07-21T20:00:06.279Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Microsoft Azureチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azu...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Microsoft Azureチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>2位: 【Teams障害時のワークアラウンド】Azure Communication Service を使って9クリックでグループ通話アプリをデプロイしてみた（qiita.com）<br>3位: カオスエンジニアリングを安全に行うには？ AWSとAzureのマネージドサービスの特徴を解説（codezine.jp）<br>…ほか5本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selecti...]]></content>
+        <published>2022-07-21T20:00:06.279Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月22日ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか3本 | TechFeedおすすめ記事ランキング - Oracleチャンネル]]></title>
+        <id>https://techfeed.io/channels/Oracle/selections/daily/2022/7/22</id>
+        <link href="https://techfeed.io/channels/Oracle/selections/daily/2022/7/22"/>
+        <updated>2022-07-21T20:00:06.279Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。Azu...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>1位: Heatwave forced Google and Oracle to shut down computers（www.bbc.com）<br>2位: Kubernetes Networking with Cilium CNI and OKE on Oracle Cloud（lmukadam.medium.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Oracle/selections/daily/2022...]]></content>
+        <published>2022-07-21T20:00:06.279Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora MySQLの不具合でローカルディスクが枯渇しクエリが実行出来なくなった話 | Kaizen Platform 開発者ブログ]]></title>
+        <id>https://developer.kaizenplatform.com/entry/glidenote/2022-07-22</id>
+        <link href="https://developer.kaizenplatform.com/entry/glidenote/2022-07-22"/>
+        <updated>2022-07-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SRE Group Managerをしている前田です。今回の記事は当社で遭遇したAmazon Aurora MySQLの不具合の話になります。 3行まとめ Amazon Aurora MySQLのローカルストレージが異常な速度で消費、枯渇しクエリを実行するとエラーが発生するようになった 原因調査とAWSサポートへの問い合わせの結果、Aurora MySQL 2.10.0 の不具合と判明し、2.10...]]></summary>
+        <content type="html"><![CDATA[SRE Group Managerをしている前田です。今回の記事は当社で遭遇したAmazon Aurora MySQLの不具合の話になります。 3行まとめ Amazon Aurora MySQLのローカルストレージが異常な速度で消費、枯渇しクエリを実行するとエラーが発生するようになった 原因調査とAWSサポートへの問い合わせの結果、Aurora MySQL 2.10.0 の不具合と判明し、2.10.2へバージョンアップで解消 Auroraのローカルストレージは自動拡張されないので、残容量の監視をしましょう]]></content>
+        <published>2022-07-21T19:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring More Data to More People with Snowflake and Braze | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202411</id>
+        <link href="https://www.snowflake.com/blog/more-data-to-people-snowflake-braze/"/>
+        <updated>2022-07-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT has long been perceived as a cost center, but it’s increasingly being reimagined as a profit center by forw […] The post Bring More Data to More People with Snowflake and Braze appeared first on Sn...]]></summary>
+        <content type="html"><![CDATA[IT has long been perceived as a cost center, but it’s increasingly being reimagined as a profit center by forw […] The post Bring More Data to More People with Snowflake and Braze appeared first on Snowflake.]]></content>
+        <author>
+            <name>Kevin Wang</name>
+        </author>
+        <category label="Partner  Customer Value"/>
+        <published>2022-07-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirflowでGCS外部パーティションテーブルをBigQueryに取り込む方法 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/jcc/articles/accb7fef5efc42</id>
+        <link href="https://zenn.dev/jcc/articles/accb7fef5efc42"/>
+        <updated>2022-07-21T13:31:24.000Z</updated>
+        <summary type="html"><![CDATA[GCS外部パーティションテーブルをBigQueryに取り込む BigQueryでデータレイクを構築する際に、GCS、Google Drive Data、Bigtableから外部テーブルを取り組む場面は少なくないと思います。下記のような外部テーブルがパーティションで分けられている場合(Hive partitioned dataと呼ばれている)は少しややこしくなりますが、 gs://myBucket/...]]></summary>
+        <content type="html"><![CDATA[GCS外部パーティションテーブルをBigQueryに取り込む BigQueryでデータレイクを構築する際に、GCS、Google Drive Data、Bigtableから外部テーブルを取り組む場面は少なくないと思います。下記のような外部テーブルがパーティションで分けられている場合(Hive partitioned dataと呼ばれている)は少しややこしくなりますが、 gs://myBucket/myTable/dt=2019-10-31/lang=en/foo gs://myBucket/myTable/dt=2018-10-31/lang=fr/bar 公式ドキュメントは取り組み...]]></content>
+        <author>
+            <name>jc</name>
+        </author>
+        <published>2022-07-21T13:31:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をした | Feedforce Developer Blog]]></title>
+        <id>https://developer.feedforce.jp/entry/2022/07/21/210000</id>
+        <link href="https://developer.feedforce.jp/entry/2022/07/21/210000"/>
+        <updated>2022-07-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは id:masutaka26 です。 本日、Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をしてきました。Looker User Meetup は 5 回目の参加、発表は初めてです。 いくつかネタはあったのですが、今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」ということもあ...]]></summary>
+        <content type="html"><![CDATA[こんばんは id:masutaka26 です。 本日、Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をしてきました。Looker User Meetup は 5 回目の参加、発表は初めてです。 いくつかネタはあったのですが、今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」ということもあり、この 2 年で確立した方法を紹介することとなりました。 bq CLI ではなく、terraform で管理している方もいらっしゃいました。terraform の更新に追随するのはそれなりに大変だと…]]></content>
+        <published>2022-07-21T12:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCP ログ ライブラリ v 1.5 for Golang | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/tfutada/articles/7ff7468335bec9</id>
+        <link href="https://zenn.dev/tfutada/articles/7ff7468335bec9"/>
+        <updated>2022-07-21T11:46:54.000Z</updated>
+        <summary type="html"><![CDATA[GCPのKubernetesでログ出力するのに便利なGolangのライブラリです。 https://cloud.google.com/blog/products/devops-sre/more-support-for-structured-logs-in-new-version-of-go-logging-library   使い方 go get cloud.google.com/go/loggi...]]></summary>
+        <content type="html"><![CDATA[GCPのKubernetesでログ出力するのに便利なGolangのライブラリです。 https://cloud.google.com/blog/products/devops-sre/more-support-for-structured-logs-in-new-version-of-go-logging-library   使い方 go get cloud.google.com/go/logging Ginで利用するサンプルで説明します。 ミドルウェアでロガーを初期化し、contextに保持します。  main.go import "cloud.google.com/go/loggin...]]></content>
+        <author>
+            <name>TF</name>
+        </author>
+        <published>2022-07-21T11:46:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルの共同ホスティングにより Vertex AI 上にデプロイした複数のモデル間でリソース共有を実現 | Google Cloud]]></title>
+        <id>https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-co-hosting-models-on-the-vertex-ai-prediction-service/</id>
+        <link href="https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-co-hosting-models-on-the-vertex-ai-prediction-service/"/>
+        <updated>2022-07-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 15 日に、Google Cloud blog に投稿されたものの抄訳です。 モデルを Vertex AI 予測サービスにデプロイする際、各モデルはデフォルトで独自の VM にデプロイされます。ホスティングの費用対効果を高めるため、モデルの共同ホスティングの公開プレビュー版を導入しました。これにより、同一の VM で複数のモデルをホストすることができ、メ...]]></summary>
+        <content type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 15 日に、Google Cloud blog に投稿されたものの抄訳です。 モデルを Vertex AI 予測サービスにデプロイする際、各モデルはデフォルトで独自の VM にデプロイされます。ホスティングの費用対効果を高めるため、モデルの共同ホスティングの公開プレビュー版を導入しました。これにより、同一の VM で複数のモデルをホストすることができ、メモリとコンピューティング リソースの使用率が向上します。同じ VM にデプロイするモデルの数はモデルのサイズとトラフィック パターンによりますが、この機能は特に、低トラフィックで多くのモデルをデプロイする場合に便利です。 デプロイ リソースプールについて 共同ホスティング モデルのサポートには、モデルをグループ化して VM 内でリソースを共有するという、デプロイ リソースプールの概念が導入されています。エンドポイントを共有している複数のモデルが VM を共有できるだけでなく、異なるエンドポイントにデプロイされている場合でも VM の共有が可能です。 たとえば、次の図で示すように 4 つのモデル...]]></content>
+        <category label="Data Analytics"/>
+        <category label="Google Cloud"/>
+        <category label="AI  Machine Learning"/>
+        <published>2022-07-21T09:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud SQL と Power BI を使用したマルチクラウドでのレポート作成とアナリティクス | Google Cloud]]></title>
+        <id>https://cloud.google.com/blog/ja/products/data-analytics/reporting-and-analytics-using-google-cloud-sql-and-microsoft-power-bi/</id>
+        <link href="https://cloud.google.com/blog/ja/products/data-analytics/reporting-and-analytics-using-google-cloud-sql-and-microsoft-power-bi/"/>
+        <updated>2022-07-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 Cloud SQL のデベロッパーやビジネス ユーザーは、Google Cloud にデータベースを移行した後も、Microsoft Power BI などの使い慣れたビジネス インテリジェンス ツールを使用して Cloud SQL から MySQL、PostgreSQL、SQ...]]></summary>
+        <content type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 Cloud SQL のデベロッパーやビジネス ユーザーは、Google Cloud にデータベースを移行した後も、Microsoft Power BI などの使い慣れたビジネス インテリジェンス ツールを使用して Cloud SQL から MySQL、PostgreSQL、SQL Server といった各データベースに接続し、レポートを作成できます。 データベースを迅速に GCP に移行できて、しかもリファクタリングの手間や、レポートと BI ツールを新たに開発する必要がない、これは企業が Cloud SQL へ移行するうえで重要なポイントです。組織は今日にでも移行を実施できますし、引き続くプロジェクト フェーズでデータベースのプラットフォームの再構築やレポート作成のリファクタリングを行うことができます。      以下のガイドでは、Cloud SQL から Power BI レポートを構成する際の主要な手順を説明していきます。環境や要件は異なる場合もありますが、設...]]></content>
+        <category label="Databases"/>
+        <category label="Google Cloud"/>
+        <category label="Data Analytics"/>
+        <published>2022-07-21T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[監視ツールPrometheusのエクスポーターを自作してAWSのコスト監視を試してみました | 虎の穴開発室ブログ]]></title>
+        <id>https://toranoana-lab.hatenablog.com/entry/2022/07/21/120220</id>
+        <link href="https://toranoana-lab.hatenablog.com/entry/2022/07/21/120220"/>
+        <updated>2022-07-21T03:02:20.000Z</updated>
+        <summary type="html"><![CDATA[本ブログは最近触りはじめた監視ツールPrometheusで、習熟も兼ねてエクスポーターを作成し、AWSのコスト状況の監視を試すというものになります。 ]]></summary>
+        <content type="html"><![CDATA[本ブログは最近触りはじめた監視ツールPrometheusで、習熟も兼ねてエクスポーターを作成し、AWSのコスト状況の監視を試すというものになります。 ]]></content>
+        <published>2022-07-21T03:02:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocado Technology が Security Command Center を使用してスマートで安全なオンライン食料品販売を実現した方法 | Google Cloud]]></title>
+        <id>https://cloud.google.com/blog/ja/products/identity-security/how-ocado-technology-delivers-online-grocery-shopping-securely-with-google-cloud/</id>
+        <link href="https://cloud.google.com/blog/ja/products/identity-security/how-ocado-technology-delivers-online-grocery-shopping-securely-with-google-cloud/"/>
+        <updated>2022-07-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。     食料品販売は好転し、Ocado Group は、この変革において大きな役割を果たしてきました。弊社は、オンライン スーパーマーケットとしてスタートし、テクノロジーと自動化を導入して、オンライン食料品店に革命をもたらしました。20 年間のイノベーションを経て、現在は、オンラ...]]></summary>
+        <content type="html"><![CDATA[※この投稿は米国時間 2022 年 7 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。     食料品販売は好転し、Ocado Group は、この変革において大きな役割を果たしてきました。弊社は、オンライン スーパーマーケットとしてスタートし、テクノロジーと自動化を導入して、オンライン食料品店に革命をもたらしました。20 年間のイノベーションを経て、現在は、オンライン食料品販売向けに最先端のソフトウェア、ロボット工学、AI ソリューションを提供するグローバル テクノロジー企業となっています。米国の Kroger からオーストラリアの Coles まで、世界で特に先進的な食料品小売業者のオンライン運営を実現する Ocado Smart Platform を作成しました。     Ocado Smart Platform の世界的な普及と運営の複雑化に伴い、セキュリティ資産に細心の注意を払っています。セキュリティの脆弱性を事前に特定して対処するために、Google Cloud の Security Command Center（SCC）プレミアムを脆弱性お...]]></content>
+        <category label="Customers"/>
+        <category label="Google Cloud"/>
+        <category label="Identity  Security"/>
+        <published>2022-07-21T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新卒2年目インフラエンジニアが社内 AWS GameDay で優勝した話 [DeNA インフラ SRE] | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2022/07/aws-gameday/</id>
+        <link href="https://engineering.dena.com/blog/2022/07/aws-gameday/"/>
+        <updated>2022-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。IT本部IT基盤部第一グループの oden です。 2021年に新卒エンジニアとして入社し、現在2年目です。 普段の業務では Pococha をはじめとしたライブストリーミングサービスやその他エンタメ領域のサービスのインフラ運用や改善を行っています。 さて、早速本題に入りますが、皆さんは AWS GameDay というイベントをご存知でしょうか？ 今回は新卒2年目のインフラエ...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。IT本部IT基盤部第一グループの oden です。 2021年に新卒エンジニアとして入社し、現在2年目です。 普段の業務では Pococha をはじめとしたライブストリーミングサービスやその他エンタメ領域のサービスのインフラ運用や改善を行っています。 さて、早速本題に入りますが、皆さんは AWS GameDay というイベントをご存知でしょうか？ 今回は新卒2年目のインフラエンジニアである私が社内の AWS GameDay で優勝した体験談とこの1年間I]]></content>
+        <published>2022-07-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】[アップデート]Amazon WorkSpaces Webが東京リージョンで使用できるようになりました／ほか16本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/amazon-workspaces.png"><br>Amazon Web Servicesチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事7本）。<br>1位: [アップデート]Amaz...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/amazon-workspaces.png"><br>Amazon Web Servicesチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事7本）。<br>1位: [アップデート]Amazon WorkSpaces Webが東京リージョンで使用できるようになりました（dev.classmethod.jp）<br>2位: AWS テクニカルサポートから学ぶトラブルシューティングの極意 #devio2022（dev.classmethod.jp）<br>3位: AWS AI/ML Updateと事例紹介（pages.awscloud.com）<br>…ほか14本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/21?from=rss" target="_...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】How To Find & Understand Conversion Rates Of Your Amazon Products／ほか1本 | TechFeedおすすめ記事ランキング - アクセス解析チャンネル]]></title>
+        <id>https://techfeed.io/channels/Access%20analysis/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/Access%20analysis/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/amazon-1600-x-840-62ced11b327fd-sej.png"><br>アクセス解析チャンネル 2022年7月21日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: How To Find & Underst...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/amazon-1600-x-840-62ced11b327fd-sej.png"><br>アクセス解析チャンネル 2022年7月21日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: How To Find & Understand Conversion Rates Of Your Amazon Products（www.searchenginejournal.com）<br>2位: Google Analytics 4: What You Need to Know（amplitude.com）<br><a href="https://techfeed.io/channels/Access%20analysis/selections/daily/2022/7/21?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?typ...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】Migrate for Compute Engineを解説／ほか5本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-t-kunizaki/20220712/20220712185247.png"><br>Google Cloud Platformチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: Migrate ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-t-kunizaki/20220712/20220712185247.png"><br>Google Cloud Platformチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: Migrate for Compute Engineを解説（blog.g-gen.co.jp）<br>2位: トラブル事案｜GCEでVMインスタンスへSSH接続できない（qiita.com）<br>1位: Using BigQuery data for large scale Python analysis using Dask and GPUs with RAPIDS（cloud.google.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21?...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム／ほか8本 | TechFeedおすすめ記事ランキング - JavaScriptチャンネル]]></title>
+        <id>https://techfeed.io/channels/JavaScript/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/JavaScript/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>JavaScriptチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事7本、英語記事2本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）...]]></summary>
+        <content type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>JavaScriptチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事7本、英語記事2本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）<br>2位: JavaScriptの基礎中の基礎を詰め込んでみた（qiita.com）<br>3位: TypeScript（JavaScript）のswitch文で「Unexpected lexical declaration in case block」（qiita.com）<br>…ほか6本<br><a href="https://techfeed.io/channels/JavaScript/selections/daily/2022/7/21?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】Azureの資格を全て取ったので資格制度について語る（2022/07現在21個）／ほか14本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/u/ussvgr/20220720/20220720042550.jpg"><br>Microsoft Azureチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事10本）。<br>1位: Azureの資格を全て取ったので資格制度につ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/u/ussvgr/20220720/20220720042550.jpg"><br>Microsoft Azureチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事10本）。<br>1位: Azureの資格を全て取ったので資格制度について語る（2022/07現在21個）（techblog.ap-com.co.jp）<br>2位: AzureとOCI上のOracle DBを接続する「Oracle Database Service for Microsoft Azure」を提供（cloud.watch.impress.co.jp）<br>3位: カオスエンジニアリングを安全に行うには？ AWSとAzureのマネージドサービスの特徴を解説（codezine.jp）<br>…ほか12本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/dai...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム／ほか5本 | TechFeedおすすめ記事ランキング - Reactチャンネル]]></title>
+        <id>https://techfeed.io/channels/React/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/React/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>Reactチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事3本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）<br>2...]]></summary>
+        <content type="html"><![CDATA[<img src="https://jser.info/media/logo.png"><br>Reactチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事3本）。<br>1位: 2022-07-20のJS: Node.js 18.6.0、React NativeのHermesデフォルト化、AWSのデザインシステム（jser.info）<br>2位: Bitriseを用いたreact-nativeアプリ (iOS) のCI/CD構築（qiita.com）<br>3位: みんなが簡単簡単書いているので、React + JavaScript + FullCalendar を触ってみた（qiita.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/React/selections/daily/2022/7/21?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】【Docker+Cloud Run勉強会】2. DockerでWordPressをデプロイする／ほか3本 | TechFeedおすすめ記事ランキング - WordPressチャンネル]]></title>
+        <id>https://techfeed.io/channels/WordPress/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/WordPress/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwRG9ja2VyJTJCQ2xvdWQlMjBSdW4lRTUlOEIlODklRTUlQkMlQjclRTQlQkMlOUElRTMlODAlOTEyLiUyMERvY2tlciVFMyU4MSVBN1dvcmRQcmVzcyVFMyU4MiU5MiVFMyU4MyU4NyVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVBNCVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtY29sb3I...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月21日ランキング】IoT事業の実現可否をIIJが主体となって2カ月50万円で検証するサービス、AzureのPaaSを活用／ほか3本 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル]]></title>
+        <id>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/21</id>
+        <link href="https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/21"/>
+        <updated>2022-07-20T20:00:05.536Z</updated>
+        <summary type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/0/a/400/img_0ac939e9fa0ae77337025f62e4a1f91184739.jpg"><br>X as a Serviceチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: IoT事業の実現可否をIIJが主体となって2...]]></summary>
+        <content type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/0/a/400/img_0ac939e9fa0ae77337025f62e4a1f91184739.jpg"><br>X as a Serviceチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: IoT事業の実現可否をIIJが主体となって2カ月50万円で検証するサービス、AzureのPaaSを活用（it.impress.co.jp）<br>2位: IIJ、Microsoft AzureのPaaSを活用し「ラボ型PoC」でIoT展開を支援するソリューションを提供（iotnews.jp）<br>3位: 日本の労働生産性の低さは「SaaS企業とエンジニアの意識」で変えられる【LayerX福島×ナレッジワーク川中】 - エンジニアtype（type.jp）<br>…ほか1本<br><a href="https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/202...]]></content>
+        <published>2022-07-20T20:00:05.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use Cases | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202204</id>
+        <link href="https://www.snowflake.com/blog/pagerduty-uses-snowflake-for-self-service-analytics-and-new-use-cases/"/>
+        <updated>2022-07-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to managing digital operations, teams require a proactive and preventative approach. PagerDuty h […] The post How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use...]]></summary>
+        <content type="html"><![CDATA[When it comes to managing digital operations, teams require a proactive and preventative approach. PagerDuty h […] The post How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use Cases appeared first on Snowflake.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <category label="Customer Stories"/>
+        <category label="Partner  Customer Value"/>
+        <category label="Data Cloud"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azureの資格を全て取ったので資格制度について語る（2022/07現在21個） | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2022/07/20/120000</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2022/07/20/120000"/>
+        <updated>2022-07-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ACS事業部の吉川です。 タイトルにあるとおり、Azureの認定資格全21種を取得しました。 以下URLで公開されている認定資格ポスターのうち、一番左の Azure 列の資格が対象です。 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI このポスターは毎月更新されており内容が変わってしまうので、...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ACS事業部の吉川です。 タイトルにあるとおり、Azureの認定資格全21種を取得しました。 以下URLで公開されている認定資格ポスターのうち、一番左の Azure 列の資格が対象です。 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI このポスターは毎月更新されており内容が変わってしまうので、2022年7月時点の画像も貼っておきます。 私が取得済みの資格にレ点を付けています。 以下は資格取得後発行されるデジタルバッジの一覧です。 www.credly.com 試験を大量に受け続けた経験から…]]></content>
+        <published>2022-07-20T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps のwikiにAzure CLIを使ってページを生やす！ | cloud.config Tech Blog]]></title>
+        <id>https://tech-blog.cloud-config.jp/?p=117457</id>
+        <link href="https://tech-blog.cloud-config.jp/2022-07-19-azure-devops-wiki-cli/"/>
+        <updated>2022-07-20T01:45:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、さとはるです。 Azure DevOpsはパイプラインやタスク管理が有名ですが、wiki機能もあります。 DevOpsのwikiはマークダウンで書ける上に、多重にネストできるページやタスクとの連携等便利機能も […] Azure DevOps のwikiにAzure CLIを使ってページを生やす！ first appeared on cloud.config Tech Blog.]]></summary>
+        <content type="html"><![CDATA[こんにちは、さとはるです。 Azure DevOpsはパイプラインやタスク管理が有名ですが、wiki機能もあります。 DevOpsのwikiはマークダウンで書ける上に、多重にネストできるページやタスクとの連携等便利機能も […] Azure DevOps のwikiにAzure CLIを使ってページを生やす！ first appeared on cloud.config Tech Blog.]]></content>
+        <author>
+            <name>FIXER Inc. 佐藤 晴輝</name>
+        </author>
+        <category label="Azure"/>
+        <category label="Azure Relay"/>
+        <category label="azure cli"/>
+        <category label="DevOps"/>
+        <published>2022-07-20T01:45:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate for Compute Engineを解説 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/migrate-for-compute-engine</id>
+        <link href="https://blog.g-gen.co.jp/entry/migrate-for-compute-engine"/>
+        <updated>2022-07-20T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の國﨑です。Google Cloud (旧称 GCP) には、 Google Cloud への移行を支援してくれる Migrate for Compute Engine という移行ツールがあります。 今回の記事は Migrate for Compute Engine について解説します。 Migrate for Compute Engine とは Migrate for Compute...]]></summary>
+        <content type="html"><![CDATA[G-gen の國﨑です。Google Cloud (旧称 GCP) には、 Google Cloud への移行を支援してくれる Migrate for Compute Engine という移行ツールがあります。 今回の記事は Migrate for Compute Engine について解説します。 Migrate for Compute Engine とは Migrate for Compute Engine v4 と v5 の違い 環境構成 Migrate Connector 通信要件 料金 移行プロセス 1. オンボード 2. レプリケーション 3. 移行設定 4. テストクローン 5.…]]></content>
+        <published>2022-07-20T00:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月20日ランキング】AWSでマルチアカウントするならControl Towerなのか？／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/20</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/20"/>
+        <updated>2022-07-19T20:00:06.918Z</updated>
+        <summary type="html"><![CDATA[<img src="https://res.cloudinary.com/zenn/image/upload/s--sA6_K8CD--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sakojun%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:...]]></summary>
+        <content type="html"><![CDATA[<img src="https://res.cloudinary.com/zenn/image/upload/s--sA6_K8CD--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sakojun%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:AWS%25E3%2581%25A7%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%25E3%2582%2589Control%2520Tower%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC...]]></content>
+        <published>2022-07-19T20:00:06.918Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月20日ランキング】各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更新）／ほか10本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20"/>
+        <updated>2022-07-19T20:00:06.918Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"><br>Microsoft Azureチャンネル 2022年7月20日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事6本）。<br>1位: 各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更...]]></summary>
+        <content type="html"><![CDATA[<img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"><br>Microsoft Azureチャンネル 2022年7月20日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事6本）。<br>1位: 各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更新）（blog.shibayan.jp）<br>2位: Azure SDK for Pythonの利用メモ（qiita.com）<br>3位: 株式会社ヘッドハイ、マイクロソフト社のスタートアップ支援プログラム「Microsoft for Startups」に採択。Azureを活用し、ゲームへ"視聴者が介入できる"ライブ動画配信...（prtimes.jp）<br>…ほか8本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20?from=rss" target="_blank...]]></content>
+        <published>2022-07-19T20:00:06.918Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform in the Cloud with Snowflake | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202035</id>
+        <link href="https://www.snowflake.com/blog/transport-infrastructure-agency-builds-collaborative-data-platform-with-snowflake/"/>
+        <updated>2022-07-19T17:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Finnish Transport Infrastructure Agency has to manage data generated by over €20B worth of infrastructure asse […] The post Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform...]]></summary>
+        <content type="html"><![CDATA[Finnish Transport Infrastructure Agency has to manage data generated by over €20B worth of infrastructure asse […] The post Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform in the Cloud with Snowflake appeared first on Snowflake.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <category label="Customer Stories"/>
+        <category label="Partner  Customer Value"/>
+        <category label="Data Cloud"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-19T17:51:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Pipelinesのコマンドの基本的な使い方 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/gekal/articles/azure-devops-pipeline-cli-sample</id>
+        <link href="https://zenn.dev/gekal/articles/azure-devops-pipeline-cli-sample"/>
+        <updated>2022-07-19T15:04:01.000Z</updated>
+        <summary type="html"><![CDATA[前提条件  devopsへのログインは完了していること。  $ az devops login --organization https://dev.azure.com/gekal Token: <認証のToken情報>    pipelines管理   新規 $ az pipelines create --name 'GekalBuild' --description 'Pipeline for...]]></summary>
+        <content type="html"><![CDATA[前提条件  devopsへのログインは完了していること。  $ az devops login --organization https://dev.azure.com/gekal Token: <認証のToken情報>    pipelines管理   新規 $ az pipelines create --name 'GekalBuild' --description 'Pipeline for gekal project' \  --organization https://dev.azure.com/gekal --project sample \  -...]]></content>
+        <author>
+            <name>gekal</name>
+        </author>
+        <published>2022-07-19T15:04:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Cosmos DB Linux Emulator を Docker for Windows で動かす | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/k_maru/articles/cosmos_linux_emulator_on_docker_for_windows</id>
+        <link href="https://zenn.dev/k_maru/articles/cosmos_linux_emulator_on_docker_for_windows"/>
+        <updated>2022-07-19T09:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Azure Cosmos DB Linux Emulator があるのですが、公式ドキュメントやと Docker for Linux で動かす説明だけ書かれてます。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/linux-emulator?tabs=sql-api%2Cssl-netstd21 Docker for Windows やと、Win...]]></summary>
+        <content type="html"><![CDATA[Azure Cosmos DB Linux Emulator があるのですが、公式ドキュメントやと Docker for Linux で動かす説明だけ書かれてます。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/linux-emulator?tabs=sql-api%2Cssl-netstd21 Docker for Windows やと、Windows コンテナで Azure Cosmos DB Emulator を使う説明しかない。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/l...]]></content>
+        <author>
+            <name>k_maru</name>
+        </author>
+        <published>2022-07-19T09:55:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECSのデプロイを待つとき、aws ecs wait services-stableだけでは不十分な場合がある | エキサイト TechBlog.]]></title>
+        <id>https://tech.excite.co.jp/entry/2022/07/19/170034</id>
+        <link href="https://tech.excite.co.jp/entry/2022/07/19/170034"/>
+        <updated>2022-07-19T08:00:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。 エキサイト株式会社の三浦です。 ECSにAWS CLIを使ってデプロイするとき、皆さんはデプロイの完了をどうやって検知しますか？ 今回は、デプロイ完了検知に aws ecs wait services-stable を使用したときの問題点について説明します。 AWS CLIとECSへのデプロイ ALBを使用したECSへのデプロイでの問題点 最後に AWS CLIとECSへのデプロイ ...]]></summary>
+        <content type="html"><![CDATA[こんにちは。 エキサイト株式会社の三浦です。 ECSにAWS CLIを使ってデプロイするとき、皆さんはデプロイの完了をどうやって検知しますか？ 今回は、デプロイ完了検知に aws ecs wait services-stable を使用したときの問題点について説明します。 AWS CLIとECSへのデプロイ ALBを使用したECSへのデプロイでの問題点 最後に AWS CLIとECSへのデプロイ ECSへのデプロイ方法はいくつかありますが、その中の一つにAWS CLIを使用するというものがあります。 aws ecs update-service \ --cluster クラスタ名 \ --se…]]></content>
+        <published>2022-07-19T08:00:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate and modernize with Azure to power innovation across the entire digital estate | Microsoft Azure Blog]]></title>
+        <id>migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate</id>
+        <link href="https://azure.microsoft.com/blog/migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate/"/>
+        <updated>2022-07-19T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloud adoption increased significantly during COVID-19 and continues for many companies. However, an enormous migration and modernization opportunity remains as organizations continue their digital tr...]]></summary>
+        <content type="html"><![CDATA[Cloud adoption increased significantly during COVID-19 and continues for many companies. However, an enormous migration and modernization opportunity remains as organizations continue their digital transformation. This is why we are focusing on three key areas of growth at Microsoft Inspire: innovation with new cloud-native experiences, modernization of app and data estates, and migration and modernization of infrastructure and mission-critical workloads.]]></content>
+        <author>
+            <name>Kathleen Mitford</name>
+        </author>
+        <category label="Cloud Strategy"/>
+        <category label="Azure Marketplace"/>
+        <category label="Migration"/>
+        <published>2022-07-19T08:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS ECSのコンソールUIが新しくなってリビジョン作成ができなくなった問題を解決 | WILLGATE TECH BLOG]]></title>
+        <id>https://tech.willgate.co.jp/entry/2022/07/19/150638</id>
+        <link href="https://tech.willgate.co.jp/entry/2022/07/19/150638"/>
+        <updated>2022-07-19T06:06:38.000Z</updated>
+        <summary type="html"><![CDATA[AWS ECSのUIが変わったタイミングで今まで使用していたリビジョン作成ができなくなってしまいました。 IAMを編集してリビジョン作成できるようにしたのでその方法を書きます。 概要 前提条件を確認 エラー確認 リビジョン作成 作成の経過を確認 まとめ 概要 一ヶ月前までは普通にAWS ECSでリビジョン作成できていたのですが、先日AWS ECSのUIが新しくなったタイミングでリビジョン作成ができ...]]></summary>
+        <content type="html"><![CDATA[AWS ECSのUIが変わったタイミングで今まで使用していたリビジョン作成ができなくなってしまいました。 IAMを編集してリビジョン作成できるようにしたのでその方法を書きます。 概要 前提条件を確認 エラー確認 リビジョン作成 作成の経過を確認 まとめ 概要 一ヶ月前までは普通にAWS ECSでリビジョン作成できていたのですが、先日AWS ECSのUIが新しくなったタイミングでリビジョン作成ができなくなりました。 前提条件を確認 ChromeでAWSコンソールに入りAWS ECSを開くと新しいUIになって新しいリビジョン作成が行えなくなっていました。 以下、AWS ECSの新UI Firefo…]]></content>
+        <published>2022-07-19T06:06:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GCP・GCE】これからGCEを作成するために考えること | BFT名古屋 TECH BLOG]]></title>
+        <id>https://bftnagoya.hateblo.jp/entry/2022/07/19/124648</id>
+        <link href="https://bftnagoya.hateblo.jp/entry/2022/07/19/124648"/>
+        <updated>2022-07-19T03:46:48.000Z</updated>
+        <summary type="html"><![CDATA[初めに こんにちは。株式会社BFT名古屋支店ないとうです。 GCPについて学習する機会があったので今回はGCE（Google Compute Engine）についてサービスを利用する前に知っておきたい基礎知識を紹介したいと思います。 目次 初めに 目次 GCEを作成する前に マシンシリーズとマシンタイプ マシンシリーズ マシンタイプ リージョンとゾーン リージョン ゾーン 注意点 ブートディスクと...]]></summary>
+        <content type="html"><![CDATA[初めに こんにちは。株式会社BFT名古屋支店ないとうです。 GCPについて学習する機会があったので今回はGCE（Google Compute Engine）についてサービスを利用する前に知っておきたい基礎知識を紹介したいと思います。 目次 初めに 目次 GCEを作成する前に マシンシリーズとマシンタイプ マシンシリーズ マシンタイプ リージョンとゾーン リージョン ゾーン 注意点 ブートディスクとイメージ ブートディスク イメージ 終わりに 参照 GCEを作成する前に GCEはGCPが提供するサービスの1つで、クラウド環境で使用する仮想マシンであるインスタンスの作成と管理を行います。 GCPで…]]></content>
+        <published>2022-07-19T03:46:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tableau Public | Tableau External Status - Incident History]]></title>
+        <id>https://trust.tableau.com/incidents/8ky3wbgs6383</id>
+        <link href="https://trust.tableau.com/incidents/8ky3wbgs6383"/>
+        <updated>2022-07-18T22:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Jul 18, 22:27 UTC Resolved - Tableau Engineers detected a degradation within Tableau Public which caused extract refreshes to begin failing on Jul 15, 2022 | 10:53 am PT. Engineers have mitigated the ...]]></summary>
+        <content type="html"><![CDATA[Jul 18, 22:27 UTC Resolved - Tableau Engineers detected a degradation within Tableau Public which caused extract refreshes to begin failing on Jul 15, 2022 | 10:53 am PT. Engineers have mitigated the issue and extracts are updating as expected. This incident is now considered resolved as of Jul 18, 2022 | 1:45 pm PT.]]></content>
+        <published>2022-07-18T22:27:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月19日ランキング】AWS + Python + LINEbotでゴミ出しリマインドをする【前編】／ほか14本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/19</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2022/7/19"/>
+        <updated>2022-07-18T20:00:05.593Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QVdTJTIwJTJCJTIwUHl0aG9uJTIwJTJCJTIwTElORWJvdCVFMyU4MSVBNyVFMyU4MiVCNCVFMyU4MyU5RiVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MyVBQSVFMyU4MyU5RSVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MiU5MiVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MCVFNSU4OSU...]]></content>
+        <published>2022-07-18T20:00:05.593Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月19日ランキング】Why I definitively switched from Cloud Functions to Cloud Run／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+        <id>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19</id>
+        <link href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19"/>
+        <updated>2022-07-18T20:00:05.593Z</updated>
+        <summary type="html"><![CDATA[<img src="https://miro.medium.com/max/1090/1*2tdX8v1_6Z3n-diSsG0lig.png"><br>Google Cloud Platformチャンネル 2022年7月19日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Why I definitively switched from Cloud Function...]]></summary>
+        <content type="html"><![CDATA[<img src="https://miro.medium.com/max/1090/1*2tdX8v1_6Z3n-diSsG0lig.png"><br>Google Cloud Platformチャンネル 2022年7月19日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Why I definitively switched from Cloud Functions to Cloud Run（medium.com）<br>2位: Google Cloud Functions (2nd Gen) Java Sample（www.javacodegeeks.com）<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftech...]]></content>
+        <published>2022-07-18T20:00:05.593Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月19日ランキング】Azure SDK for Pythonの利用メモ／ほか6本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/19</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/19"/>
+        <updated>2022-07-18T20:00:05.593Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QXp1cmUlMjBTREslMjBmb3IlMjBQeXRob24lRTMlODElQUUlRTUlODglQTklRTclOTQlQTglRTMlODMlQTElRTMlODMlQTImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCU...]]></content>
+        <published>2022-07-18T20:00:05.593Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月19日ランキング】AWS + Python + LINEbotでゴミ出しリマインドをする【前編】／ほか10本 | TechFeedおすすめ記事ランキング - Pythonチャンネル]]></title>
+        <id>https://techfeed.io/channels/Python/selections/daily/2022/7/19</id>
+        <link href="https://techfeed.io/channels/Python/selections/daily/2022/7/19"/>
+        <updated>2022-07-18T20:00:05.593Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QVdTJTIwJTJCJTIwUHl0aG9uJTIwJTJCJTIwTElORWJvdCVFMyU4MSVBNyVFMyU4MiVCNCVFMyU4MyU5RiVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MyVBQSVFMyU4MyU5RSVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MiU5MiVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MCVFNSU4OSU...]]></content>
+        <published>2022-07-18T20:00:05.593Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tableau Online | Tableau External Status - Incident History]]></title>
+        <id>https://trust.tableau.com/incidents/19hwxkgkyr21</id>
+        <link href="https://trust.tableau.com/incidents/19hwxkgkyr21"/>
+        <updated>2022-07-18T17:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Jul 18, 17:28 UTC Resolved - On Wednesday, July 13th, 2022 scheduled bridge extracts for datasources published before mid-2020 and using legacy schedules began failing. Tableau engineers implemented a...]]></summary>
+        <content type="html"><![CDATA[Jul 18, 17:28 UTC Resolved - On Wednesday, July 13th, 2022 scheduled bridge extracts for datasources published before mid-2020 and using legacy schedules began failing. Tableau engineers implemented a solution over the weekend which mitigated this issue for all Tableau Online pods. This solution has been verified and this incident is now considered resolved.]]></content>
+        <published>2022-07-18T17:28:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Cognitive Service for Languageを使って感情分析をやってみた | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/robes/articles/0e3df240890863</id>
+        <link href="https://zenn.dev/robes/articles/0e3df240890863"/>
+        <updated>2022-07-18T10:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Azure Cognitive Service for Languageを使って、自然言語処理／感情分析をやってみたので、備忘も兼ねて記録します。  以下のMicrosoftの公式ドキュメント（英語）を参考にしています。  https://docs.microsoft.com/ja-JP/python/api/overview/azure/ai-textanalytics-readme?view=...]]></summary>
+        <content type="html"><![CDATA[Azure Cognitive Service for Languageを使って、自然言語処理／感情分析をやってみたので、備忘も兼ねて記録します。  以下のMicrosoftの公式ドキュメント（英語）を参考にしています。  https://docs.microsoft.com/ja-JP/python/api/overview/azure/ai-textanalytics-readme?view=azure-python-preview&preserve-view=true#extract-key-phrases   前提 Cognitive Serviceのリソースを作成したう...]]></content>
+        <author>
+            <name>osn_Lofi</name>
+        </author>
+        <published>2022-07-18T10:48:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Premium SSD v2 Disk Storage in preview | Microsoft Azure Blog]]></title>
+        <id>azure-premium-ssd-v2-disk-storage-in-preview</id>
+        <link href="https://azure.microsoft.com/blog/azure-premium-ssd-v2-disk-storage-in-preview/"/>
+        <updated>2022-07-18T10:10:29.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the preview of Premium SSD v2, the next generation of Azure Premium SSD Disk Storage. This new disk offering provides the most advanced block storage solution designed for a...]]></summary>
+        <content type="html"><![CDATA[We are excited to announce the preview of Premium SSD v2, the next generation of Azure Premium SSD Disk Storage. This new disk offering provides the most advanced block storage solution designed for a broad range of input/output (IO)-intensive enterprise production workloads that require sub-millisecond disk latencies as well as high input/output operations per second (IOPS) and throughput—at a low cost.]]></content>
+        <author>
+            <name>Aung Oo</name>
+        </author>
+        <category label="Cloud Strategy"/>
+        <category label="Storage, Backup  Recovery"/>
+        <published>2022-07-18T10:10:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Security - Specialty(SCS-C01)の合格体験記 | ISID テックブログ]]></title>
+        <id>https://tech.isid.co.jp/entry/2022/07/18/AWS_Certified_Security_-_Specialty%28SCS-C01%29%E3%81%AE%E5%90%88%E6%A0%BC%E4%BD%93%E9%A8%93%E8%A8%98</id>
+        <link href="https://tech.isid.co.jp/entry/2022/07/18/AWS_Certified_Security_-_Specialty%28SCS-C01%29%E3%81%AE%E5%90%88%E6%A0%BC%E4%BD%93%E9%A8%93%E8%A8%98"/>
+        <updated>2022-07-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Xイノベーション本部 ソフトウェアデザインセンター セキュリティグループの福山です。 AWSセキュリティの認定資格である「AWS Certified Security - Specialty（SCS-C01）」を受験し、合格しました。 この資格を取得することで、AWSクラウドにおけるデータやワークロードのセキュリティ確保に関する 専門知識を保有することが認定されます。 今後受験する方のお役に立てれ...]]></summary>
+        <content type="html"><![CDATA[Xイノベーション本部 ソフトウェアデザインセンター セキュリティグループの福山です。 AWSセキュリティの認定資格である「AWS Certified Security - Specialty（SCS-C01）」を受験し、合格しました。 この資格を取得することで、AWSクラウドにおけるデータやワークロードのセキュリティ確保に関する 専門知識を保有することが認定されます。 今後受験する方のお役に立てればと思い、取り組んだことを共有します。 受験するきっかけ 私は2022年3月にISIDに入社しました。全社横断的にセキュリティを推進していくチームで、 クラウド環境のSOC、IRという役割をいただいて…]]></content>
+        <published>2022-07-17T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCP + ネイティブアプリでのGitLab flow構築 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/sheep96/articles/a6e92f0a385e63</id>
+        <link href="https://zenn.dev/sheep96/articles/a6e92f0a385e63"/>
+        <updated>2022-07-16T07:55:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに これは今さらな2021年振り返りカレンダーの2日目の記事です． トゥイラーも良かったらフォローしていただけると嬉しいです🐦 前回はCloud Run上で動くサービス用にGitHub flowでのCD環境を構築する話でした． https://zenn.dev/sheep96/articles/dc82e54ef7c005 前回の最後やいろんな記事で述べられているとおり，GitHub fl...]]></summary>
+        <content type="html"><![CDATA[はじめに これは今さらな2021年振り返りカレンダーの2日目の記事です． トゥイラーも良かったらフォローしていただけると嬉しいです🐦 前回はCloud Run上で動くサービス用にGitHub flowでのCD環境を構築する話でした． https://zenn.dev/sheep96/articles/dc82e54ef7c005 前回の最後やいろんな記事で述べられているとおり，GitHub flowは審査が必要なネイティブアプリなど，アプリケーションの リリースタイミングをこちら側でコントロールできないケースで不都合が発生します（モノレポ想定です）． 例えばあるアプリについて，後方互...]]></content>
+        <author>
+            <name>sheep96</name>
+        </author>
+        <published>2022-07-16T07:55:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Run におけるGitHub flowでのCDフロー構築 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/sheep96/articles/dc82e54ef7c005</id>
+        <link href="https://zenn.dev/sheep96/articles/dc82e54ef7c005"/>
+        <updated>2022-07-16T07:30:22.000Z</updated>
+        <summary type="html"><![CDATA[はじめに これは今さらな2021年振り返りカレンダーカレンダーの1日目の記事です． 以下のブログで書いたものなのですが，zennで投稿するとどうなるんだろう？と思い転載してみました． https://serenard.hatenablog.com/entry/2022/01/14/205252 トゥイラーも良かったらフォローしていただけると嬉しいです🐦 昨年はスタートアップにて新規サービス開発に...]]></summary>
+        <content type="html"><![CDATA[はじめに これは今さらな2021年振り返りカレンダーカレンダーの1日目の記事です． 以下のブログで書いたものなのですが，zennで投稿するとどうなるんだろう？と思い転載してみました． https://serenard.hatenablog.com/entry/2022/01/14/205252 トゥイラーも良かったらフォローしていただけると嬉しいです🐦 昨年はスタートアップにて新規サービス開発におけるCDフローの構築を複数回行ったので，そこから得られた知見をまず書いていこうと思います．前提として，チームは数人，トラフィックもそんなに大きくないという想定での設計です． まずはCloud...]]></content>
+        <author>
+            <name>sheep96</name>
+        </author>
+        <published>2022-07-16T07:30:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vertex AI Workbench] マネージドノートブック環境でターミナルを表示する。 | Zennの「GCP」のフィード]]></title>
+        <id>https://zenn.dev/furuhon/articles/cc82c0a6bae3c0</id>
+        <link href="https://zenn.dev/furuhon/articles/cc82c0a6bae3c0"/>
+        <updated>2022-07-16T01:32:38.000Z</updated>
+        <summary type="html"><![CDATA[初投稿となります。furuhonです。 非エンジニアだったのですが、最近機械学習関係のプロジェクトを動かすことになり、 勉強がてら自分がつまづいたことを共有していければなと考えています。 「超」初心者的なことばかりですが、どうぞよろしくお願いいたします。   マネージドノートブック環境でターミナルを表示する。 Vertex AI Workbenchのマネージドノートブック環境をデフォルトで作成する...]]></summary>
+        <content type="html"><![CDATA[初投稿となります。furuhonです。 非エンジニアだったのですが、最近機械学習関係のプロジェクトを動かすことになり、 勉強がてら自分がつまづいたことを共有していければなと考えています。 「超」初心者的なことばかりですが、どうぞよろしくお願いいたします。   マネージドノートブック環境でターミナルを表示する。 Vertex AI Workbenchのマネージドノートブック環境をデフォルトで作成すると、Jupyter ノートブックのランチャー(Launcher)にTerminalが表示されずにつまづきました。  解決策は、マネージドノートブック環境作成時の「詳細設定」の一番最後の「ターミナ...]]></content>
+        <author>
+            <name>furuhon</name>
+        </author>
+        <published>2022-07-16T01:32:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー | cloud.config Tech Blog]]></title>
+        <id>https://tech-blog.cloud-config.jp/?p=117391</id>
+        <link href="https://tech-blog.cloud-config.jp/2022-07-15-synapse-map-data-tool-is-now-ga/"/>
+        <updated>2022-07-15T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 速報です。2022年7月12日にSynapse AnalyticsでMap Dataという機能がGA（一般提供開始）されました。この記事ではそもそもSynapse Analyticsが何だったっけという話と、M […] 速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー first appeared on cloud.confi...]]></summary>
+        <content type="html"><![CDATA[はじめに 速報です。2022年7月12日にSynapse AnalyticsでMap Dataという機能がGA（一般提供開始）されました。この記事ではそもそもSynapse Analyticsが何だったっけという話と、M […] 速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー first appeared on cloud.config Tech Blog.]]></content>
+        <author>
+            <name>FIXER Inc. 瓦井 太雄</name>
+        </author>
+        <category label="Azure"/>
+        <category label="Azure Relay"/>
+        <category label="Synapse Analytics"/>
+        <category label="新機能"/>
+        <published>2022-07-15T10:28:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2からFargateへの移行 ~shadow proxyとカナリアリリース~ | エンジニアブログ | GREE Engineering]]></title>
+        <id>https://labs.gree.jp/blog/?p=21654</id>
+        <link href="https://labs.gree.jp/blog/2022/07/21654/"/>
+        <updated>2022-07-15T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[EC2からFargateへの移行 ~shadow proxyとカナリアリリース~ こんにちは、メディア事業でエンジニアをしている木村洋太です。 昨年のGREE Tech Conferenceでは「LIMIA」のフレームワ […]]]></summary>
+        <content type="html"><![CDATA[EC2からFargateへの移行 ~shadow proxyとカナリアリリース~ こんにちは、メディア事業でエンジニアをしている木村洋太です。 昨年のGREE Tech Conferenceでは「LIMIA」のフレームワ […]]]></content>
+        <author>
+            <name>yohta.kimura</name>
+        </author>
+        <category label="Info"/>
+        <category label="EC2"/>
+        <category label="Fargate"/>
+        <published>2022-07-15T10:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自社システムをHerokuからGCPにリプレースした話 -全体像 前編- | 開発チーム]]></title>
+        <id>https://note.com/yojo_engineering/n/na62ea85db3c1</id>
+        <link href="https://note.com/yojo_engineering/n/na62ea85db3c1"/>
+        <updated>2022-07-15T08:49:47.000Z</updated>
+        <summary type="html"><![CDATA[開発のbonです。 弊社では6/12に既存事業のLINEを用いた漢方・サプリのサブスクリプションサービスであるYOJOのシステム基盤を、HerokuからGCPへとリプレースしました。 実は以前の投稿でHerokuの全体像をご紹介したのはここに至る伏線だったのです。 ※今回の記事は割と壮大な記事ですのでご了承ください……。 全体スケジュールは以下のとおりです。 4月上旬に発案からの承認を得て、4月中...]]></summary>
+        <content type="html"><![CDATA[開発のbonです。 弊社では6/12に既存事業のLINEを用いた漢方・サプリのサブスクリプションサービスであるYOJOのシステム基盤を、HerokuからGCPへとリプレースしました。 実は以前の投稿でHerokuの全体像をご紹介したのはここに至る伏線だったのです。 ※今回の記事は割と壮大な記事ですのでご了承ください……。 全体スケジュールは以下のとおりです。 4月上旬に発案からの承認を得て、4月中旬からチームとして要件とスケジュール決めをしました。その後は6/12まで検証と実装を繰り返してリプレース作業を完遂しました。  続きをみる]]></content>
+        <published>2022-07-15T08:49:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryの定期的なクエリ実行機能について | BOOK☆WALKER Tech Blog]]></title>
+        <id>https://developers.bookwalker.jp/entry/2022/07/15/171828</id>
+        <link href="https://developers.bookwalker.jp/entry/2022/07/15/171828"/>
+        <updated>2022-07-15T08:18:28.000Z</updated>
+        <summary type="html"><![CDATA[メディアサービス開発部Webアプリケーション開発課の長田です 主にRuby on Railsを利用したサービス開発やBigQueryを利用した数値集計・解析のための基盤整備などをしています。 BigQueryには日時と実行したいクエリを設定することで定期的にクエリを実行する機能があります。 この機能では実行日時・実行間隔の設定から、実行結果をどのデータセットのテーブルに格納するかまで指定することが...]]></summary>
+        <content type="html"><![CDATA[メディアサービス開発部Webアプリケーション開発課の長田です 主にRuby on Railsを利用したサービス開発やBigQueryを利用した数値集計・解析のための基盤整備などをしています。 BigQueryには日時と実行したいクエリを設定することで定期的にクエリを実行する機能があります。 この機能では実行日時・実行間隔の設定から、実行結果をどのデータセットのテーブルに格納するかまで指定することができます。 今回はこの定期的なクエリ実行機能に関して利用例と一緒に紹介します。 BigQueryExportで同期したGA4イベントを利用した集計 前回投稿したGA4をBigQueryと連携する際に気…]]></content>
+        <published>2022-07-15T08:18:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Device Farm で Airtest を動かす方法 | Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.)]]></title>
+        <id>https://hackerslab.aktsk.jp/2022/07/15/154102</id>
+        <link href="https://hackerslab.aktsk.jp/2022/07/15/154102"/>
+        <updated>2022-07-15T06:41:02.000Z</updated>
+        <summary type="html"><![CDATA[AWS Device Farmとは？ https://docs.aws.amazon.com/ja_jp/devicefarm/latest/developerguide/welcome.html Device Farm は、アマゾン ウェブ サービス (AWS) によりホストされている実際の物理的な電話やタブレットで、Android や iOS、およびウェブアプリケーションをテストしてやり取りで...]]></summary>
+        <content type="html"><![CDATA[AWS Device Farmとは？ https://docs.aws.amazon.com/ja_jp/devicefarm/latest/developerguide/welcome.html Device Farm は、アマゾン ウェブ サービス (AWS) によりホストされている実際の物理的な電話やタブレットで、Android や iOS、およびウェブアプリケーションをテストしてやり取りできるアプリケーションテストサービスです。 フレームワークを使用したアプリケーションの自動テスト リアルタイムリモートアクセス の二つのサービスがあり、今回は前者の自動テストについての内容です 自動テス…]]></content>
+        <published>2022-07-15T06:41:02.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://trust.tableau.com/incidents/8ky3wbgs6383",
+            "content_html": "Jul 18, 22:27 UTC Resolved - Tableau Engineers detected a degradation within Tableau Public which caused extract refreshes to begin failing on Jul 15, 2022 | 10:53 am PT. Engineers have mitigated the issue and extracts are updating as expected. This incident is now considered resolved as of Jul 18, 2022 | 1:45 pm PT.",
+            "url": "https://trust.tableau.com/incidents/8ky3wbgs6383",
+            "title": "Tableau Public | Tableau External Status - Incident History",
+            "summary": "Jul 18, 22:27 UTC Resolved - Tableau Engineers detected a degradation within Tableau Public which caused extract refreshes to begin failing on Jul 15, 2022 | 10:53 am PT. Engineers have mitigated the ...",
+            "image": {
+                "type": "png",
+                "url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
+            },
+            "date_modified": "2022-07-18T22:27:56.000Z",
+            "date_published": "2022-07-18T22:27:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tableau Public",
+                "blogTitle": "Tableau External Status - Incident History",
+                "blogLink": "https://trust.tableau.com",
+                "blogLinkMd5Hash": "9f5f5811f2f98006f82ae481a3376c3c"
+            }
+        },
+        {
+            "id": "https://trust.tableau.com/incidents/19hwxkgkyr21",
+            "content_html": "Jul 18, 17:28 UTC Resolved - On Wednesday, July 13th, 2022 scheduled bridge extracts for datasources published before mid-2020 and using legacy schedules began failing. Tableau engineers implemented a solution over the weekend which mitigated this issue for all Tableau Online pods. This solution has been verified and this incident is now considered resolved.",
+            "url": "https://trust.tableau.com/incidents/19hwxkgkyr21",
+            "title": "Tableau Online | Tableau External Status - Incident History",
+            "summary": "Jul 18, 17:28 UTC Resolved - On Wednesday, July 13th, 2022 scheduled bridge extracts for datasources published before mid-2020 and using legacy schedules began failing. Tableau engineers implemented a...",
+            "image": {
+                "type": "png",
+                "url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png"
+            },
+            "date_modified": "2022-07-18T17:28:05.000Z",
+            "date_published": "2022-07-18T17:28:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tableau Online",
+                "blogTitle": "Tableau External Status - Incident History",
+                "blogLink": "https://trust.tableau.com",
+                "blogLinkMd5Hash": "9f5f5811f2f98006f82ae481a3376c3c"
+            }
+        }
+    ]
+}

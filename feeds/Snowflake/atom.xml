@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2022-07-29T06:30:30.965Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Snowflake’s New Engine and Platform Announcements | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203516</id>
+        <link href="https://www.snowflake.com/blog/performance-improvements-summit-2022/"/>
+        <updated>2022-07-27T16:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake’s Data Cloud is powered by a single engine. From day 1, we have been focusing on consistently evolvi […] The post Snowflake’s New Engine and Platform Announcements appeared first on Snowflak...]]></summary>
+        <content type="html"><![CDATA[Snowflake’s Data Cloud is powered by a single engine. From day 1, we have been focusing on consistently evolvi […] The post Snowflake’s New Engine and Platform Announcements appeared first on Snowflake.]]></content>
+        <author>
+            <name>Artin Avanes</name>
+        </author>
+        <category label="Data Warehouse"/>
+        <category label="Product and Technology"/>
+        <category label="cross-cloud"/>
+        <category label="data warehouse"/>
+        <category label="governance"/>
+        <category label="Snowflake Data Cloud"/>
+        <published>2022-07-27T16:01:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New  World of Data Collaboration at Snowflake Summit | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203303</id>
+        <link href="https://www.snowflake.com/blog/world-data-collaboration-snowflake-summit/"/>
+        <updated>2022-07-26T23:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Did you hear about the massive snowstorm that hit Las Vegas this summer? That’s right—the Snowflake Summ […] The post A New World of Data Collaboration at Snowflake Summit appeared first on Snowflake.]]></summary>
+        <content type="html"><![CDATA[Did you hear about the massive snowstorm that hit Las Vegas this summer? That’s right—the Snowflake Summ […] The post A New World of Data Collaboration at Snowflake Summit appeared first on Snowflake.]]></content>
+        <author>
+            <name>Jennifer Belissent</name>
+        </author>
+        <category label="Around the Company"/>
+        <category label="Events"/>
+        <category label="Perspectives"/>
+        <category label="Thought Leadership"/>
+        <category label="cdo"/>
+        <category label="chief data officer"/>
+        <category label="data collaboration"/>
+        <category label="Data Economy"/>
+        <category label="Data Sharing"/>
+        <category label="Snowflake Summit"/>
+        <published>2022-07-26T23:01:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Easily Load and Query XML Data with Snowflake (Part 2) | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=18444</id>
+        <link href="https://www.snowflake.com/blog/how-to-easily-load-and-query-xml-data-with-snowflake-part-2/"/>
+        <updated>2022-07-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PLEASE NOTE: This post was originally published in July 2018. It has been updated to reflect currently availab […] The post How to Easily Load and Query XML Data with Snowflake (Part 2) appeared first...]]></summary>
+        <content type="html"><![CDATA[PLEASE NOTE: This post was originally published in July 2018. It has been updated to reflect currently availab […] The post How to Easily Load and Query XML Data with Snowflake (Part 2) appeared first on Snowflake.]]></content>
+        <author>
+            <name>Seeling Cheung</name>
+        </author>
+        <category label="Data Science  ML"/>
+        <category label="Product and Technology"/>
+        <category label="query xml data"/>
+        <category label="snowflake sql"/>
+        <category label="SQL"/>
+        <category label="SQL functions"/>
+        <category label="xml data"/>
+        <published>2022-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your Snowflake Data Clean Room Questions Answered | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202526</id>
+        <link href="https://www.snowflake.com/blog/data-clean-room-qa/"/>
+        <updated>2022-07-25T22:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Diverse data delivers richer experiences for customers. Layers of data—of all sizes and kinds—provide insights […] The post All Your Snowflake Data Clean Room Questions Answered appeared first on Snow...]]></summary>
+        <content type="html"><![CDATA[Diverse data delivers richer experiences for customers. Layers of data—of all sizes and kinds—provide insights […] The post All Your Snowflake Data Clean Room Questions Answered appeared first on Snowflake.]]></content>
+        <author>
+            <name>Jennifer BelissentRachel Blum</name>
+        </author>
+        <category label="Collaboration  Marketplace"/>
+        <category label="Product and Technology"/>
+        <category label="data clean rooms"/>
+        <category label="data collaboration"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-25T22:08:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=203096</id>
+        <link href="https://www.snowflake.com/blog/hunters-team-embraces-connected-app-model/"/>
+        <updated>2022-07-25T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[My co-founder and I started Hunters in 2018 with a mission to revolutionize security operations. We designed t […] The post Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model ap...]]></summary>
+        <content type="html"><![CDATA[My co-founder and I started Hunters in 2018 with a mission to revolutionize security operations. We designed t […] The post Powered by Snowflake: Why the Hunters Team Embraces a Connected App Model appeared first on Snowflake.]]></content>
+        <author>
+            <name>Uri May</name>
+        </author>
+        <category label="Partner  Customer Value"/>
+        <category label="Partner Perspectives"/>
+        <category label="connected apps"/>
+        <category label="managed apps"/>
+        <category label="security operations"/>
+        <category label="SOC"/>
+        <published>2022-07-25T17:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ | Snowflake]]></title>
+        <id>https://www.snowflake.com/blog/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8bsnowflake%e3%81%ae%e6%9c%80%e6%96%b0%e3%83%af%e3%83%bc%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%ef%bc%9a/</id>
+        <link href="https://www.snowflake.com/blog/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8bsnowflake%e3%81%ae%e6%9c%80%e6%96%b0%e3%83%af%e3%83%bc%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%ef%bc%9a/"/>
+        <updated>2022-07-25T03:40:20.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティは、根本的にデータの問題です。セキュリティチームは、データ分析チームが長年にわたって享受してきたような最新のデータスタックを効果的に利用できていません。旧式のテクノロジーと共に時代に取り残されたセキュ […] The post データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ appeared first on Snowflake.]]></summary>
+        <content type="html"><![CDATA[サイバーセキュリティは、根本的にデータの問題です。セキュリティチームは、データ分析チームが長年にわたって享受してきたような最新のデータスタックを効果的に利用できていません。旧式のテクノロジーと共に時代に取り残されたセキュ […] The post データクラウドにおけるSnowflakeの最新ワークロード：サイバーセキュリティ appeared first on Snowflake.]]></content>
+        <author>
+            <name>Omer Singer</name>
+        </author>
+        <category label="カテゴリーなし"/>
+        <category label="Snowflakeデータクラウド"/>
+        <category label="サイバーセキュリティ"/>
+        <published>2022-07-25T03:40:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[snowflake 地理空間関数でエリア情報を集計してみた | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=51244</id>
+        <link href="https://blog.truestar.co.jp/snowflake/20220722/51244/"/>
+        <updated>2022-07-22T06:02:40.000Z</updated>
+        <summary type="html"><![CDATA[snowflakeの地理空間関数が充実してきたようなので、これらを使ってPODBのデータを空間データを集計してみました。 本記事で紹介する関数 ST_POINT ST_INTERSECTS ST_DISTANCE ST_... snowflake 地理空間関数でエリア情報を集計してみた first appeared on Tableau-id Press -タブロイド-.]]></summary>
+        <content type="html"><![CDATA[snowflakeの地理空間関数が充実してきたようなので、これらを使ってPODBのデータを空間データを集計してみました。 本記事で紹介する関数 ST_POINT ST_INTERSECTS ST_DISTANCE ST_... snowflake 地理空間関数でエリア情報を集計してみた first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>s.noguchi</name>
+        </author>
+        <category label="Snowflake"/>
+        <category label="Prepper"/>
+        <category label="snowflake"/>
+        <category label="SQL"/>
+        <category label="商圏分析"/>
+        <category label="町丁目ポリゴン"/>
+        <category label="空間関数"/>
+        <published>2022-07-22T06:02:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring More Data to More People with Snowflake and Braze | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202411</id>
+        <link href="https://www.snowflake.com/blog/more-data-to-people-snowflake-braze/"/>
+        <updated>2022-07-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT has long been perceived as a cost center, but it’s increasingly being reimagined as a profit center by forw […] The post Bring More Data to More People with Snowflake and Braze appeared first on Sn...]]></summary>
+        <content type="html"><![CDATA[IT has long been perceived as a cost center, but it’s increasingly being reimagined as a profit center by forw […] The post Bring More Data to More People with Snowflake and Braze appeared first on Snowflake.]]></content>
+        <author>
+            <name>Kevin Wang</name>
+        </author>
+        <category label="Partner  Customer Value"/>
+        <published>2022-07-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use Cases | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202204</id>
+        <link href="https://www.snowflake.com/blog/pagerduty-uses-snowflake-for-self-service-analytics-and-new-use-cases/"/>
+        <updated>2022-07-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to managing digital operations, teams require a proactive and preventative approach. PagerDuty h […] The post How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use...]]></summary>
+        <content type="html"><![CDATA[When it comes to managing digital operations, teams require a proactive and preventative approach. PagerDuty h […] The post How PagerDuty Uses Snowflake for Self-Service Analytics and Discover New Use Cases appeared first on Snowflake.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <category label="Customer Stories"/>
+        <category label="Partner  Customer Value"/>
+        <category label="Data Cloud"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform in the Cloud with Snowflake | Snowflake]]></title>
+        <id>https://www.snowflake.com/?p=202035</id>
+        <link href="https://www.snowflake.com/blog/transport-infrastructure-agency-builds-collaborative-data-platform-with-snowflake/"/>
+        <updated>2022-07-19T17:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Finnish Transport Infrastructure Agency has to manage data generated by over €20B worth of infrastructure asse […] The post Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform...]]></summary>
+        <content type="html"><![CDATA[Finnish Transport Infrastructure Agency has to manage data generated by over €20B worth of infrastructure asse […] The post Finnish Transport Infrastructure Agency Builds a Collaborative Data Platform in the Cloud with Snowflake appeared first on Snowflake.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <category label="Customer Stories"/>
+        <category label="Partner  Customer Value"/>
+        <category label="Data Cloud"/>
+        <category label="Data Sharing"/>
+        <published>2022-07-19T17:51:52.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Fri, 29 Jul 2022 06:30:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【7月29日ランキング】Explore Azure Managed Instance for Apache Cassandra's new features | TechFeedおすすめ記事ランキング - Cassandraチャンネル]]></title>
+            <link>https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29</link>
+            <guid>https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29</guid>
+            <pubDate>Fri, 29 Jul 2022 02:00:07 GMT</pubDate>
+            <description><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2022/05/Azure_MI_Cassandra_Gif-1.gif"><br>Cassandraチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Explore Azure Ma...]]></description>
+            <content:encoded><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2022/05/Azure_MI_Cassandra_Gif-1.gif"><br>Cassandraチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Explore Azure Managed Instance for Apache Cassandra's new features（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Cassandra/selections/daily/2022/7/29?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FCassandra">]]></content:encoded>
+            <enclosure length="0" type="gif" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdevblogs.microsoft.com%2Fcosmosdb%2Fwp-content%2Fuploads%2Fsites%2F52%2F2022%2F05%2FAzure_MI_Cassandra_Gif-1.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[SpringBootの環境でAzure Container Registryにプッシュする方法 | エキサイト TechBlog.]]></title>
+            <link>https://tech.excite.co.jp/entry/2022/07/29/104000</link>
+            <guid>https://tech.excite.co.jp/entry/2022/07/29/104000</guid>
+            <pubDate>Fri, 29 Jul 2022 01:40:00 GMT</pubDate>
+            <description><![CDATA[はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサ...]]></description>
+            <content:encoded><![CDATA[はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサービスでは、クラウドサービスにMicrosoft Azureを使用しており、作成したアプリケーションはAzure Container Appsでの運用を考えています。 また、コンテナイメージはAzur…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/e/excite-kazuki/20220728/20220728122552.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月29日ランキング】現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティション分割する／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29</guid>
+            <pubDate>Thu, 28 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"><br>Microsoft Azureチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティシ...]]></description>
+            <content:encoded><![CDATA[<img src="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"><br>Microsoft Azureチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 現実の例を使用して Azure Cosmos DB のデータをモデル化およびパーティション分割する（docs.microsoft.com）<br>2位: SCSK、クラウド構築・運用自動化サービス「S-Cred＋プラットフォーム」をMicrosoft Azureに適用（cloud.watch.impress.co.jp）<br>1位: Azure Data Studio July Release with VS Code Updates（cloudblogs.microsoft.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/29?f...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fmedia%2Flogos%2Flogo-ms-social.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Azure】Azure Mobile Apps を使ってXamarin.Andoroidアプリをビルドしてみた | BFT名古屋 TECH BLOG]]></title>
+            <link>https://bftnagoya.hateblo.jp/entry/2022/07/28/174719</link>
+            <guid>https://bftnagoya.hateblo.jp/entry/2022/07/28/174719</guid>
+            <pubDate>Thu, 28 Jul 2022 08:47:19 GMT</pubDate>
+            <description><![CDATA[はじめに Azure Mobile Apps とは アプリをビルドするまでの手順 必要なもの 使用環境 １．環境構築 １－１．VisualStudio2022(Comunity)インストール １－２．Azureサービス認証 １－３．Azure CLIインストール ２．Azure Mobile Apps 導入 ２－１．資材準備 ２－２．Azure CLI サインイン ２－３．リソース作成 ２－４．サ...]]></description>
+            <content:encoded><![CDATA[はじめに Azure Mobile Apps とは アプリをビルドするまでの手順 必要なもの 使用環境 １．環境構築 １－１．VisualStudio2022(Comunity)インストール １－２．Azureサービス認証 １－３．Azure CLIインストール ２．Azure Mobile Apps 導入 ２－１．資材準備 ２－２．Azure CLI サインイン ２－３．リソース作成 ２－４．サービスコード発行 ２－５．SQLサーバ接続 ２－６．サービスコード発行（続き） 【トラブルシュート①】ファイルの中身書き換え 【トラブルシュート②】コンポーネントインストール ２－７．サンプルアプリの…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/b/bftnagoya/20220728/20220728174535.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WSL2 の Ubuntu から SqlConnection を使って Azure SQL Database に接続できない | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/karamem0/articles/2022_07_28_150000</link>
+            <guid>https://zenn.dev/karamem0/articles/2022_07_28_150000</guid>
+            <pubDate>Thu, 28 Jul 2022 06:06:19 GMT</pubDate>
+            <description><![CDATA[ハマったのでメモ。 WSL2 上に構築した Ubuntu で Azure SQL Database に接続する C# のプログラムを書いたところ以下のエラーが発生しました。   System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while es...]]></description>
+            <content:encoded><![CDATA[ハマったのでメモ。 WSL2 上に構築した Ubuntu で Azure SQL Database に接続する C# のプログラムを書いたところ以下のエラーが発生しました。   System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify tha...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wl24THw3--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:karamem0%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_57_bold:WSL2%2520%25E3%2581%25AE%2520Ubuntu%2520%25E3%2581%258B%25E3%2582%2589%2520SqlConnection%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Azure%2520SQL%2520Database%2520%25E3%2581%25AB%25E6%258E%25A5%25E7%25B6%259A%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c2bGhUVmNMR1VWelRPcHRJSFdCdDRJRDVmREpQVnlxNHJyUkNKbEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか6本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28</guid>
+            <pubDate>Wed, 27 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...]]></description>
+            <content:encoded><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>3位: エージェント型不動産売買仲介のTERASS、GCPやSBIらから10億円をシリーズB調達——エージェント数で国内最大規模目指す（thebridge.jp）<br>…ほか4本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28?from=rss" target="_blank">ランキン...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28</guid>
+            <pubDate>Wed, 27 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...]]></description>
+            <content:encoded><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>1位: What's new - Azure Sphere（docs.microsoft.com）<br>2位: Basic Authentication For Azure Functions (Open API) .Net 6（www.c-sharpcorner.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28?from=rss" target="_blank">ランキングはこちらから</a><i...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hub-Spoke構成の2つのネットワーク間のSpoke-Hub-Hub-SpokeをVNetピアリング＋Azure Firewallで実現 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/zukako/articles/adde75283e286e</link>
+            <guid>https://zenn.dev/zukako/articles/adde75283e286e</guid>
+            <pubDate>Wed, 27 Jul 2022 08:35:09 GMT</pubDate>
+            <description><![CDATA[やりたいこと AzureのWAFのDocsで見かけるリージョン間のHub-Spokeの連結を実際どうやるのか確認する。下の画像のイメージ。    検証準備   アーキテクチャのイメージ イメージはこんな感じ    Virtual Network  eastusにhub(10.0.0.0/16)とspoke(10.1.0.0/16) centralusにhub(10.101.0.0/16)とspok...]]></description>
+            <content:encoded><![CDATA[やりたいこと AzureのWAFのDocsで見かけるリージョン間のHub-Spokeの連結を実際どうやるのか確認する。下の画像のイメージ。    検証準備   アーキテクチャのイメージ イメージはこんな感じ    Virtual Network  eastusにhub(10.0.0.0/16)とspoke(10.1.0.0/16) centralusにhub(10.101.0.0/16)とspoke(10.100.0.0/16) 各リージョンのhub-spokeはピアリング hub-hub間はGlobalピアリング    Virtual Machine  各リージョンのSpokeに疎...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--F-QzPTV_--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:zukako%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_57_bold:Hub-Spoke%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AE2%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E9%2596%2593%25E3%2581%25AESpoke-Hub-Hub-Spoke%25E3%2582%2592VNet%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25EF%25BC%258BAzure%2520Firewall%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3FmUmo3eWpsb2Zid0tSdlVhTEVlMExEZzVqRkczSHR5VzAwekE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか5本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27</guid>
+            <pubDate>Tue, 26 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...]]></description>
+            <content:encoded><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: 第1回｜GCPの「Cloud Natural Language」の概要と活用方法（qiita.com）<br>3位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27?from=rss" target="_blank">ランキングはこちらから</a><img src="https...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか7本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27</guid>
+            <pubDate>Tue, 26 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...]]></description>
+            <content:encoded><![CDATA[<img src="https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた（dev.classmethod.jp）<br>3位: Generally available: New KMS DNS in Azure Global Cloud（azure.microsoft.com）<br>…ほか5本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27?fr...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Logic AppsのCustom Connectorを一から作成してみる | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/mizti/articles/c4284360bb15a5</link>
+            <guid>https://zenn.dev/mizti/articles/c4284360bb15a5</guid>
+            <pubDate>Tue, 26 Jul 2022 15:08:51 GMT</pubDate>
+            <description><![CDATA[Azure Logic Appsとは Logic Appsとは、Azureで提供されているサービスの一つで、様々なサービスからデータを取得したり連携したりするための処理を極めて簡単に定義できるのが特徴です。  Azureの各種サービス、各種SNSやWebサービス接続用の「コネクタ」がデフォルトで提供されており、フローチャート的に組み合わせるだけで処理を定義できる サーバレスで動作するため、処理が動...]]></description>
+            <content:encoded><![CDATA[Azure Logic Appsとは Logic Appsとは、Azureで提供されているサービスの一つで、様々なサービスからデータを取得したり連携したりするための処理を極めて簡単に定義できるのが特徴です。  Azureの各種サービス、各種SNSやWebサービス接続用の「コネクタ」がデフォルトで提供されており、フローチャート的に組み合わせるだけで処理を定義できる サーバレスで動作するため、処理が動作している時間のみに課金され極めて安価 (一ヶ月Webクローラーを動かして数十円の課金で済みました）  Logic Appsの編集画面はこんな感じです。 Logic Apps公式チュートリア...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--imC65Zeq--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mizti%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Azure%2520Logic%2520Apps%25E3%2581%25AECustom%2520Connector%25E3%2582%2592%25E4%25B8%2580%25E3%2581%258B%25E3%2582%2589%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lELUQxZUcyTk4zcFpBcWxTNWgtTTV1OW9DRFFQOXpKWE14Z285eFE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure empowers easy-to-use, high-performance, and hyperscale model training using DeepSpeed | Microsoft Azure Blog]]></title>
+            <link>https://azure.microsoft.com/blog/azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed/</link>
+            <guid>azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed</guid>
+            <pubDate>Tue, 26 Jul 2022 09:00:26 GMT</pubDate>
+            <description><![CDATA[Large-scale transformer-based deep learning models trained on large amounts of data have shown great results in recent years in several cognitive tasks and are behind new products and features that au...]]></description>
+            <content:encoded><![CDATA[Large-scale transformer-based deep learning models trained on large amounts of data have shown great results in recent years in several cognitive tasks and are behind new products and features that augment human capabilities. Azure Machine Learning (AzureML) brings large fleets of the latest GPUs powered by the InfiniBand interconnect to tackle large-scale AI training.]]></content:encoded>
+            <category>Machine Learning</category>
+            <enclosure length="0" type="png" url="https://azurecomcdn.azureedge.net/cvt-e6ba09c1c4cf3d2dd66c3d21bb7d0bb92673e26ddcf5d448d2a63cdf37bc8df5/images/shared/social/azure-icon-250x250.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azureで実現できるDevOps環境を調べてみた【SREの登竜門】 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20220726/azure</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20220726/azure</guid>
+            <pubDate>Tue, 26 Jul 2022 06:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 皆さん、こんにちは。tomo37kunです。 突然ですが、Googleが提唱している「class SRE implements DevOps」の考えを御存知でしょうか？ 「class SRE implements DevOps」は「SREはDevOpsというinterfaceの実装である」という意味を表します。 つまり、「DevOps = 思想」という定義に対し、それを具体化し実装したも...]]></description>
+            <content:encoded><![CDATA[はじめに 皆さん、こんにちは。tomo37kunです。 突然ですが、Googleが提唱している「class SRE implements DevOps」の考えを御存知でしょうか？ 「class SRE implements DevOps」は「SREはDevOpsというinterfaceの実装である」という意味を表します。 つまり、「DevOps = 思想」という定義に対し、それを具体化し実装したものがSREであるという考えになります。 昨今、注目が集まるSREの考え方を実践していく上で、定義に反する実装を行わないためにも、DevOpsの理解は避けられません。 今回はAzureを使用することで実…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tech-rakus/20220725/20220725110535.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Container Registry（ACR）でHelmチャートを共有する | APC 技術ブログ]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2022/07/26/101500</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2022/07/26/101500</guid>
+            <pubDate>Tue, 26 Jul 2022 01:15:00 GMT</pubDate>
+            <description><![CDATA[今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれ...]]></description>
+            <content:encoded><![CDATA[今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれません。 しかし、複数のアプリケーションを何度もデプロイしていると、 「いつも同じ内容書いているなー」とか、「Api Versionの更新や内容を1箇所でまとめたいなー」とか、 「組織内で統一的に管理…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/t/turtle2005/20220408/20220408155804.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月26日ランキング】Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた／ほか3本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/26</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/26</guid>
+            <pubDate>Mon, 25 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/07/microsoft-eyecatch.jpg"><br>Microsoft Azureチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: Microsoft Entra ...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/07/microsoft-eyecatch.jpg"><br>Microsoft Azureチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた（dev.classmethod.jp）<br>2位: NTT東日本、Azure Stack Hubを活用したプライベートクラウド基盤を地域向けに提供する「地域エッジクラウド」を開始（cloud.watch.impress.co.jp）<br>3位: Azure無料枠でTodoアプリ【ASP.NET, CosmosDB】（qiita.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/d...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ssl-devio-img.classmethod.jp%2Fwp-content%2Fuploads%2F2019%2F07%2Fmicrosoft-eyecatch.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[セキュアエレメント搭載のM5StackでAzure IoT Hubへ接続してみた |  | One Tech Blog]]></title>
+            <link>https://tech.gmogshd.com/m5stack-core-2-for-aws%e3%81%a7azure-iot%e3%81%b8%e6%8e%a5%e7%b6%9a/</link>
+            <guid>https://tech.gmogshd.com/?p=3550</guid>
+            <pubDate>Mon, 25 Jul 2022 04:00:33 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは。CTO室のringoです。 M5StackとAWS IoTの記事は多く見かけるのですが、Azure IoTについての記事は少ないなと思ったので、セキュアエレメントが搭載されたM5Stack Core2 for AWSでAzure […]]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは。CTO室のringoです。 M5StackとAWS IoTの記事は多く見かけるのですが、Azure IoTについての記事は少ないなと思ったので、セキュアエレメントが搭載されたM5Stack Core2 for AWSでAzure […]]]></content:encoded>
+            <category>IoT</category>
+            <category>Security</category>
+            <category>Azure</category>
+            <category>x.509</category>
+            <enclosure length="0" type="jpg" url="https://tech.gmogshd.com/wp-content/uploads/2021/07/1826323_s.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月25日ランキング】SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた／ほか8本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル]]></title>
+            <link>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/25</link>
+            <guid>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/25</guid>
+            <pubDate>Sun, 24 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1...]]></description>
+            <content:encoded><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"><br>認証 / 認可チャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事7本、英語記事2本）。<br>1位: SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた（www.peridot-green.com）<br>2位: 歯ぎしりの音をイヤフォンで拾い個人認証 米国チーム「ToothSonic」開発（www.itmedia.co.jp）<b...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月25日ランキング】Azure始める人向けに見てほしい資料など／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25</guid>
+            <pubDate>Sun, 24 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://ogimage.blog.st-hatena.com/12704346814673850863/4207112889901883380/1658637960"><br>Microsoft Azureチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Azure始める人向けに見てほしい資料など（kkame...]]></description>
+            <content:encoded><![CDATA[<img src="https://ogimage.blog.st-hatena.com/12704346814673850863/4207112889901883380/1658637960"><br>Microsoft Azureチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Azure始める人向けに見てほしい資料など（kkamegawa.hatenablog.jp）<br>2位: Azure無料枠でTodoアプリ【ASP.NET, CosmosDB】（qiita.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicroso...]]></content:encoded>
+            <enclosure length="0" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F12704346814673850863%2F4207112889901883380%2F1658637960"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月25日ランキング】SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた／ほか2本 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル]]></title>
+            <link>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/25</link>
+            <guid>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/25</guid>
+            <pubDate>Sun, 24 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1...]]></description>
+            <content:encoded><![CDATA[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"><br>X as a Serviceチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事3本）。<br>1位: SaaSをAzure ADでシングルサインオンを構成する流れをわかりやすくまとめてみた（www.peridot-green.com）<br>2位: 87億調達のスタートアップで働くみんなのデスク環境 10万の建設事業者を支えるSaaSが生まれる働き方（www.itme...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzoZTfyx-XUXkgXPMdjHorBaguGh5T1JQ9WEXZJEOa0dQKxpQ8Twze1A99a-m7ZOZi0_iQrO33y6vz-gJT4akb77AfM-HVV2YC-q6QmVdVJy4_Ns5D--MH7hlTt8IIg9B1KfZv8bK8ZhNpKEPykuiKiKxP9CiFLnWbpvT0VnT5FqrC-cyz-_xXwBSuA/w1200-h630-p-k-no-nu/10_SAML.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月3週ランキング】【Teams障害時のワークアラウンド】Azure Communication Service を使って9クリックでグループ通話アプリをデプロイしてみた／ほか19本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/weekly/2022/W29</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/weekly/2022/W29</guid>
+            <pubDate>Sun, 24 Jul 2022 14:59:59 GMT</pubDate>
+            <description><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></description>
+            <content:encoded><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwVGVhbXMlRTklOUElOUMlRTUlQUUlQjMlRTYlOTklODIlRTMlODElQUUlRTMlODMlQUYlRTMlODMlQkMlRTMlODIlQUYlRTMlODIlQTIlRTMlODMlQTklRTMlODIlQTYlRTMlODMlQjMlRTMlODMlODklRTMlODAlOTFBenVyZSUyMENvbW11bmljYXRpb24lMjBTZXJ2aWNlJTIwJUU...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月3週ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか6本 | TechFeedおすすめ記事ランキング - Oracleチャンネル]]></title>
+            <link>https://techfeed.io/channels/Oracle/selections/weekly/2022/W29</link>
+            <guid>https://techfeed.io/channels/Oracle/selections/weekly/2022/W29</guid>
+            <pubDate>Sun, 24 Jul 2022 14:59:59 GMT</pubDate>
+            <description><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事4本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。Azureか...]]></description>
+            <content:encoded><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事4本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>2位: 記録的熱波によりGoogle CloudとOracle Cloudの2つのクラウドサービスがほぼ同タイミングで停止（gigazine.net）<br>3位: Oracle Java の脆弱性対策について(CVE-2022-34169等)（www.ipa.go.jp）<br>…ほか4本<br><a href="https://techfeed.io/channels/Oracle/selections/weekly/2022/W29?from=rss" target="_blan...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2022%2Foracledb4azure01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Minecraftのログイン認証ができるAzure Appを作る | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/ddpn08/articles/tech-azure-minecraft</link>
+            <guid>https://zenn.dev/ddpn08/articles/tech-azure-minecraft</guid>
+            <pubDate>Sun, 24 Jul 2022 00:28:36 GMT</pubDate>
+            <description><![CDATA[! 初心者のメモ程度の記事です。    概要 Minecraftのログイン処理で使用するアプリの作り方をメモ程度に書きます。   作る   Azure Active Directory を選択    アプリの登録 を選択    アプリの新規作成 をクリック    アプリの情報を入力   アプリ名を入力 (例: SasaLauncher ) アカウントの種類を個人用アカウントのみに変更 リダイレクト...]]></description>
+            <content:encoded><![CDATA[! 初心者のメモ程度の記事です。    概要 Minecraftのログイン処理で使用するアプリの作り方をメモ程度に書きます。   作る   Azure Active Directory を選択    アプリの登録 を選択    アプリの新規作成 をクリック    アプリの情報を入力   アプリ名を入力 (例: SasaLauncher ) アカウントの種類を個人用アカウントのみに変更 リダイレクトURLにhttp://localhostを入力  登録 をクリックして登録完了。    証明書とシークレット を選択    シークレットの作成    新しいクライアントシークレット をクリック ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--CN6sLBZs--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25A0%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%2593%25E3%2581%25B1%25E3%2582%2593%25E3%2581%25A0%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Minecraft%25E3%2581%25AE%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E8%25AA%258D%25E8%25A8%25BC%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BAzure%2520App%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hHRTBySGZ6M3dVbjZqVndpRG1iVUxTVFluSTNLSFl4VmFjdXJzPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure ポータルで特定テナントでサインインを行うための URL | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/okazuki/articles/signin-to-specific-tenant-for-azure-portal</link>
+            <guid>https://zenn.dev/okazuki/articles/signin-to-specific-tenant-for-azure-portal</guid>
+            <pubDate>Fri, 22 Jul 2022 07:27:51 GMT</pubDate>
+            <description><![CDATA[追記 Tweet で教えてもらいましたが https://portal.azure.com/@{サインインしたいテナントのドメイン名} でもいいみたいです。 https://twitter.com/kongou_ae/status/1550457292134711296   元の文 Azure ポータルには https://portal.azure.com でサインイン出来ます。 このとき何も指定...]]></description>
+            <content:encoded><![CDATA[追記 Tweet で教えてもらいましたが https://portal.azure.com/@{サインインしたいテナントのドメイン名} でもいいみたいです。 https://twitter.com/kongou_ae/status/1550457292134711296   元の文 Azure ポータルには https://portal.azure.com でサインイン出来ます。 このとき何も指定しないと、デフォルトのテナントで設定したサブスクリプションが選ばれた状態でサインインされます。 大体のケースでは、サインイン後にテナントの切り替えを行えば良いのですが特定のテナントを指定して...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BqlRlTxS--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kazuki%2520Ota%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Azure%2520%25E3%2583%259D%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E7%2589%25B9%25E5%25AE%259A%25E3%2583%2586%25E3%2583%258A%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%2520URL%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1uNG9JaHJGMi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Key Vault を Bicep から参照する | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/skmkzyk/articles/bicep-key-vault-reference</link>
+            <guid>https://zenn.dev/skmkzyk/articles/bicep-key-vault-reference</guid>
+            <pubDate>Fri, 22 Jul 2022 06:52:04 GMT</pubDate>
+            <description><![CDATA[TL;DR Bicep デプロイ時に Azure Key Vault を使用して、セキュリティで保護されたパラメーター値を渡す の焼き直しです！   パスワードとか PSK とかを Bicep に書きたくない 当たり前ですが、パスワードとか VPN の PSK (Pre-Shared Key) を Bicep ファイルに平文で書くのはあまりセキュアではないですね。 デプロイ時に手で入力するのでもい...]]></description>
+            <content:encoded><![CDATA[TL;DR Bicep デプロイ時に Azure Key Vault を使用して、セキュリティで保護されたパラメーター値を渡す の焼き直しです！   パスワードとか PSK とかを Bicep に書きたくない 当たり前ですが、パスワードとか VPN の PSK (Pre-Shared Key) を Bicep ファイルに平文で書くのはあまりセキュアではないですね。 デプロイ時に手で入力するのでもいいのですが、ややめんどいです。   Bicep には Azure Key Vault 参照の機能がある Bicep ファイルに直接そういった文字列を書かなくても、Azure Key Vaul...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--j6JwXQ0J--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:skmkzyk%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Azure%2520Key%2520Vault%2520%25E3%2582%2592%2520Bicep%2520%25E3%2581%258B%25E3%2582%2589%25E5%258F%2582%25E7%2585%25A7%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pYcVVMY1BuTE5JRERHNkt6a3JZMnAzVVQzRFdkb2F5WUZDaVFENTJJPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[LaravelをAzureにデプロイする | APC 技術ブログ]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2022/07/22/103259</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2022/07/22/103259</guid>
+            <pubDate>Fri, 22 Jul 2022 01:32:59 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、ACS事業部の奥山です。 Laravel アプリケーションを Azure へデプロイする方法について調査した結果をブログとして纏めておきます。 Laravel にはdocker-composeを利用したSailと呼ばれる環境構築ツールがありますが、こちらはあくまで開発環境向けということで今回は本番・運用環境はどうするのかという観点での検証です。 本ブログではLaravelアプ...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、ACS事業部の奥山です。 Laravel アプリケーションを Azure へデプロイする方法について調査した結果をブログとして纏めておきます。 Laravel にはdocker-composeを利用したSailと呼ばれる環境構築ツールがありますが、こちらはあくまで開発環境向けということで今回は本番・運用環境はどうするのかという観点での検証です。 本ブログではLaravelアプリケーションをコンテナ化してAzureのいろいろなサービスで動作することを確認してみようと思います。 まず、PHP の Laravel とは JavaのSpringBoot や NodeJSのexpr…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mountain1415/20220721/20220721151124.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure AutoML で自動機械学習を体験してみよう！ | 神戸のデータ活用塾！KDL Data Blog]]></title>
+            <link>https://kdl-di.hatenablog.com/entry/2022/07/22/090000</link>
+            <guid>https://kdl-di.hatenablog.com/entry/2022/07/22/090000</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[画面上の操作のみで自動的に機械学習モデルを作成することができるAzure AutoMLで実際に分類モデルを作成します]]></description>
+            <content:encoded><![CDATA[画面上の操作のみで自動的に機械学習モデルを作成することができるAzure AutoMLで実際に分類モデルを作成します]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kdl-di/20220714/20220714191244.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月22日ランキング】価格 - Azure Active Directory／ほか7本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル]]></title>
+            <link>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22</link>
+            <guid>https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22</guid>
+            <pubDate>Thu, 21 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315"><br>認証 / 認可チャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事5本）。<br>1位: 価格 - Azure Active Directory（azure.mic...]]></description>
+            <content:encoded><![CDATA[<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315"><br>認証 / 認可チャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事5本）。<br>1位: 価格 - Azure Active Directory（azure.microsoft.com）<br>2位: ISR、生体情報を用いたMFAの現状と今後を解説 スマホのFIDO準拠拡大でパスワードレス導入が一気に加速か？（cloud.watch.impress.co.jp）<br>3位: 中国配車アプリ「DiDi」に罰金1640億円。スクショ画像や顔認証など647億件の個人情報を違法に取得か（www.huffingtonpost.jp）<br>…ほか5本<br><a href="https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2022/7/22?f...]]></content:encoded>
+            <enclosure length="0" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fazure.microsoft.com%2Fsvghandler%2Factive-directory%2F%3Fwidth%3D600%26height%3D315"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月22日ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか7本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/22</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/22</guid>
+            <pubDate>Thu, 21 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Microsoft Azureチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azu...]]></description>
+            <content:encoded><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Microsoft Azureチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>2位: 【Teams障害時のワークアラウンド】Azure Communication Service を使って9クリックでグループ通話アプリをデプロイしてみた（qiita.com）<br>3位: カオスエンジニアリングを安全に行うには？ AWSとAzureのマネージドサービスの特徴を解説（codezine.jp）<br>…ほか5本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selecti...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2022%2Foracledb4azure01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月22日ランキング】マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に／ほか3本 | TechFeedおすすめ記事ランキング - Oracleチャンネル]]></title>
+            <link>https://techfeed.io/channels/Oracle/selections/daily/2022/7/22</link>
+            <guid>https://techfeed.io/channels/Oracle/selections/daily/2022/7/22</guid>
+            <pubDate>Thu, 21 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。Azu...]]></description>
+            <content:encoded><![CDATA[<img src="https://www.publickey1.jp/2022/oracledb4azure01.png"><br>Oracleチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: マイクロソフトとオラクル、「Oracle Database Service for Microsoft Azure」発表。AzureからOracle Cloudのデータベースをプロビジョニング可能に（www.publickey1.jp）<br>1位: Heatwave forced Google and Oracle to shut down computers（www.bbc.com）<br>2位: Kubernetes Networking with Cilium CNI and OKE on Oracle Cloud（lmukadam.medium.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Oracle/selections/daily/2022...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2022%2Foracledb4azure01.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Google Cloud SQL と Power BI を使用したマルチクラウドでのレポート作成とアナリティクス | Google Cloud]]></title>
+            <link>https://cloud.google.com/blog/ja/products/data-analytics/reporting-and-analytics-using-google-cloud-sql-and-microsoft-power-bi/</link>
+            <guid>https://cloud.google.com/blog/ja/products/data-analytics/reporting-and-analytics-using-google-cloud-sql-and-microsoft-power-bi/</guid>
+            <pubDate>Thu, 21 Jul 2022 09:00:00 GMT</pubDate>
+            <description><![CDATA[※この投稿は米国時間 2022 年 7 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 Cloud SQL のデベロッパーやビジネス ユーザーは、Google Cloud にデータベースを移行した後も、Microsoft Power BI などの使い慣れたビジネス インテリジェンス ツールを使用して Cloud SQL から MySQL、PostgreSQL、SQ...]]></description>
+            <content:encoded><![CDATA[※この投稿は米国時間 2022 年 7 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 Cloud SQL のデベロッパーやビジネス ユーザーは、Google Cloud にデータベースを移行した後も、Microsoft Power BI などの使い慣れたビジネス インテリジェンス ツールを使用して Cloud SQL から MySQL、PostgreSQL、SQL Server といった各データベースに接続し、レポートを作成できます。 データベースを迅速に GCP に移行できて、しかもリファクタリングの手間や、レポートと BI ツールを新たに開発する必要がない、これは企業が Cloud SQL へ移行するうえで重要なポイントです。組織は今日にでも移行を実施できますし、引き続くプロジェクト フェーズでデータベースのプラットフォームの再構築やレポート作成のリファクタリングを行うことができます。      以下のガイドでは、Cloud SQL から Power BI レポートを構成する際の主要な手順を説明していきます。環境や要件は異なる場合もありますが、設...]]></content:encoded>
+            <category>Databases</category>
+            <category>Google Cloud</category>
+            <category>Data Analytics</category>
+            <enclosure length="0" type="jpg" url="https://storage.googleapis.com/gweb-cloudblog-publish/images/000_Image.max-1300x1300.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月21日ランキング】Azureの資格を全て取ったので資格制度について語る（2022/07現在21個）／ほか14本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/21</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/21</guid>
+            <pubDate>Wed, 20 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/u/ussvgr/20220720/20220720042550.jpg"><br>Microsoft Azureチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事10本）。<br>1位: Azureの資格を全て取ったので資格制度につ...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/u/ussvgr/20220720/20220720042550.jpg"><br>Microsoft Azureチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事10本）。<br>1位: Azureの資格を全て取ったので資格制度について語る（2022/07現在21個）（techblog.ap-com.co.jp）<br>2位: AzureとOCI上のOracle DBを接続する「Oracle Database Service for Microsoft Azure」を提供（cloud.watch.impress.co.jp）<br>3位: カオスエンジニアリングを安全に行うには？ AWSとAzureのマネージドサービスの特徴を解説（codezine.jp）<br>…ほか12本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/dai...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Fussvgr%2F20220720%2F20220720042550.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月21日ランキング】IoT事業の実現可否をIIJが主体となって2カ月50万円で検証するサービス、AzureのPaaSを活用／ほか3本 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル]]></title>
+            <link>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/21</link>
+            <guid>https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2022/7/21</guid>
+            <pubDate>Wed, 20 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://it.impress.co.jp/mwimgs/0/a/400/img_0ac939e9fa0ae77337025f62e4a1f91184739.jpg"><br>X as a Serviceチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: IoT事業の実現可否をIIJが主体となって2...]]></description>
+            <content:encoded><![CDATA[<img src="https://it.impress.co.jp/mwimgs/0/a/400/img_0ac939e9fa0ae77337025f62e4a1f91184739.jpg"><br>X as a Serviceチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: IoT事業の実現可否をIIJが主体となって2カ月50万円で検証するサービス、AzureのPaaSを活用（it.impress.co.jp）<br>2位: IIJ、Microsoft AzureのPaaSを活用し「ラボ型PoC」でIoT展開を支援するソリューションを提供（iotnews.jp）<br>3位: 日本の労働生産性の低さは「SaaS企業とエンジニアの意識」で変えられる【LayerX福島×ナレッジワーク川中】 - エンジニアtype（type.jp）<br>…ほか1本<br><a href="https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/202...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fit.impress.co.jp%2Fmwimgs%2F0%2Fa%2F400%2Fimg_0ac939e9fa0ae77337025f62e4a1f91184739.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azureの資格を全て取ったので資格制度について語る（2022/07現在21個） | APC 技術ブログ]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2022/07/20/120000</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2022/07/20/120000</guid>
+            <pubDate>Wed, 20 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、ACS事業部の吉川です。 タイトルにあるとおり、Azureの認定資格全21種を取得しました。 以下URLで公開されている認定資格ポスターのうち、一番左の Azure 列の資格が対象です。 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI このポスターは毎月更新されており内容が変わってしまうので、...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、ACS事業部の吉川です。 タイトルにあるとおり、Azureの認定資格全21種を取得しました。 以下URLで公開されている認定資格ポスターのうち、一番左の Azure 列の資格が対象です。 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI このポスターは毎月更新されており内容が変わってしまうので、2022年7月時点の画像も貼っておきます。 私が取得済みの資格にレ点を付けています。 以下は資格取得後発行されるデジタルバッジの一覧です。 www.credly.com 試験を大量に受け続けた経験から…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://cdn-ak.f.st-hatena.com/images/fotolife/u/ussvgr/20220720/20220720042550.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure DevOps のwikiにAzure CLIを使ってページを生やす！ | cloud.config Tech Blog]]></title>
+            <link>https://tech-blog.cloud-config.jp/2022-07-19-azure-devops-wiki-cli/</link>
+            <guid>https://tech-blog.cloud-config.jp/?p=117457</guid>
+            <pubDate>Wed, 20 Jul 2022 01:45:59 GMT</pubDate>
+            <description><![CDATA[こんにちは、さとはるです。 Azure DevOpsはパイプラインやタスク管理が有名ですが、wiki機能もあります。 DevOpsのwikiはマークダウンで書ける上に、多重にネストできるページやタスクとの連携等便利機能も […] Azure DevOps のwikiにAzure CLIを使ってページを生やす！ first appeared on cloud.config Tech Blog.]]></description>
+            <content:encoded><![CDATA[こんにちは、さとはるです。 Azure DevOpsはパイプラインやタスク管理が有名ですが、wiki機能もあります。 DevOpsのwikiはマークダウンで書ける上に、多重にネストできるページやタスクとの連携等便利機能も […] Azure DevOps のwikiにAzure CLIを使ってページを生やす！ first appeared on cloud.config Tech Blog.]]></content:encoded>
+            <category>Azure</category>
+            <category>Azure Relay</category>
+            <category>azure cli</category>
+            <category>DevOps</category>
+            <enclosure length="0" type="jpeg" url="https://tech-blog.cloud-config.jp/wp-content/uploads/2022-07-19-azure-devops-wiki-cli-000.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月20日ランキング】各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更新）／ほか10本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20</guid>
+            <pubDate>Tue, 19 Jul 2022 20:00:06 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"><br>Microsoft Azureチャンネル 2022年7月20日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事6本）。<br>1位: 各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"><br>Microsoft Azureチャンネル 2022年7月20日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事6本）。<br>1位: 各言語向けの Azure Cosmos DB SDK がサポートしている機能まとめ（随時更新）（blog.shibayan.jp）<br>2位: Azure SDK for Pythonの利用メモ（qiita.com）<br>3位: 株式会社ヘッドハイ、マイクロソフト社のスタートアップ支援プログラム「Microsoft for Startups」に採択。Azureを活用し、ゲームへ"視聴者が介入できる"ライブ動画配信...（prtimes.jp）<br>…ほか8本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/20?from=rss" target="_blank...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Pipelinesのコマンドの基本的な使い方 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/gekal/articles/azure-devops-pipeline-cli-sample</link>
+            <guid>https://zenn.dev/gekal/articles/azure-devops-pipeline-cli-sample</guid>
+            <pubDate>Tue, 19 Jul 2022 15:04:01 GMT</pubDate>
+            <description><![CDATA[前提条件  devopsへのログインは完了していること。  $ az devops login --organization https://dev.azure.com/gekal Token: <認証のToken情報>    pipelines管理   新規 $ az pipelines create --name 'GekalBuild' --description 'Pipeline for...]]></description>
+            <content:encoded><![CDATA[前提条件  devopsへのログインは完了していること。  $ az devops login --organization https://dev.azure.com/gekal Token: <認証のToken情報>    pipelines管理   新規 $ az pipelines create --name 'GekalBuild' --description 'Pipeline for gekal project' \  --organization https://dev.azure.com/gekal --project sample \  -...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--iVEbqwT6--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:gekal%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Azure%2520Pipelines%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E7%259A%2584%25E3%2581%25AA%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h2bkp6Mm9LMVFNMmt0cnpzbFdtYkRWMDY0VVlBWU1KUktkWlpVdGc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Cosmos DB Linux Emulator を Docker for Windows で動かす | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/k_maru/articles/cosmos_linux_emulator_on_docker_for_windows</link>
+            <guid>https://zenn.dev/k_maru/articles/cosmos_linux_emulator_on_docker_for_windows</guid>
+            <pubDate>Tue, 19 Jul 2022 09:55:58 GMT</pubDate>
+            <description><![CDATA[Azure Cosmos DB Linux Emulator があるのですが、公式ドキュメントやと Docker for Linux で動かす説明だけ書かれてます。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/linux-emulator?tabs=sql-api%2Cssl-netstd21 Docker for Windows やと、Win...]]></description>
+            <content:encoded><![CDATA[Azure Cosmos DB Linux Emulator があるのですが、公式ドキュメントやと Docker for Linux で動かす説明だけ書かれてます。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/linux-emulator?tabs=sql-api%2Cssl-netstd21 Docker for Windows やと、Windows コンテナで Azure Cosmos DB Emulator を使う説明しかない。 https://docs.microsoft.com/ja-jp/azure/cosmos-db/l...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8MPBbaV7--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:k_maru%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Azure%2520Cosmos%2520DB%2520Linux%2520Emulator%2520%25E3%2582%2592%2520Docker%2520for%2520Windows%2520%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2d6QnAwc09IRG5JMW1IM0JLQ21CNjV2OG4wWmNHOFRuZnpHeXNsPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrate and modernize with Azure to power innovation across the entire digital estate | Microsoft Azure Blog]]></title>
+            <link>https://azure.microsoft.com/blog/migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate/</link>
+            <guid>migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate</guid>
+            <pubDate>Tue, 19 Jul 2022 08:00:02 GMT</pubDate>
+            <description><![CDATA[Cloud adoption increased significantly during COVID-19 and continues for many companies. However, an enormous migration and modernization opportunity remains as organizations continue their digital tr...]]></description>
+            <content:encoded><![CDATA[Cloud adoption increased significantly during COVID-19 and continues for many companies. However, an enormous migration and modernization opportunity remains as organizations continue their digital transformation. This is why we are focusing on three key areas of growth at Microsoft Inspire: innovation with new cloud-native experiences, modernization of app and data estates, and migration and modernization of infrastructure and mission-critical workloads.]]></content:encoded>
+            <category>Cloud Strategy</category>
+            <category>Azure Marketplace</category>
+            <category>Migration</category>
+            <enclosure length="0" type="png" url="https://azurecomcdn.azureedge.net/cvt-e6ba09c1c4cf3d2dd66c3d21bb7d0bb92673e26ddcf5d448d2a63cdf37bc8df5/images/shared/social/azure-icon-250x250.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【7月19日ランキング】Azure SDK for Pythonの利用メモ／ほか6本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/19</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/19</guid>
+            <pubDate>Mon, 18 Jul 2022 20:00:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...]]></description>
+            <content:encoded><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QXp1cmUlMjBTREslMjBmb3IlMjBQeXRob24lRTMlODElQUUlRTUlODglQTklRTclOTQlQTglRTMlODMlQTElRTMlODMlQTImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCU...]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Azure】Cognitive Service for Languageを使って感情分析をやってみた | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/robes/articles/0e3df240890863</link>
+            <guid>https://zenn.dev/robes/articles/0e3df240890863</guid>
+            <pubDate>Mon, 18 Jul 2022 10:48:10 GMT</pubDate>
+            <description><![CDATA[Azure Cognitive Service for Languageを使って、自然言語処理／感情分析をやってみたので、備忘も兼ねて記録します。  以下のMicrosoftの公式ドキュメント（英語）を参考にしています。  https://docs.microsoft.com/ja-JP/python/api/overview/azure/ai-textanalytics-readme?view=...]]></description>
+            <content:encoded><![CDATA[Azure Cognitive Service for Languageを使って、自然言語処理／感情分析をやってみたので、備忘も兼ねて記録します。  以下のMicrosoftの公式ドキュメント（英語）を参考にしています。  https://docs.microsoft.com/ja-JP/python/api/overview/azure/ai-textanalytics-readme?view=azure-python-preview&preserve-view=true#extract-key-phrases   前提 Cognitive Serviceのリソースを作成したう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--YIQDLhru--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:osn_Lofi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%25E3%2580%2590Azure%25E3%2580%2591Cognitive%2520Service%2520for%2520Language%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E6%2584%259F%25E6%2583%2585%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1kTFVlMFdPNy0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYwN2VmNjZiMGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Premium SSD v2 Disk Storage in preview | Microsoft Azure Blog]]></title>
+            <link>https://azure.microsoft.com/blog/azure-premium-ssd-v2-disk-storage-in-preview/</link>
+            <guid>azure-premium-ssd-v2-disk-storage-in-preview</guid>
+            <pubDate>Mon, 18 Jul 2022 10:10:29 GMT</pubDate>
+            <description><![CDATA[We are excited to announce the preview of Premium SSD v2, the next generation of Azure Premium SSD Disk Storage. This new disk offering provides the most advanced block storage solution designed for a...]]></description>
+            <content:encoded><![CDATA[We are excited to announce the preview of Premium SSD v2, the next generation of Azure Premium SSD Disk Storage. This new disk offering provides the most advanced block storage solution designed for a broad range of input/output (IO)-intensive enterprise production workloads that require sub-millisecond disk latencies as well as high input/output operations per second (IOPS) and throughput—at a low cost.]]></content:encoded>
+            <category>Cloud Strategy</category>
+            <category>Storage, Backup  Recovery</category>
+            <enclosure length="0" type="png" url="https://azurecomcdn.azureedge.net/cvt-e6ba09c1c4cf3d2dd66c3d21bb7d0bb92673e26ddcf5d448d2a63cdf37bc8df5/images/shared/social/azure-icon-250x250.png"/>
+        </item>
+        <item>
+            <title><![CDATA[速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー | cloud.config Tech Blog]]></title>
+            <link>https://tech-blog.cloud-config.jp/2022-07-15-synapse-map-data-tool-is-now-ga/</link>
+            <guid>https://tech-blog.cloud-config.jp/?p=117391</guid>
+            <pubDate>Fri, 15 Jul 2022 10:28:55 GMT</pubDate>
+            <description><![CDATA[はじめに 速報です。2022年7月12日にSynapse AnalyticsでMap Dataという機能がGA（一般提供開始）されました。この記事ではそもそもSynapse Analyticsが何だったっけという話と、M […] 速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー first appeared on cloud.confi...]]></description>
+            <content:encoded><![CDATA[はじめに 速報です。2022年7月12日にSynapse AnalyticsでMap Dataという機能がGA（一般提供開始）されました。この記事ではそもそもSynapse Analyticsが何だったっけという話と、M […] 速報です。Synapse AnalyticsでMap Data機能が一般提供開始されました #Azureリレー first appeared on cloud.config Tech Blog.]]></content:encoded>
+            <category>Azure</category>
+            <category>Azure Relay</category>
+            <category>Synapse Analytics</category>
+            <category>新機能</category>
+            <enclosure length="0" type="png" url="https://tech-blog.cloud-config.jp/wp-content/uploads/2022-07-15-synapse-map-data-tool-is-now-ga-000.png"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,968 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://devblog.pirika.org/entry/2022/07/29/113000",
+            "content_html": "こんにちは、ピリカ開発チームの九鬼です。 Firebaseを使ったサービスに関して、サービスによっては複数bucketを使いたい場合があります。デフォルトだと単一bucketしかセキュリティルールを割り当てられないのですが、.firebasercおよびfirebase.jsonの設定により対応できました。ここにその方法を記載します。",
+            "url": "https://devblog.pirika.org/entry/2022/07/29/113000",
+            "title": "Cloud Storage for Firebaseで、bucketごとにセキュリティルールを割り当てる | Pirika Developers Blog",
+            "summary": "こんにちは、ピリカ開発チームの九鬼です。 Firebaseを使ったサービスに関して、サービスによっては複数bucketを使いたい場合があります。デフォルトだと単一bucketしかセキュリティルールを割り当てられないのですが、.firebasercおよびfirebase.jsonの設定により対応できました。ここにその方法を記載します。",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/pirika-inc/20220721/20220721124831.png"
+            },
+            "date_modified": "2022-07-29T02:30:00.000Z",
+            "date_published": "2022-07-29T02:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Storage for Firebaseで、bucketごとにセキュリティルールを割り当てる",
+                "blogTitle": "Pirika Developers Blog",
+                "blogLink": "https://devblog.pirika.org/",
+                "blogLinkMd5Hash": "7c23669eda9ee9cc062c61160790350d"
+            }
+        },
+        {
+            "id": "https://tech.excite.co.jp/entry/2022/07/29/104000",
+            "content_html": "はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサービスでは、クラウドサービスにMicrosoft Azureを使用しており、作成したアプリケーションはAzure Container Appsでの運用を考えています。 また、コンテナイメージはAzur…",
+            "url": "https://tech.excite.co.jp/entry/2022/07/29/104000",
+            "title": "SpringBootの環境でAzure Container Registryにプッシュする方法 | エキサイト TechBlog.",
+            "summary": "はじめに 環境 認証情報の取り扱い ログイン処理 jibでビルド&プッシュ 全体のワークフロー ワークフローを手動実行する ACRにプッシュされていることを確認する おわりに 採用アナウンス はじめに エキサイト株式会社 バックエンドエンジニアの山縣です。 既存サービスのリビルドも終盤、作成したアプリケーション（Java / SpringBoot）をデプロイするときがきました。 現在携わっているサ...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/e/excite-kazuki/20220728/20220728122552.png"
+            },
+            "date_modified": "2022-07-29T01:40:00.000Z",
+            "date_published": "2022-07-29T01:40:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SpringBootの環境でAzure Container Registryにプッシュする方法",
+                "blogTitle": "エキサイト TechBlog.",
+                "blogLink": "https://tech.excite.co.jp/",
+                "blogLinkMd5Hash": "d7247560d0f2fd1644b5e1af3aca350f"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/29",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/news/articles/2207/28/cover_news108.jpg\"><br>Google Cloud Platformチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: Googleの「BigQuery」とどう対峙？ 裾野広がるデータ活用、AWSの戦略を「Redshift Serverless」から探る（www.itmedia.co.jp）<br>1位: How to use App Engine Blobstore (Module 15)（developers.googleblog.com）<br>2位: Accelerating language model training with Cohere and Google Cloud TPUs（cloud.google.com）<br>…ほか1本<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platf...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/29",
+            "title": "【7月29日ランキング】Googleの「BigQuery」とどう対峙？　裾野広がるデータ活用、AWSの戦略を「Redshift Serverless」から探る／ほか3本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/news/articles/2207/28/cover_news108.jpg\"><br>Google Cloud Platformチャンネル 2022年7月29日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: Googleの「BigQuery」とどう対峙？ 裾野広がるデータ活...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2207%2F28%2Fcover_news108.jpg"
+            },
+            "date_modified": "2022-07-28T20:00:05.762Z",
+            "date_published": "2022-07-28T20:00:05.762Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月29日ランキング】Googleの「BigQuery」とどう対峙？　裾野広がるデータ活用、AWSの戦略を「Redshift Serverless」から探る／ほか3本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/furuhon/articles/90977c90c2125e",
+            "content_html": "furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)に対して、開発環境を統一したいので、カスタムコンテナ(docker container image)の利用を検討しています。 その際に、マネージドノートブック環境と、ユーザー管理のノートブック環境では、 カスタムコンテナの扱いが異なることに気づいたので、自分なりにまとめてみました。    workbenchの環境の違い カスタムコンテナの扱い     マネージド環境 カスタムコンテナをカーネルとして追加してインスタンスを作成する。   ユーザー管理 カスタムコンテナをベースに...",
+            "url": "https://zenn.dev/furuhon/articles/90977c90c2125e",
+            "title": "[Vertex AI Workbench]マネージド環境とユーザー管理環境へのdocker imageの取り込みの違い | Zennの「GCP」のフィード",
+            "summary": "furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)に対して、開発環境を統一したいので、カスタムコンテナ(docker container image)の利用を検討しています。 その際に、マネージドノートブック環境と、ユーザー管理のノートブック環境では、 カスタムコンテナの扱いが異なることに気づいたので、自分なりにまとめてみました。  ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--VKrRdbuF--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:furuhon%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%255BVertex%2520AI%2520Workbench%255D%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2589%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A8%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E7%25AE%25A1%25E7%2590%2586%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25B8%25E3%2581%25AEdocker%2520image%25E3%2581%25AE%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1hcHB0a1dfUi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhODk1ZWQwMjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-28T09:37:08.000Z",
+            "date_published": "2022-07-28T09:37:08.000Z",
+            "author": {
+                "name": "furuhon"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[Vertex AI Workbench]マネージド環境とユーザー管理環境へのdocker imageの取り込みの違い",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://note.com/yojo_engineering/n/n8f6d8adf726d",
+            "content_html": "開発のbonです。 前回の記事ではGCPへのリプレースについて現状と経緯をお話しました。今回はプロジェクトをどう進めてきたかや、戦略・意思決定のプロセスなどをマネジメント観点でお伝えしようかと思います。リプレースに関わる細かい実装上の話や技術的な話は別記事で書いてもらう予定です。 リプレースのスケジュール 続きをみる",
+            "url": "https://note.com/yojo_engineering/n/n8f6d8adf726d",
+            "title": "自社システムをHerokuからGCPにリプレースした話 -全体像 後編- | 開発チーム",
+            "summary": "開発のbonです。 前回の記事ではGCPへのリプレースについて現状と経緯をお話しました。今回はプロジェクトをどう進めてきたかや、戦略・意思決定のプロセスなどをマネジメント観点でお伝えしようかと思います。リプレースに関わる細かい実装上の話や技術的な話は別記事で書いてもらう予定です。 リプレースのスケジュール 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/83547129/rectangle_large_type_2_8e88c4a5c439d129a12e645e301cb95c.png"
+            },
+            "date_modified": "2022-07-28T09:09:21.000Z",
+            "date_published": "2022-07-28T09:09:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "自社システムをHerokuからGCPにリプレースした話 -全体像 後編-",
+                "blogTitle": "開発チーム",
+                "blogLink": "https://note.com/yojo_engineering/m/m59a0657d21e2",
+                "blogLinkMd5Hash": "9380bf0620103ec188b592d32f4487a5"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>3位: エージェント型不動産売買仲介のTERASS、GCPやSBIらから10億円をシリーズB調達——エージェント数で国内最大規模目指す（thebridge.jp）<br>…ほか4本<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28?from=rss\" target=\"_blank\">ランキン...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/28",
+            "title": "【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか6本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Google Cloud Platformチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事3本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"
+            },
+            "date_modified": "2022-07-27T20:00:06.121Z",
+            "date_published": "2022-07-27T20:00:06.121Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか6本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>1位: What's new - Azure Sphere（docs.microsoft.com）<br>2位: Basic Authentication For Azure Functions (Open API) .Net 6（www.c-sharpcorner.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28?from=rss\" target=\"_blank\">ランキングはこちらから</a><i...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/28",
+            "title": "【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Microsoft Azureチャンネル 2022年7月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"
+            },
+            "date_modified": "2022-07-27T20:00:06.121Z",
+            "date_published": "2022-07-27T20:00:06.121Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月28日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/testing_play_integrity",
+            "content_html": "Androidのゲーム、銀行系アプリケーションを開発する上で、チート等の不正を可能にするRoot化や改ざんといった行為からアプリケーションを保護するのは必須と言えます。  そこで本稿では、どのようにアプリケーションを保護すれば良いのかを攻撃者側からの観点も踏まえて解説していきます。",
+            "url": "https://blog.flatt.tech/entry/testing_play_integrity",
+            "title": "新機構Play Integrityを使用したFirebase App Checkの検証を通して見る、スマホアプリの不正検知とBypassの「イタチごっこ」 | Flatt Security Blog",
+            "summary": "Androidのゲーム、銀行系アプリケーションを開発する上で、チート等の不正を可能にするRoot化や改ざんといった行為からアプリケーションを保護するのは必須と言えます。  そこで本稿では、どのようにアプリケーションを保護すれば良いのかを攻撃者側からの観点も踏まえて解説していきます。",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/f/flattsecurity/20220726/20220726114812.jpg"
+            },
+            "date_modified": "2022-07-27T01:30:00.000Z",
+            "date_published": "2022-07-27T01:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 16,
+                "originalTitle": "新機構Play Integrityを使用したFirebase App Checkの検証を通して見る、スマホアプリの不正検知とBypassの「イタチごっこ」",
+                "blogTitle": "Flatt Security Blog",
+                "blogLink": "https://blog.flatt.tech/",
+                "blogLinkMd5Hash": "0ee05098c67b6e41121edd5cd56772f5"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: 第1回｜GCPの「Cloud Natural Language」の概要と活用方法（qiita.com）<br>3位: GCPでイベント駆動な構成を検討したときに考えたことメモ（qiita.com）<br>…ほか3本<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/27",
+            "title": "【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか5本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Google Cloud Platformチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事5本、英語記事1本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"
+            },
+            "date_modified": "2022-07-26T20:00:06.404Z",
+            "date_published": "2022-07-26T20:00:06.404Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか5本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか（atmarkit.itmedia.co.jp）<br>2位: Microsoft Entra Permissions ManagementでAzureサブスクリプションをオンボードしてみた（dev.classmethod.jp）<br>3位: Generally available: New KMS DNS in Azure Global Cloud（azure.microsoft.com）<br>…ほか5本<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27?fr...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2022/7/27",
+            "title": "【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか7本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2207/26/cover_news144.jpg\"><br>Microsoft Azureチャンネル 2022年7月27日のTechFeed記事デイリーランキングです（日本語記事4本、英語記事4本）。<br>1位: 「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2207%2F26%2Fcover_news144.jpg"
+            },
+            "date_modified": "2022-07-26T20:00:06.404Z",
+            "date_published": "2022-07-26T20:00:06.404Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月27日ランキング】「AWS」「GCP」「Azure」のストレージを比較テスト、その性能はコストに見合うのか／ほか7本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://bftnagoya.hateblo.jp/entry/2022/07/26/141154",
+            "content_html": "はじめに こんにちは！ 株式会社名古屋支店・新米エンジニアのゆいちゃです！ 皆さんはどのような時に夏を感じますか？私は最近、朝起きると蝉の鳴き声が聞こえてくるようになり、あー夏だなと感じています。蝉を捕まえて遊んだあの頃が懐かしい、、、 さて、前回は仮想マシンを作成するサービス「GCE」についてアウトプットさせていただきましたので、今回は「GCS」についてアウトプットしていきたいと思います。 GCSってなに？ GCSとは、「Google Cloud Storage」の略称で、GCPが提供している、インターネット上でデータを保存することができるサービスです。 AWSでいうと、Amazon S3の…",
+            "url": "https://bftnagoya.hateblo.jp/entry/2022/07/26/141154",
+            "title": "【GCP】超入門！GCSってなに？ | BFT名古屋 TECH BLOG",
+            "summary": "はじめに こんにちは！ 株式会社名古屋支店・新米エンジニアのゆいちゃです！ 皆さんはどのような時に夏を感じますか？私は最近、朝起きると蝉の鳴き声が聞こえてくるようになり、あー夏だなと感じています。蝉を捕まえて遊んだあの頃が懐かしい、、、 さて、前回は仮想マシンを作成するサービス「GCE」についてアウトプットさせていただきましたので、今回は「GCS」についてアウトプットしていきたいと思います。 GC...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bftnagoya/20220722/20220722140125.png"
+            },
+            "date_modified": "2022-07-26T05:11:54.000Z",
+            "date_published": "2022-07-26T05:11:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【GCP】超入門！GCSってなに？",
+                "blogTitle": "BFT名古屋 TECH BLOG",
+                "blogLink": "https://bftnagoya.hateblo.jp/",
+                "blogLinkMd5Hash": "09229ff0df4f8d5025328e9e7bae368f"
+            }
+        },
+        {
+            "id": "https://bftnagoya.hateblo.jp/entry/2022/07/26/140501",
+            "content_html": "はじめに こんにちは！株式会社BFT名古屋支店・新米エンジニアゆいちゃです！ もうすぐ8月で大学を卒業して、もう4カ月経とうとしていることに驚きが隠せません。 さて、今回はてブロでアウトプットする内容は、GCPのサービスである「GCE」についてです。 GCEってなに？ GCEとは、「Google Compute Engine」の略称で、GCP内で仮想マシンを作成するためのサービスです。 AWSの機能で言うと、Amazon EC2にあたります。 特徴 GCEには様々な特徴があるのですが、主に３つの特徴について紹介していきたいと思います。 柔軟性 LinuxやWindowsなどのOS、ミドルウェア…",
+            "url": "https://bftnagoya.hateblo.jp/entry/2022/07/26/140501",
+            "title": "【GCP】超入門！GCEってなに？ | BFT名古屋 TECH BLOG",
+            "summary": "はじめに こんにちは！株式会社BFT名古屋支店・新米エンジニアゆいちゃです！ もうすぐ8月で大学を卒業して、もう4カ月経とうとしていることに驚きが隠せません。 さて、今回はてブロでアウトプットする内容は、GCPのサービスである「GCE」についてです。 GCEってなに？ GCEとは、「Google Compute Engine」の略称で、GCP内で仮想マシンを作成するためのサービスです。 AWSの機...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bftnagoya/20220722/20220722140129.png"
+            },
+            "date_modified": "2022-07-26T05:05:01.000Z",
+            "date_published": "2022-07-26T05:05:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【GCP】超入門！GCEってなに？",
+                "blogTitle": "BFT名古屋 TECH BLOG",
+                "blogLink": "https://bftnagoya.hateblo.jp/",
+                "blogLinkMd5Hash": "09229ff0df4f8d5025328e9e7bae368f"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2022/07/26/101500",
+            "content_html": "今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれません。 しかし、複数のアプリケーションを何度もデプロイしていると、 「いつも同じ内容書いているなー」とか、「Api Versionの更新や内容を1箇所でまとめたいなー」とか、 「組織内で統一的に管理…",
+            "url": "https://techblog.ap-com.co.jp/entry/2022/07/26/101500",
+            "title": "Azure Container Registry（ACR）でHelmチャートを共有する | APC 技術ブログ",
+            "summary": "今回のテーマは 「Helm」 Helmとは みなさん、AKS(Kubernetesに）にアプリケーションをデプロイする際の定義ファイル（Yamlファイル）はどのように作成していますか？ １つ２つのアプリケーションであれば、それぞれのアプリケーション用のYamlを書くのが手軽です。 開発用／ステージング用／本番用とちょっとだけ設定項目を変える場合ならば Kustomize を利用するのもよいかもしれ...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/turtle2005/20220408/20220408155804.png"
+            },
+            "date_modified": "2022-07-26T01:15:00.000Z",
+            "date_published": "2022-07-26T01:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure Container Registry（ACR）でHelmチャートを共有する",
+                "blogTitle": "APC 技術ブログ",
+                "blogLink": "https://techblog.ap-com.co.jp/",
+                "blogLinkMd5Hash": "44ee1b58b0f91540a3894878b97d1b65"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26",
+            "content_html": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png\"><br>Google Cloud Platformチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）（nonylene.hatenablog.jp）<br>2位: 第1回｜GCPの「Cloud Natural Language」の概要と活用方法（qiita.com）<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/26",
+            "title": "【7月26日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png\"><br>Google Cloud Platformチャンネル 2022年7月26日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elasti...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnonylene%2F20220724%2F20220724154726.png"
+            },
+            "date_modified": "2022-07-25T20:00:05.783Z",
+            "date_published": "2022-07-25T20:00:05.783Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月26日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://tech.connehito.com/entry/2022/07/25/170714",
+            "content_html": "こんにちは。インフラエンジニアの永井(shnagai)です。 今回は、Firebase AnalyticsからBigQueryへの日次データ同期処理の時間が大幅にずれた際に取った対策について書こうと思います。 内容はざっくり下記3点です。 背景説明 Firebase AnalyticsからBigQueryへのデータ同期 解決策 背景説明 コネヒトでは、家族ノートという「ママリ」内の検索データとQ&Aデータを可視化したデータ分析サービスを運営しています。 info-kazokunote.mamari.jp 家族ノート内で使っている検索データは、FirebaseAnalyticsを使ってトラッキン…",
+            "url": "https://tech.connehito.com/entry/2022/07/25/170714",
+            "title": "Firebase AnalyticsからBigQueryへの日次データ同期が突如不規則になった事象に対応した話 | コネヒト開発者ブログ",
+            "summary": "こんにちは。インフラエンジニアの永井(shnagai)です。 今回は、Firebase AnalyticsからBigQueryへの日次データ同期処理の時間が大幅にずれた際に取った対策について書こうと思います。 内容はざっくり下記3点です。 背景説明 Firebase AnalyticsからBigQueryへのデータ同期 解決策 背景説明 コネヒトでは、家族ノートという「ママリ」内の検索データとQ&...",
+            "image": {
+                "type": null,
+                "url": "https://cdn.user.blog.st-hatena.com/default_entry_og_image/108047865/1606787622759849"
+            },
+            "date_modified": "2022-07-25T08:07:14.000Z",
+            "date_published": "2022-07-25T08:07:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Firebase AnalyticsからBigQueryへの日次データ同期が突如不規則になった事象に対応した話",
+                "blogTitle": "コネヒト開発者ブログ",
+                "blogLink": "https://tech.connehito.com/",
+                "blogLinkMd5Hash": "a55e0c174f25f2459e4b5f3a39d29847"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2022/07/25/110000",
+            "content_html": "こんにちは。研究開発部でデータエンジニアをしている鈴木翔大です。 今回は【R&D DevOps通信】連載 9回目として、以前構築したデータ基盤の転送パイプラインについて書こうと思います。AWSのS3上に存在するデータをGCPのGCSに転送して、データのETL処理をしながらBigQueryのネイティブテーブルに同期するような仕組みです。この一連の処理の流れ(パイプライン)をCloud Composer上で管理・運用する方法について紹介します。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2022/07/25/110000",
+            "title": "【R&D DevOps通信】Cloud Composerを用いたデータ基盤の転送パイプライン構築 | Sansan Tech Blog",
+            "summary": "こんにちは。研究開発部でデータエンジニアをしている鈴木翔大です。 今回は【R&D DevOps通信】連載 9回目として、以前構築したデータ基盤の転送パイプラインについて書こうと思います。AWSのS3上に存在するデータをGCPのGCSに転送して、データのETL処理をしながらBigQueryのネイティブテーブルに同期するような仕組みです。この一連の処理の流れ(パイプライン)をCloud Compose...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/tashirovii/20220713/20220713011820.png"
+            },
+            "date_modified": "2022-07-25T02:00:00.000Z",
+            "date_published": "2022-07-25T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【R&D DevOps通信】Cloud Composerを用いたデータ基盤の転送パイプライン構築",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/cloud-run-explained",
+            "content_html": "G-gen の佐々木です。当記事では Google Cloud (旧称 GCP) のサーバレスなコンテナサービスである Cloud Run を解説します。 Cloud Run Cloud Run とは Cloud Run の基本 2 つの利用方法 動的スケーリング サービスの冗長性 デプロイ デプロイ元のコンテナイメージ コンテナの要件 トラフィック移行とロールバック 構成 エンドポイント コンテナインスタンスの最大・最小数 CPU・メモリ リクエストのタイムアウト コンテナインスタンスあたりの同時リクエスト最大数 CPU を常に割り当てる Cloud Run サービス サービス連携 (トリガ…",
+            "url": "https://blog.g-gen.co.jp/entry/cloud-run-explained",
+            "title": "Cloud Run を徹底解説！ | G-gen Tech Blog",
+            "summary": "G-gen の佐々木です。当記事では Google Cloud (旧称 GCP) のサーバレスなコンテナサービスである Cloud Run を解説します。 Cloud Run Cloud Run とは Cloud Run の基本 2 つの利用方法 動的スケーリング サービスの冗長性 デプロイ デプロイ元のコンテナイメージ コンテナの要件 トラフィック移行とロールバック 構成 エンドポイント コンテ...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-sasashun/20220720/20220720092432.png"
+            },
+            "date_modified": "2022-07-25T01:00:00.000Z",
+            "date_published": "2022-07-25T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Cloud Run を徹底解説！",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8"
+            }
+        },
+        {
+            "id": "https://blog.usize-tech.com/?p=7046",
+            "content_html": "こんにちは。SCSK石原です。 GCPのData Transferを利用すると、AWSのIAMロールを利用してS3からCloud Storageにデータをコピーすることができるそうです。 アクセスキーは定期的なローテーシ […]",
+            "url": "https://blog.usize-tech.com/datacopy-s3-to-gcs/",
+            "title": "Amazon S3からGoogle Cloud Storageにアクセスキーを使わずデータコピーする | TechHarmony",
+            "summary": "こんにちは。SCSK石原です。 GCPのData Transferを利用すると、AWSのIAMロールを利用してS3からCloud Storageにデータをコピーすることができるそうです。 アクセスキーは定期的なローテーシ […]",
+            "image": {
+                "type": "png",
+                "url": "https://blog.usize-tech.com/contents/uploads/2022/07/S3toGCS.png"
+            },
+            "date_modified": "2022-07-25T00:00:42.000Z",
+            "date_published": "2022-07-25T00:00:42.000Z",
+            "author": {
+                "name": "石原雄太"
+            },
+            "tags": [
+                "AWS",
+                "Google Cloud",
+                "技術ナレッジ",
+                "Amazon S3",
+                "AWS IAM",
+                "Data Transfer",
+                "Google Cloud Storage"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon S3からGoogle Cloud Storageにアクセスキーを使わずデータコピーする",
+                "blogTitle": "TechHarmony",
+                "blogLink": "https://blog.usize-tech.com",
+                "blogLinkMd5Hash": "1d6e31ebb9fc588415472d22d5ee39b5"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25",
+            "content_html": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png\"><br>Google Cloud Platformチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）（nonylene.hatenablog.jp）<br>2位: TurborepoのリモートキャッシュサーバをCloud RunとGCSで構築する（zenn.dev）<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/25",
+            "title": "【7月25日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/n/nonylene/20220724/20220724154726.png\"><br>Google Cloud Platformチャンネル 2022年7月25日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: ISUCON 予選突破のために Elasti...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnonylene%2F20220724%2F20220724154726.png"
+            },
+            "date_modified": "2022-07-24T20:00:05.762Z",
+            "date_published": "2022-07-24T20:00:05.762Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月25日ランキング】ISUCON 予選突破のために Elastic Stack と GCP で分析環境を整えた （:old_noto_innocent: Team）／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29",
+            "content_html": "<img src=\"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg\"><br>Google Cloud Platformチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事7本、英語記事6本）。<br>1位: Cloud Run が作る世界 #devio2022（dev.classmethod.jp）<br>2位: React と Firebase と Cloud Run を連携するサンプル実装（enakai00.hatenablog.com）<br>3位: Migrate for Compute Engineを解説（blog.g-gen.co.jp）<br>…ほか10本<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29?from=rss\" target=\"_b...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/weekly/2022/W29",
+            "title": "【7月3週ランキング】Cloud Run が作る世界 #devio2022／ほか12本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg\"><br>Google Cloud Platformチャンネル 2022年7月3週のTechFeed記事週間ランキングです（日本語記事7本、英語記事6本）。<br>1位:...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ssl-devio-img.classmethod.jp%2Fwp-content%2Fuploads%2F2022%2F07%2F0d19ebe4d336bf1aa1ac763b51c9f770.jpg"
+            },
+            "date_modified": "2022-07-24T14:59:59.999Z",
+            "date_published": "2022-07-24T14:59:59.999Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月3週ランキング】Cloud Run が作る世界 #devio2022／ほか12本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kazusa_nakagawa/articles/article7_google_api",
+            "content_html": "はじめに 今回は、Google Cloud を使って、Gmail 送信を試してみました。 選定理由は、Webサービスにするほど規模もでかくないからです。また、スクリプトを exe化して Windows 環境で実行する背景があります。 メンテナンスするにも、お客様はプログラムの手直しができないので、アカウント管理など、スプレッドシートに持たせることで、ある程度自由に変更することも可能になることを想定してます。運用コストもDB・サーバを持たないので、APIリクエスト数を気にしておけばそれほどかからないかと。   前提条件 以下の設定はできてる状態から書いていこうかと、結構最初は分けわから...",
+            "url": "https://zenn.dev/kazusa_nakagawa/articles/article7_google_api",
+            "title": "【GCP】 Python + Gmail API + Sheets API で 「Gmail 送信」を試してみた | Zennの「GCP」のフィード",
+            "summary": "はじめに 今回は、Google Cloud を使って、Gmail 送信を試してみました。 選定理由は、Webサービスにするほど規模もでかくないからです。また、スクリプトを exe化して Windows 環境で実行する背景があります。 メンテナンスするにも、お客様はプログラムの手直しができないので、アカウント管理など、スプレッドシートに持たせることで、ある程度自由に変更することも可能になることを想定...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--QN7V6exG--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25AA%25E3%2581%258B%25E3%2581%258C%25E3%2582%258F%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%25E3%2580%2590GCP%25E3%2580%2591%2520Python%2520%252B%2520Gmail%2520API%2520%252B%2520Sheets%2520API%2520%25E3%2581%25A7%2520%25E3%2580%258CGmail%2520%25E9%2580%2581%25E4%25BF%25A1%25E3%2580%258D%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1wUGdLVTlqai0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjYWQ2Mzk5NWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-24T13:36:35.000Z",
+            "date_published": "2022-07-24T13:36:35.000Z",
+            "author": {
+                "name": "なかがわ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【GCP】 Python + Gmail API + Sheets API で 「Gmail 送信」を試してみた",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/haru246/articles/0a89934224dd6f",
+            "content_html": "前提  Dockerを使用してアプリ構築している docker、docker-composeコマンドが使用できる すでにLet's Encryptから証明書を発行している OS：Ubuntu20.04LTS    仕組み IP制限をしていると、証明書を更新できないので更新する前に80番ポートからの通信を許可するファイヤーウォールを作成し、VMインスタンスに割り当てる。更新が終わったらファイヤーウォールを削除するようにする。   手順   VMインスタンス側の設定  Google Cloud コンソール画面> Compute Engine> VMインスタンス>設定する...",
+            "url": "https://zenn.dev/haru246/articles/0a89934224dd6f",
+            "title": "GCPでIP制限しているVMインスタンスのSSL証明書自動更新 | Zennの「GCP」のフィード",
+            "summary": "前提  Dockerを使用してアプリ構築している docker、docker-composeコマンドが使用できる すでにLet's Encryptから証明書を発行している OS：Ubuntu20.04LTS    仕組み IP制限をしていると、証明書を更新できないので更新する前に80番ポートからの通信を許可するファイヤーウォールを作成し、VMインスタンスに割り当てる。更新が終わったらファイヤーウォ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--S0bcmUy3--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:haru246%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:GCP%25E3%2581%25A7IP%25E5%2588%25B6%25E9%2599%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BVM%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%25AESSL%25E8%25A8%25BC%25E6%2598%258E%25E6%259B%25B8%25E8%2587%25AA%25E5%258B%2595%25E6%259B%25B4%25E6%2596%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1tZy1DSzdjUC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY3ZTc5MTBhNDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-24T08:27:24.000Z",
+            "date_published": "2022-07-24T08:27:24.000Z",
+            "author": {
+                "name": "haru246"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GCPでIP制限しているVMインスタンスのSSL証明書自動更新",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aiji42/articles/7bc1b6df91dd76",
+            "content_html": "モチベーション Turborepoを使用する目的はいくつかありますが、リモートキャッシュが一番大きいと個人的には思っています。 リモートキャッシュを使用することで、CIの高速化やチームメンバーのローカルでの開発体験向上にもつながります。 リモートキャッシュを導入する最も簡単な方法は、Vercelを利用することですが、チームでとなるとアカウント管理や料金など問題が発生します。 アカウントレスなチーム専用のリモートキャッシュサーバをセルフホストし、上記の問題を解消することが本稿のモチベーションです。 なお、Turborepoの紹介や導入・使用方法に関しては説明を省きますので、詳しく知りた...",
+            "url": "https://zenn.dev/aiji42/articles/7bc1b6df91dd76",
+            "title": "TurborepoのリモートキャッシュサーバをCloud RunとGCSで構築する | Zennの「GCP」のフィード",
+            "summary": "モチベーション Turborepoを使用する目的はいくつかありますが、リモートキャッシュが一番大きいと個人的には思っています。 リモートキャッシュを使用することで、CIの高速化やチームメンバーのローカルでの開発体験向上にもつながります。 リモートキャッシュを導入する最も簡単な方法は、Vercelを利用することですが、チームでとなるとアカウント管理や料金など問題が発生します。 アカウントレスなチーム...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--WS4vkQmM--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:aiji42%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Turborepo%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2582%2592Cloud%2520Run%25E3%2581%25A8GCS%25E3%2581%25A7%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1lTVhFejR0eC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U3MzhkMjhkMDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-23T15:44:56.000Z",
+            "date_published": "2022-07-23T15:44:56.000Z",
+            "author": {
+                "name": "aiji42"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 18,
+                "originalTitle": "TurborepoのリモートキャッシュサーバをCloud RunとGCSで構築する",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ykdev/articles/9d35a009c0a484",
+            "content_html": "業務の中でMQTTとCloud IoT Coreを利用したアーキテクチャパターンを見かけたので、実際に構成するとどんな感じなのかな？と思って実際にGCP上で構築してみました。   MQTT MQTTというのは、HTTPと比べると通信量が軽量なプロトコルで、通信時のオーバーヘッドが少ないらしく、スペックの高くないIoT機器で主に用いられているそうです。その辺はあまり詳しく無いので、時間がある時にもう少し調べてみようと思います。   構成図 今回試してみたGCPの構成は以下の通りです。ローカルマシンからMQTTプロトコルでIoT CoreにPublishを行い、そこからPub/Sub、Dat...",
+            "url": "https://zenn.dev/ykdev/articles/9d35a009c0a484",
+            "title": "MQTTとCloud IoT Core | Zennの「GCP」のフィード",
+            "summary": "業務の中でMQTTとCloud IoT Coreを利用したアーキテクチャパターンを見かけたので、実際に構成するとどんな感じなのかな？と思って実際にGCP上で構築してみました。   MQTT MQTTというのは、HTTPと比べると通信量が軽量なプロトコルで、通信時のオーバーヘッドが少ないらしく、スペックの高くないIoT機器で主に用いられているそうです。その辺はあまり詳しく無いので、時間がある時にもう...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--lO2CV_3n--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ykdev%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:MQTT%25E3%2581%25A8Cloud%2520IoT%2520Core%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1wSkloQ1NJdi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwNTU4NmZkOGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-23T01:16:17.000Z",
+            "date_published": "2022-07-23T01:16:17.000Z",
+            "author": {
+                "name": "ykdev"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MQTTとCloud IoT Core",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/lookermeetup8",
+            "content_html": "2022/7/21(木曜日)にオンラインで開催された「Looker User Meetup Online #8」に BASE BANK Dev Groupの永野(@glssmonekey)が登壇しました。 looker-japan-user-group.connpass.com イベントについて 今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」でした。 各社のLookerまでのデータパイプラインの構成やチーム構成など、Lookerを中心にしたデータに関する話題でわいわいしました。 当日は弊社含めて次の4社（敬称略）の発表が行われました。 Unipos株式会社 株式会社タ…",
+            "url": "https://devblog.thebase.in/entry/lookermeetup8",
+            "title": "「Looker User Meetup Online #8」に登壇しました。 | BASEプロダクトチームブログ",
+            "summary": "2022/7/21(木曜日)にオンラインで開催された「Looker User Meetup Online #8」に BASE BANK Dev Groupの永野(@glssmonekey)が登壇しました。 looker-japan-user-group.connpass.com イベントについて 今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」でした。 各社のLookerま...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/glassmonekey/20220722/20220722184915.png"
+            },
+            "date_modified": "2022-07-22T11:30:00.000Z",
+            "date_published": "2022-07-22T11:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「Looker User Meetup Online #8」に登壇しました。",
+                "blogTitle": "BASEプロダクトチームブログ",
+                "blogLink": "https://devblog.thebase.in/",
+                "blogLinkMd5Hash": "ba64bb53934641f1faa1f7c9f9a301d5"
+            }
+        },
+        {
+            "id": "https://zenn.dev/furuhon/articles/c836614eb97ba0",
+            "content_html": "furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)から、 bigqueryでデータを取得する3つの方法を整理しました。     bigqueryの利用方法 マネージドノートブック環境 ユーザー管理のノートブック環境     1 マジックコマンド %%bigquery 利用可能 利用可能   2 ライブラリimport bigquery 利用可能 利用可能   3 BigQueryIntegration 利用可能 -    Google公式ドキュメントの以下の内容をもとに整理しています。 https://cloud.googl...",
+            "url": "https://zenn.dev/furuhon/articles/c836614eb97ba0",
+            "title": "[Vertex AI Workbench] Jupyter ノートブックからBigQueryを実行する3つの方法 | Zennの「GCP」のフィード",
+            "summary": "furuhonです。 Vetex AI WorkbenchのJupyter ノートブック(jupyter Lab)から、 bigqueryでデータを取得する3つの方法を整理しました。     bigqueryの利用方法 マネージドノートブック環境 ユーザー管理のノートブック環境     1 マジックコマンド %%bigquery 利用可能 利用可能   2 ライブラリimport bigquery...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--f6sctEwf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:furuhon%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%255BVertex%2520AI%2520Workbench%255D%2520Jupyter%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2581%258B%25E3%2582%2589BigQuery%25E3%2582%2592%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B3%25E3%2581%25A4%25E3%2581%25AE%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1hcHB0a1dfUi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhODk1ZWQwMjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-22T09:22:04.000Z",
+            "date_published": "2022-07-22T09:22:04.000Z",
+            "author": {
+                "name": "furuhon"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[Vertex AI Workbench] Jupyter ノートブックからBigQueryを実行する3つの方法",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/furuhon/articles/5c065009a088b8",
+            "content_html": "furuhonです。 今回は、Vertex AI Workbenchのマネージドノートブックに、 MeCab+NEologdを利用できるカーネルを追加する方法をまとめました。    概要 Google Cloud Platform(GCP)のVertex AI Workbenchとして利用できる開発環境には、 Googleが管理するマネージドノートブック環境と、ユーザー管理のノートブック環境の2種類の 開発環境があります。 マネージドノートブック環境では、ノートブックを新規作成する際や既存のノートブックを開く際に、Python,PySpark,Pytorchなどの予め準備されたカーネルを...",
+            "url": "https://zenn.dev/furuhon/articles/5c065009a088b8",
+            "title": "[Vertex AI Workbench]マネージドノートブック環境で、MeCab+NEologdを利用できるようにする。 | Zennの「GCP」のフィード",
+            "summary": "furuhonです。 今回は、Vertex AI Workbenchのマネージドノートブックに、 MeCab+NEologdを利用できるカーネルを追加する方法をまとめました。    概要 Google Cloud Platform(GCP)のVertex AI Workbenchとして利用できる開発環境には、 Googleが管理するマネージドノートブック環境と、ユーザー管理のノートブック環境の2種...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--QiJFTGZq--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:furuhon%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_57_bold:%255BVertex%2520AI%2520Workbench%255D%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2589%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E3%2580%2581MeCab%252BNEologd%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1hcHB0a1dfUi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhODk1ZWQwMjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-21T23:29:08.000Z",
+            "date_published": "2022-07-21T23:29:08.000Z",
+            "author": {
+                "name": "furuhon"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[Vertex AI Workbench]マネージドノートブック環境で、MeCab+NEologdを利用できるようにする。",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22",
+            "content_html": "<img src=\"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg\"><br>Google Cloud Platformチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Cloud Run が作る世界 #devio2022（dev.classmethod.jp）<br>2位: Cloud TPU v4 が MLPerf 2.0 ベンチマーク 5 項目で最速のトレーニング時間を記録（cloud.google.com）<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&pa...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/22",
+            "title": "【7月22日ランキング】Cloud Run が作る世界 #devio2022／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2022/07/0d19ebe4d336bf1aa1ac763b51c9f770.jpg\"><br>Google Cloud Platformチャンネル 2022年7月22日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: Clo...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ssl-devio-img.classmethod.jp%2Fwp-content%2Fuploads%2F2022%2F07%2F0d19ebe4d336bf1aa1ac763b51c9f770.jpg"
+            },
+            "date_modified": "2022-07-21T20:00:06.279Z",
+            "date_published": "2022-07-21T20:00:06.279Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月22日ランキング】Cloud Run が作る世界 #devio2022／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jcc/articles/accb7fef5efc42",
+            "content_html": "GCS外部パーティションテーブルをBigQueryに取り込む BigQueryでデータレイクを構築する際に、GCS、Google Drive Data、Bigtableから外部テーブルを取り組む場面は少なくないと思います。下記のような外部テーブルがパーティションで分けられている場合(Hive partitioned dataと呼ばれている)は少しややこしくなりますが、 gs://myBucket/myTable/dt=2019-10-31/lang=en/foo gs://myBucket/myTable/dt=2018-10-31/lang=fr/bar 公式ドキュメントは取り組み...",
+            "url": "https://zenn.dev/jcc/articles/accb7fef5efc42",
+            "title": "AirflowでGCS外部パーティションテーブルをBigQueryに取り込む方法 | Zennの「GCP」のフィード",
+            "summary": "GCS外部パーティションテーブルをBigQueryに取り込む BigQueryでデータレイクを構築する際に、GCS、Google Drive Data、Bigtableから外部テーブルを取り組む場面は少なくないと思います。下記のような外部テーブルがパーティションで分けられている場合(Hive partitioned dataと呼ばれている)は少しややこしくなりますが、 gs://myBucket/...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--7ceVYa7t--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:jc%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Airflow%25E3%2581%25A7GCS%25E5%25A4%2596%25E9%2583%25A8%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E3%2582%2592BigQuery%25E3%2581%25AB%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2582%2580%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1Qd0ZXRHU1NC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFhMGIzZjk3ZDguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-21T13:31:24.000Z",
+            "date_published": "2022-07-21T13:31:24.000Z",
+            "author": {
+                "name": "jc"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AirflowでGCS外部パーティションテーブルをBigQueryに取り込む方法",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://developer.feedforce.jp/entry/2022/07/21/210000",
+            "content_html": "こんばんは id:masutaka26 です。 本日、Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をしてきました。Looker User Meetup は 5 回目の参加、発表は初めてです。 いくつかネタはあったのですが、今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」ということもあり、この 2 年で確立した方法を紹介することとなりました。 bq CLI ではなく、terraform で管理している方もいらっしゃいました。terraform の更新に追随するのはそれなりに大変だと…",
+            "url": "https://developer.feedforce.jp/entry/2022/07/21/210000",
+            "title": "Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をした | Feedforce Developer Blog",
+            "summary": "こんばんは id:masutaka26 です。 本日、Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をしてきました。Looker User Meetup は 5 回目の参加、発表は初めてです。 いくつかネタはあったのですが、今回のテーマは「Lookerまでのデータデリバリー、みんなどうしてる？」ということもあ...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/masutaka26/20201023/20201023184859.png"
+            },
+            "date_modified": "2022-07-21T12:00:00.000Z",
+            "date_published": "2022-07-21T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Looker User Meetup Online #8 で『BigQuery経由で使うGoogleスプレッドシートのスキーマ管理』の話をした",
+                "blogTitle": "Feedforce Developer Blog",
+                "blogLink": "https://developer.feedforce.jp/",
+                "blogLinkMd5Hash": "aa175f4db09b95e2942bbf842f0c02a9"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tfutada/articles/7ff7468335bec9",
+            "content_html": "GCPのKubernetesでログ出力するのに便利なGolangのライブラリです。 https://cloud.google.com/blog/products/devops-sre/more-support-for-structured-logs-in-new-version-of-go-logging-library   使い方 go get cloud.google.com/go/logging Ginで利用するサンプルで説明します。 ミドルウェアでロガーを初期化し、contextに保持します。  main.go import \"cloud.google.com/go/loggin...",
+            "url": "https://zenn.dev/tfutada/articles/7ff7468335bec9",
+            "title": "GCP ログ ライブラリ v 1.5 for Golang | Zennの「GCP」のフィード",
+            "summary": "GCPのKubernetesでログ出力するのに便利なGolangのライブラリです。 https://cloud.google.com/blog/products/devops-sre/more-support-for-structured-logs-in-new-version-of-go-logging-library   使い方 go get cloud.google.com/go/loggi...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--hqsnaNJc--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:TF%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:GCP%2520%25E3%2583%25AD%25E3%2582%25B0%2520%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%2520v%25201.5%2520for%2520Golang%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k1QWNYclM5WEJFMTZpc0hiNnN6ODFrbWdRZ09ST3lySTJaZ2c0PXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-21T11:46:54.000Z",
+            "date_published": "2022-07-21T11:46:54.000Z",
+            "author": {
+                "name": "TF"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "GCP ログ ライブラリ v 1.5 for Golang",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-co-hosting-models-on-the-vertex-ai-prediction-service/",
+            "content_html": "※この投稿は米国時間 2022 年 7 月 15 日に、Google Cloud blog に投稿されたものの抄訳です。 モデルを Vertex AI 予測サービスにデプロイする際、各モデルはデフォルトで独自の VM にデプロイされます。ホスティングの費用対効果を高めるため、モデルの共同ホスティングの公開プレビュー版を導入しました。これにより、同一の VM で複数のモデルをホストすることができ、メモリとコンピューティング リソースの使用率が向上します。同じ VM にデプロイするモデルの数はモデルのサイズとトラフィック パターンによりますが、この機能は特に、低トラフィックで多くのモデルをデプロイする場合に便利です。 デプロイ リソースプールについて 共同ホスティング モデルのサポートには、モデルをグループ化して VM 内でリソースを共有するという、デプロイ リソースプールの概念が導入されています。エンドポイントを共有している複数のモデルが VM を共有できるだけでなく、異なるエンドポイントにデプロイされている場合でも VM の共有が可能です。 たとえば、次の図で示すように 4 つのモデル...",
+            "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/introducing-co-hosting-models-on-the-vertex-ai-prediction-service/",
+            "title": "モデルの共同ホスティングにより Vertex AI 上にデプロイした複数のモデル間でリソース共有を実現 | Google Cloud",
+            "summary": "※この投稿は米国時間 2022 年 7 月 15 日に、Google Cloud blog に投稿されたものの抄訳です。 モデルを Vertex AI 予測サービスにデプロイする際、各モデルはデフォルトで独自の VM にデプロイされます。ホスティングの費用対効果を高めるため、モデルの共同ホスティングの公開プレビュー版を導入しました。これにより、同一の VM で複数のモデルをホストすることができ、メ...",
+            "image": {
+                "type": "jpg",
+                "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/1_co-hosting.max-1900x1900.jpg"
+            },
+            "date_modified": "2022-07-21T09:30:00.000Z",
+            "date_published": "2022-07-21T09:30:00.000Z",
+            "tags": [
+                "Data Analytics",
+                "Google Cloud",
+                "AI  Machine Learning"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "モデルの共同ホスティングにより Vertex AI 上にデプロイした複数のモデル間でリソース共有を実現",
+                "blogTitle": "Google Cloud",
+                "blogLink": "https://cloud.google.com/blog/ja/products/gcp/",
+                "blogLinkMd5Hash": "e99944ad999ccad8af67020ff704ae56"
+            }
+        },
+        {
+            "id": "https://cloud.google.com/blog/ja/products/identity-security/how-ocado-technology-delivers-online-grocery-shopping-securely-with-google-cloud/",
+            "content_html": "※この投稿は米国時間 2022 年 7 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。     食料品販売は好転し、Ocado Group は、この変革において大きな役割を果たしてきました。弊社は、オンライン スーパーマーケットとしてスタートし、テクノロジーと自動化を導入して、オンライン食料品店に革命をもたらしました。20 年間のイノベーションを経て、現在は、オンライン食料品販売向けに最先端のソフトウェア、ロボット工学、AI ソリューションを提供するグローバル テクノロジー企業となっています。米国の Kroger からオーストラリアの Coles まで、世界で特に先進的な食料品小売業者のオンライン運営を実現する Ocado Smart Platform を作成しました。     Ocado Smart Platform の世界的な普及と運営の複雑化に伴い、セキュリティ資産に細心の注意を払っています。セキュリティの脆弱性を事前に特定して対処するために、Google Cloud の Security Command Center（SCC）プレミアムを脆弱性お...",
+            "url": "https://cloud.google.com/blog/ja/products/identity-security/how-ocado-technology-delivers-online-grocery-shopping-securely-with-google-cloud/",
+            "title": "Ocado Technology が Security Command Center を使用してスマートで安全なオンライン食料品販売を実現した方法 | Google Cloud",
+            "summary": "※この投稿は米国時間 2022 年 7 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。     食料品販売は好転し、Ocado Group は、この変革において大きな役割を果たしてきました。弊社は、オンライン スーパーマーケットとしてスタートし、テクノロジーと自動化を導入して、オンライン食料品店に革命をもたらしました。20 年間のイノベーションを経て、現在は、オンラ...",
+            "image": {
+                "type": "png",
+                "url": "https://cloud.google.com/blog/static/assets/GCP_Twitter_Card-2000×1000.png"
+            },
+            "date_modified": "2022-07-21T03:00:00.000Z",
+            "date_published": "2022-07-21T03:00:00.000Z",
+            "tags": [
+                "Customers",
+                "Google Cloud",
+                "Identity  Security"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ocado Technology が Security Command Center を使用してスマートで安全なオンライン食料品販売を実現した方法",
+                "blogTitle": "Google Cloud",
+                "blogLink": "https://cloud.google.com/blog/ja/products/gcp/",
+                "blogLinkMd5Hash": "e99944ad999ccad8af67020ff704ae56"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21",
+            "content_html": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-t-kunizaki/20220712/20220712185247.png\"><br>Google Cloud Platformチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: Migrate for Compute Engineを解説（blog.g-gen.co.jp）<br>2位: トラブル事案｜GCEでVMインスタンスへSSH接続できない（qiita.com）<br>1位: Using BigQuery data for large scale Python analysis using Dask and GPUs with RAPIDS（cloud.google.com）<br>…ほか3本<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21?...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/21",
+            "title": "【7月21日ランキング】Migrate for Compute Engineを解説／ほか5本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-t-kunizaki/20220712/20220712185247.png\"><br>Google Cloud Platformチャンネル 2022年7月21日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: Migrate ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-t-kunizaki%2F20220712%2F20220712185247.png"
+            },
+            "date_modified": "2022-07-20T20:00:05.536Z",
+            "date_published": "2022-07-20T20:00:05.536Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月21日ランキング】Migrate for Compute Engineを解説／ほか5本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/WordPress/selections/daily/2022/7/21",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwRG9ja2VyJTJCQ2xvdWQlMjBSdW4lRTUlOEIlODklRTUlQkMlQjclRTQlQkMlOUElRTMlODAlOTEyLiUyMERvY2tlciVFMyU4MSVBN1dvcmRQcmVzcyVFMyU4MiU5MiVFMyU4MyU4NyVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVBNCVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtY29sb3I...",
+            "url": "https://techfeed.io/channels/WordPress/selections/daily/2022/7/21",
+            "title": "【7月21日ランキング】【Docker+Cloud Run勉強会】2. DockerでWordPressをデプロイする／ほか3本 | TechFeedおすすめ記事ランキング - WordPressチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png"
+            },
+            "date_modified": "2022-07-20T20:00:05.536Z",
+            "date_published": "2022-07-20T20:00:05.536Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月21日ランキング】【Docker+Cloud Run勉強会】2. DockerでWordPressをデプロイする／ほか3本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - WordPressチャンネル",
+                "blogLink": "http://techfeed.io/channels/WordPress",
+                "blogLinkMd5Hash": "3d0d0148d7b199ee99ad4667861d6138"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/migrate-for-compute-engine",
+            "content_html": "G-gen の國﨑です。Google Cloud (旧称 GCP) には、 Google Cloud への移行を支援してくれる Migrate for Compute Engine という移行ツールがあります。 今回の記事は Migrate for Compute Engine について解説します。 Migrate for Compute Engine とは Migrate for Compute Engine v4 と v5 の違い 環境構成 Migrate Connector 通信要件 料金 移行プロセス 1. オンボード 2. レプリケーション 3. 移行設定 4. テストクローン 5.…",
+            "url": "https://blog.g-gen.co.jp/entry/migrate-for-compute-engine",
+            "title": "Migrate for Compute Engineを解説 | G-gen Tech Blog",
+            "summary": "G-gen の國﨑です。Google Cloud (旧称 GCP) には、 Google Cloud への移行を支援してくれる Migrate for Compute Engine という移行ツールがあります。 今回の記事は Migrate for Compute Engine について解説します。 Migrate for Compute Engine とは Migrate for Compute...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/ggen-t-kunizaki/20220712/20220712185247.png"
+            },
+            "date_modified": "2022-07-20T00:30:00.000Z",
+            "date_published": "2022-07-20T00:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Migrate for Compute Engineを解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8"
+            }
+        },
+        {
+            "id": "https://bftnagoya.hateblo.jp/entry/2022/07/19/124648",
+            "content_html": "初めに こんにちは。株式会社BFT名古屋支店ないとうです。 GCPについて学習する機会があったので今回はGCE（Google Compute Engine）についてサービスを利用する前に知っておきたい基礎知識を紹介したいと思います。 目次 初めに 目次 GCEを作成する前に マシンシリーズとマシンタイプ マシンシリーズ マシンタイプ リージョンとゾーン リージョン ゾーン 注意点 ブートディスクとイメージ ブートディスク イメージ 終わりに 参照 GCEを作成する前に GCEはGCPが提供するサービスの1つで、クラウド環境で使用する仮想マシンであるインスタンスの作成と管理を行います。 GCPで…",
+            "url": "https://bftnagoya.hateblo.jp/entry/2022/07/19/124648",
+            "title": "【GCP・GCE】これからGCEを作成するために考えること | BFT名古屋 TECH BLOG",
+            "summary": "初めに こんにちは。株式会社BFT名古屋支店ないとうです。 GCPについて学習する機会があったので今回はGCE（Google Compute Engine）についてサービスを利用する前に知っておきたい基礎知識を紹介したいと思います。 目次 初めに 目次 GCEを作成する前に マシンシリーズとマシンタイプ マシンシリーズ マシンタイプ リージョンとゾーン リージョン ゾーン 注意点 ブートディスクと...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bftnagoya/20220627/20220627164751.png"
+            },
+            "date_modified": "2022-07-19T03:46:48.000Z",
+            "date_published": "2022-07-19T03:46:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【GCP・GCE】これからGCEを作成するために考えること",
+                "blogTitle": "BFT名古屋 TECH BLOG",
+                "blogLink": "https://bftnagoya.hateblo.jp/",
+                "blogLinkMd5Hash": "09229ff0df4f8d5025328e9e7bae368f"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19",
+            "content_html": "<img src=\"https://miro.medium.com/max/1090/1*2tdX8v1_6Z3n-diSsG0lig.png\"><br>Google Cloud Platformチャンネル 2022年7月19日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Why I definitively switched from Cloud Functions to Cloud Run（medium.com）<br>2位: Google Cloud Functions (2nd Gen) Java Sample（www.javacodegeeks.com）<br><a href=\"https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftech...",
+            "url": "https://techfeed.io/channels/Google%20Cloud%20Platform/selections/daily/2022/7/19",
+            "title": "【7月19日ランキング】Why I definitively switched from Cloud Functions to Cloud Run／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+            "summary": "<img src=\"https://miro.medium.com/max/1090/1*2tdX8v1_6Z3n-diSsG0lig.png\"><br>Google Cloud Platformチャンネル 2022年7月19日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Why I definitively switched from Cloud Function...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fmiro.medium.com%2Fmax%2F1090%2F1*2tdX8v1_6Z3n-diSsG0lig.png"
+            },
+            "date_modified": "2022-07-18T20:00:05.593Z",
+            "date_published": "2022-07-18T20:00:05.593Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【7月19日ランキング】Why I definitively switched from Cloud Functions to Cloud Run／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloud Platformチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/sheep96/articles/a6e92f0a385e63",
+            "content_html": "はじめに これは今さらな2021年振り返りカレンダーの2日目の記事です． トゥイラーも良かったらフォローしていただけると嬉しいです🐦 前回はCloud Run上で動くサービス用にGitHub flowでのCD環境を構築する話でした． https://zenn.dev/sheep96/articles/dc82e54ef7c005 前回の最後やいろんな記事で述べられているとおり，GitHub flowは審査が必要なネイティブアプリなど，アプリケーションの リリースタイミングをこちら側でコントロールできないケースで不都合が発生します（モノレポ想定です）． 例えばあるアプリについて，後方互...",
+            "url": "https://zenn.dev/sheep96/articles/a6e92f0a385e63",
+            "title": "GCP + ネイティブアプリでのGitLab flow構築 | Zennの「GCP」のフィード",
+            "summary": "はじめに これは今さらな2021年振り返りカレンダーの2日目の記事です． トゥイラーも良かったらフォローしていただけると嬉しいです🐦 前回はCloud Run上で動くサービス用にGitHub flowでのCD環境を構築する話でした． https://zenn.dev/sheep96/articles/dc82e54ef7c005 前回の最後やいろんな記事で述べられているとおり，GitHub fl...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CYmsj4dv--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sheep96%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:GCP%2520%252B%2520%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25A7%25E3%2581%25AEGitLab%2520flow%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o4NEE1aDdTZGhjNDRGNWFScTg0RmtKRzRuSmNqZ1RoQlVaUTBMPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-16T07:55:24.000Z",
+            "date_published": "2022-07-16T07:55:24.000Z",
+            "author": {
+                "name": "sheep96"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GCP + ネイティブアプリでのGitLab flow構築",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/sheep96/articles/dc82e54ef7c005",
+            "content_html": "はじめに これは今さらな2021年振り返りカレンダーカレンダーの1日目の記事です． 以下のブログで書いたものなのですが，zennで投稿するとどうなるんだろう？と思い転載してみました． https://serenard.hatenablog.com/entry/2022/01/14/205252 トゥイラーも良かったらフォローしていただけると嬉しいです🐦 昨年はスタートアップにて新規サービス開発におけるCDフローの構築を複数回行ったので，そこから得られた知見をまず書いていこうと思います．前提として，チームは数人，トラフィックもそんなに大きくないという想定での設計です． まずはCloud...",
+            "url": "https://zenn.dev/sheep96/articles/dc82e54ef7c005",
+            "title": "Cloud Run におけるGitHub flowでのCDフロー構築 | Zennの「GCP」のフィード",
+            "summary": "はじめに これは今さらな2021年振り返りカレンダーカレンダーの1日目の記事です． 以下のブログで書いたものなのですが，zennで投稿するとどうなるんだろう？と思い転載してみました． https://serenard.hatenablog.com/entry/2022/01/14/205252 トゥイラーも良かったらフォローしていただけると嬉しいです🐦 昨年はスタートアップにて新規サービス開発に...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CpaIMNN8--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sheep96%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Cloud%2520Run%2520%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BGitHub%2520flow%25E3%2581%25A7%25E3%2581%25AECD%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o4NEE1aDdTZGhjNDRGNWFScTg0RmtKRzRuSmNqZ1RoQlVaUTBMPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-16T07:30:22.000Z",
+            "date_published": "2022-07-16T07:30:22.000Z",
+            "author": {
+                "name": "sheep96"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Run におけるGitHub flowでのCDフロー構築",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://zenn.dev/furuhon/articles/cc82c0a6bae3c0",
+            "content_html": "初投稿となります。furuhonです。 非エンジニアだったのですが、最近機械学習関係のプロジェクトを動かすことになり、 勉強がてら自分がつまづいたことを共有していければなと考えています。 「超」初心者的なことばかりですが、どうぞよろしくお願いいたします。   マネージドノートブック環境でターミナルを表示する。 Vertex AI Workbenchのマネージドノートブック環境をデフォルトで作成すると、Jupyter ノートブックのランチャー(Launcher)にTerminalが表示されずにつまづきました。  解決策は、マネージドノートブック環境作成時の「詳細設定」の一番最後の「ターミナ...",
+            "url": "https://zenn.dev/furuhon/articles/cc82c0a6bae3c0",
+            "title": "[Vertex AI Workbench] マネージドノートブック環境でターミナルを表示する。 | Zennの「GCP」のフィード",
+            "summary": "初投稿となります。furuhonです。 非エンジニアだったのですが、最近機械学習関係のプロジェクトを動かすことになり、 勉強がてら自分がつまづいたことを共有していければなと考えています。 「超」初心者的なことばかりですが、どうぞよろしくお願いいたします。   マネージドノートブック環境でターミナルを表示する。 Vertex AI Workbenchのマネージドノートブック環境をデフォルトで作成する...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--QyQ_QpWv--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:furuhon%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%255BVertex%2520AI%2520Workbench%255D%2520%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2589%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2582%2592%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1hcHB0a1dfUi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhODk1ZWQwMjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+            },
+            "date_modified": "2022-07-16T01:32:38.000Z",
+            "date_published": "2022-07-16T01:32:38.000Z",
+            "author": {
+                "name": "furuhon"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[Vertex AI Workbench] マネージドノートブック環境でターミナルを表示する。",
+                "blogTitle": "Zennの「GCP」のフィード",
+                "blogLink": "https://zenn.dev/topics/gcp",
+                "blogLinkMd5Hash": "4eee00c0dff54361ac28ad02851bac41"
+            }
+        },
+        {
+            "id": "https://note.com/yojo_engineering/n/na62ea85db3c1",
+            "content_html": "開発のbonです。 弊社では6/12に既存事業のLINEを用いた漢方・サプリのサブスクリプションサービスであるYOJOのシステム基盤を、HerokuからGCPへとリプレースしました。 実は以前の投稿でHerokuの全体像をご紹介したのはここに至る伏線だったのです。 ※今回の記事は割と壮大な記事ですのでご了承ください……。 全体スケジュールは以下のとおりです。 4月上旬に発案からの承認を得て、4月中旬からチームとして要件とスケジュール決めをしました。その後は6/12まで検証と実装を繰り返してリプレース作業を完遂しました。  続きをみる",
+            "url": "https://note.com/yojo_engineering/n/na62ea85db3c1",
+            "title": "自社システムをHerokuからGCPにリプレースした話 -全体像 前編- | 開発チーム",
+            "summary": "開発のbonです。 弊社では6/12に既存事業のLINEを用いた漢方・サプリのサブスクリプションサービスであるYOJOのシステム基盤を、HerokuからGCPへとリプレースしました。 実は以前の投稿でHerokuの全体像をご紹介したのはここに至る伏線だったのです。 ※今回の記事は割と壮大な記事ですのでご了承ください……。 全体スケジュールは以下のとおりです。 4月上旬に発案からの承認を得て、4月中...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/82703431/rectangle_large_type_2_516475113e0c1dc8dafd4bbdd01812f4.png"
+            },
+            "date_modified": "2022-07-15T08:49:47.000Z",
+            "date_published": "2022-07-15T08:49:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "自社システムをHerokuからGCPにリプレースした話 -全体像 前編-",
+                "blogTitle": "開発チーム",
+                "blogLink": "https://note.com/yojo_engineering/m/m59a0657d21e2",
+                "blogLinkMd5Hash": "9380bf0620103ec188b592d32f4487a5"
+            }
+        },
+        {
+            "id": "https://developers.bookwalker.jp/entry/2022/07/15/171828",
+            "content_html": "メディアサービス開発部Webアプリケーション開発課の長田です 主にRuby on Railsを利用したサービス開発やBigQueryを利用した数値集計・解析のための基盤整備などをしています。 BigQueryには日時と実行したいクエリを設定することで定期的にクエリを実行する機能があります。 この機能では実行日時・実行間隔の設定から、実行結果をどのデータセットのテーブルに格納するかまで指定することができます。 今回はこの定期的なクエリ実行機能に関して利用例と一緒に紹介します。 BigQueryExportで同期したGA4イベントを利用した集計 前回投稿したGA4をBigQueryと連携する際に気…",
+            "url": "https://developers.bookwalker.jp/entry/2022/07/15/171828",
+            "title": "BigQueryの定期的なクエリ実行機能について | BOOK☆WALKER Tech Blog",
+            "summary": "メディアサービス開発部Webアプリケーション開発課の長田です 主にRuby on Railsを利用したサービス開発やBigQueryを利用した数値集計・解析のための基盤整備などをしています。 BigQueryには日時と実行したいクエリを設定することで定期的にクエリを実行する機能があります。 この機能では実行日時・実行間隔の設定から、実行結果をどのデータセットのテーブルに格納するかまで指定することが...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bookwalker_writer/20220713/20220713103414.png"
+            },
+            "date_modified": "2022-07-15T08:18:28.000Z",
+            "date_published": "2022-07-15T08:18:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "BigQueryの定期的なクエリ実行機能について",
+                "blogTitle": "BOOK☆WALKER Tech Blog",
+                "blogLink": "https://developers.bookwalker.jp/",
+                "blogLinkMd5Hash": "78dc98ee6b135c7570c1600fa7d7a2e5"
+            }
+        }
+    ]
+}
