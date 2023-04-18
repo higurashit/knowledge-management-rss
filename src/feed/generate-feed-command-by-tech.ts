@@ -89,11 +89,11 @@ const generateFeedByTechFields = async (
         tech.keywords.some((keyword) => {
           // 各feedのタイトルにキーワードが含まれている場合、RSS作成対象
           const reg = new RegExp(keyword);
-          let isContain = false;
-          try{
+          let isContain = null;
+          try {
             isContain = item.title && item.title.toLowerCase().match(reg);
-          }catch(e){
-            console.log(e, item.title)
+          } catch (e) {
+            console.log(e, item.title);
           }
           if (isContain) {
             items.push(item);
