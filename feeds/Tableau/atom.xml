@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2024-03-28T15:19:50.429Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Tableau拡張機能の作り方 | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=59356</id>
+        <link href="https://blog.truestar.co.jp/tableau/20240328/59356/"/>
+        <updated>2024-03-28T02:26:07.000Z</updated>
+        <summary type="html"><![CDATA[前回せっかくTableau拡張機能を作って遊んだので、Tableau拡張機能の作り方を解説しようと思います。 今回は、Tableau公式リポジトリのサンプルコードから必要最低限のコードを抜き出して拡張機能を作っていきます... Tableau拡張機能の作り方 first appeared on Tableau-id Press -タブロイド-.]]></summary>
+        <content type="html"><![CDATA[前回せっかくTableau拡張機能を作って遊んだので、Tableau拡張機能の作り方を解説しようと思います。 今回は、Tableau公式リポジトリのサンプルコードから必要最低限のコードを抜き出して拡張機能を作っていきます... Tableau拡張機能の作り方 first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>k.tashiro</name>
+        </author>
+        <category label="Tableau"/>
+        <published>2024-03-28T02:26:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=59314</id>
+        <link href="https://blog.truestar.co.jp/microsoft/power-bi/20240327/59314/"/>
+        <updated>2024-03-27T01:00:50.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは、truestarのtokuです。 少し前にtableauをPowerBIで再現しようとする機会がありまして、その中でよく直面した問題が、 tableauではよく使われるLOD計算をどう再現するかでした。... 【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 first appeared on Tableau-id Press -タブロ...]]></summary>
+        <content type="html"><![CDATA[皆さんこんにちは、truestarのtokuです。 少し前にtableauをPowerBIで再現しようとする機会がありまして、その中でよく直面した問題が、 tableauではよく使われるLOD計算をどう再現するかでした。... 【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>toku</name>
+        </author>
+        <category label="Power BI"/>
+        <category label="Tips"/>
+        <category label="初心者向け"/>
+        <published>2024-03-27T01:00:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tableau Certified Consultant 受験奮闘記 | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=59278</id>
+        <link href="https://blog.truestar.co.jp/tableau/20240318/59278/"/>
+        <updated>2024-03-17T22:54:29.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 前のブログでもチラッと書いたのですが 少し前までTableau Certified Consultantという、Tableauのパートナー向け認定資格に挑戦していました。 先に結果だけ書いておくと、受験する... Tableau Certified Consultant 受験奮闘記 first appeared on Tableau-id Press -タブロイド-.]]></summary>
+        <content type="html"><![CDATA[こんにちは！ 前のブログでもチラッと書いたのですが 少し前までTableau Certified Consultantという、Tableauのパートナー向け認定資格に挑戦していました。 先に結果だけ書いておくと、受験する... Tableau Certified Consultant 受験奮闘記 first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>Buchi</name>
+        </author>
+        <category label="Tableau"/>
+        <category label="資格試験"/>
+        <published>2024-03-17T22:54:29.000Z</published>
+    </entry>
+</feed>

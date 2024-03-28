@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 28 Mar 2024 15:19:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SNP、SnowflakeネイティブアプリでSAPデータの高度なアナリティクスを実現 | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/snp-snowflake-native-app-sap-analytics/</link>
+            <guid>https://www.snowflake.com/blog/snp%e3%80%81snowflake%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%a2%e3%83%97%e3%83%aa%e3%81%a7sap%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ae%e9%ab%98%e5%ba%a6%e3%81%aa%e3%82%a2%e3%83%8a%e3%83%aa/</guid>
+            <pubDate>Thu, 28 Mar 2024 14:31:52 GMT</pubDate>
+            <description><![CDATA[SNP Glue Connector for SAPを使用して、迅速かつ正確に、低レイテンシーかつコストでSAPデータをSnowflakeに抽出します。 The post SNP、SnowflakeネイティブアプリでSAPデータの高度なアナリティクスを実現 appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[SNP Glue Connector for SAPを使用して、迅速かつ正確に、低レイテンシーかつコストでSAPデータをSnowflakeに抽出します。 The post SNP、SnowflakeネイティブアプリでSAPデータの高度なアナリティクスを実現 appeared first on Snowflake.]]></content:encoded>
+            <category>データアプリケーション</category>
+            <category>パートナーの視点</category>
+            <category>パートナー  カスタマーバリュー</category>
+            <category>カテゴリーなし</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/03/SNPGlue_Blog.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022年2月にリリースされたSnowflakeの新機能 | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/features-release-february-2024/</link>
+            <guid>https://www.snowflake.com/blog/2022%e5%b9%b42%e6%9c%88%e3%81%ab%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%81%95%e3%82%8c%e3%81%9fsnowflake%e3%81%ae%e6%96%b0%e6%a9%9f%e8%83%bd/</guid>
+            <pubDate>Thu, 28 Mar 2024 14:31:31 GMT</pubDate>
+            <description><![CDATA[2月には、ハイブリッドテーブルのパブリックプレビューなど、Snowflakeでできることの幅をさらに広げる新機能を多数リリースしました。先月発表された内容の詳細は、こちらでご確認いただけます。 アプリケーション開発 […] The post 2022年2月にリリースされたSnowflakeの新機能 appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[2月には、ハイブリッドテーブルのパブリックプレビューなど、Snowflakeでできることの幅をさらに広げる新機能を多数リリースしました。先月発表された内容の詳細は、こちらでご確認いただけます。 アプリケーション開発 […] The post 2022年2月にリリースされたSnowflakeの新機能 appeared first on Snowflake.]]></content:encoded>
+            <category>リリースノート</category>
+            <category>ハイブリッドテーブル</category>
+            <category>snowflakeマーケットプレイス</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/03/SF_2_feature_release_general_feb_2024.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mapbox Snowflakeネイティブアプリが地理空間分析を新たなオーディエンスに開放  | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/mapbox-snowflake-native-app-geospatial-analytics/</link>
+            <guid>https://www.snowflake.com/blog/mapbox-snowflake%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%a2%e3%83%97%e3%83%aa%e3%81%8c%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e5%88%86%e6%9e%90%e3%82%92%e6%96%b0%e3%81%9f%e3%81%aa%e3%82%aa/</guid>
+            <pubDate>Thu, 28 Mar 2024 14:31:24 GMT</pubDate>
+            <description><![CDATA[顧客がアクセス可能で使いやすいGISデータをどのように活用しているかをご覧ください。 The post Mapbox Snowflakeネイティブアプリが地理空間分析を新たなオーディエンスに開放 appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[顧客がアクセス可能で使いやすいGISデータをどのように活用しているかをご覧ください。 The post Mapbox Snowflakeネイティブアプリが地理空間分析を新たなオーディエンスに開放 appeared first on Snowflake.]]></content:encoded>
+            <category>データアプリケーション</category>
+            <category>パートナーの視点</category>
+            <category>パートナー  カスタマーバリュー</category>
+            <category>製品  テクノロジー</category>
+            <category>地理空間アナリティクス</category>
+            <category>地理空間データ</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/03/sf_geospatial_data_mapbox.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflakeスタートアップの注目ポイント：ZeroError | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/snowflake-startup-spotlight-zeroerror/</link>
+            <guid>https://www.snowflake.com/blog/snowflake%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%e3%81%ae%e6%b3%a8%e7%9b%ae%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%ef%bc%9azeroerror/</guid>
+            <pubDate>Thu, 28 Mar 2024 13:21:03 GMT</pubDate>
+            <description><![CDATA[Snowflakeのスタートアップスポットライトへようこそ。ここでは、Snowflakeでビジネスを構築している企業について学びます。本ページでは、ZeroErrorの創業者兼CEOであるMaria Marti氏が、エン […] The post Snowflakeスタートアップの注目ポイント：ZeroError appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[Snowflakeのスタートアップスポットライトへようこそ。ここでは、Snowflakeでビジネスを構築している企業について学びます。本ページでは、ZeroErrorの創業者兼CEOであるMaria Marti氏が、エン […] The post Snowflakeスタートアップの注目ポイント：ZeroError appeared first on Snowflake.]]></content:encoded>
+            <category>データアプリケーション</category>
+            <category>カスタマーストーリー</category>
+            <category>パートナー  カスタマーバリュー</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/03/Spotlight-zero-error-06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflakeスタートアップの注目ポイント：Chabi | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/startup-spotlight-chabi/</link>
+            <guid>https://www.snowflake.com/blog/snowflake%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%e3%81%ae%e6%b3%a8%e7%9b%ae%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%ef%bc%9achabi/</guid>
+            <pubDate>Thu, 28 Mar 2024 13:20:59 GMT</pubDate>
+            <description><![CDATA[Snowflakeのスタートアップスポットライトへようこそ。ここでは、Snowflakeでビジネスを構築している素晴らしい企業について学びます。本エディションでは、Chabiの共同設立者兼CEOであるAngad Sing […] The post Snowflakeスタートアップの注目ポイント：Chabi appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[Snowflakeのスタートアップスポットライトへようこそ。ここでは、Snowflakeでビジネスを構築している素晴らしい企業について学びます。本エディションでは、Chabiの共同設立者兼CEOであるAngad Sing […] The post Snowflakeスタートアップの注目ポイント：Chabi appeared first on Snowflake.]]></content:encoded>
+            <category>パートナーの視点</category>
+            <category>パートナー  カスタマーバリュー</category>
+            <category>データモデリング</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/02/sf-chabi.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake Ventures、Landing AIに投資し、データクラウドのビジュアルAIを強化 | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/snowflake-ventures-invests-in-landing-ai-boosting-visual-ai-in-the-data-cloud/</link>
+            <guid>https://www.snowflake.com/blog/snowflake-ventures%e3%80%81landing-ai%e3%81%ab%e6%8a%95%e8%b3%87%e3%81%97%e3%80%81%e3%83%87%e3%83%bc%e3%82%bf%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%81%ae%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%aba/</guid>
+            <pubDate>Thu, 28 Mar 2024 13:20:45 GMT</pubDate>
+            <description><![CDATA[大規模言語モデルが自然言語プロンプトに革命を起こしている中、大規模ビジョンモデル（LVM）はAIの新たなエキサイティングな分野です。世界のデータの推定90%は非構造化データであり、その多くは画像や動画などのビジュアルコン […] The post Snowflake Ventures、Landing AIに投資し、データクラウドのビジュアルAIを強化 appeared first on Snowf...]]></description>
+            <content:encoded><![CDATA[大規模言語モデルが自然言語プロンプトに革命を起こしている中、大規模ビジョンモデル（LVM）はAIの新たなエキサイティングな分野です。世界のデータの推定90%は非構造化データであり、その多くは画像や動画などのビジュアルコン […] The post Snowflake Ventures、Landing AIに投資し、データクラウドのビジュアルAIを強化 appeared first on Snowflake.]]></content:encoded>
+            <category>製品  テクノロジー</category>
+            <category>私たちの取り組み</category>
+            <category>Snowflakeニュース</category>
+            <enclosure length="0" type="image/png" url="https://www.snowflake.com/wp-content/uploads/2024/03/Blog_Landing_AI_Hori_1200x686.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024年1月にリリースされたSnowflakeの新機能 | Snowflake]]></title>
+            <link>https://www.snowflake.com/blog/features-release-january-2024/</link>
+            <guid>https://www.snowflake.com/blog/2024%e5%b9%b41%e6%9c%88%e3%81%ab%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%81%95%e3%82%8c%e3%81%9fsnowflake%e3%81%ae%e6%96%b0%e6%a9%9f%e8%83%bd/</guid>
+            <pubDate>Thu, 28 Mar 2024 13:16:17 GMT</pubDate>
+            <description><![CDATA[2024年1月にリリースされたSnowflakeの新機能 The post 2024年1月にリリースされたSnowflakeの新機能 appeared first on Snowflake.]]></description>
+            <content:encoded><![CDATA[2024年1月にリリースされたSnowflakeの新機能 The post 2024年1月にリリースされたSnowflakeの新機能 appeared first on Snowflake.]]></content:encoded>
+            <category>リリースノート</category>
+            <category>データ取り込み</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.snowflake.com/wp-content/uploads/2024/02/SF_2_feature_release_general_JAN_2024.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【Snowflake】ジオハッシュ地図を作ってStreamlitで可視化してみる | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20240322/59289/</link>
+            <guid>https://blog.truestar.co.jp/?p=59289</guid>
+            <pubDate>Fri, 22 Mar 2024 04:46:37 GMT</pubDate>
+            <description><![CDATA[こんにちは。ozawaです！ 今日は、ジオハッシュ地図をStreamlit in Snowflakeで表示してみようと思います。 ジオハッシュ地図ではOOkm×OOkmの色付きタイルを地図上に並べて表示できます。（この後... 【Snowflake】ジオハッシュ地図を作ってStreamlitで可視化してみる first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[こんにちは。ozawaです！ 今日は、ジオハッシュ地図をStreamlit in Snowflakeで表示してみようと思います。 ジオハッシュ地図ではOOkm×OOkmの色付きタイルを地図上に並べて表示できます。（この後... 【Snowflake】ジオハッシュ地図を作ってStreamlitで可視化してみる first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <category>Geocoding</category>
+            <category>snowflake</category>
+            <category>Streamlit</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2021/12/snowflake-logo-1200x630-960x504-1-thegem-blog-timeline-large.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Streamlit on Snowflakeで地図を使った可視化 | estie inside blog]]></title>
+            <link>https://www.estie.jp/blog/entry/2024/03/21/170000</link>
+            <guid>https://www.estie.jp/blog/entry/2024/03/21/170000</guid>
+            <pubDate>Thu, 21 Mar 2024 08:00:00 GMT</pubDate>
+            <description><![CDATA[estieでは不動産を扱うため、社内で地図を使った可視化によく取り組みます。estieではSnowflakeを使っており、Streamlit on Snowflakeを活用したいのですが、Streamlitでの地図を使った可視化の定番であるstreamlit_foliumはSnowflakeのセキュリティポリシーで制限されたコンポーネントを使っているため、Streamlit on Snowflak...]]></description>
+            <content:encoded><![CDATA[estieでは不動産を扱うため、社内で地図を使った可視化によく取り組みます。estieではSnowflakeを使っており、Streamlit on Snowflakeを活用したいのですが、Streamlitでの地図を使った可視化の定番であるstreamlit_foliumはSnowflakeのセキュリティポリシーで制限されたコンポーネントを使っているため、Streamlit on Snowflakeでは使えません。 Streamlit on Snowflakeでstreamlit_foliumを使おうとすると出るエラー。 Unsupported component error: We remo…]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rust 版 Snowflake ドライバーで非同期クエリをサポートしました | estie inside blog]]></title>
+            <link>https://www.estie.jp/blog/entry/2024/03/18/160000</link>
+            <guid>https://www.estie.jp/blog/entry/2024/03/18/160000</guid>
+            <pubDate>Mon, 18 Mar 2024 07:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、スタッフエンジニアの @kenkooooです。estie が OSS として公開している Rust 版 Snowflake ドライバーの snowflake-connector-rsのアップデートについてお知らせします。 Snowflake で時間のかかるクエリ Snowflake は SQL でクエリが書けるデータウェアハウスですが、実態としては HTTP サーバーとして動いていて、...]]></description>
+            <content:encoded><![CDATA[こんにちは、スタッフエンジニアの @kenkooooです。estie が OSS として公開している Rust 版 Snowflake ドライバーの snowflake-connector-rsのアップデートについてお知らせします。 Snowflake で時間のかかるクエリ Snowflake は SQL でクエリが書けるデータウェアハウスですが、実態としては HTTP サーバーとして動いていて、クライアントは HTTP でクエリを投げたり結果を受け取ったりします。 Snowflake は非常にパワフルですが、クエリによっては実行に時間がかかるものもあります。そういったクエリを実行する時、Sn…]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Snowflakeコストを楽に最適化する最強ツール”SELECT”のご紹介！ | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20240315/59014/</link>
+            <guid>https://blog.truestar.co.jp/?p=59014</guid>
+            <pubDate>Fri, 15 Mar 2024 03:00:54 GMT</pubDate>
+            <description><![CDATA[こんにちは！Chinenです。 表題を見て、「いよいよtruestarが怪しい…？」と思われいる方いますね？ いいえ、怪しくありません！ 本当に楽にSnowflakeのコストを可視化・最適化できるツール”SELECT”を... Snowflakeコストを楽に最適化する最強ツール”SELECT”のご紹介！ first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[こんにちは！Chinenです。 表題を見て、「いよいよtruestarが怪しい…？」と思われいる方いますね？ いいえ、怪しくありません！ 本当に楽にSnowflakeのコストを可視化・最適化できるツール”SELECT”を... Snowflakeコストを楽に最適化する最強ツール”SELECT”のご紹介！ first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <enclosure length="0" type="jpg" url="https://blog.truestar.co.jp/wp-content/uploads/2024/03/SnowflakeCostSavings-thegem-blog-timeline-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the ultimate tool “SELECT” to easily optimize Snowflake costs! | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20240315/59057/</link>
+            <guid>https://blog.truestar.co.jp/?p=59057</guid>
+            <pubDate>Fri, 15 Mar 2024 03:00:27 GMT</pubDate>
+            <description><![CDATA[Hello! I’m Chinen. Looking at the title, some of you might be thinking, "Has truestar finally gone ... Introducing the ultimate tool “SELECT” to easily optimize Snowflake costs! first appeared on Tabl...]]></description>
+            <content:encoded><![CDATA[Hello! I’m Chinen. Looking at the title, some of you might be thinking, "Has truestar finally gone ... Introducing the ultimate tool “SELECT” to easily optimize Snowflake costs! first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2024/03/Savings.png"/>
+        </item>
+        <item>
+            <title><![CDATA[10分でできる！Snowflakeコスト最適化ツール”SELECT”の設定方法を徹底解説！ | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20240315/59031/</link>
+            <guid>https://blog.truestar.co.jp/?p=59031</guid>
+            <pubDate>Fri, 15 Mar 2024 03:00:17 GMT</pubDate>
+            <description><![CDATA[こんにちは！Chinenです。 先のブログでご紹介したSELECTについて、日本語で設定方法の説明を載せてみます。(運営会社がアメリカなので今は英語しかありません。)元のドキュメントはこちら⇒Welcome to SEL... 10分でできる！Snowflakeコスト最適化ツール”SELECT”の設定方法を徹底解説！ first appeared on Tableau-id Press -タブロイ...]]></description>
+            <content:encoded><![CDATA[こんにちは！Chinenです。 先のブログでご紹介したSELECTについて、日本語で設定方法の説明を載せてみます。(運営会社がアメリカなので今は英語しかありません。)元のドキュメントはこちら⇒Welcome to SEL... 10分でできる！Snowflakeコスト最適化ツール”SELECT”の設定方法を徹底解説！ first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2024/03/SelectSnowflake-thegem-blog-timeline-large.png"/>
+        </item>
+    </channel>
+</rss>

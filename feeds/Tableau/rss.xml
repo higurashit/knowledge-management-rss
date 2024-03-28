@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 28 Mar 2024 15:19:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tableau拡張機能の作り方 | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/tableau/20240328/59356/</link>
+            <guid>https://blog.truestar.co.jp/?p=59356</guid>
+            <pubDate>Thu, 28 Mar 2024 02:26:07 GMT</pubDate>
+            <description><![CDATA[前回せっかくTableau拡張機能を作って遊んだので、Tableau拡張機能の作り方を解説しようと思います。 今回は、Tableau公式リポジトリのサンプルコードから必要最低限のコードを抜き出して拡張機能を作っていきます... Tableau拡張機能の作り方 first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[前回せっかくTableau拡張機能を作って遊んだので、Tableau拡張機能の作り方を解説しようと思います。 今回は、Tableau公式リポジトリのサンプルコードから必要最低限のコードを抜き出して拡張機能を作っていきます... Tableau拡張機能の作り方 first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Tableau</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2023/09/tableau-logo-1200x630-960x504-1-e1628055423558-1-thegem-blog-timeline-large.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/microsoft/power-bi/20240327/59314/</link>
+            <guid>https://blog.truestar.co.jp/?p=59314</guid>
+            <pubDate>Wed, 27 Mar 2024 01:00:50 GMT</pubDate>
+            <description><![CDATA[皆さんこんにちは、truestarのtokuです。 少し前にtableauをPowerBIで再現しようとする機会がありまして、その中でよく直面した問題が、 tableauではよく使われるLOD計算をどう再現するかでした。... 【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 first appeared on Tableau-id Press -タブロ...]]></description>
+            <content:encoded><![CDATA[皆さんこんにちは、truestarのtokuです。 少し前にtableauをPowerBIで再現しようとする機会がありまして、その中でよく直面した問題が、 tableauではよく使われるLOD計算をどう再現するかでした。... 【Power BI】Power BIでtableauのLOD計算(Fixed)を再現する方法 first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Power BI</category>
+            <category>Tips</category>
+            <category>初心者向け</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2020/05/20200501titile-1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tableau Certified Consultant 受験奮闘記 | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/tableau/20240318/59278/</link>
+            <guid>https://blog.truestar.co.jp/?p=59278</guid>
+            <pubDate>Sun, 17 Mar 2024 22:54:29 GMT</pubDate>
+            <description><![CDATA[こんにちは！ 前のブログでもチラッと書いたのですが 少し前までTableau Certified Consultantという、Tableauのパートナー向け認定資格に挑戦していました。 先に結果だけ書いておくと、受験する... Tableau Certified Consultant 受験奮闘記 first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[こんにちは！ 前のブログでもチラッと書いたのですが 少し前までTableau Certified Consultantという、Tableauのパートナー向け認定資格に挑戦していました。 先に結果だけ書いておくと、受験する... Tableau Certified Consultant 受験奮闘記 first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Tableau</category>
+            <category>資格試験</category>
+            <enclosure length="0" type="png" url="https://blog.truestar.co.jp/wp-content/uploads/2023/09/tableau-logo-1200x630-960x504-1-e1628055423558-1-thegem-blog-timeline-large.png"/>
+        </item>
+    </channel>
+</rss>
