@@ -1,0 +1,729 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/18",
+            "content_html": "<img src=\"https://devblogs.microsoft.com/devops/wp-content/uploads/sites/6/2024/10/pr-annotation-detail.png\"><br>DevOpsチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps（devblogs.microsoft.com）<br>2位: New Terraform Features Manage Migrations, Modules（thenewstack.io）<br><a href=\"https://techfeed.io/channels/DevOps/selections/daily/2024/10/18?from=rss\" target=\"_blank\">ランキングはこちらか...",
+            "url": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/18",
+            "title": "【10月18日ランキング】Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps／ほか1本 | TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+            "summary": "<img src=\"https://devblogs.microsoft.com/devops/wp-content/uploads/sites/6/2024/10/pr-annotation-detail.png\"><br>DevOpsチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Introducing Pull Request ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdevblogs.microsoft.com%2Fdevops%2Fwp-content%2Fuploads%2Fsites%2F6%2F2024%2F10%2Fpr-annotation-detail.png"
+            },
+            "date_modified": "2024-10-17T20:00:11.021Z",
+            "date_published": "2024-10-17T20:00:11.021Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月18日ランキング】Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+                "blogLink": "http://techfeed.io/channels/DevOps",
+                "blogLinkMd5Hash": "6945279e98bfaf926df38719d624b6d1"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18",
+            "content_html": "<img src=\"https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg\"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事4本）。<br>1位: 日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果（japan.zdnet.com）<br>2位: SCSK、Azure上に各企業専用の生成AI環境を構築するサービス「生成AI 統合活用基盤」（cloud.watch.impress.co.jp）<br>3位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>…ほか4本<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18?from...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18",
+            "title": "【10月18日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか6本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg\"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事4本）。<br>1位: 日立とギブリーが明かす、...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fjapan.zdnet.com%2Fstorage%2F2024%2F10%2F16%2Fe2ec1bd8d657fe39d7efd767f404de82%2F241016_ms_001.jpg"
+            },
+            "date_modified": "2024-10-17T20:00:11.021Z",
+            "date_published": "2024-10-17T20:00:11.021Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月18日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか6本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/headwaters/articles/e7cd59c54b23a5",
+            "content_html": "やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#availability o1モデルの説明。  OpenAI o1 シリーズ モデルは、推論と問題解決のタスクに集中力と能力を高めて取り組むために特別に設計されています。これらのモデルは、ユーザー...",
+            "url": "https://zenn.dev/headwaters/articles/e7cd59c54b23a5",
+            "title": "Azure OpenAI Serviceでo1-previewを試す | Zennの「Azure」のフィード",
+            "summary": "やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#ava...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--5PydrVi8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520OpenAI%2520Service%25E3%2581%25A7o1-preview%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:koki%2520takeishi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3M2E2MGRhNDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T10:30:16.000Z",
+            "date_published": "2024-10-17T10:30:16.000Z",
+            "author": {
+                "name": "koki takeishi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure OpenAI Serviceでo1-previewを試す",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://aadojo.alterbooth.com/entry/2024/10/17/161241",
+            "content_html": "未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。",
+            "url": "https://aadojo.alterbooth.com/entry/2024/10/17/161241",
+            "title": "未使用のAzureサブスクリプションがブロック・削除されます。 | Alternative Architecture DOJO",
+            "summary": "未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729158809"
+            },
+            "date_modified": "2024-10-17T07:12:41.000Z",
+            "date_published": "2024-10-17T07:12:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "未使用のAzureサブスクリプションがブロック・削除されます。",
+                "blogTitle": "Alternative Architecture DOJO",
+                "blogLink": "https://aadojo.alterbooth.com/",
+                "blogLinkMd5Hash": "36e851aca4bd6f76d55691fa38e430fe"
+            }
+        },
+        {
+            "id": "https://qiita.com/MarthaS/items/dd202366b43d64bbf173",
+            "content_html": "New Relic の Azure 統合は設定時にAzure Entra ID で発行したクライアントシークレットを使用します。シークレットには有効期限が設定されているため、期限を迎える前に更新す…",
+            "url": "https://qiita.com/MarthaS/items/dd202366b43d64bbf173",
+            "title": "New Relic の Azure 統合で使用するクライアントシークレットを更新するには | Qiita - 人気の記事",
+            "summary": "New Relic の Azure 統合は設定時にAzure Entra ID で発行したクライアントシークレットを使用します。シークレットには有効期限が設定されているため、期限を迎える前に更新す…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-17T06:58:46.000Z",
+            "date_published": "2024-10-17T06:58:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "New Relic の Azure 統合で使用するクライアントシークレットを更新するには",
+                "blogTitle": "Qiita - 人気の記事",
+                "blogLink": "https://qiita.com/popular-items",
+                "blogLinkMd5Hash": "22bc5b5f7db7eeb45ad4a89236285644"
+            }
+        },
+        {
+            "id": "https://tech-lab.sios.jp/?p=43562",
+            "content_html": "初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.",
+            "url": "https://tech-lab.sios.jp/archives/43562",
+            "title": "GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する | SIOS Tech. Lab",
+            "summary": "初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.",
+            "image": {
+                "type": "png",
+                "url": "https://tech-lab.sios.jp/wp-content/uploads/2018/05/sios_tech_lab_image.png"
+            },
+            "date_modified": "2024-10-17T06:23:56.000Z",
+            "date_published": "2024-10-17T06:23:56.000Z",
+            "author": {
+                "name": "Sogo Ito"
+            },
+            "tags": [
+                "Azure",
+                "認証",
+                "Azure App Service",
+                "Google Authenticator"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する",
+                "blogTitle": "SIOS Tech. Lab",
+                "blogLink": "https://tech-lab.sios.jp",
+                "blogLinkMd5Hash": "7bb54af2314ce8358bbf3a74375fcced"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2024/10/17/120000",
+            "content_html": "はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会が減り、その過程でのエンジニアとしてのワクワクを感じなくなってきたなと思う今日この頃。 中間管理職だってワクワクしたい！！！というピュアピュアな想いで本ブログを書いてみました。 弊社はGitHub社と…",
+            "url": "https://techblog.ap-com.co.jp/entry/2024/10/17/120000",
+            "title": "GitHub Advanced SecurityのAlertを、Azure Functions経由でいい感じにSlackに飛ばす | APC 技術ブログ",
+            "summary": "はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/82dda3981b5807923158eaaafda7ab7345286a04/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjnytnai%2F20241016%2F20241016220058.png"
+            },
+            "date_modified": "2024-10-17T03:00:00.000Z",
+            "date_published": "2024-10-17T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GitHub Advanced SecurityのAlertを、Azure Functions経由でいい感じにSlackに飛ばす",
+                "blogTitle": "APC 技術ブログ",
+                "blogLink": "https://techblog.ap-com.co.jp/",
+                "blogLinkMd5Hash": "44ee1b58b0f91540a3894878b97d1b65"
+            }
+        },
+        {
+            "id": "https://zenn.dev/shimiyu/articles/7bab46064bc377",
+            "content_html": "概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと思ったのです。 職場のDevopsも結構自由に使うことはできるのですが、やっぱり遊び半分で使うのは気が引けますし、権限の関係で自由に触れない部分もありますし...。   初めてのAzure ...",
+            "url": "https://zenn.dev/shimiyu/articles/7bab46064bc377",
+            "title": "Azure Devopsで組織とプロジェクトを作成する | Zennの「Azure」のフィード",
+            "summary": "概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--FAisNsxa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Devops%25E3%2581%25A7%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%25A8%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%25BF%25E3%2582%2586%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk0OWE2NTYxY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T21:46:10.000Z",
+            "date_published": "2024-10-16T21:46:10.000Z",
+            "author": {
+                "name": "しみゆー"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure Devopsで組織とプロジェクトを作成する",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg\"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果（japan.zdnet.com）<br>2位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>1位: Azure Cobalt 100-based Virtual Machines are now generally available（azure.microsoft.com）<br>…ほか3本<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg\"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fjapan.zdnet.com%2Fstorage%2F2024%2F10%2F16%2Fe2ec1bd8d657fe39d7efd767f404de82%2F241016_ms_001.jpg"
+            },
+            "date_modified": "2024-10-16T20:00:10.581Z",
+            "date_published": "2024-10-16T20:00:10.581Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか5本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yurio/articles/b4b9a45302d8e0",
+            "content_html": "前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケージの依存関係の問題によりインフラの展開が失敗する問題があります。 下記内容は、SLES for SAP Applications 15 SP にて確認した内容ということでご留意ください。    ...",
+            "url": "https://zenn.dev/yurio/articles/b4b9a45302d8e0",
+            "title": "Azure Center for SAP Solutions (ACSS) を使って SAP on Azure の展開 (つづき) | Zennの「Azure」のフィード",
+            "summary": "前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケー...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--56TriUyb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Center%2520for%2520SAP%2520Solutions%2520%2528ACSS%2529%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520SAP%2520on%2520Azure%2520%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:taskwoof%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pfNGstYlp0UmpMeUJaaHRQVnJGTFN5bVlQbUNyQ2Q4Q1k0RU9NNFE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T07:38:40.000Z",
+            "date_published": "2024-10-16T07:38:40.000Z",
+            "author": {
+                "name": "taskwoof"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure Center for SAP Solutions (ACSS) を使って SAP on Azure の展開 (つづき)",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a",
+            "content_html": "1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pipelineを使ったCI/CDの具体的な実装方法についても触れていきます。 本記事のソースコードは、Gitに登録しています。 https://github.com/yutaka-art/sql...",
+            "url": "https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a",
+            "title": "SQL DatabaseのデプロイメントをCI/CDで自動化する方法 | Zennの「Azure」のフィード",
+            "summary": "1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pip...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--GJwngnO---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520Database%25E3%2581%25AE%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592CI%252FCD%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yutakaosada%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0MDVkM2JjZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T04:57:28.000Z",
+            "date_published": "2024-10-16T04:57:28.000Z",
+            "author": {
+                "name": "yutakaosada"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SQL DatabaseのデプロイメントをCI/CDで自動化する方法",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/microsoft/articles/byoip-update-202410",
+            "content_html": "はじめに APNIC 等から自社に割り当てられた Public IP アドレスを Azure へ持ち込める BYOIP の機能ですが、先日大きなアップデートがありましたので早速試してみました。  Generally Available: Custom IPv4 Prefixes (BYOIP) can be used in a Global/Regional configuration  BYOIP の概要や前提知識は過去に詳しく説明したものがありますので、BYOIP って何？とか、今まさに BYOIP を検討中という方は、まずは以下の過去投稿をご覧ください。  Azure で BY...",
+            "url": "https://zenn.dev/microsoft/articles/byoip-update-202410",
+            "title": "Azure で BYOIP を試してみる part2 | Zennの「Azure」のフィード",
+            "summary": "はじめに APNIC 等から自社に割り当てられた Public IP アドレスを Azure へ持ち込める BYOIP の機能ですが、先日大きなアップデートがありましたので早速試してみました。  Generally Available: Custom IPv4 Prefixes (BYOIP) can be used in a Global/Regional configuration  BYOI...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vLW358XG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520%25E3%2581%25A7%2520BYOIP%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2520part2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:syuheiuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lwZjRhUWtwS2t5Z3JvMVVieTVTT2NNRHl3Vk90dTJtN1VubUZaPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T03:00:05.000Z",
+            "date_published": "2024-10-16T03:00:05.000Z",
+            "author": {
+                "name": "syuheiuda"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure で BYOIP を試してみる part2",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://tech.mti.co.jp/entry/2024/10/16/104813",
+            "content_html": "はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langchain-community ライブラリで AzureAISearchRetriever が公開されています。 python.langchain.com 実装を一部引用します。 class AzureAI…",
+            "url": "https://tech.mti.co.jp/entry/2024/10/16/104813",
+            "title": "Azure AI Searchの垂直統合されたベクトル検索用LangChain Retrieverを作る | エムティーアイ エンジニアリングブログ",
+            "summary": "はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langcha...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/8599973812277613183/6802418398295945155/1729043293"
+            },
+            "date_modified": "2024-10-16T01:48:13.000Z",
+            "date_published": "2024-10-16T01:48:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure AI Searchの垂直統合されたベクトル検索用LangChain Retrieverを作る",
+                "blogTitle": "エムティーアイ エンジニアリングブログ",
+                "blogLink": "https://tech.mti.co.jp/",
+                "blogLinkMd5Hash": "08c9576613078b5d31cb094e0d946cba"
+            }
+        },
+        {
+            "id": "https://tech.mti.co.jp/entry/2024/10/16/102613",
+            "content_html": "こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース *1 Azure OpenAIに組み込みモデルがデプロイされていること text-embedding-3-small を利用しました。 Azure AI Search リソース ベクトルストアに投入…",
+            "url": "https://tech.mti.co.jp/entry/2024/10/16/102613",
+            "title": "Azure AI Searchで垂直統合されたベクトル検索を試す | エムティーアイ エンジニアリングブログ",
+            "summary": "こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/1114abc19fc9ad4630c17918fbdc62721f659d13/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmti-techblog-writer%2F20241011%2F20241011153040.png"
+            },
+            "date_modified": "2024-10-16T01:26:13.000Z",
+            "date_published": "2024-10-16T01:26:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure AI Searchで垂直統合されたベクトル検索を試す",
+                "blogTitle": "エムティーアイ エンジニアリングブログ",
+                "blogLink": "https://tech.mti.co.jp/",
+                "blogLinkMd5Hash": "08c9576613078b5d31cb094e0d946cba"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16",
+            "content_html": "<img src=\"https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg\"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>2位: SCSK、Azure上に各企業専用の生成AI環境を構築するサービス「生成AI 統合活用基盤」（cloud.watch.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>…ほか2本<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16?from...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16",
+            "title": "【10月16日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか4本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg\"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fit.impress.co.jp%2Fmwimgs%2F4%2Fe%2F400%2Fimg_4e0accd1aad4a95491218a1d789083a6357510.jpg"
+            },
+            "date_modified": "2024-10-15T20:00:10.950Z",
+            "date_published": "2024-10-15T20:00:10.950Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月16日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15",
+            "content_html": "<img src=\"https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg\"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>2位: Azure Developer CLI (azd)（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15?from=rss\" target=\"_blank\">ランキングはこちらから...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15",
+            "title": "【10月15日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg\"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fit.impress.co.jp%2Fmwimgs%2F4%2Fe%2F400%2Fimg_4e0accd1aad4a95491218a1d789083a6357510.jpg"
+            },
+            "date_modified": "2024-10-14T20:00:11.187Z",
+            "date_published": "2024-10-14T20:00:11.187Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月15日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14",
+            "content_html": "Microsoft Azureチャンネル 2024年10月14日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes（www.phoronix.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure\">",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14",
+            "title": "【10月14日ランキング】Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "Microsoft Azureチャンネル 2024年10月14日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes（www.phoronix.com）<br><a href=\"https://techfeed.io/channels/Micr...",
+            "image": {
+                "type": "png",
+                "url": "https://techfeed.io/images/ogp/ogimage.png"
+            },
+            "date_modified": "2024-10-14T07:00:10.838Z",
+            "date_published": "2024-10-14T07:00:10.838Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月14日ランキング】Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yotan/articles/f67037e76526e3",
+            "content_html": "はじめに 前回の記事でTerraform Cloudのサインアップを行い、クライアントPCからCLIを使ってAzureリソースをデプロイする流れをお試ししました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 今回はAzure DevOpsのRepos(Git)上に置いたtfファイルの更新時に自動でAzureにデプロイする流れをお試しします。   構成パターン 僕の考えた構成パターンとしては以下の3つがあります。   PATTERN 1:Terraform Cloudを使わない  よくある(?)構成ですかね。 Statesをこの場合では...",
+            "url": "https://zenn.dev/yotan/articles/f67037e76526e3",
+            "title": "Terraformを本気で使う。Azureで【CI/CDお試し編】 | Zennの「Azure」のフィード",
+            "summary": "はじめに 前回の記事でTerraform Cloudのサインアップを行い、クライアントPCからCLIを使ってAzureリソースをデプロイする流れをお試ししました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 今回はAzure DevOpsのRepos(Git)上に置いたtfファイルの更新時に自動でAzureにデプロイする流れをお試しします。   構...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--4VA7uMsg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2582%2592%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E3%2580%2582Azure%25E3%2581%25A7%25E3%2580%2590CI%252FCD%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%259F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ViYTdmNDg2NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-11T02:05:57.000Z",
+            "date_published": "2024-10-11T02:05:57.000Z",
+            "author": {
+                "name": "よたん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Terraformを本気で使う。Azureで【CI/CDお試し編】",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11",
+            "content_html": "<img src=\"https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2024/10/rbac_ai.jpg\"><br>Microsoft Azureチャンネル 2024年10月11日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2F...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11",
+            "title": "【10月11日ランキング】Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2024/10/rbac_ai.jpg\"><br>Microsoft Azureチャンネル 2024年10月11日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Introducing RBAC Authentic...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdevblogs.microsoft.com%2Fcosmosdb%2Fwp-content%2Fuploads%2Fsites%2F52%2F2024%2F10%2Frbac_ai.jpg"
+            },
+            "date_modified": "2024-10-10T20:00:11.163Z",
+            "date_published": "2024-10-10T20:00:11.163Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月11日ランキング】Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/headwaters/articles/44d4152b85cac1",
+            "content_html": "2024年10月1日に新しいモデルが登場しましたので、早速使ってみました。   GPT-4o Realtime Audioとは GPT-4oモデルの一つであり、音声入力→音声出力を実現する新しいモデルです。 低遅延でリアルタイムな会話を実現するように設計されており、AIアシスタントやリアルタイム翻訳などに活用されることが予測されています。 今まではAzure Speech to TeztやWhisperを使って一度音声を文字化、GPTが生成したテキストをAzure Text to Speechを使って音声合成する必要がありました。 少なからずタイムラグが発生していたので、音声だけでやり取...",
+            "url": "https://zenn.dev/headwaters/articles/44d4152b85cac1",
+            "title": "Azure OpenAI ServiceのGPT-4o Realtime Audioを使ってみよう | Zennの「Azure」のフィード",
+            "summary": "2024年10月1日に新しいモデルが登場しましたので、早速使ってみました。   GPT-4o Realtime Audioとは GPT-4oモデルの一つであり、音声入力→音声出力を実現する新しいモデルです。 低遅延でリアルタイムな会話を実現するように設計されており、AIアシスタントやリアルタイム翻訳などに活用されることが予測されています。 今まではAzure Speech to TeztやWhis...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--M82EXZtd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520OpenAI%2520Service%25E3%2581%25AEGPT-4o%2520Realtime%2520Audio%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikebowsan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUyNTM1ZTc4OGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-10T15:51:36.000Z",
+            "date_published": "2024-10-10T15:51:36.000Z",
+            "author": {
+                "name": "ikebowsan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure OpenAI ServiceのGPT-4o Realtime Audioを使ってみよう",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/10",
+            "content_html": "<img src=\"https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg\"><br>Microsoft Azureチャンネル 2024年10月10日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: Microsoft Azure flaunts world's first custom Nvidia Blackwell racks（www.tomshardware.com）<br>2位: Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache（devblogs.microsoft.com）<br>3位: Microsoft DiskANN in Azure Cosmos DB Whitepaper（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/sele...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/10",
+            "title": "【10月10日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg\"><br>Microsoft Azureチャンネル 2024年10月10日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: Microsoft Azure flaunts world's first custom ...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FR7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"
+            },
+            "date_modified": "2024-10-09T20:00:11.104Z",
+            "date_published": "2024-10-09T20:00:11.104Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月10日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aeonpeople/articles/f746ce08611b68",
+            "content_html": "こんにちは。イオンスマートテクノロジー株式会社（AST）でSREチームの林 aka もりはやです。 ASTではメインのクラウドでAzureを利用しています。 今日はそんな日々のAzureライフをより豊かに過ごせる素敵なChrome/Edgeの拡張機能(Addon)を紹介します。 その名も『Azure Portal plus』です。 この拡張機能のおかげでAzure Portalでの本番作業やTerraformのImportが大変捗る経験をしましたので、感謝を込めて紹介していきます。   Azure Portal Plusの機能 大変便利なブラウザ拡張機能『Azure Portal plu...",
+            "url": "https://zenn.dev/aeonpeople/articles/f746ce08611b68",
+            "title": "Azureライフが快適になるブラウザ拡張機能『Azure Portal plus』をオススメしたい | Zennの「Azure」のフィード",
+            "summary": "こんにちは。イオンスマートテクノロジー株式会社（AST）でSREチームの林 aka もりはやです。 ASTではメインのクラウドでAzureを利用しています。 今日はそんな日々のAzureライフをより豊かに過ごせる素敵なChrome/Edgeの拡張機能(Addon)を紹介します。 その名も『Azure Portal plus』です。 この拡張機能のおかげでAzure Portalでの本番作業やTer...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--aMBWOtol--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2595%25E3%2581%258C%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258EAzure%2520Portal%2520plus%25E3%2580%258F%25E3%2582%2592%25E3%2582%25AA%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2582%25E3%2582%258A%25E3%2581%25AF%25E3%2582%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA3ZjEwNGIzZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AEON%2520TECH%2520HUB%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyZWMxMmQxNTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-09T00:00:05.000Z",
+            "date_published": "2024-10-09T00:00:05.000Z",
+            "author": {
+                "name": "もりはや"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azureライフが快適になるブラウザ拡張機能『Azure Portal plus』をオススメしたい",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9",
+            "content_html": "<img src=\"https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg\"><br>Microsoft Azureチャンネル 2024年10月9日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Microsoft Azure flaunts world's first custom Nvidia Blackwell racks（www.tomshardware.com）<br>2位: Microsoft DiskANN in Azure Cosmos DB Whitepaper（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9",
+            "title": "【10月9日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg\"><br>Microsoft Azureチャンネル 2024年10月9日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Microsoft Azure flaunts world's first custom N...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FR7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"
+            },
+            "date_modified": "2024-10-08T20:00:10.905Z",
+            "date_published": "2024-10-08T20:00:10.905Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月9日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yanai/articles/deploy-azure-laravel",
+            "content_html": "はじめに 学部３年のよわよわ学生が、AzureでLaravelをデプロイする方法をまとめました。 学生のハッカソン中にやったことをまとめています。 １２時間以上やったので，どれが正解かわからないところの方が多いです．．． 蛇足が多いですが、ご容赦ください。m(__)m 構成図はこんな感じです。  ※以下の命名規則はかなり適当になっております。ちゃんと調べて命名しましょう。 名前付け規則を定義する Azure リソースの省略形の例   前提 Azureサブスクリプションを用意する。 ※今回は学生用のプランを使用 https://azure.microsoft.com/ja-jp/fre...",
+            "url": "https://zenn.dev/yanai/articles/deploy-azure-laravel",
+            "title": "ハッカソン中にlaravelをazureで１２時間以上かけてでぷろいした話 | Zennの「Azure」のフィード",
+            "summary": "はじめに 学部３年のよわよわ学生が、AzureでLaravelをデプロイする方法をまとめました。 学生のハッカソン中にやったことをまとめています。 １２時間以上やったので，どれが正解かわからないところの方が多いです．．． 蛇足が多いですが、ご容赦ください。m(__)m 構成図はこんな感じです。  ※以下の命名規則はかなり適当になっております。ちゃんと調べて命名しましょう。 名前付け規則を定義する ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--h0JS-tyG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%2583%25E3%2582%25AB%25E3%2582%25BD%25E3%2583%25B3%25E4%25B8%25AD%25E3%2581%25ABlaravel%25E3%2582%2592azure%25E3%2581%25A7%25EF%25BC%2591%25EF%25BC%2592%25E6%2599%2582%25E9%2596%2593%25E4%25BB%25A5%25E4%25B8%258A%25E3%2581%258B%25E3%2581%2591%25E3%2581%25A6%25E3%2581%25A7%25E3%2581%25B7%25E3%2582%258D%25E3%2581%2584%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yanai%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhjNWU0YWI2NzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-08T07:06:04.000Z",
+            "date_published": "2024-10-08T07:06:04.000Z",
+            "author": {
+                "name": "yanai"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ハッカソン中にlaravelをazureで１２時間以上かけてでぷろいした話",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8",
+            "content_html": "<img src=\"https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952\"><br>Microsoft Azureチャンネル 2024年10月8日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp.ikitai.net）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure\">",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8",
+            "title": "【10月8日ランキング】Azureを使ったアクセス制御について | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952\"><br>Microsoft Azureチャンネル 2024年10月8日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp...",
+            "image": {
+                "type": null,
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F6801883189071314239%2F6802340630912248337%2F1728303952"
+            },
+            "date_modified": "2024-10-07T20:00:10.712Z",
+            "date_published": "2024-10-07T20:00:10.712Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月8日ランキング】Azureを使ったアクセス制御について",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2024/10/07/180000",
+            "content_html": "こんにちは、ACS事業部の埜下です。 今回は HCP Terraform を使っていくなかで発生した事象について紹介していきます。 前置き HCP Terraform（旧称 Terraform Cloud）には Drift Detection という、それはもう便利な機能があります。 どういう機能かと言うと、Terraform で作成したリソースが外部から更新された場合に検知してくれます！ 外部からの更新、というのが所謂ドリフトです。 ドリフトを検知してくれるので Drift Detection、わかりやすいですね。 HCP Terraform を使わなくても同じような機能は実現できますが、H…",
+            "url": "https://techblog.ap-com.co.jp/entry/2024/10/07/180000",
+            "title": "何もしてないのに HCP Terraform の Drift Detection が失敗するんですが（AzureRM Provider 編） | APC 技術ブログ",
+            "summary": "こんにちは、ACS事業部の埜下です。 今回は HCP Terraform を使っていくなかで発生した事象について紹介していきます。 前置き HCP Terraform（旧称 Terraform Cloud）には Drift Detection という、それはもう便利な機能があります。 どういう機能かと言うと、Terraform で作成したリソースが外部から更新された場合に検知してくれます！ 外部か...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/7946611477ed674840d2ce0b819828bc13ad0663/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnnstt1%2F20240606%2F20240606172351.png"
+            },
+            "date_modified": "2024-10-07T09:00:00.000Z",
+            "date_published": "2024-10-07T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "何もしてないのに HCP Terraform の Drift Detection が失敗するんですが（AzureRM Provider 編）",
+                "blogTitle": "APC 技術ブログ",
+                "blogLink": "https://techblog.ap-com.co.jp/",
+                "blogLinkMd5Hash": "44ee1b58b0f91540a3894878b97d1b65"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/7",
+            "content_html": "<img src=\"https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952\"><br>Microsoft Azureチャンネル 2024年10月7日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp.ikitai.net）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/7?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure\">",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/7",
+            "title": "【10月7日ランキング】Azureを使ったアクセス制御について | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952\"><br>Microsoft Azureチャンネル 2024年10月7日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp...",
+            "image": {
+                "type": null,
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F6801883189071314239%2F6802340630912248337%2F1728303952"
+            },
+            "date_modified": "2024-10-06T20:00:11.262Z",
+            "date_published": "2024-10-06T20:00:11.262Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月7日ランキング】Azureを使ったアクセス制御について",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://aadojo.alterbooth.com/entry/2024/10/07/000000",
+            "content_html": "はじめに こんにちは、寒くなって長袖に衣替えしたやしきんです。 オルタブースでは社内で様々な勉強会を行っています。 社内勉強会は基本的にネタを持ち寄って勉強会を開催しています。 今回はネタの持ち寄りの担当を致しましたので、どのような内容の勉強会を開いたかお話しようと思います。 今回の内容について 今回「AzureリソースのAzure仮想マシンとAzure仮想ネットワークについて考える会」と題して勉強会を行いました。 勉強会では主に以下の内容を取り上げました。 仮想ネットワーク内に存在するプライベートIPアドレスを持つ仮想マシンへの接続方法 同じ仮想ネットワーク内の仮想マシンは追加の構成無しで接…",
+            "url": "https://aadojo.alterbooth.com/entry/2024/10/07/000000",
+            "title": "社内勉強会でAzure仮想マシンとAzure仮想ネットワークについて検証したことを話しました！ | Alternative Architecture DOJO",
+            "summary": "はじめに こんにちは、寒くなって長袖に衣替えしたやしきんです。 オルタブースでは社内で様々な勉強会を行っています。 社内勉強会は基本的にネタを持ち寄って勉強会を開催しています。 今回はネタの持ち寄りの担当を致しましたので、どのような内容の勉強会を開いたかお話しようと思います。 今回の内容について 今回「AzureリソースのAzure仮想マシンとAzure仮想ネットワークについて考える会」と題して勉...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/10257846132689992429/6802340630906228557/1728226829"
+            },
+            "date_modified": "2024-10-06T15:00:00.000Z",
+            "date_published": "2024-10-06T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "社内勉強会でAzure仮想マシンとAzure仮想ネットワークについて検証したことを話しました！",
+                "blogTitle": "Alternative Architecture DOJO",
+                "blogLink": "https://aadojo.alterbooth.com/",
+                "blogLinkMd5Hash": "36e851aca4bd6f76d55691fa38e430fe"
+            }
+        },
+        {
+            "id": "https://zenn.dev/microsoft/articles/20241006-subnetpeering",
+            "content_html": "はじめに 先日 JAZUG[1] に参加していたら Azure Subnet Peering[2] というワードが聞こえてきました。調べてみると、これは VNet ピアリングに参加するサブネットを選択できる機能のようでした(説明上、サブネット ピアリングと呼ぶ)。 現時点ではドキュメント化もサポートもしていないようですが、機能としては試せるようなので、手元で検証してみようとういうのが本記事の趣旨になります。   概念 通常の VNet ピアリングでは、VNet 全体同士を接続するため、ルーティングのレベルでお互いのネットワークが見えるようになります。 サブネット ピアリングでは、次の...",
+            "url": "https://zenn.dev/microsoft/articles/20241006-subnetpeering",
+            "title": "Azure VNet ピアリングではなく、'サブネット' ピアリングを構成してみる | Zennの「Azure」のフィード",
+            "summary": "はじめに 先日 JAZUG[1] に参加していたら Azure Subnet Peering[2] というワードが聞こえてきました。調べてみると、これは VNet ピアリングに参加するサブネットを選択できる機能のようでした(説明上、サブネット ピアリングと呼ぶ)。 現時点ではドキュメント化もサポートもしていないようですが、機能としては試せるようなので、手元で検証してみようとういうのが本記事の趣旨に...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--I13h0xb---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520VNet%2520%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2580%2581%2527%25E3%2582%25B5%25E3%2583%2596%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%2527%2520%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E6%25A7%258B%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:zukako%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiMjYzNTIyNGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-06T03:04:19.000Z",
+            "date_published": "2024-10-06T03:04:19.000Z",
+            "author": {
+                "name": "zukako"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure VNet ピアリングではなく、'サブネット' ピアリングを構成してみる",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/arbr/articles/97563c6e44317a",
+            "content_html": "はじめに Azureを触って半年たちましたが、Azure Functionsを初めて触ってみましたので記事にしました。   概要 Azure Functionsを使う際は、以下のリソースを作成します。  (リソースグループ) App Service ストレージアカウント(Azure File) 関数アプリ（Azure Functions  上記リソースの上に、コードをデプロイしていきます。 ストレージアカウントが必要な理由は以下にあります。 https://learn.microsoft.com/ja-jp/azure/azure-functions/storage-consider...",
+            "url": "https://zenn.dev/arbr/articles/97563c6e44317a",
+            "title": "Azure Functionsを、Azure Portalから作る | Zennの「Azure」のフィード",
+            "summary": "はじめに Azureを触って半年たちましたが、Azure Functionsを初めて触ってみましたので記事にしました。   概要 Azure Functionsを使う際は、以下のリソースを作成します。  (リソースグループ) App Service ストレージアカウント(Azure File) 関数アプリ（Azure Functions  上記リソースの上に、コードをデプロイしていきます。 ストレ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--1w31UNvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Functions%25E3%2582%2592%25E3%2580%2581Azure%2520Portal%25E3%2581%258B%25E3%2582%2589%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ARBR%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxMTdiNTc4YWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-06T02:16:08.000Z",
+            "date_published": "2024-10-06T02:16:08.000Z",
+            "author": {
+                "name": "ARBR"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure Functionsを、Azure Portalから作る",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/nuits_jp/articles/2024-10-06-azure-powershell-keyvault-rbac",
+            "content_html": "解法 Azure PowerShellを使用してKey VaultのRBAC権限を設定するスクリプトを以下に示します： # Azure PowerShellにログイン Connect-AzAccount  # 現在のユーザーのObject ID取得 $currentUser = Get-AzADUser -SignedIn $currentUserObjectId = $currentUser.Id  # Key Vault情報設定 $keyVaultName = \"your-key-vault-name\" $resourceGroupName = \"your-resource-gr...",
+            "url": "https://zenn.dev/nuits_jp/articles/2024-10-06-azure-powershell-keyvault-rbac",
+            "title": "Azure PowerShellでKey VaultのRBAC権限を設定する方法 | Zennの「Azure」のフィード",
+            "summary": "解法 Azure PowerShellを使用してKey VaultのRBAC権限を設定するスクリプトを以下に示します： # Azure PowerShellにログイン Connect-AzAccount  # 現在のユーザーのObject ID取得 $currentUser = Get-AzADUser -SignedIn $currentUserObjectId = $currentUser.I...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--X2gpTI_7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520PowerShell%25E3%2581%25A7Key%2520Vault%25E3%2581%25AERBAC%25E6%25A8%25A9%25E9%2599%2590%25E3%2582%2592%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Nakamura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kxcWVVUGV3Z1lrYXhhaE1uWW1rQnRRT0RVLWtNemJiMEhfTHo4MkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-05T22:03:12.000Z",
+            "date_published": "2024-10-05T22:03:12.000Z",
+            "author": {
+                "name": "Atsushi Nakamura"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure PowerShellでKey VaultのRBAC権限を設定する方法",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yotan/articles/09ddfbf6db24d1",
+            "content_html": "はじめに Microsoft AzureのインフラをARM Template、Bicep、Azure CLIなどを使って構築することは良くやっていましたが、実はTerraformはそれほど使ってきていませんでした。 Bicepはとても便利で使いやすいと自分は思っているのですが、対象となるクラウドサービスはMicrosoft Azure限定(ARM Template, Azure CLIも同様)であるため、どうせだったらちゃんと使えるようになっておこうという意思表示として、本エントリを投稿します。 以下の記事も本記事の後にお読みください。 https://zenn.dev/yotan/...",
+            "url": "https://zenn.dev/yotan/articles/09ddfbf6db24d1",
+            "title": "Terraformを本気で使う。Azureで【準備編】 | Zennの「Azure」のフィード",
+            "summary": "はじめに Microsoft AzureのインフラをARM Template、Bicep、Azure CLIなどを使って構築することは良くやっていましたが、実はTerraformはそれほど使ってきていませんでした。 Bicepはとても便利で使いやすいと自分は思っているのですが、対象となるクラウドサービスはMicrosoft Azure限定(ARM Template, Azure CLIも同様)であ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--QvGdvq8Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2582%2592%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E3%2580%2582Azure%25E3%2581%25A7%25E3%2580%2590%25E6%25BA%2596%25E5%2582%2599%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%259F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ViYTdmNDg2NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-04T22:48:29.000Z",
+            "date_published": "2024-10-04T22:48:29.000Z",
+            "author": {
+                "name": "よたん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Terraformを本気で使う。Azureで【準備編】",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        }
+    ]
+}

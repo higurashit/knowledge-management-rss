@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex",
+            "content_html": "Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex",
+            "title": "Snowflake Migration Success Stories: Core Digital Media and NAVEX | ",
+            "summary": "Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Migration-Customer-Success-1-BlogHeader-1680x720.jpg"
+            },
+            "date_modified": "2024-10-16T17:32:06.000Z",
+            "date_published": "2024-10-16T17:32:06.000Z",
+            "author": {
+                "name": "Josh Klahr"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake Migration Success Stories: Core Digital Media and NAVEX",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://blog.truestar.co.jp/?p=60652",
+            "content_html": "こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.",
+            "url": "https://blog.truestar.co.jp/snowflake/20241011/60652/",
+            "title": "Snowflakeのデータガバナンス機能：投影ポリシー | Tableau-id Press -タブロイド-",
+            "summary": "こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.",
+            "date_modified": "2024-10-11T03:00:43.000Z",
+            "date_published": "2024-10-11T03:00:43.000Z",
+            "author": {
+                "name": "Bucci"
+            },
+            "tags": [
+                "Snowflake",
+                "snowflake"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflakeのデータガバナンス機能：投影ポリシー",
+                "blogTitle": "Tableau-id Press -タブロイド-",
+                "blogLink": "https://blog.truestar.co.jp",
+                "blogLinkMd5Hash": "34778be0f27832982c7e92447a855a95"
+            }
+        }
+    ]
+}

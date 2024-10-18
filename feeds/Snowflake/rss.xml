@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Fri, 18 Oct 2024 01:41:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snowflake Migration Success Stories: Core Digital Media and NAVEX | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex</guid>
+            <pubDate>Wed, 16 Oct 2024 17:32:06 GMT</pubDate>
+            <description><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></description>
+            <content:encoded><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Migration-Customer-Success-1-BlogHeader-1680x720.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflakeのデータガバナンス機能：投影ポリシー | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20241011/60652/</link>
+            <guid>https://blog.truestar.co.jp/?p=60652</guid>
+            <pubDate>Fri, 11 Oct 2024 03:00:43 GMT</pubDate>
+            <description><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <category>snowflake</category>
+        </item>
+    </channel>
+</rss>
