@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 21 Oct 2024 15:26:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Azure OpenAIでStructured Outputsを使用する際の注意点 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/sioois/articles/71a6a4bb07843b</link>
+            <guid>https://zenn.dev/sioois/articles/71a6a4bb07843b</guid>
+            <pubDate>Mon, 21 Oct 2024 10:06:53 GMT</pubDate>
+            <description><![CDATA[OpenAIには、Structured Outputs という便利な機能があります。これにより、生成されたテキストを構造化して返すことが可能です。OpenAIの公式リファレンスによると、対応しているモデルは以下の通りです。 https://platform.openai.com/docs/guides/structured-outputs/introduction  このため、zureのOpenA...]]></description>
+            <content:encoded><![CDATA[OpenAIには、Structured Outputs という便利な機能があります。これにより、生成されたテキストを構造化して返すことが可能です。OpenAIの公式リファレンスによると、対応しているモデルは以下の通りです。 https://platform.openai.com/docs/guides/structured-outputs/introduction  このため、zureのOpenAIサービスで gpt-4o-mini-2024-07-18 モデルを使ってStructured Outputsを試してみたのですが、次のようなエラーメッセージが表示されました。 Invalid ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--2XxapkYF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520OpenAI%25E3%2581%25A7Structured%2520Outputs%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E9%259A%259B%25E3%2581%25AE%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A3%25E3%2581%2599%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKelBfV0JVWHRsRThPdU1ZSE9EVGVHYnlvN1IyVGlmSGJMRXFwV0o9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Terraformを本気で使う。Azureで【既存リソースのTF化編】 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/yotan/articles/4aaa62fd11abee</link>
+            <guid>https://zenn.dev/yotan/articles/4aaa62fd11abee</guid>
+            <pubDate>Mon, 21 Oct 2024 06:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに 前回までの記事では主にTerraform Cloudの使い方について試用記を書きました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 https://zenn.dev/yotan/articles/f67037e76526e3 今回は既存のAzure上のリソースをエクスポートしてTFファイルを作成していきたいと思います。   Azure ...]]></description>
+            <content:encoded><![CDATA[はじめに 前回までの記事では主にTerraform Cloudの使い方について試用記を書きました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 https://zenn.dev/yotan/articles/f67037e76526e3 今回は既存のAzure上のリソースをエクスポートしてTFファイルを作成していきたいと思います。   Azure Export for Terraform このツールですね。 https://github.com/Azure/aztfexport MS公式ドキュメントは以下です。 Azure Expor...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Rkrifeyv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2582%2592%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E3%2580%2582Azure%25E3%2581%25A7%25E3%2580%2590%25E6%2597%25A2%25E5%25AD%2598%25E3%2583%25AA%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25AETF%25E5%258C%2596%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%259F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ViYTdmNDg2NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ユーザー割り当てマネージドIDが設定されたApp ServiceでDefaultAzureCredentialを使用する際の注意 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/headwaters/articles/62ce9887a37b68</link>
+            <guid>https://zenn.dev/headwaters/articles/62ce9887a37b68</guid>
+            <pubDate>Mon, 21 Oct 2024 04:39:26 GMT</pubDate>
+            <description><![CDATA[はじめに Azureではリソースに対してマネージドIDという機能があり、この機能を使うことによってパスワードなどの資格情報をユーザーが使用することなくリソースへアクセスできるようになります。 https://learn.microsoft.com/ja-jp/entra/identity/managed-identities-azure-resources/overview 今回はマネージドIDの...]]></description>
+            <content:encoded><![CDATA[はじめに Azureではリソースに対してマネージドIDという機能があり、この機能を使うことによってパスワードなどの資格情報をユーザーが使用することなくリソースへアクセスできるようになります。 https://learn.microsoft.com/ja-jp/entra/identity/managed-identities-azure-resources/overview 今回はマネージドIDの利用で直面した問題について、備忘録としてまとめておきます。   問題について   前提条件  App Service  カスタムコンテナー (Linux) 言語: Python  ユーザー割...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--LiMws4hX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2589ID%25E3%2581%258C%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2595%25E3%2582%258C%25E3%2581%259FApp%2520Service%25E3%2581%25A7DefaultAzureCredential%25E3%2582%2592%25E4%25BD%25BF...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shuichiro%2520Sakata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRiYmQ1ZTMxYzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure AppService / Container AppsでManaged Identityを利用する | APC 技術ブログ]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2024/10/21/112300</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2024/10/21/112300</guid>
+            <pubDate>Mon, 21 Oct 2024 02:23:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。ACS事業部亀崎です。 最近取り組んでいたBackstage RBAC Policy対応のため、Open Policy Agentのopa-serverをAzure Container Appsで利用するための設定をする機会がありました。 Backstage RBAC Policyの対応についてはぜひ以下の投稿をご覧ください。 techblog.ap-com.co.jp opa-ser...]]></description>
+            <content:encoded><![CDATA[こんにちは。ACS事業部亀崎です。 最近取り組んでいたBackstage RBAC Policy対応のため、Open Policy Agentのopa-serverをAzure Container Appsで利用するための設定をする機会がありました。 Backstage RBAC Policyの対応についてはぜひ以下の投稿をご覧ください。 techblog.ap-com.co.jp opa-serverはPolicyという設定情報の置き場としてAzure Blob Storageを利用することができるのですが、アクセスの際の認証方法としてmanaged identityが利用できるように記載さ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/d2a1e815a1eb19e712336bea89df9f173bc1ec16/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20220525%2F20220525184958.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月21日ランキング】Microsoft creates fake Azure tenants to pull phishers into honeypots | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21</guid>
+            <pubDate>Sun, 20 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"><br>Microsoft Azureチャンネル 2024年10月21日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft creates fake Azure tenants to pul...]]></description>
+            <content:encoded><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"><br>Microsoft Azureチャンネル 2024年10月21日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft creates fake Azure tenants to pull phishers into honeypots（www.bleepingcomputer.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure">]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fhl-images%2F2024%2F10%2F18%2FMicrosoft.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure App ServiceでマネージドIDを使ってコンテナレジストリのイメージをpullする | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/minato86/articles/bdfe6c0c6f725b</link>
+            <guid>https://zenn.dev/minato86/articles/bdfe6c0c6f725b</guid>
+            <pubDate>Sun, 20 Oct 2024 19:55:06 GMT</pubDate>
+            <description><![CDATA[私の働いている会社では、Azure App Service Web App for Containersでアプリケーションをホストしています。 Azure App Serviceには、Azure PipelinesでビルドしたDocker imageをAzure Container Registryにpushしてデプロイしてるのですが、以下のようなエラーでAzure App Serviceからのp...]]></description>
+            <content:encoded><![CDATA[私の働いている会社では、Azure App Service Web App for Containersでアプリケーションをホストしています。 Azure App Serviceには、Azure PipelinesでビルドしたDocker imageをAzure Container Registryにpushしてデプロイしてるのですが、以下のようなエラーでAzure App Serviceからのpullができませんでした。 2021-03-23T21:26:19.442Z ERROR - DockerApiException: Docker API responded with stat...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--F-cYtgBD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520App%2520Service%25E3%2581%25A7%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2589ID%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2583%25AC%25E3%2582%25B8%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592pull%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25B7%25B3%25E6%25B3%25A2%25E3%2581%25BF%25E3%2581%25AA%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2Y2Y5MmRhNmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Functions:host.jsonのリファレンス | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/sasakiki/articles/0b96152cd496c8</link>
+            <guid>https://zenn.dev/sasakiki/articles/0b96152cd496c8</guid>
+            <pubDate>Sun, 20 Oct 2024 10:30:48 GMT</pubDate>
+            <description><![CDATA[概要 Azure Functionsのコードを生成したときに一緒に生成されるhost.jsonというファイルがどのようなものなかについてわからなかたので下記記事を参考に個人の備忘録としてまとめて(写経して)いきます。なお、Functionのversionとしてv2のhost.jsonについてみていきます。 参考 https://learn.microsoft.com/ja-jp/azure/azu...]]></description>
+            <content:encoded><![CDATA[概要 Azure Functionsのコードを生成したときに一緒に生成されるhost.jsonというファイルがどのようなものなかについてわからなかたので下記記事を参考に個人の備忘録としてまとめて(写経して)いきます。なお、Functionのversionとしてv2のhost.jsonについてみていきます。 参考 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-host-json   サンプル host.json ファイル  host.json {  "version": "2.0",  "...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--KgyarQYV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Functions%253Ahost.json%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsuharu%2520Sasaki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlNzllMzM2ZjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Container Instancesをコンソールから使う | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/arbr/articles/7ad259c4f6183d</link>
+            <guid>https://zenn.dev/arbr/articles/7ad259c4f6183d</guid>
+            <pubDate>Sun, 20 Oct 2024 08:50:35 GMT</pubDate>
+            <description><![CDATA[はじめに Azureでコンテナを扱う方法を勉強中です。今回はAzure Container Instancesをやってみました。 CLIでの使い方は以下のトレーニングにありました。 https://learn.microsoft.com/ja-jp/training/modules/run-docker-with-azure-container-instances/ これと同じことをコンソールでや...]]></description>
+            <content:encoded><![CDATA[はじめに Azureでコンテナを扱う方法を勉強中です。今回はAzure Container Instancesをやってみました。 CLIでの使い方は以下のトレーニングにありました。 https://learn.microsoft.com/ja-jp/training/modules/run-docker-with-azure-container-instances/ これと同じことをコンソールでやってみました。 ! 実施できたのは、"演習 - Azure Container Instances を実行する"までで、それ以降の演習では指定のイメージが存在しませんでした。    やってみ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--dWw4XYeK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Container%2520Instances%25E3%2582%2592%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%258B%25E3%2582%2589%25E4%25BD%25BF%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ARBR%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxMTdiNTc4YWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Azure】Content Safetyでテキストから「有害なカテゴリ」を検出する。 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/buenotheebiten/articles/a524109766d963</link>
+            <guid>https://zenn.dev/buenotheebiten/articles/a524109766d963</guid>
+            <pubDate>Sun, 20 Oct 2024 05:53:51 GMT</pubDate>
+            <description><![CDATA[今回はAzure AIの「Content Safety」を使って、テキストのフィルタを作ります。 【関連】 → 【Natural Language API】テキストから「有害なカテゴリ」を検出する。 → 【OpenAI】ModerationAPIでテキストから「有害なカテゴリ」を検出する。   「Azure AI Content Safety」とは 「入力テキスト/画像」から、各カテゴリに対する「...]]></description>
+            <content:encoded><![CDATA[今回はAzure AIの「Content Safety」を使って、テキストのフィルタを作ります。 【関連】 → 【Natural Language API】テキストから「有害なカテゴリ」を検出する。 → 【OpenAI】ModerationAPIでテキストから「有害なカテゴリ」を検出する。   「Azure AI Content Safety」とは 「入力テキスト/画像」から、各カテゴリに対する「重大度（深刻度）」 を算出してくれます。  重大度 severity → どのくらい深刻な内容か（0, 2, 4, 6）    料金   約0.054円（1000文字あたり） （無料枠: 約50...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--NjqKtLOq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Azure%25E3%2580%2591Content%2520Safety%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E3%2580%258C%25E6%259C%2589%25E5%25AE%25B3%25E3%2581%25AA%25E3%2582%25AB%25E3%2583%2586%25E3%2582%25B4%25E3%2583%25AA%25E3%2580%258D%25E3%2582%2592%25E6%25A4%259C%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2588%25E3%2581%25B3%25E3%2581%25A6%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmsxNTdHd0N1cnllbWI1dnp5OGNKQkh6cTRTZ0JnOE9yempFREp5UG56ZUE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[VSCodeを利用してAzure FunctionsをCosmosDBに接続 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/sasakiki/articles/7aac5a66091709</link>
+            <guid>https://zenn.dev/sasakiki/articles/7aac5a66091709</guid>
+            <pubDate>Sat, 19 Oct 2024 10:10:35 GMT</pubDate>
+            <description><![CDATA[概要 こちらの記事で作成したAzureのFunctionsの続きとして、このFunctionsからCosmos DBに接続する方法について下記チュートリアルをもとに実行したのでその内容について個人の備忘録としてまとめていきます(写経)。 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-add-output-bind...]]></description>
+            <content:encoded><![CDATA[概要 こちらの記事で作成したAzureのFunctionsの続きとして、このFunctionsからCosmos DBに接続する方法について下記チュートリアルをもとに実行したのでその内容について個人の備忘録としてまとめていきます(写経)。 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python   環境セットアップ 前回の記事の環境構築の内容に加えて、下記の拡張機能をV...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--fIjcj2nE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VSCode%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6Azure%2520Functions%25E3%2582%2592CosmosDB%25E3%2581%25AB%25E6%258E%25A5%25E7%25B6%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsuharu%2520Sasaki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlNzllMzM2ZjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[VS Codeを利用したAzure FunctionsのPython実装例(チュートリアル) | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/sasakiki/articles/8221ff630d9209</link>
+            <guid>https://zenn.dev/sasakiki/articles/8221ff630d9209</guid>
+            <pubDate>Sat, 19 Oct 2024 09:59:39 GMT</pubDate>
+            <description><![CDATA[概要 下記公式ドキュメントをもとにHTTP 要求に応答する Python 関数を、Visual Studio Code を使用して作成した際のログを個人の備忘録としてまとめていきます。(ほぼ公式ドキュメントの写経です。) https://learn.microsoft.com/ja-jp/azure/azure-functions/create-first-function-vs-code-pyt...]]></description>
+            <content:encoded><![CDATA[概要 下記公式ドキュメントをもとにHTTP 要求に応答する Python 関数を、Visual Studio Code を使用して作成した際のログを個人の備忘録としてまとめていきます。(ほぼ公式ドキュメントの写経です。) https://learn.microsoft.com/ja-jp/azure/azure-functions/create-first-function-vs-code-python   環境のセットアップ 今回はVSCodeを利用してPythonで実装していくのでPythonのインストールやVSCodeの拡張機能の設定が必要になります。  VSCode Pyth...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gx7CT33j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VS%2520Code%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259FAzure%2520Functions%25E3%2581%25AEPython%25E5%25AE%259F%25E8%25A3%2585%25E4%25BE%258B%2528%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsuharu%2520Sasaki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlNzllMzM2ZjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Next.jsとAzure AD B2Cでログイン機能を持つWebサイトを作る【Next.js 14】 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/microsoft/articles/azure_adb2c_nextjs_auth</link>
+            <guid>https://zenn.dev/microsoft/articles/azure_adb2c_nextjs_auth</guid>
+            <pubDate>Sat, 19 Oct 2024 09:23:14 GMT</pubDate>
+            <description><![CDATA[はじめに 今回はAzure AD B2CとNext.jsを使って、ログイン機能を実装してみたいと思います。 作成するWebサイトのアーキテクチャは以下のようになります。  リポジトリは以下になります。 ご参考までに！ https://github.com/SatakeYusuke19920527/azure-adb2c-nextjs-auth   環境構築   Githubリポジトリの作成 まずは...]]></description>
+            <content:encoded><![CDATA[はじめに 今回はAzure AD B2CとNext.jsを使って、ログイン機能を実装してみたいと思います。 作成するWebサイトのアーキテクチャは以下のようになります。  リポジトリは以下になります。 ご参考までに！ https://github.com/SatakeYusuke19920527/azure-adb2c-nextjs-auth   環境構築   Githubリポジトリの作成 まずはリポジトリを作成します。 https://github.com/  サクサク進めていきます。  コードの箇所からURLをコピーしてローカルへcloneします。 これでリポジトリの作成は完了で...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--JhADPeFK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%25E3%2581%25A8Azure%2520AD%2520B2C%25E3%2581%25A7%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E6%258C%2581%25E3%2581%25A4Web%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2590Next.js%252014%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yusuke%2520Satake%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczMjQwNDhhMDkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Bicep初心者向け】AzureVMの複製/デプロイ方法 | TechHarmony]]></title>
+            <link>https://blog.usize-tech.com/azure-vm-iac-bicep/</link>
+            <guid>https://blog.usize-tech.com/?p=22745</guid>
+            <pubDate>Fri, 18 Oct 2024 07:51:56 GMT</pubDate>
+            <description><![CDATA[こんにちは。今回初めてAzureを触った薮谷です。AWS CloudFormationを利用してAWSのリソースをIaCで構築したことはありましたが、AzureのリソースをIaCで構築したのは初めてでした。 同じOSイメ […]]]></description>
+            <content:encoded><![CDATA[こんにちは。今回初めてAzureを触った薮谷です。AWS CloudFormationを利用してAWSのリソースをIaCで構築したことはありましたが、AzureのリソースをIaCで構築したのは初めてでした。 同じOSイメ […]]]></content:encoded>
+            <category>Azure</category>
+            <category>クラウド</category>
+            <category>Bicep</category>
+            <category>IaC</category>
+            <enclosure length="0" type="png" url="https://blog.usize-tech.com/contents/uploads/2022/04/eyecatch-azure.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月18日ランキング】未使用のAzureサブスクリプションがブロック・削除されます。／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18</guid>
+            <pubDate>Thu, 17 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729149161"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事5本）。<br>1位: 未使用のAzureサブスクリプションが...]]></description>
+            <content:encoded><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729149161"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事5本）。<br>1位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>1位: Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps（devblogs.microsoft.com）<br>2位: Microsoft preps Rust hypervisor for Azure workloads（www.theregister.com）<br>…ほか3本<br><a href="https://techfeed...]]></content:encoded>
+            <enclosure length="0" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132689992429%2F6802418398296815384%2F1729149161"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure OpenAI Serviceでo1-previewを試す | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/headwaters/articles/e7cd59c54b23a5</link>
+            <guid>https://zenn.dev/headwaters/articles/e7cd59c54b23a5</guid>
+            <pubDate>Thu, 17 Oct 2024 10:30:16 GMT</pubDate>
+            <description><![CDATA[やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#ava...]]></description>
+            <content:encoded><![CDATA[やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#availability o1モデルの説明。  OpenAI o1 シリーズ モデルは、推論と問題解決のタスクに集中力と能力を高めて取り組むために特別に設計されています。これらのモデルは、ユーザー...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5PydrVi8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520OpenAI%2520Service%25E3%2581%25A7o1-preview%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:koki%2520takeishi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3M2E2MGRhNDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[未使用のAzureサブスクリプションがブロック・削除されます。 | Alternative Architecture DOJO]]></title>
+            <link>https://aadojo.alterbooth.com/entry/2024/10/17/161241</link>
+            <guid>https://aadojo.alterbooth.com/entry/2024/10/17/161241</guid>
+            <pubDate>Thu, 17 Oct 2024 07:12:41 GMT</pubDate>
+            <description><![CDATA[未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。]]></description>
+            <content:encoded><![CDATA[未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729158809"/>
+        </item>
+        <item>
+            <title><![CDATA[GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する | SIOS Tech. Lab]]></title>
+            <link>https://tech-lab.sios.jp/archives/43562</link>
+            <guid>https://tech-lab.sios.jp/?p=43562</guid>
+            <pubDate>Thu, 17 Oct 2024 06:23:56 GMT</pubDate>
+            <description><![CDATA[初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.]]></description>
+            <content:encoded><![CDATA[初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.]]></content:encoded>
+            <category>Azure</category>
+            <category>認証</category>
+            <category>Google Authenticator</category>
+            <category>Azure App Service</category>
+            <enclosure length="0" type="png" url="https://tech-lab.sios.jp/wp-content/uploads/2018/05/sios_tech_lab_image.png"/>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Advanced SecurityのAlertを、Azure Functions経由でいい感じにSlackに飛ばす | APC 技術ブログ]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2024/10/17/120000</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2024/10/17/120000</guid>
+            <pubDate>Thu, 17 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会...]]></description>
+            <content:encoded><![CDATA[はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会が減り、その過程でのエンジニアとしてのワクワクを感じなくなってきたなと思う今日この頃。 中間管理職だってワクワクしたい！！！というピュアピュアな想いで本ブログを書いてみました。 弊社はGitHub社と…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/82dda3981b5807923158eaaafda7ab7345286a04/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjnytnai%2F20241016%2F20241016220058.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Devopsで組織とプロジェクトを作成する | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/shimiyu/articles/7bab46064bc377</link>
+            <guid>https://zenn.dev/shimiyu/articles/7bab46064bc377</guid>
+            <pubDate>Wed, 16 Oct 2024 21:46:10 GMT</pubDate>
+            <description><![CDATA[概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと...]]></description>
+            <content:encoded><![CDATA[概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと思ったのです。 職場のDevopsも結構自由に使うことはできるのですが、やっぱり遊び半分で使うのは気が引けますし、権限の関係で自由に触れない部分もありますし...。   初めてのAzure ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--FAisNsxa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Devops%25E3%2581%25A7%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%25A8%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%25BF%25E3%2582%2586%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk0OWE2NTYxY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月17日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17</guid>
+            <pubDate>Wed, 16 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、...]]></description>
+            <content:encoded><![CDATA[<img src="https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果（japan.zdnet.com）<br>2位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>1位: Azure Cobalt 100-based Virtual Machines are now generally available（azure.microsoft.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fjapan.zdnet.com%2Fstorage%2F2024%2F10%2F16%2Fe2ec1bd8d657fe39d7efd767f404de82%2F241016_ms_001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Center for SAP Solutions (ACSS) を使って SAP on Azure の展開 (つづき) | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/microsoft/articles/b4b9a45302d8e0</link>
+            <guid>https://zenn.dev/microsoft/articles/b4b9a45302d8e0</guid>
+            <pubDate>Wed, 16 Oct 2024 07:38:40 GMT</pubDate>
+            <description><![CDATA[前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケー...]]></description>
+            <content:encoded><![CDATA[前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケージの依存関係の問題によりインフラの展開が失敗する問題があります。 下記内容は、SLES for SAP Applications 15 SP にて確認した内容ということでご留意ください。    ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1-ZJW-Rp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Center%2520for%2520SAP%2520Solutions%2520%2528ACSS%2529%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520SAP%2520on%2520Azure%2520%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:taskwoof%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pfNGstYlp0UmpMeUJaaHRQVnJGTFN5bVlQbUNyQ2Q4Q1k0RU9NNFE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[SQL DatabaseのデプロイメントをCI/CDで自動化する方法 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a</link>
+            <guid>https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a</guid>
+            <pubDate>Wed, 16 Oct 2024 04:57:28 GMT</pubDate>
+            <description><![CDATA[1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pip...]]></description>
+            <content:encoded><![CDATA[1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pipelineを使ったCI/CDの具体的な実装方法についても触れていきます。 本記事のソースコードは、Gitに登録しています。 https://github.com/yutaka-art/sql...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GJwngnO---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520Database%25E3%2581%25AE%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592CI%252FCD%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yutakaosada%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0MDVkM2JjZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure で BYOIP を試してみる part2 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/microsoft/articles/byoip-update-202410</link>
+            <guid>https://zenn.dev/microsoft/articles/byoip-update-202410</guid>
+            <pubDate>Wed, 16 Oct 2024 03:00:05 GMT</pubDate>
+            <description><![CDATA[はじめに APNIC 等から自社に割り当てられた Public IP アドレスを Azure へ持ち込める BYOIP の機能ですが、先日大きなアップデートがありましたので早速試してみました。  Generally Available: Custom IPv4 Prefixes (BYOIP) can be used in a Global/Regional configuration  BYOI...]]></description>
+            <content:encoded><![CDATA[はじめに APNIC 等から自社に割り当てられた Public IP アドレスを Azure へ持ち込める BYOIP の機能ですが、先日大きなアップデートがありましたので早速試してみました。  Generally Available: Custom IPv4 Prefixes (BYOIP) can be used in a Global/Regional configuration  BYOIP の概要や前提知識は過去に詳しく説明したものがありますので、BYOIP って何？とか、今まさに BYOIP を検討中という方は、まずは以下の過去投稿をご覧ください。  Azure で BY...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--vLW358XG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520%25E3%2581%25A7%2520BYOIP%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2520part2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:syuheiuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lwZjRhUWtwS2t5Z3JvMVVieTVTT2NNRHl3Vk90dTJtN1VubUZaPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure AI Searchの垂直統合されたベクトル検索用LangChain Retrieverを作る | エムティーアイ エンジニアリングブログ]]></title>
+            <link>https://tech.mti.co.jp/entry/2024/10/16/104813</link>
+            <guid>https://tech.mti.co.jp/entry/2024/10/16/104813</guid>
+            <pubDate>Wed, 16 Oct 2024 01:48:13 GMT</pubDate>
+            <description><![CDATA[はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langcha...]]></description>
+            <content:encoded><![CDATA[はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langchain-community ライブラリで AzureAISearchRetriever が公開されています。 python.langchain.com 実装を一部引用します。 class AzureAI…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/8599973812277613183/6802418398295945155/1729043293"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure AI Searchで垂直統合されたベクトル検索を試す | エムティーアイ エンジニアリングブログ]]></title>
+            <link>https://tech.mti.co.jp/entry/2024/10/16/102613</link>
+            <guid>https://tech.mti.co.jp/entry/2024/10/16/102613</guid>
+            <pubDate>Wed, 16 Oct 2024 01:26:13 GMT</pubDate>
+            <description><![CDATA[こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース...]]></description>
+            <content:encoded><![CDATA[こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース *1 Azure OpenAIに組み込みモデルがデプロイされていること text-embedding-3-small を利用しました。 Azure AI Search リソース ベクトルストアに投入…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/1114abc19fc9ad4630c17918fbdc62721f659d13/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmti-techblog-writer%2F20241011%2F20241011153040.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月16日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか4本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16</guid>
+            <pubDate>Tue, 15 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...]]></description>
+            <content:encoded><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>2位: SCSK、Azure上に各企業専用の生成AI環境を構築するサービス「生成AI 統合活用基盤」（cloud.watch.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>…ほか2本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16?from...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fit.impress.co.jp%2Fmwimgs%2F4%2Fe%2F400%2Fimg_4e0accd1aad4a95491218a1d789083a6357510.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月15日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15</guid>
+            <pubDate>Mon, 14 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...]]></description>
+            <content:encoded><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>2位: Azure Developer CLI (azd)（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15?from=rss" target="_blank">ランキングはこちらから...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fit.impress.co.jp%2Fmwimgs%2F4%2Fe%2F400%2Fimg_4e0accd1aad4a95491218a1d789083a6357510.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月14日ランキング】Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14</guid>
+            <pubDate>Mon, 14 Oct 2024 07:00:10 GMT</pubDate>
+            <description><![CDATA[Microsoft Azureチャンネル 2024年10月14日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes（www.phoronix.com）<br><a href="https://techfeed.io/channels/Micr...]]></description>
+            <content:encoded><![CDATA[Microsoft Azureチャンネル 2024年10月14日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Azure Linux 2.0 Updated With Dozens Of Security Fixes（www.phoronix.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/14?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure">]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techfeed.io/images/ogp/ogimage.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Terraformを本気で使う。Azureで【CI/CDお試し編】 | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/yotan/articles/f67037e76526e3</link>
+            <guid>https://zenn.dev/yotan/articles/f67037e76526e3</guid>
+            <pubDate>Fri, 11 Oct 2024 02:05:57 GMT</pubDate>
+            <description><![CDATA[はじめに 前回の記事でTerraform Cloudのサインアップを行い、クライアントPCからCLIを使ってAzureリソースをデプロイする流れをお試ししました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 今回はAzure DevOpsのRepos(Git)上に置いたtfファイルの更新時に自動でAzureにデプロイする流れをお試しします。   構...]]></description>
+            <content:encoded><![CDATA[はじめに 前回の記事でTerraform Cloudのサインアップを行い、クライアントPCからCLIを使ってAzureリソースをデプロイする流れをお試ししました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 今回はAzure DevOpsのRepos(Git)上に置いたtfファイルの更新時に自動でAzureにデプロイする流れをお試しします。   構成パターン 僕の考えた構成パターンとしては以下の3つがあります。   PATTERN 1:Terraform Cloudを使わない  よくある(?)構成ですかね。 Statesをこの場合では...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4VA7uMsg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2582%2592%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E3%2580%2582Azure%25E3%2581%25A7%25E3%2580%2590CI%252FCD%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%259F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ViYTdmNDg2NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月11日ランキング】Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11</guid>
+            <pubDate>Thu, 10 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2024/10/rbac_ai.jpg"><br>Microsoft Azureチャンネル 2024年10月11日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Introducing RBAC Authentic...]]></description>
+            <content:encoded><![CDATA[<img src="https://devblogs.microsoft.com/cosmosdb/wp-content/uploads/sites/52/2024/10/rbac_ai.jpg"><br>Microsoft Azureチャンネル 2024年10月11日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/11?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2F...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdevblogs.microsoft.com%2Fcosmosdb%2Fwp-content%2Fuploads%2Fsites%2F52%2F2024%2F10%2Frbac_ai.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure OpenAI ServiceのGPT-4o Realtime Audioを使ってみよう | Zennの「Azure」のフィード]]></title>
+            <link>https://zenn.dev/headwaters/articles/44d4152b85cac1</link>
+            <guid>https://zenn.dev/headwaters/articles/44d4152b85cac1</guid>
+            <pubDate>Thu, 10 Oct 2024 15:51:36 GMT</pubDate>
+            <description><![CDATA[2024年10月1日に新しいモデルが登場しましたので、早速使ってみました。   GPT-4o Realtime Audioとは GPT-4oモデルの一つであり、音声入力→音声出力を実現する新しいモデルです。 低遅延でリアルタイムな会話を実現するように設計されており、AIアシスタントやリアルタイム翻訳などに活用されることが予測されています。 今まではAzure Speech to TeztやWhis...]]></description>
+            <content:encoded><![CDATA[2024年10月1日に新しいモデルが登場しましたので、早速使ってみました。   GPT-4o Realtime Audioとは GPT-4oモデルの一つであり、音声入力→音声出力を実現する新しいモデルです。 低遅延でリアルタイムな会話を実現するように設計されており、AIアシスタントやリアルタイム翻訳などに活用されることが予測されています。 今まではAzure Speech to TeztやWhisperを使って一度音声を文字化、GPTが生成したテキストをAzure Text to Speechを使って音声合成する必要がありました。 少なからずタイムラグが発生していたので、音声だけでやり取...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--M82EXZtd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520OpenAI%2520Service%25E3%2581%25AEGPT-4o%2520Realtime%2520Audio%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikebowsan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUyNTM1ZTc4OGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月10日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/10</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/10</guid>
+            <pubDate>Wed, 09 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"><br>Microsoft Azureチャンネル 2024年10月10日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: Microsoft Azure flaunts world's first custom ...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"><br>Microsoft Azureチャンネル 2024年10月10日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: Microsoft Azure flaunts world's first custom Nvidia Blackwell racks（www.tomshardware.com）<br>2位: Introducing RBAC Authentication and more for the Azure Cosmos DB Integrated Cache（devblogs.microsoft.com）<br>3位: Microsoft DiskANN in Azure Cosmos DB Whitepaper（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/sele...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FR7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月9日ランキング】Microsoft Azure flaunts world's first custom Nvidia Blackwell racks／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9</guid>
+            <pubDate>Tue, 08 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"><br>Microsoft Azureチャンネル 2024年10月9日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Microsoft Azure flaunts world's first custom N...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn.mos.cms.futurecdn.net/R7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"><br>Microsoft Azureチャンネル 2024年10月9日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: Microsoft Azure flaunts world's first custom Nvidia Blackwell racks（www.tomshardware.com）<br>2位: Microsoft DiskANN in Azure Cosmos DB Whitepaper（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/9?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FR7hrKTjjs8pqwu7FD78a6i-1200-80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月8日ランキング】Azureを使ったアクセス制御について | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+            <link>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8</link>
+            <guid>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8</guid>
+            <pubDate>Mon, 07 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952"><br>Microsoft Azureチャンネル 2024年10月8日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp...]]></description>
+            <content:encoded><![CDATA[<img src="https://ogimage.blog.st-hatena.com/6801883189071314239/6802340630912248337/1728303952"><br>Microsoft Azureチャンネル 2024年10月8日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Azureを使ったアクセス制御について（pythonjp.ikitai.net）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/8?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure">]]></content:encoded>
+            <enclosure length="0" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F6801883189071314239%2F6802340630912248337%2F1728303952"/>
+        </item>
+    </channel>
+</rss>

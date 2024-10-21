@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2024-10-21T15:26:19.253Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Govern an Open Lakehouse with Snowflake Open Catalog | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog"/>
+        <updated>2024-10-18T18:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.]]></summary>
+        <content type="html"><![CDATA[Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.]]></content>
+        <author>
+            <name>Scott Teal, Martin Lee, Saurin Shah</name>
+        </author>
+        <published>2024-10-18T18:09:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Container Runtime: GPU Training & Inference with Snowflake Notebooks | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference"/>
+        <updated>2024-10-18T03:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.]]></summary>
+        <content type="html"><![CDATA[Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.]]></content>
+        <author>
+            <name>Vinay Sridhar, Jeffrey Geevarghese</name>
+        </author>
+        <published>2024-10-18T03:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake Migration Success Stories: Core Digital Media and NAVEX | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex"/>
+        <updated>2024-10-16T17:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></summary>
+        <content type="html"><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></content>
+        <author>
+            <name>Josh Klahr</name>
+        </author>
+        <published>2024-10-16T17:32:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflakeのデータガバナンス機能：投影ポリシー | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=60652</id>
+        <link href="https://blog.truestar.co.jp/snowflake/20241011/60652/"/>
+        <updated>2024-10-11T03:00:43.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></summary>
+        <content type="html"><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>Bucci</name>
+        </author>
+        <category label="Snowflake"/>
+        <category label="snowflake"/>
+        <published>2024-10-11T03:00:43.000Z</published>
+    </entry>
+</feed>
