@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 24 Oct 2024 23:23:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloud Run 関数（Node.js）から Firestore の非デフォルトデータベースへ接続する | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/waddy/articles/cloud-run-functions-firestore-no-default</link>
+            <guid>https://zenn.dev/waddy/articles/cloud-run-functions-firestore-no-default</guid>
+            <pubDate>Wed, 23 Oct 2024 15:18:07 GMT</pubDate>
+            <description><![CDATA[通常、Google Cloud Firestore へ接続する際はデフォルトのデータベースが利用されますが、複数のデータベースを扱いたいケースでは、デフォルトでないデータベースへアクセスすることになります。 この記事では、Cloud Run 関数から Firestore のデフォルトでないデータベースに接続する手順を記録します。といっても、SDK からデーターベース名を指定するだけです。先に結論コ...]]></description>
+            <content:encoded><![CDATA[通常、Google Cloud Firestore へ接続する際はデフォルトのデータベースが利用されますが、複数のデータベースを扱いたいケースでは、デフォルトでないデータベースへアクセスすることになります。 この記事では、Cloud Run 関数から Firestore のデフォルトでないデータベースに接続する手順を記録します。といっても、SDK からデーターベース名を指定するだけです。先に結論コードを記載します。 import { Firestore } from "@google-cloud/firestore";  const db = new Firestore({  data...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BJzeBubq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Run%2520%25E9%2596%25A2%25E6%2595%25B0%25EF%25BC%2588Node.js%25EF%25BC%2589%25E3%2581%258B%25E3%2582%2589%2520Firestore%2520%25E3%2581%25AE%25E9%259D%259E%25E3%2583%2587%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AB%25E3%2583%2588%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25B8%25E6%258E%25A5%25E7%25B6%259A%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:waddy_u%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiMjdhZGEwNDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Jagu’e’r 初参戦！】AppSheet ハンズオン会に参加してみた！ | NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ]]></title>
+            <link>https://techblog.nhn-techorus.com/archives/36053</link>
+            <guid>https://techblog.nhn-techorus.com/?p=36053</guid>
+            <pubDate>Mon, 21 Oct 2024 08:00:09 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、Shun です！ 今回は、Google Cloud 公式ユーザー会の Jagu’e’r （ジャガー）の文科会に参加してきました！ Jagu’e’r は、AWS の JAW... 続きを読む 【Jagu’e’r 初参戦！】AppSheet ハンズオン会に参加してみた！ first appeared on NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、Shun です！ 今回は、Google Cloud 公式ユーザー会の Jagu’e’r （ジャガー）の文科会に参加してきました！ Jagu’e’r は、AWS の JAW... 続きを読む 【Jagu’e’r 初参戦！】AppSheet ハンズオン会に参加してみた！ first appeared on NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ.]]></content:encoded>
+            <category>Google Cloud</category>
+            <category>Google Workspace</category>
+            <category>Jaguer</category>
+            <category>AppSheet</category>
+            <enclosure length="0" type="png" url="https://techblog.nhn-techorus.com/wp-content/uploads/2024/10/5188594536dcf4f8ec1e16f1636ce6c2-3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【初心者向け】Cloud Spanner を触ってみましょう！ | NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ]]></title>
+            <link>https://techblog.nhn-techorus.com/archives/35884</link>
+            <guid>https://techblog.nhn-techorus.com/?p=35884</guid>
+            <pubDate>Sun, 20 Oct 2024 23:00:09 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、Koo です。 今回の記事では、Google Cloud が提供しているデータベースである Cloud Spanner をご紹介します。 私も最近 Cloud Spanner を知ったばかりですが、このサービスの特徴と... 続きを読む 【初心者向け】Cloud Spanner を触ってみましょう！ first appeared on NHN テコラス Tech Blog |...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、Koo です。 今回の記事では、Google Cloud が提供しているデータベースである Cloud Spanner をご紹介します。 私も最近 Cloud Spanner を知ったばかりですが、このサービスの特徴と... 続きを読む 【初心者向け】Cloud Spanner を触ってみましょう！ first appeared on NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ.]]></content:encoded>
+            <category>Google Cloud</category>
+            <category>Database</category>
+            <category>初心者向け</category>
+            <category>Cloud Spanner</category>
+            <enclosure length="0" type="png" url="https://techblog.nhn-techorus.com/wp-content/uploads/2024/10/5188594536dcf4f8ec1e16f1636ce6c2-2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Firebase & AI のオーケストレーションを実現！Genkit アーキテクチャ 8 選 | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/nozomi_cobo/articles/genkit-architecture</link>
+            <guid>https://zenn.dev/nozomi_cobo/articles/genkit-architecture</guid>
+            <pubDate>Sun, 20 Oct 2024 04:57:40 GMT</pubDate>
+            <description><![CDATA[こんにちは、cobo です。 今回は、Google I/O '24 で発表された Firebase の新機能の 1 つである Genkit についての記事です。 Genkit は生成 AI ワークフローのオーケストレーション、デプロイ、モニタリングを行うためのコードファーストのフレームワーク と言われています。 この記事では、オーケストレーション という部分にフォーカスし、Genkit が Fir...]]></description>
+            <content:encoded><![CDATA[こんにちは、cobo です。 今回は、Google I/O '24 で発表された Firebase の新機能の 1 つである Genkit についての記事です。 Genkit は生成 AI ワークフローのオーケストレーション、デプロイ、モニタリングを行うためのコードファーストのフレームワーク と言われています。 この記事では、オーケストレーション という部分にフォーカスし、Genkit が Firebase の指揮者 としてどのような構成（アーキテクチャ）を採ることができるのか紹介します。   1. Web API 構成  Web API 構成 クライアントからのリクエスト（例えば、質問...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--66n6z22U--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Firebase%2520%2526%2520AI%2520%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25EF%25BC%2581Genkit%2520%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25208%2520%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:cobo%2520%2528Nozomi%2520Kobor...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0OGQzYjc3YzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Monitoring で認証付き Cloud Run の外形監視を行う | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/koga_atsu/articles/77b07a2ce94227</link>
+            <guid>https://zenn.dev/koga_atsu/articles/77b07a2ce94227</guid>
+            <pubDate>Sat, 19 Oct 2024 10:20:12 GMT</pubDate>
+            <description><![CDATA[概要 認証付きの Cloud Run が外部からアクセス可能な状態かどうかを監視するのに使える Google Cloud サービスを調査した。 その結果、「Cloud Monitoring 稼働時間チェック」が良さそうと考え使い方をまとめた。   前提 次点として、Cloud Scheduler で定期的にヘルスチェックエンドポイントを叩いて、失敗した時の監査ログを検知してアラートを出す方法もある...]]></description>
+            <content:encoded><![CDATA[概要 認証付きの Cloud Run が外部からアクセス可能な状態かどうかを監視するのに使える Google Cloud サービスを調査した。 その結果、「Cloud Monitoring 稼働時間チェック」が良さそうと考え使い方をまとめた。   前提 次点として、Cloud Scheduler で定期的にヘルスチェックエンドポイントを叩いて、失敗した時の監査ログを検知してアラートを出す方法もある。 しかし、複数リージョンでのチェックやICMP Pingsが無いなど外形監視の機能としては少し弱い。なので、そのような使い方は Cloud Monitoring の稼働時間チェックがどうし...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3CcBYWgM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Monitoring%2520%25E3%2581%25A7%25E8%25AA%258D%25E8%25A8%25BC%25E4%25BB%2598%25E3%2581%258D%2520Cloud%2520Run%2520%25E3%2581%25AE%25E5%25A4%2596%25E5%25BD%25A2%25E7%259B%25A3%25E8%25A6%2596%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kg%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dNUGU0eGtqX2NWM2xLXzhUWWtqS1JIM2licktZdEx1d2RVNi0tcUE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[無停止でGAEからCloud Runへの移行を成功させた話 | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/gmomedia/articles/bf5a37d2760cca</link>
+            <guid>https://zenn.dev/gmomedia/articles/bf5a37d2760cca</guid>
+            <pubDate>Sat, 19 Oct 2024 08:21:29 GMT</pubDate>
+            <description><![CDATA[はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。    サイトの構成  GCP上に構築されている 月間7億PV 売り上げの大半が広告なので広告が止まると大打撃 DNS→LB→CDN→GAEというシンプルな構成 LBにGAEがアタッチされてるので、エンドポイントを変えるだけでGAEからCloud Runに移行できる    Cloud runにするための下準...]]></description>
+            <content:encoded><![CDATA[はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。    サイトの構成  GCP上に構築されている 月間7億PV 売り上げの大半が広告なので広告が止まると大打撃 DNS→LB→CDN→GAEというシンプルな構成 LBにGAEがアタッチされてるので、エンドポイントを変えるだけでGAEからCloud Runに移行できる    Cloud runにするための下準備   GAEの時とほぼ同じデプロイフローを準備 GAEの時とデプロイフローが変わると他のメンバーの負荷や思わぬバグや歯車の再開発が起きると感じたので、GAEの時とほぼ同じデプロイフローを用...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--u3IxNLIw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2584%25A1%25E5%2581%259C%25E6%25AD%25A2%25E3%2581%25A7GAE%25E3%2581%258B%25E3%2582%2589Cloud%2520Run%25E3%2581%25B8%25E3%2581%25AE%25E7%25A7%25BB%25E8%25A1%258C%25E3%2582%2592%25E6%2588%2590%25E5%258A%259F%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Riya%2520Amemiya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzOGEzNzc5MTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GMO%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyOTk0YWYxZDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Run関数(functions)をローカル環境でデバッグする方法 | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/megane_aa/articles/98bcadc24cf67e</link>
+            <guid>https://zenn.dev/megane_aa/articles/98bcadc24cf67e</guid>
+            <pubDate>Sat, 19 Oct 2024 05:35:47 GMT</pubDate>
+            <description><![CDATA[前提 このドキュメントでは、Windows 11環境において、VSCodeとGit Bashを使用してPythonでGoogle Cloud Functionsをローカルデバッグする手順を説明します。 Pipenvで仮想環境を管理し、Cloud Functions Frameworkを用いてローカルエミュレータを実行します。 最後に、VSCodeのデバッグ機能を活用してデバッグ方法をまとめます。 ...]]></description>
+            <content:encoded><![CDATA[前提 このドキュメントでは、Windows 11環境において、VSCodeとGit Bashを使用してPythonでGoogle Cloud Functionsをローカルデバッグする手順を説明します。 Pipenvで仮想環境を管理し、Cloud Functions Frameworkを用いてローカルエミュレータを実行します。 最後に、VSCodeのデバッグ機能を活用してデバッグ方法をまとめます。   手順   1. Cloud Functions Frameworkのインストール まず、Python用のCloud Functions Frameworkをインストールする必要があります...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--fSdTWoHW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Run%25E9%2596%25A2%25E6%2595%25B0%2528functions%2529%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E3%2583%2587%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2585%25E3%2582%2593%25E3%2581%2598%25E3%2582%2585%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU1M2UzMGMxNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【CSPM】Prisma Cloud で GCP 環境を監視してみた | TechHarmony]]></title>
+            <link>https://blog.usize-tech.com/prismacloud-monitor-gcp/</link>
+            <guid>https://blog.usize-tech.com/?p=26615</guid>
+            <pubDate>Fri, 18 Oct 2024 07:59:57 GMT</pubDate>
+            <description><![CDATA[Prisma Cloudは、クラウド環境のセキュリティとコンプライアンスを一元管理するツールで、リアルタイムの脅威検出やリソースの監視が可能です。今回は、実際にGoogle Cloud環境（プロジェクト）をPrisma […]]]></description>
+            <content:encoded><![CDATA[Prisma Cloudは、クラウド環境のセキュリティとコンプライアンスを一元管理するツールで、リアルタイムの脅威検出やリソースの監視が可能です。今回は、実際にGoogle Cloud環境（プロジェクト）をPrisma […]]]></content:encoded>
+            <category>Google Cloud</category>
+            <category>Prisma Cloud</category>
+            <category>クラウド</category>
+            <category>クラウドセキュリティ</category>
+            <category>ソリューション</category>
+            <category>運用・監視</category>
+            <category>CSPM</category>
+            <enclosure length="0" type="png" url="https://blog.usize-tech.com/contents/uploads/2024/03/eyecatch-prismacloud.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Tasks のキューにあるタスクがすべて終了したことを通知したい | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/rescuenow/articles/d50dfc2582063d</link>
+            <guid>https://zenn.dev/rescuenow/articles/d50dfc2582063d</guid>
+            <pubDate>Fri, 18 Oct 2024 07:48:41 GMT</pubDate>
+            <description><![CDATA[はじめに Cloud Tasks は、非同期タスクをスケーラブルに実行するための Google Cloud のマネージドサービスです。タスクの完了状況を把握することは、システムの健全性を維持するために重要です。本記事では、Cloud Tasks のタスク完了通知を、メトリクスとモニタリング、Pub/Sub を活用して実現する方法について解説します。   タスク完了通知が必要となる場面は？  システ...]]></description>
+            <content:encoded><![CDATA[はじめに Cloud Tasks は、非同期タスクをスケーラブルに実行するための Google Cloud のマネージドサービスです。タスクの完了状況を把握することは、システムの健全性を維持するために重要です。本記事では、Cloud Tasks のタスク完了通知を、メトリクスとモニタリング、Pub/Sub を活用して実現する方法について解説します。   タスク完了通知が必要となる場面は？  システムの健全性確認：タスクが正常に完了しているかを確認し、問題が発生している場合は早期に検知することができます 依存関係のある処理のトリガー：タスク完了をトリガーにして、次の処理を開始することが...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--PuuGmEIX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Tasks%2520%25E3%2581%25AE%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%2582%25E3%2582%258B%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2581%258C%25E3%2581%2599%25E3%2581%25B9%25E3%2581%25A6%25E7%25B5%2582%25E4%25BA%2586%25E3%2581%2597%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2582%2592%25E9%2580%259A%25E7%259F%25A5%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yamada_kazumasa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VhNWJjNmQwYzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gemini in Looker の会話分析を利用してみた | GMOアドパートナーズ TECH BLOG byGMO]]></title>
+            <link>https://techblog.gmo-ap.jp/2024/10/18/gemini-in-looker/</link>
+            <guid>https://techblog.gmo-ap.jp/?p=23090</guid>
+            <pubDate>Fri, 18 Oct 2024 01:30:00 GMT</pubDate>
+            <description><![CDATA[はじめに GMO NIKKOのK.A.です。 先日、プレビュー版が公開された「Gemini in Looker」 の「会話分析（Conversational Analytics）機能」を実際に使って試してみる機会がありま]]></description>
+            <content:encoded><![CDATA[はじめに GMO NIKKOのK.A.です。 先日、プレビュー版が公開された「Gemini in Looker」 の「会話分析（Conversational Analytics）機能」を実際に使って試してみる機会がありま]]></content:encoded>
+            <category>gemini</category>
+            <category>NK</category>
+            <enclosure length="0" type="png" url="https://techblog.gmo-ap.jp/wp-content/uploads/2024/10/be79541ba3383fb35beb84fa7bc0b7e3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Runのマルチリージョンサービスを解説 | G-gen Tech Blog]]></title>
+            <link>https://blog.g-gen.co.jp/entry/deploying-cloud-run-to-multiple-regions</link>
+            <guid>https://blog.g-gen.co.jp/entry/deploying-cloud-run-to-multiple-regions</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[G-gen の佐々木です。当記事では Cloud Run のマルチリージョンサービスについて解説します。 マルチリージョンサービスとは メリット サービスのレイテンシ低下 リージョン障害への耐性 各リージョンへの一括デプロイ 注意点 利用料金 構成は全リージョン一律 利用手順 マルチリージョンサービスの作成 マルチリージョンサービスの更新 ロードバランサのバックエンドにマルチリージョンサービスを設...]]></description>
+            <content:encoded><![CDATA[G-gen の佐々木です。当記事では Cloud Run のマルチリージョンサービスについて解説します。 マルチリージョンサービスとは メリット サービスのレイテンシ低下 リージョン障害への耐性 各リージョンへの一括デプロイ 注意点 利用料金 構成は全リージョン一律 利用手順 マルチリージョンサービスの作成 マルチリージョンサービスの更新 ロードバランサのバックエンドにマルチリージョンサービスを設定 マルチリージョンサービスとは マルチリージョンサービスとは、一度の操作で複数リージョンに Cloud Run サービスをデプロイすることができる機能です。 Cloud Run は通常、サービスのデ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/1f8395eb2e9ada389f21c74a3048eeccf4eea35c/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20241015%2F20241015093100.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月18日ランキング】5 open source cloud monitoring tools to consider／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/18</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/18</guid>
+            <pubDate>Thu, 17 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://www.techtarget.com/rms/onlineimages/check_g1268128622.jpg"><br>Google Cloudチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: 5 open source cloud monitoring tools to consider（ww...]]></description>
+            <content:encoded><![CDATA[<img src="https://www.techtarget.com/rms/onlineimages/check_g1268128622.jpg"><br>Google Cloudチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: 5 open source cloud monitoring tools to consider（www.techtarget.com）<br>2位: Simplify your SQL with pipe syntax in BigQuery and Cloud Logging（cloud.google.com）<br><a href="https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/18?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.techtarget.com%2Frms%2Fonlineimages%2Fcheck_g1268128622.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Translation API を使ってみる | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/rescuenow/articles/89e01d88b76dd9</link>
+            <guid>https://zenn.dev/rescuenow/articles/89e01d88b76dd9</guid>
+            <pubDate>Thu, 17 Oct 2024 05:24:21 GMT</pubDate>
+            <description><![CDATA[はじめに Google Cloud Translation API は 機械学習を利用してテキストの翻訳を提供するAPIです。 100以上の言語に対応し、リアルタイムで高速な翻訳を提供します。 今回は Cloud Translation API を使った翻訳方法について調べてみました。   料金 Cloud Translation API は、翻訳するテキストの文字数に基づく従量課金制で、下記の２...]]></description>
+            <content:encoded><![CDATA[はじめに Google Cloud Translation API は 機械学習を利用してテキストの翻訳を提供するAPIです。 100以上の言語に対応し、リアルタイムで高速な翻訳を提供します。 今回は Cloud Translation API を使った翻訳方法について調べてみました。   料金 Cloud Translation API は、翻訳するテキストの文字数に基づく従量課金制で、下記の２つのエディションあります。 Cloud Translation - Basic Cloud Translation - Advanced Basic は標準的な翻訳機能を提供する基本プランで...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UZF3En8d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Translation%2520API%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nmatsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEzOThkNmZjMGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【超初心者向け】Looker超入門【勉強法】 | Zennの「Google Cloud」のフィード]]></title>
+            <link>https://zenn.dev/hogeticlab/articles/06605311e88862</link>
+            <guid>https://zenn.dev/hogeticlab/articles/06605311e88862</guid>
+            <pubDate>Thu, 17 Oct 2024 05:00:05 GMT</pubDate>
+            <description><![CDATA[1. はじめに 株式会社 Hogetic Labの古畑です。 今回は、Googleが提供するBIツール「Looker」についてお話しします。 Looker は、一般的な BI ツール以上の機能を持っており、現在、多くの企業で利用されているツールの一つです。 しかし、Looker に関する日本語での情報が少なく、どのように勉強すればよいのかわからないという声をよく耳にします。 そこで本記事では、Lo...]]></description>
+            <content:encoded><![CDATA[1. はじめに 株式会社 Hogetic Labの古畑です。 今回は、Googleが提供するBIツール「Looker」についてお話しします。 Looker は、一般的な BI ツール以上の機能を持っており、現在、多くの企業で利用されているツールの一つです。 しかし、Looker に関する日本語での情報が少なく、どのように勉強すればよいのかわからないという声をよく耳にします。 そこで本記事では、Looker をまだ使ったことがない方に向けて、初心者向けの勉強法を紹介します。   筆者経歴  文系学部卒。前職でビジネス職として入社後、データアナリストに転向 前職の業務で初めて Looke...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--09VT-eZd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E8%25B6%2585%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Looker%25E8%25B6%2585%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2590%25E5%258B%2589%25E5%25BC%25B7%25E6%25B3%2595%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Furuhata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0YWZjMjY2MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Hogetic%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc3NjAyMjBlYmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[FlutterFlowでFirebaseと連携する方法 | 電通総研 テックブログ]]></title>
+            <link>https://tech.dentsusoken.com/entry/2024/10/17/FlutterFlow%E3%81%A7Firebase%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95</link>
+            <guid>https://tech.dentsusoken.com/entry/2024/10/17/FlutterFlow%E3%81%A7Firebase%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95</guid>
+            <pubDate>Wed, 16 Oct 2024 22:00:00 GMT</pubDate>
+            <description><![CDATA[XI本部 プロダクトイノベーションセンター アジャイル開発グループの徳山です。 前回の記事「FlutterFlowに制約はある？できることとできないこと」では、FlutterFlowを使った開発における制約や注意すべきポイントをお伝えしました。今回は、FlutterFlowと相性の良いバックエンドサービスであるFirebaseとの連携について詳しく説明いたします。 はじめに Firebaseとは何...]]></description>
+            <content:encoded><![CDATA[XI本部 プロダクトイノベーションセンター アジャイル開発グループの徳山です。 前回の記事「FlutterFlowに制約はある？できることとできないこと」では、FlutterFlowを使った開発における制約や注意すべきポイントをお伝えしました。今回は、FlutterFlowと相性の良いバックエンドサービスであるFirebaseとの連携について詳しく説明いたします。 はじめに Firebaseとは何か FlutterFlowの接続先について 1. 標準でサポートされているバックエンド（FirebaseやSupabase） 2. API Connector Firebaseとの接続方法（環境構築手…]]></content:encoded>
+            <enclosure length="0" url="https://cdn.image.st-hatena.com/image/scale/976bbea26a61042a5d5a0f8d296e0861f8e34bbe/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158529656%2F1704872217353595"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月17日ランキング】OpenTelemetry Collectorを使ったCloud Run to Datadogの実装パターン | TechFeedおすすめ記事ランキング - Google Cloudチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/17</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/17</guid>
+            <pubDate>Wed, 16 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn.image.st-hatena.com/image/scale/160b363f5d77be72ace14443f76f3674a5be4008/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn.image.st-hatena.com/image/scale/160b363f5d77be72ace14443f76f3674a5be4008/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20241004%2F20241004102901.png"><br>Google Cloudチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: OpenTelemetry Collectorを使ったCloud Run to Datadogの実装パターン（tech.newmo.me）<br><a href="https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/17?from=rss" target="_blan...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/160b363f5d77be72ace14443f76f3674a5be4008/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20241004%2F20241004102901.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BigQuery パイプ構文を試す - 直感的で読みやすい新しいSQLクエリの書き方 | ROXX開発者ブログ]]></title>
+            <link>https://techblog.roxx.co.jp/entry/2024/10/16/190008</link>
+            <guid>https://techblog.roxx.co.jp/entry/2024/10/16/190008</guid>
+            <pubDate>Wed, 16 Oct 2024 10:00:08 GMT</pubDate>
+            <description><![CDATA[この記事は個人ブログと同じ内容です www.ritolab.com // .table-warp {overflow-x: scroll;} 2024 年 10 月 9 日の Google Cloud Blog にて、BigQuery と Cloud Logging における「パイプ構文」導入の記事がアップされました。 Introducing pipe syntax in BigQuery and...]]></description>
+            <content:encoded><![CDATA[この記事は個人ブログと同じ内容です www.ritolab.com // .table-warp {overflow-x: scroll;} 2024 年 10 月 9 日の Google Cloud Blog にて、BigQuery と Cloud Logging における「パイプ構文」導入の記事がアップされました。 Introducing pipe syntax in BigQuery and Cloud Logging | Google Cloud Blog SQL のクエリといえば、長らく同じ記法で歴史を刻んできた古に伝わる呪文ですが、今回の「パイプ構文」は、それに一石を投じる新しい書…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/99db123a955e675ffabb77f3640c135983928423/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月16日ランキング】BigQueryのPipe syntax（パイプ構文）を使ってみた／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/16</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/16</guid>
+            <pubDate>Tue, 15 Oct 2024 20:00:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://cdn.image.st-hatena.com/image/scale/abbc06f58931465a9e4f1b4071fdb74fc3dfa10d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...]]></description>
+            <content:encoded><![CDATA[<img src="https://cdn.image.st-hatena.com/image/scale/abbc06f58931465a9e4f1b4071fdb74fc3dfa10d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20241015%2F20241015091322.png"><br>Google Cloudチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: BigQueryのPipe syntax（パイプ構文）を使ってみた（blog.g-gen.co.jp）<br>2位: OpenTelemetry Collectorを使ったCloud Run to Datadogの実装パターン（tech.newmo.me）<br><a href="https://techfeed.io/channels...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/abbc06f58931465a9e4f1b4071fdb74fc3dfa10d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20241015%2F20241015091322.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vertex AI Pipelinesを効率的に開発するための取り組み(part2) | Timee Product Team Blog]]></title>
+            <link>https://tech.timee.co.jp/entry/2024/10/15/101953</link>
+            <guid>https://tech.timee.co.jp/entry/2024/10/15/101953</guid>
+            <pubDate>Tue, 15 Oct 2024 01:19:53 GMT</pubDate>
+            <description><![CDATA[こんにちは、タイミーのデータエンジニアリング部 データサイエンス（以下DS）グループ所属のYukitomoです。 DSグループではMLパイプラインとしてVertex AI Pipelinesを利用しており、その開発環境の継続的な効率化を進めていますが、今回はここ最近の変更点を紹介したいと思います！ Vertex AI PipelinesについてはGoogle Cloudの公式ページや、前回の記事を...]]></description>
+            <content:encoded><![CDATA[こんにちは、タイミーのデータエンジニアリング部 データサイエンス（以下DS）グループ所属のYukitomoです。 DSグループではMLパイプラインとしてVertex AI Pipelinesを利用しており、その開発環境の継続的な効率化を進めていますが、今回はここ最近の変更点を紹介したいと思います！ Vertex AI PipelinesについてはGoogle Cloudの公式ページや、前回の記事を参照ください。 モノレポ環境に移行 当初はパイプライン毎にレポジトリを用意していました。しかしながら新規でパイプラインを起こす度にレポジトリの作成から行うのは、 ちょっとした“作業”ではあるのですが気…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613497622710/6802340630913180557/1728955193"/>
+        </item>
+        <item>
+            <title><![CDATA[BigQueryのPipe syntax（パイプ構文）を使ってみた | G-gen Tech Blog]]></title>
+            <link>https://blog.g-gen.co.jp/entry/pipe-syntax-with-bigquery</link>
+            <guid>https://blog.g-gen.co.jp/entry/pipe-syntax-with-bigquery</guid>
+            <pubDate>Tue, 15 Oct 2024 00:30:00 GMT</pubDate>
+            <description><![CDATA[G-gen の山崎です。2024年10月に利用可能になった、BigQuery の Pipe syntax（パイプ構文）の概要と使い方を紹介します。 概要 はじめに パイプ構文とは 従来 SQL の課題 データ処理の順番と記述の順番が一致していない サブクエリによるコードのネスト化 冗長な構文 パイプ構文のメリット 柔軟性の向上 可読性の向上 デバッグ効率の向上 従来の SQL とパイプ構文の比較 ...]]></description>
+            <content:encoded><![CDATA[G-gen の山崎です。2024年10月に利用可能になった、BigQuery の Pipe syntax（パイプ構文）の概要と使い方を紹介します。 概要 はじめに パイプ構文とは 従来 SQL の課題 データ処理の順番と記述の順番が一致していない サブクエリによるコードのネスト化 冗長な構文 パイプ構文のメリット 柔軟性の向上 可読性の向上 デバッグ効率の向上 従来の SQL とパイプ構文の比較 サンプルデータ データの取得要件 従来の SQL の場合 パイプ構文の場合 パイプ構文によるクエリ全文 employee_master テーブルを取得 東京拠点のみのレコードでフィルタ sales テ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/abbc06f58931465a9e4f1b4071fdb74fc3dfa10d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20241015%2F20241015091322.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【10月15日ランキング】Dockerfileを自前で書かずにCloud Runを動かす技術／ほか2本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル]]></title>
+            <link>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/15</link>
+            <guid>https://techfeed.io/channels/Google%20Cloud/selections/daily/2024/10/15</guid>
+            <pubDate>Mon, 14 Oct 2024 20:00:11 GMT</pubDate>
+            <description><![CDATA[<img src="https://res.cloudinary.com/zenn/image/upload/s--xsZFSWYI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dockerfile%25E3%2582%2592%25E8%2587%25AA%25E5%2589%258D%25E3%2581%25A7%25E6%...]]></description>
+            <content:encoded><![CDATA[<img src="https://res.cloudinary.com/zenn/image/upload/s--xsZFSWYI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dockerfile%25E3%2582%2592%25E8%2587%25AA%25E5%2589%258D%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259A%25E3%2581%25ABCloud%2520Run%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kanon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWd...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--xsZFSWYI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dockerfile%25E3%2582%2592%25E8%2587%25AA%25E5%2589%258D%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259A%25E3%2581%25ABCloud%2520Run%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kanon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkzZTJiZmRmZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+    </channel>
+</rss>

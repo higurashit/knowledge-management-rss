@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 24 Oct 2024 23:23:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>

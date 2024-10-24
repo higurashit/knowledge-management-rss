@@ -1,0 +1,1414 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/25",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-mika-umeki%2F20241016%2F20241016162337.png\"><br>APIエコノミーチャンネル 2024年10月25日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事3本）。<br>1位: RDS Data API が Amazon Aurora MySQL でも使えるようになりました（blog.serverworks.co.jp）<br>2位: 秀和システム「Python x API で動かして学ぶ AI活用プログラミング」3章（qiita.com）<br>3位: REST API Privateの\"Privat...",
+            "url": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/25",
+            "title": "【10月25日ランキング】RDS Data API が Amazon Aurora MySQL でも使えるようになりました／ほか5本 | TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-mika-umeki%2F20241016%2F20241016162337.png"
+            },
+            "date_modified": "2024-10-24T20:00:10.768Z",
+            "date_published": "2024-10-24T20:00:10.768Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月25日ランキング】RDS Data API が Amazon Aurora MySQL でも使えるようになりました／ほか5本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+                "blogLink": "http://techfeed.io/channels/API%20Economy",
+                "blogLinkMd5Hash": "3698f948a604b8f3e4c0f17c047c35e2"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/25",
+            "content_html": "<img src=\"https://www.publickey1.jp/2024/aws-valkey.png\"><br>Amazon Web Servicesチャンネル 2024年10月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始（www.publickey1.jp）<br>2位: AWS Lambdaのコンソール画面が大きく変わったので試してみた。（qiita.com）<br>3位: RDS Data API が Amazon Aurora MySQL でも使えるようになりました（blog.serverworks.co.jp）<br>…ほか10本<br><a href=\"https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/25?from=rss\" target=\"_blank\">ランキングはこちら...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/25",
+            "title": "【10月25日ランキング】AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://www.publickey1.jp/2024/aws-valkey.png\"><br>Amazon Web Servicesチャンネル 2024年10月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon Memo...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2024%2Faws-valkey.png"
+            },
+            "date_modified": "2024-10-24T20:00:10.768Z",
+            "date_published": "2024-10-24T20:00:10.768Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月25日ランキング】AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始／ほか12本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2024/10/25",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwSUFNJUUzJTgxJUE3JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJUE2JUUzJTgzJUJDJUUzJTgyJUI2JUUzJTgzJUJDJUU4JTg3JUFBJUU4JUJBJUFCJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgxJThDJUU3JUI3JUE4JUU5JTlCJTg2JUUzJTgxJUE...",
+            "url": "https://techfeed.io/channels/Authentication%20%2F%20Authorization/selections/daily/2024/10/25",
+            "title": "【10月25日ランキング】AWS IAMでログインユーザー自身だけが編集できる動的なポリシー／ほか6本 | TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-24T20:00:10.768Z",
+            "date_published": "2024-10-24T20:00:10.768Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月25日ランキング】AWS IAMでログインユーザー自身だけが編集できる動的なポリシー／ほか6本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - 認証 / 認可チャンネル",
+                "blogLink": "http://techfeed.io/channels/Authentication%20%2F%20Authorization",
+                "blogLinkMd5Hash": "e256b0ab8ac640fff88529e50cef2a7a"
+            }
+        },
+        {
+            "id": "https://zenn.dev/masuda1112/articles/2024-10-24-error-s3-bucket",
+            "content_html": "TL;DR AWS S3バケットへのアクセス時に発生する403 Forbiddenエラーの原因と解決策について解説します。   TerraformでのAWS S3バケットへのアクセスエラーの解決法 AWSのS3バケットにおいて、Terraformを使用する際に「403 Forbidden」エラーが発生することがあります。このエラーは、アクセス許可の設定が原因であることが多いです。このブログ記事では、エラーを解決するための手順を詳しく解説します。   エラーの概要 エラー内容: Error: reading S3 Bucket (agrico-tfstate-bucket): oper...",
+            "url": "https://zenn.dev/masuda1112/articles/2024-10-24-error-s3-bucket",
+            "title": "TerraformでのAWS S3バケットへのアクセスエラーの解決法 | Zennの「AWS」のフィード",
+            "summary": "TL;DR AWS S3バケットへのアクセス時に発生する403 Forbiddenエラーの原因と解決策について解説します。   TerraformでのAWS S3バケットへのアクセスエラーの解決法 AWSのS3バケットにおいて、Terraformを使用する際に「403 Forbidden」エラーが発生することがあります。このエラーは、アクセス許可の設定が原因であることが多いです。このブログ記事では...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--zusUcxMl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2581%25A7%25E3%2581%25AEAWS%2520S3%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%25E3%2581%25B8%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E8%25A7%25A3%25E6%25B1%25BA%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%2599%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjNqM1g4RkZiamJZZTh1MmNKbGtYaG5pd3lQU2FRWkRaRVU4Q20tdnBOPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-24T10:00:45.000Z",
+            "date_published": "2024-10-24T10:00:45.000Z",
+            "author": {
+                "name": "まっすー"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TerraformでのAWS S3バケットへのアクセスエラーの解決法",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "a5b68425607db19391185acdb455acb8114ff7ec",
+            "content_html": "Amazon DynamoDB と Amazon Redshift のゼロ ETL 統合の一般提供(GA)を発 […]",
+            "url": "https://aws.amazon.com/jp/blogs/news/get-started-with-amazon-dynamodb-zero-etl-integration-with-amazon-redshift/",
+            "title": "Amazon Redshift との Amazon DynamoDB ゼロ ETL 統合の始め方 | Amazon Web Services ブログ",
+            "summary": "Amazon DynamoDB と Amazon Redshift のゼロ ETL 統合の一般提供(GA)を発 […]",
+            "image": {
+                "type": "png",
+                "url": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2024/10/24/Thumneil_Amazon-RedshiftとAmazon-DynamoDBとのゼロ-ETL-統合の始め方.png"
+            },
+            "date_modified": "2024-10-24T07:37:58.000Z",
+            "date_published": "2024-10-24T07:37:58.000Z",
+            "author": {
+                "name": "Tatsuya Koyakumaru"
+            },
+            "tags": [
+                "Amazon DynamoDB",
+                "Amazon Redshift",
+                "General"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon Redshift との Amazon DynamoDB ゼロ ETL 統合の始め方",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "https://qiita.com/tkonishi/items/691a57fe372f97b36653",
+            "content_html": "OCIのOracle Cloud Migrations（クラウド移行サービス）はVMware上の仮想マシンをOCIの仮想マシンに移行することが可能なサービスとして2022年9月にリリースされました。…",
+            "url": "https://qiita.com/tkonishi/items/691a57fe372f97b36653",
+            "title": "AWS EC2からOCIコンピュートに移行してみる - その1（Oracle Cloud Migrations） | Qiita - 人気の記事",
+            "summary": "OCIのOracle Cloud Migrations（クラウド移行サービス）はVMware上の仮想マシンをOCIの仮想マシンに移行することが可能なサービスとして2022年9月にリリースされました。…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-24T06:28:55.000Z",
+            "date_published": "2024-10-24T06:28:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS EC2からOCIコンピュートに移行してみる - その1（Oracle Cloud Migrations）",
+                "blogTitle": "Qiita - 人気の記事",
+                "blogLink": "https://qiita.com/popular-items",
+                "blogLinkMd5Hash": "22bc5b5f7db7eeb45ad4a89236285644"
+            }
+        },
+        {
+            "id": "https://techblog.forgevision.com/entry/2024/10/24/141414",
+            "content_html": "こんにちは、AWS チームの後藤です。 今回は、JAWS FESTA 2024 in 広島への参加について報告したいと思います。 結果からお伝えすると、飲みニケーションを存分に楽しませていただきました。普段は引っ込み思案ですが、このイベントで AWS 界隈の新しい顔見知りを増やすことができました。次に控えている re:Invent 2024 や、その後のイベントで、今回お話しした方々と再会できることが楽しみです。 参加経緯など このイベントは、JAWS DAYS 2024 に参加した際に初めて知りました。お酒を楽しめるということで、参加意欲が湧きました。当初は、AWS Summit や JAW…",
+            "url": "https://techblog.forgevision.com/entry/2024/10/24/141414",
+            "title": "JAWS FESTA 2024 そして 西条酒まつりに参加してきました | ForgeVision Engineer Blog",
+            "summary": "こんにちは、AWS チームの後藤です。 今回は、JAWS FESTA 2024 in 広島への参加について報告したいと思います。 結果からお伝えすると、飲みニケーションを存分に楽しませていただきました。普段は引っ込み思案ですが、このイベントで AWS 界隈の新しい顔見知りを増やすことができました。次に控えている re:Invent 2024 や、その後のイベントで、今回お話しした方々と再会できるこ...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/462b3eea9877eda6f8209bf3c531fdb98576f154/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffv-goto55555%2F20241023%2F20241023122047.png"
+            },
+            "date_modified": "2024-10-24T05:14:14.000Z",
+            "date_published": "2024-10-24T05:14:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "JAWS FESTA 2024 そして 西条酒まつりに参加してきました",
+                "blogTitle": "ForgeVision Engineer Blog",
+                "blogLink": "https://techblog.forgevision.com/",
+                "blogLinkMd5Hash": "8c8d83cd92fd4b3bda2964d599ee22ec"
+            }
+        },
+        {
+            "id": "https://techblog.forgevision.com/entry/2024/10/24/095517",
+            "content_html": "こんにちは！AWSグループ エンジニアの藤岡です。 最近急に寒くなりましたね。先週末に私の家では、こたつを押し入れから引っ張り出しました。 先日に、JAWS FESTA 2024 in 広島 に参加してきました。 本記事では、JAWS FESTAに初参加した私視点で、参加してよかったコトや、まだFESTA参加したこと無い人へオススメしたいコトなどをお伝えしたいと思います。 JAWS FESTA の概要 なぜ参加したか イベント全体の様子 Day1（FESTA前日） Day2（当日） 初参加でも安心して楽しめる雰囲気 JAWS-UG, AWSエンジニアのコミュニティ まとめ JAWS FESTA…",
+            "url": "https://techblog.forgevision.com/entry/2024/10/24/095517",
+            "title": "JAWS FESTA 2024 in 広島に参加しました 〜UG経験浅い人こそFESTAをオススメしたい〜 | ForgeVision Engineer Blog",
+            "summary": "こんにちは！AWSグループ エンジニアの藤岡です。 最近急に寒くなりましたね。先週末に私の家では、こたつを押し入れから引っ張り出しました。 先日に、JAWS FESTA 2024 in 広島 に参加してきました。 本記事では、JAWS FESTAに初参加した私視点で、参加してよかったコトや、まだFESTA参加したこと無い人へオススメしたいコトなどをお伝えしたいと思います。 JAWS FESTA の...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/1deada52bcda6f6a7732f7c28ef5396a1a4ac991/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fatsushi_af%2F20241022%2F20241022023102.png"
+            },
+            "date_modified": "2024-10-24T00:55:17.000Z",
+            "date_published": "2024-10-24T00:55:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JAWS FESTA 2024 in 広島に参加しました 〜UG経験浅い人こそFESTAをオススメしたい〜",
+                "blogTitle": "ForgeVision Engineer Blog",
+                "blogLink": "https://techblog.forgevision.com/",
+                "blogLinkMd5Hash": "8c8d83cd92fd4b3bda2964d599ee22ec"
+            }
+        },
+        {
+            "id": "https://zenn.dev/oppara/articles/aws-eb-set-env",
+            "content_html": "はじめに マネコンからぽちぽち設定するのはだるいので覚書。   EB CLI   設定 eb setenv \\  APP_ENV=dev \\  LOG_LEVEL=debug \\  FOO=BAR   確認 eb printenv 削除 値を空白にすると環境プロパティが削除される。 eb setenv FOO= .extensions   設定  .ebextensions/001-env.config option_settings:  aws:elasticbeanstalk:application:environment:  APP_ENV: dev ...",
+            "url": "https://zenn.dev/oppara/articles/aws-eb-set-env",
+            "title": "AWS ElasticBeanstalk の環境プロパティを設定する | Zennの「AWS」のフィード",
+            "summary": "はじめに マネコンからぽちぽち設定するのはだるいので覚書。   EB CLI   設定 eb setenv \\  APP_ENV=dev \\  LOG_LEVEL=debug \\  FOO=BAR   確認 eb printenv 削除 値を空白にすると環境プロパティが削除される。 eb setenv FOO= .extensions   設定  .ebextensions/001-env.con...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--WcdXvNnM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520ElasticBeanstalk%2520%25E3%2581%25AE%25E7%2592%25B0%25E5%25A2%2583%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2591%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:oppara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dyYTRKSGo5UzNEckZ0dTlwcUd5d0V4ZEZZTjZmS0JUQjBkTkthdFE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T23:38:06.000Z",
+            "date_published": "2024-10-23T23:38:06.000Z",
+            "author": {
+                "name": "oppara"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS ElasticBeanstalk の環境プロパティを設定する",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/24",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-mika-umeki%2F20241016%2F20241016162337.png\"><br>APIエコノミーチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事2本）。<br>1位: RDS Data API が Amazon Aurora MySQL でも使えるようになりました（blog.serverworks.co.jp）<br>2位: 秀和システム「Python x API で動かして学ぶ AI活用プログラミング」3章（qiita.com）<br>3位: REST API Privateの\"Privat...",
+            "url": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/24",
+            "title": "【10月24日ランキング】RDS Data API が Amazon Aurora MySQL でも使えるようになりました／ほか4本 | TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/e8d050a6e787e1eaa11da99ab9a6f8c3077c9406/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-mika-umeki%2F20241016%2F20241016162337.png"
+            },
+            "date_modified": "2024-10-23T20:00:10.527Z",
+            "date_published": "2024-10-23T20:00:10.527Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月24日ランキング】RDS Data API が Amazon Aurora MySQL でも使えるようになりました／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+                "blogLink": "http://techfeed.io/channels/API%20Economy",
+                "blogLinkMd5Hash": "3698f948a604b8f3e4c0f17c047c35e2"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/24",
+            "content_html": "<img src=\"https://www.publickey1.jp/2024/aws-valkey.png\"><br>Amazon Web Servicesチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事2本）。<br>1位: AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始（www.publickey1.jp）<br>2位: AWS IAMでログインユーザー自身だけが編集できる動的なポリシー（qiita.com）<br>3位: AWS Lambdaのコンソール画面が大きく変わったので試してみた。（qiita.com）<br>…ほか9本<br><a href=\"https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/24?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techf...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/24",
+            "title": "【10月24日ランキング】AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始／ほか11本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://www.publickey1.jp/2024/aws-valkey.png\"><br>Amazon Web Servicesチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事2本）。<br>1位: AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon Memo...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2024%2Faws-valkey.png"
+            },
+            "date_modified": "2024-10-23T20:00:10.527Z",
+            "date_published": "2024-10-23T20:00:10.527Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月24日ランキング】AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始／ほか11本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/24",
+            "content_html": "<img src=\"https://www.techtarget.com/rms/onlineimages/cloud_g1251263502.jpg\"><br>Microsoft Azureチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: A cloud services cheat sheet for AWS, Azure and Google Cloud（www.techtarget.com）<br>2位: AWS, Azure auth keys found in Android and iOS apps used by millions（www.bleepingcomputer.com）<br>3位: Soccer Analytics Copilot with Azure SQL and OpenAI（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/24",
+            "title": "【10月24日ランキング】A cloud services cheat sheet for AWS, Azure and Google Cloud／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://www.techtarget.com/rms/onlineimages/cloud_g1251263502.jpg\"><br>Microsoft Azureチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: A cloud services cheat sheet for AWS, Azure and ...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.techtarget.com%2Frms%2Fonlineimages%2Fcloud_g1251263502.jpg"
+            },
+            "date_modified": "2024-10-23T20:00:10.527Z",
+            "date_published": "2024-10-23T20:00:10.527Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月24日ランキング】A cloud services cheat sheet for AWS, Azure and Google Cloud／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/m_cre/articles/mcre-tools-summary",
+            "content_html": "はじめに Vue3でWebアプリを開発しました。 SPAながら、OGPやSSGに対応し、SEO的にも悪くないはずです。バックエンドはAWS CDKで構築しています。 ソースコードを全部公開しているので、すこしでも読者のかたの参考になるところがあれば嬉しいです。 https://github.com/mcre/mcre-tools 用語  SPA (Single Page Application): VueのデフォルトだけどSEO的にちょっと使いづらいやつ。 OGP (Open Graph Protocol): XなどでURLを貼ると画像が表示されるやつ SSG (Static Sit...",
+            "url": "https://zenn.dev/m_cre/articles/mcre-tools-summary",
+            "title": "Vue3 + AWSでフルスタック開発 - コード全公開 | Zennの「AWS」のフィード",
+            "summary": "はじめに Vue3でWebアプリを開発しました。 SPAながら、OGPやSSGに対応し、SEO的にも悪くないはずです。バックエンドはAWS CDKで構築しています。 ソースコードを全部公開しているので、すこしでも読者のかたの参考になるところがあれば嬉しいです。 https://github.com/mcre/mcre-tools 用語  SPA (Single Page Application):...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--HbuwnzDQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vue3%2520%252B%2520AWS%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%2520-%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2585%25A8%25E5%2585%25AC%25E9%2596%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mcre%2520%2528FUJITA%2520Shinya%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM2MmJiMTQ0MmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T16:05:46.000Z",
+            "date_published": "2024-10-23T16:05:46.000Z",
+            "author": {
+                "name": "mcre (FUJITA Shinya)"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vue3 + AWSでフルスタック開発 - コード全公開",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://zenn.dev/riri4568/articles/d904fe77ff2df1",
+            "content_html": "新卒クラウドエンジニアが初めてAWS10分LT会を聴講した結果 そこには自分の持っていた知識、発想力では追いついていけないようなレベルの高い世界でした。 まず、前提に自分の経歴・スペックについて ・新卒一年目のSIer会社社員 ・大学では文系で授業でプログラミングなどITに関する授業を受講したことはほとんどない ・半年間の新人研修を経て、10月にPJ配属された。 ・インフラ関係の事業部でクラウドを扱う事業グループに配属された。 ・現在、基本情報技術者とAWSCLFを習得するため勉強中(基本情報の科目bアルゴリズムで苦戦して⒒月に3回目のチャレンジ) ・自他ともに認める文系脳 ・AWSの知...",
+            "url": "https://zenn.dev/riri4568/articles/d904fe77ff2df1",
+            "title": "新卒クラウドエンジニアが初めてAWS10分LT会を聴講した結果 | Zennの「AWS」のフィード",
+            "summary": "新卒クラウドエンジニアが初めてAWS10分LT会を聴講した結果 そこには自分の持っていた知識、発想力では追いついていけないようなレベルの高い世界でした。 まず、前提に自分の経歴・スペックについて ・新卒一年目のSIer会社社員 ・大学では文系で授業でプログラミングなどITに関する授業を受講したことはほとんどない ・半年間の新人研修を経て、10月にPJ配属された。 ・インフラ関係の事業部でクラウドを...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--PqFbIqhu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6AWS10%25E5%2588%2586LT%25E4%25BC%259A%25E3%2582%2592%25E8%2581%25B4%25E8%25AC%259B%25E3%2581%2597%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E7%2584%25BC%25E3%2581%258D%25E3%2581%2586%25E3%2581%25A9%25E3%2582%2593%25E5%25AE%259A%25E9%25A3%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA3ZDhlNzhjZGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T15:00:00.000Z",
+            "date_published": "2024-10-23T15:00:00.000Z",
+            "author": {
+                "name": "ホルモン焼きうどん定食"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "新卒クラウドエンジニアが初めてAWS10分LT会を聴講した結果",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://zenn.dev/daichi0812/articles/6da98d736dc992",
+            "content_html": "S3 オブジェクトストレージサービスです。ファイルや画像、動画などの大きなデータを保存・管理するのに使われます。構造化されていないデータを扱うため、データベースのようなクエリ機能はありません。   RDS RDSは、リレーショナルデータベースサービスです。構造化されたデータを効率的に管理でき、SQLクエリを使ってデータを操作することができます。データベースの運用管理が自動化されているのも特徴です。 つまり、S3はファイルストレージ、RDSはデータベース管理のためのサービスです。",
+            "url": "https://zenn.dev/daichi0812/articles/6da98d736dc992",
+            "title": "AWS 種類 | Zennの「AWS」のフィード",
+            "summary": "S3 オブジェクトストレージサービスです。ファイルや画像、動画などの大きなデータを保存・管理するのに使われます。構造化されていないデータを扱うため、データベースのようなクエリ機能はありません。   RDS RDSは、リレーショナルデータベースサービスです。構造化されたデータを効率的に管理でき、SQLクエリを使ってデータを操作することができます。データベースの運用管理が自動化されているのも特徴です。...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--eY_2AQq7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_76:AWS%2520%25E7%25A8%25AE%25E9%25A1%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Daichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExZjdhNzBiMjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T10:23:34.000Z",
+            "date_published": "2024-10-23T10:23:34.000Z",
+            "author": {
+                "name": "Daichi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS 種類",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://tech.motex.co.jp/entry/2024/10/23/183047",
+            "content_html": "AWS Certified AI Practitionerベータ試験を通じた体験を元に、試験準備から合格特典まで、受験に役立つ情報を紹介します。",
+            "url": "https://tech.motex.co.jp/entry/2024/10/23/183047",
+            "title": "【合格体験記】AWS Certified AI Practitioner (AIF-C01) 認定ベータ試験を早速受験してみた | MOTEX TECH BLOG",
+            "summary": "AWS Certified AI Practitionerベータ試験を通じた体験を元に、試験準備から合格特典まで、受験に役立つ情報を紹介します。",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/22a697bb7771295c7d41b0a8fef7bb5c41bae0c4/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20241015%2F20241015174728.png"
+            },
+            "date_modified": "2024-10-23T09:30:47.000Z",
+            "date_published": "2024-10-23T09:30:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【合格体験記】AWS Certified AI Practitioner (AIF-C01) 認定ベータ試験を早速受験してみた",
+                "blogTitle": "MOTEX TECH BLOG",
+                "blogLink": "https://tech.motex.co.jp/",
+                "blogLinkMd5Hash": "91b05cfc3de75e8f606079cde9a7e9db"
+            }
+        },
+        {
+            "id": "https://zenn.dev/metalmental/articles/20241023_aws-stepfunctions-auto-create-iamuser",
+            "content_html": "概要 AWS マネジメントコンソール(Webブラウザ)で、IAMユーザを作成し、ユーザ情報を手動でメール送信している方向けです   自動化内容  Step Functions: 処理をフロー実行 IAM: IAMユーザ作成、IAMグループ追加 SecretsManager: パスワード生成 SES: メール送信    注意点  IAMユーザ名は、メールアドレスであること IAMグループは、設定済みであること SESは、設定済みであること IAM Identity Centerに移行可能であれば、移行したほうが良い    フロー図    Step Functions フロー定義 {  ...",
+            "url": "https://zenn.dev/metalmental/articles/20241023_aws-stepfunctions-auto-create-iamuser",
+            "title": "AWS IAMユーザの作成とメール通知の自動化 | Zennの「AWS」のフィード",
+            "summary": "概要 AWS マネジメントコンソール(Webブラウザ)で、IAMユーザを作成し、ユーザ情報を手動でメール送信している方向けです   自動化内容  Step Functions: 処理をフロー実行 IAM: IAMユーザ作成、IAMグループ追加 SecretsManager: パスワード生成 SES: メール送信    注意点  IAMユーザ名は、メールアドレスであること IAMグループは、設定済み...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--013ZO0xj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520IAM%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25A8%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E9%2580%259A%25E7%259F%25A5%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:metalmental%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzJYbHgtVTZpT1J6VWI0WVZiYjlTUWNoa1FMRzZnalktdmFiZl9YYjJocHd3dk01NHY9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T09:00:45.000Z",
+            "date_published": "2024-10-23T09:00:45.000Z",
+            "author": {
+                "name": "metalmental"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS IAMユーザの作成とメール通知の自動化",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://qiita.com/aoiku/items/8d01715a443b68bab3be",
+            "content_html": "はじめに こんにちは 最近寒いのやら暑いのやら寒暖差が激しいすな 今回はAI/MLサービスである 「Amazon Comprehend」 について紹介したいと思います。 Amazon Compre…",
+            "url": "https://qiita.com/aoiku/items/8d01715a443b68bab3be",
+            "title": "[AWS #28] Amazon Comprehend | Qiita - 人気の記事",
+            "summary": "はじめに こんにちは 最近寒いのやら暑いのやら寒暖差が激しいすな 今回はAI/MLサービスである 「Amazon Comprehend」 について紹介したいと思います。 Amazon Compre…",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-23T07:48:23.000Z",
+            "date_published": "2024-10-23T07:48:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "[AWS #28] Amazon Comprehend",
+                "blogTitle": "Qiita - 人気の記事",
+                "blogLink": "https://qiita.com/popular-items",
+                "blogLinkMd5Hash": "22bc5b5f7db7eeb45ad4a89236285644"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ap_com/articles/amazon-q-business-detail",
+            "content_html": "🌟 はじめに おぐまです。 今回は、AWSが提供する新しいサービス「Amazon Q Business」について詳しく解説していきます。 Amazon Q Businessを使えば、生成AIの力を簡単にビジネスに取り入れられます。   🤖 Amazon Q Businessとは Amazon Q Businessは、ビジネス向けの生成AI機能をすぐに利用できるようにするサービスです。 企業の知的資産を最大限に活用し、生産性を向上させるための強力なツールとして設計されています。 具体的には、以下のような機能を提供します：  LLM（大規模言語モデル）を活用した自然言語対話 RAG（Re...",
+            "url": "https://zenn.dev/ap_com/articles/amazon-q-business-detail",
+            "title": "[AWS] Amazon Q Business良さそうなので徹底解説 | Zennの「AWS」のフィード",
+            "summary": "🌟 はじめに おぐまです。 今回は、AWSが提供する新しいサービス「Amazon Q Business」について詳しく解説していきます。 Amazon Q Businessを使えば、生成AIの力を簡単にビジネスに取り入れられます。   🤖 Amazon Q Businessとは Amazon Q Businessは、ビジネス向けの生成AI機能をすぐに利用できるようにするサービスです。 企業の知...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--jy6gZM6q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BAWS%255D%2520Amazon%2520Q%2520Business%25E8%2589%25AF%25E3%2581%2595%25E3%2581%259D%25E3%2581%2586%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25A7%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:9mak%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA5N2NlMjBhZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2583%25BC%25E3%2583%2594%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%258B%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25BA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5YTdiNjViNmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T03:00:05.000Z",
+            "date_published": "2024-10-23T03:00:05.000Z",
+            "author": {
+                "name": "9mak"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[AWS] Amazon Q Business良さそうなので徹底解説",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "e939138a80e2acee346f502e80945d49bf8cc663",
+            "content_html": "Amazon DataZone は、アマゾンウェブサービス（AWS）、オンプレミス、およびサードパーティのソー […]",
+            "url": "https://aws.amazon.com/jp/blogs/news/amazon-datazone-overview-and-updates/",
+            "title": "Amazon DataZone の概要とアップデート | Amazon Web Services ブログ",
+            "summary": "Amazon DataZone は、アマゾンウェブサービス（AWS）、オンプレミス、およびサードパーティのソー […]",
+            "image": {
+                "type": "jpg",
+                "url": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2024/07/26/DataZone-1120x630.jpg"
+            },
+            "date_modified": "2024-10-23T00:37:03.000Z",
+            "date_published": "2024-10-23T00:37:03.000Z",
+            "author": {
+                "name": "Kenji Hirai"
+            },
+            "tags": [
+                "Amazon DataZone",
+                "Analytics"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Amazon DataZone の概要とアップデート",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "917bf9ac93b8e10fa6a2c8ea871f5b0590a0e1bc",
+            "content_html": "本ブログでは、既存のプロンプトレベルの脅威について議論し、それらを緩和するためのいくつかのセキュリティガードレールについて概説します。例として、Amazon Bedrock のAnthropic Claude を使用し、プロンプトインジェクションなどの一般的なセキュリティ脅威に対するガードレールを実施できるプロンプトテンプレートを実装します。これらのテンプレートは他の LLM とも互換性があり、修正して使用することもできます。",
+            "url": "https://aws.amazon.com/jp/blogs/news/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/",
+            "title": "プロンプトエンジニアリングによる、Amazon Bedrock でのセキュアな RAG アプリケーション | Amazon Web Services ブログ",
+            "summary": "本ブログでは、既存のプロンプトレベルの脅威について議論し、それらを緩和するためのいくつかのセキュリティガードレールについて概説します。例として、Amazon Bedrock のAnthropic Claude を使用し、プロンプトインジェクションなどの一般的なセキュリティ脅威に対するガードレールを実施できるプロンプトテンプレートを実装します。これらのテンプレートは他の LLM とも互換性があり、修...",
+            "image": {
+                "type": "png",
+                "url": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2024/10/22/Screenshot-2024-08-26-at-1.10.23 PM-1024x575-1.png"
+            },
+            "date_modified": "2024-10-23T00:14:48.000Z",
+            "date_published": "2024-10-23T00:14:48.000Z",
+            "author": {
+                "name": "Yusuke Matsumoto"
+            },
+            "tags": [
+                "Amazon Bedrock",
+                "Amazon Machine Learning",
+                "Artificial Intelligence",
+                "Best Practices",
+                "Generative AI"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "プロンプトエンジニアリングによる、Amazon Bedrock でのセキュアな RAG アプリケーション",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "https://rheb.hatenablog.com/entry/202410-rosa-openshift-virt",
+            "content_html": "Red Hatの小島です。 Amazon Web Services (以下、AWS)では非仮想化環境や独自のハイパーバイザーでのアプリケーション実行を希望するユーザーに対して、東京と大阪リージョンを含む様々なリージョンでのAmazon EC2上のベアメタルインスタンスの実行をサポートしています。こうしたベアメタルインスタンスのサポートを利用して、Red Hat OpenShift Service on AWS (ROSA) では、ROSA with Hosted Control Plane (以下、ROSA HCP) 上でのOpenShift Virtualizationを利用した仮想化環境の…",
+            "url": "https://rheb.hatenablog.com/entry/202410-rosa-openshift-virt",
+            "title": "OpenShift VirtualizationをRed Hat OpenShift Service on AWS (ROSA)で試してみよう | 赤帽エンジニアブログ",
+            "summary": "Red Hatの小島です。 Amazon Web Services (以下、AWS)では非仮想化環境や独自のハイパーバイザーでのアプリケーション実行を希望するユーザーに対して、東京と大阪リージョンを含む様々なリージョンでのAmazon EC2上のベアメタルインスタンスの実行をサポートしています。こうしたベアメタルインスタンスのサポートを利用して、Red Hat OpenShift Service ...",
+            "image": {
+                "type": null,
+                "url": "https://cdn.image.st-hatena.com/image/scale/7a991452690f5761c7abae1ffaf7d77f4a05d20c/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153224581%2F1538622056504212"
+            },
+            "date_modified": "2024-10-22T23:00:00.000Z",
+            "date_published": "2024-10-22T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "OpenShift VirtualizationをRed Hat OpenShift Service on AWS (ROSA)で試してみよう",
+                "blogTitle": "赤帽エンジニアブログ",
+                "blogLink": "https://rheb.hatenablog.com/",
+                "blogLinkMd5Hash": "fc36b9f4c932e3c4a4ce62f4b22cdbc3"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kobayasd/articles/2cbaa3ae14b2b0",
+            "content_html": "はじめに こんにちは、夜中にトイレに起きたら Anthropic からアップデートが発表されていたので目が冴えちゃったこばDです。Claude 3.5 Sonnet(new) と Claude 3.5 Haiku、そして computer use という新機能がパブリックベータとして公開されていましたね。 https://www.anthropic.com/news/3-5-models-and-computer-use 新モデルについては一旦後で検証するとして、この computer use とはなんなのか、早速試してみました。   computer use とは ざっくり解説する...",
+            "url": "https://zenn.dev/kobayasd/articles/2cbaa3ae14b2b0",
+            "title": "Amazon Bedrock から Anthropic の Computer use を使ってみる | Zennの「AWS」のフィード",
+            "summary": "はじめに こんにちは、夜中にトイレに起きたら Anthropic からアップデートが発表されていたので目が冴えちゃったこばDです。Claude 3.5 Sonnet(new) と Claude 3.5 Haiku、そして computer use という新機能がパブリックベータとして公開されていましたね。 https://www.anthropic.com/news/3-5-models-and-...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--7OW-XfZI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Amazon%2520Bedrock%2520%25E3%2581%258B%25E3%2582%2589%2520Anthropic%2520%25E3%2581%25AE%2520Computer%2520use%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%25B0D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg4Y2IxYzc1MGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-22T21:26:50.000Z",
+            "date_published": "2024-10-22T21:26:50.000Z",
+            "author": {
+                "name": "こばD"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon Bedrock から Anthropic の Computer use を使ってみる",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Containers/selections/daily/2024/10/23",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TGFtYmRhJUVGJUJDJTg4Tm9kZS5qcyVFRiVCQyU4OSVFMyU4MSVBRURvY2tlciVFMyU4MiVBNCVFMyU4MyVBMSVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiU5MiVFMyU4MyU4NyVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVBNCVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU...",
+            "url": "https://techfeed.io/channels/Containers/selections/daily/2024/10/23",
+            "title": "【10月23日ランキング】Lambda（Node.js）のDockerイメージをデプロイしてみた。（その１，EC2、Docker環境構築編）／ほか6本 | TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-22T20:00:10.856Z",
+            "date_published": "2024-10-22T20:00:10.856Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月23日ランキング】Lambda（Node.js）のDockerイメージをデプロイしてみた。（その１，EC2、Docker環境構築編）／ほか6本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+                "blogLink": "http://techfeed.io/channels/Containers",
+                "blogLinkMd5Hash": "aaa5794555c616591c7432f0bcf415e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Docker/selections/daily/2024/10/23",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TGFtYmRhJUVGJUJDJTg4Tm9kZS5qcyVFRiVCQyU4OSVFMyU4MSVBRURvY2tlciVFMyU4MiVBNCVFMyU4MyVBMSVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiU5MiVFMyU4MyU4NyVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVBNCVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU...",
+            "url": "https://techfeed.io/channels/Docker/selections/daily/2024/10/23",
+            "title": "【10月23日ランキング】Lambda（Node.js）のDockerイメージをデプロイしてみた。（その１，EC2、Docker環境構築編）／ほか5本 | TechFeedおすすめ記事ランキング - Dockerチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-22T20:00:10.856Z",
+            "date_published": "2024-10-22T20:00:10.856Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月23日ランキング】Lambda（Node.js）のDockerイメージをデプロイしてみた。（その１，EC2、Docker環境構築編）／ほか5本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Dockerチャンネル",
+                "blogLink": "http://techfeed.io/channels/Docker",
+                "blogLinkMd5Hash": "a5ea3273c4a28be9ccb21aa966dc110d"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23",
+            "content_html": "<img src=\"https://www.bleepstatic.com/content/hl-images/2023/09/04/cloud-servers.jpg\"><br>Microsoft Azureチャンネル 2024年10月23日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: AWS, Azure auth keys found in Android and iOS apps used by millions（www.bleepingcomputer.com）<br>2位: Soccer Analytics Copilot with Azure SQL and OpenAI（devblogs.microsoft.com）<br><a href=\"https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?typ...",
+            "url": "https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23",
+            "title": "【10月23日ランキング】AWS, Azure auth keys found in Android and iOS apps used by millions／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+            "summary": "<img src=\"https://www.bleepstatic.com/content/hl-images/2023/09/04/cloud-servers.jpg\"><br>Microsoft Azureチャンネル 2024年10月23日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: AWS, Azure auth keys found in Android a...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.bleepstatic.com%2Fcontent%2Fhl-images%2F2023%2F09%2F04%2Fcloud-servers.jpg"
+            },
+            "date_modified": "2024-10-22T20:00:10.856Z",
+            "date_published": "2024-10-22T20:00:10.856Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月23日ランキング】AWS, Azure auth keys found in Android and iOS apps used by millions／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル",
+                "blogLink": "http://techfeed.io/channels/Microsoft%20Azure",
+                "blogLinkMd5Hash": "1931eda5c13d4ded79bcf7be55616afd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/fusic/articles/github-zenn-linkage-20241022",
+            "content_html": "Amazon Bedrock Knowledge Bases（以下KB）をCDKで作ってみました。 今回構成するインフラの構成図は以下の通りです。  構成図   前提  Pineconeが作成されている Bedrockで使用するモデルアクセスが許可されている CDKのバージョンは2.163.0     必要なリソース 今回作成するKBに必要なリソースのCDKを記載します。 Constructsに切り分けてもいいですし、Stackに直接書いても構いません。 使用する変数を以下に記載しておきます。 // embeddingModelのArn。任意のモデルを使用してください。 const em...",
+            "url": "https://zenn.dev/fusic/articles/github-zenn-linkage-20241022",
+            "title": "Amazon Bedrock Knowledge Bases（Pinecone）をCDKで作る方法 | Zennの「AWS」のフィード",
+            "summary": "Amazon Bedrock Knowledge Bases（以下KB）をCDKで作ってみました。 今回構成するインフラの構成図は以下の通りです。  構成図   前提  Pineconeが作成されている Bedrockで使用するモデルアクセスが許可されている CDKのバージョンは2.163.0     必要なリソース 今回作成するKBに必要なリソースのCDKを記載します。 Constructsに切...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--osuN5SM7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Amazon%2520Bedrock%2520Knowledge%2520Bases%25EF%25BC%2588Pinecone%25EF%25BC%2589%25E3%2582%2592CDK%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%259D%25E3%2581%25AE%25E3%2581%25A0%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlZGZkZjc5MzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-22T12:47:53.000Z",
+            "date_published": "2024-10-22T12:47:53.000Z",
+            "author": {
+                "name": "そのだ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon Bedrock Knowledge Bases（Pinecone）をCDKで作る方法",
+                "blogTitle": "Zennの「AWS」のフィード",
+                "blogLink": "https://zenn.dev/topics/aws",
+                "blogLinkMd5Hash": "629114a9d20e630235d93d8eb3ba1e66"
+            }
+        },
+        {
+            "id": "f03b34c4f40958138f690126b27c3993e422b73e",
+            "content_html": "Dunelm Group plc は、イギリスの大手家庭用品小売業者であり、イギリス全土のスーパーストアとデジタルプラットフォーム上で消費者向けの専門的な商品を扱っています。毎年 4 億回以上のセッションが発生する Dunelm のウェブサイトは、会社の収益の約 35% を生みだしています。 組織が拡大するにつれ、その拡大に一致するように組織構造とソフトウェアアーキテクチャを変革する必要があります。多くの場合、最初に思いつくのは、現在のアーキテクチャから分散システムに移行することです。バックエンドには、マイクロサービスのような統合アーキテクチャがあります。しかし、フロントエンド層、特にそこから高収益を生み出す企業に対してはどう対応したらよいでしょうか? このブログでは、Dunelm が顧客体験を向上させ、組織を拡大するために、マイクロフロントエンドアーキテクチャを使用してデジタルプラットフォームを革新している方法について説明します。",
+            "url": "https://aws.amazon.com/jp/blogs/news/dunelms-journey-to-micro-frontends-on-aws/",
+            "title": "AWS における Dunelm のマイクロフロントエンドジャーニー | Amazon Web Services ブログ",
+            "summary": "Dunelm Group plc は、イギリスの大手家庭用品小売業者であり、イギリス全土のスーパーストアとデジタルプラットフォーム上で消費者向けの専門的な商品を扱っています。毎年 4 億回以上のセッションが発生する Dunelm のウェブサイトは、会社の収益の約 35% を生みだしています。 組織が拡大するにつれ、その拡大に一致するように組織構造とソフトウェアアーキテクチャを変革する必要があります...",
+            "image": {
+                "type": "png",
+                "url": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2024/10/17/Dunelms-journey-to-micro-frontends-on-AWS-1024x536-1.png"
+            },
+            "date_modified": "2024-10-22T09:10:08.000Z",
+            "date_published": "2024-10-22T09:10:08.000Z",
+            "author": {
+                "name": "Masaki Murata"
+            },
+            "tags": [
+                "General",
+                "Industries",
+                "Retail",
+                "retail",
+                "Serverless"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AWS における Dunelm のマイクロフロントエンドジャーニー",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "9ac40a08c75b992ddc2ef9d82d41e7db42573e2f",
+            "content_html": "AWS は、お客様のワークロードを保護するために、先進の脅威インテリジェンスツール「Sonaris」を活用したアクティブディフェンスに取り組んでいます。Sonaris は、AWS ネットワークの大規模なテレメトリと脅威インテリジェンスを統合し、不審なスキャンや攻撃の兆候を迅速に検知し、自動的に対処します。実際にSonarisが多数の攻撃を防御し、お客様を脅威から守っていることが確認されています。AWS はSonarisなどの革新的なセキュリティ対策を通じて、インターネットの安全性向上に貢献し続けています。",
+            "url": "https://aws.amazon.com/jp/blogs/news/how-aws-uses-active-defense-to-help-protect-customers-from-security-threats/",
+            "title": "AWS がアクティブディフェンスを活用してお客様をセキュリティの脅威から保護する方法 | Amazon Web Services ブログ",
+            "summary": "AWS は、お客様のワークロードを保護するために、先進の脅威インテリジェンスツール「Sonaris」を活用したアクティブディフェンスに取り組んでいます。Sonaris は、AWS ネットワークの大規模なテレメトリと脅威インテリジェンスを統合し、不審なスキャンや攻撃の兆候を迅速に検知し、自動的に対処します。実際にSonarisが多数の攻撃を防御し、お客様を脅威から守っていることが確認されています。A...",
+            "image": {
+                "type": "png",
+                "url": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2024/10/14/sonaris-blog-1024x512-1.png"
+            },
+            "date_modified": "2024-10-22T02:03:06.000Z",
+            "date_published": "2024-10-22T02:03:06.000Z",
+            "author": {
+                "name": "Akihiro Nakajima"
+            },
+            "tags": [
+                "Foundational 100",
+                "Security",
+                "Security, Identity,  Compliance",
+                "Thought Leadership",
+                "Security Blog"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AWS がアクティブディフェンスを活用してお客様をセキュリティの脅威から保護する方法",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2024/10/22/105216",
+            "content_html": "目次 目次 はじめに タスク停止で困っていた状況 調べ方 感想 はじめに こんにちは！クラウド事業部の野村です。 学習目的でECSタスクをデプロイしていたのですが、原因不明のタスク停止に悩まされていました。 そんな中で、トラブルシューティングに役立つ調査方法がわかったので、共有でブログ投稿いたします！ タスク停止で困っていた状況 CDKでECSを含む環境をデプロイすると、しばらくは環境のテスト利用が可能となります。 しかし、一定時間経過すると環境への接続がエラーとなってしまい、原因を調べると、ECSタスクが前段のロードバランサ―からのヘルスチェックに失敗し、繰り返し再作成されていました。 停止…",
+            "url": "https://techblog.ap-com.co.jp/entry/2024/10/22/105216",
+            "title": "Amazon ECS タスクの停止原因を確認する方法 | APC 技術ブログ",
+            "summary": "目次 目次 はじめに タスク停止で困っていた状況 調べ方 感想 はじめに こんにちは！クラウド事業部の野村です。 学習目的でECSタスクをデプロイしていたのですが、原因不明のタスク停止に悩まされていました。 そんな中で、トラブルシューティングに役立つ調査方法がわかったので、共有でブログ投稿いたします！ タスク停止で困っていた状況 CDKでECSを含む環境をデプロイすると、しばらくは環境のテスト利用...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/88bf67aeb857ff96770a542e3edad37f036e1347/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs_no_w%2F20240717%2F20240717101232.png"
+            },
+            "date_modified": "2024-10-22T01:52:16.000Z",
+            "date_published": "2024-10-22T01:52:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon ECS タスクの停止原因を確認する方法",
+                "blogTitle": "APC 技術ブログ",
+                "blogLink": "https://techblog.ap-com.co.jp/",
+                "blogLinkMd5Hash": "44ee1b58b0f91540a3894878b97d1b65"
+            }
+        },
+        {
+            "id": "dc0e5d4c2dd7058c5521ffeb3591df4cc79e31b5",
+            "content_html": "本稿は、 オムロン ソフトウェア 株式会社によるクラウドを用いたPLC管理に関して宮本 寛之様より寄稿いただき […]",
+            "url": "https://aws.amazon.com/jp/blogs/news/osk-plc-remote-management-solution/",
+            "title": "寄稿：AWS Systems ManagerとAWS IoT GreengrassによるPLCへのリモート接続ソリューション | Amazon Web Services ブログ",
+            "summary": "本稿は、 オムロン ソフトウェア 株式会社によるクラウドを用いたPLC管理に関して宮本 寛之様より寄稿いただき […]",
+            "image": {
+                "type": "png",
+                "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+            },
+            "date_modified": "2024-10-22T00:45:06.000Z",
+            "date_published": "2024-10-22T00:45:06.000Z",
+            "author": {
+                "name": "Takahiro Iwase"
+            },
+            "tags": [
+                "AWS IoT Greengrass",
+                "AWS Systems Manager",
+                "General",
+                "AWS Greengrass",
+                "AWS IoT"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "寄稿：AWS Systems ManagerとAWS IoT GreengrassによるPLCへのリモート接続ソリューション",
+                "blogTitle": "Amazon Web Services ブログ",
+                "blogLink": "https://aws.amazon.com/jp/blogs/news/",
+                "blogLinkMd5Hash": "e89604d2ec0c7b57b9266aabc8e6a2bb"
+            }
+        },
+        {
+            "id": "https://creators.bengo4.com/entry/2024/10/22/073000",
+            "content_html": "こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 クラウドサイン事業本部の SRE ではサービスの可用性、信頼性の向上や開発の高速化、省力化を目指した開発を日々行っています。 クラウドサインは 2024 年 10 月で 10 年目のサービスとなりました。 裏ではさまざまなアプリケーション（定期実行バッチ、常駐バッチ、内部 API サーバーなど）が稼働し、相互に連携してサービスを提供しているのですが、中には非常に古くから稼働しているものも存在します。 今回お話する nginx もその 1 つです。 クラウドサインの裏で稼働するアプリケーションのほとん…",
+            "url": "https://creators.bengo4.com/entry/2024/10/22/073000",
+            "title": "ゼロダウンタイムで Amazon EC2 で稼働している nginx を AWS Fargate に移行した | 弁護士ドットコム株式会社 Creators’ blog",
+            "summary": "こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 クラウドサイン事業本部の SRE ではサービスの可用性、信頼性の向上や開発の高速化、省力化を目指した開発を日々行っています。 クラウドサインは 2024 年 10 月で 10 年目のサービスとなりました。 裏ではさまざまなアプリケーション（定期実行バッチ、常駐バッチ、内部 API サーバーなど）が稼働し...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/5c69b9d99e3c3a35016dc41b6effe644e0fa9c38/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbengo4%2F20241021%2F20241021192009.png"
+            },
+            "date_modified": "2024-10-21T22:30:00.000Z",
+            "date_published": "2024-10-21T22:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ゼロダウンタイムで Amazon EC2 で稼働している nginx を AWS Fargate に移行した",
+                "blogTitle": "弁護士ドットコム株式会社 Creators’ blog",
+                "blogLink": "https://creators.bengo4.com/",
+                "blogLinkMd5Hash": "cb5dd8ab1e74d304e86a23f15ef5ac09"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Continuous%20Integration/selections/daily/2024/10/22",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JTVCQVdTJTVER2l0aHViQWN0aW9ucyVFMyU4MSVBNyUyMHRlcnJhZm9ybSUyMCVFMyU4MSVBRUNJJTJGQ0QlRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJ...",
+            "url": "https://techfeed.io/channels/Continuous%20Integration/selections/daily/2024/10/22",
+            "title": "【10月22日ランキング】[AWS]GithubActionsで terraform のCI/CDやってみた | TechFeedおすすめ記事ランキング - 継続的インテグレーションチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-21T20:00:10.496Z",
+            "date_published": "2024-10-21T20:00:10.496Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月22日ランキング】[AWS]GithubActionsで terraform のCI/CDやってみた",
+                "blogTitle": "TechFeedおすすめ記事ランキング - 継続的インテグレーションチャンネル",
+                "blogLink": "http://techfeed.io/channels/Continuous%20Integration",
+                "blogLinkMd5Hash": "b6920cae8084dfed03df3be1e566e40a"
+            }
+        },
+        {
+            "id": "https://aimstogeek.hatenablog.com/entry/2024/10/22/000000",
+            "content_html": "皆さんこんにちは、システム基盤を日々支えるインフラエンジニアのTOKです。 突然ですが、次のような状況に身に覚えはありませんか？ 暫定的な環境で運用を始めたものの、拡張性やパフォーマンスが課題に。 プロジェクトの納期が厳しく、理想的な設計を追求する余裕がない。 複雑なアプリケーション構成で、既存のIaC（Infrastructure as Code）ツールでは対応が難しいと感じた。 こうした問題に直面している方に向けて、この記事では私が担当したAWS暫定環境からの脱却事例と、その過程でのIaC再構築、そして運用の最適化について紹介します。 リプレイスの過程で直面した課題をどのように解決し、どん…",
+            "url": "https://aimstogeek.hatenablog.com/entry/2024/10/22/000000",
+            "title": "暫定AWS環境からの脱却：IaC再構築によるリプレイスとデプロイの最適化 | クイック エンジニアリングブログ",
+            "summary": "皆さんこんにちは、システム基盤を日々支えるインフラエンジニアのTOKです。 突然ですが、次のような状況に身に覚えはありませんか？ 暫定的な環境で運用を始めたものの、拡張性やパフォーマンスが課題に。 プロジェクトの納期が厳しく、理想的な設計を追求する余裕がない。 複雑なアプリケーション構成で、既存のIaC（Infrastructure as Code）ツールでは対応が難しいと感じた。 こうした問題に...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/8454420450097326897/6802418398296772618/1729522826"
+            },
+            "date_modified": "2024-10-21T15:00:00.000Z",
+            "date_published": "2024-10-21T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "暫定AWS環境からの脱却：IaC再構築によるリプレイスとデプロイの最適化",
+                "blogTitle": "クイック エンジニアリングブログ",
+                "blogLink": "https://aimstogeek.hatenablog.com/",
+                "blogLinkMd5Hash": "52ee0604cd723bad4e734c421560d094"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Continuous%20Integration/selections/daily/2024/10/21",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JTVCQVdTJTVER2l0aHViQWN0aW9ucyVFMyU4MSVBNyUyMHRlcnJhZm9ybSUyMCVFMyU4MSVBRUNJJTJGQ0QlRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJ...",
+            "url": "https://techfeed.io/channels/Continuous%20Integration/selections/daily/2024/10/21",
+            "title": "【10月21日ランキング】[AWS]GithubActionsで terraform のCI/CDやってみた | TechFeedおすすめ記事ランキング - 継続的インテグレーションチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-21T14:00:12.421Z",
+            "date_published": "2024-10-21T14:00:12.421Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月21日ランキング】[AWS]GithubActionsで terraform のCI/CDやってみた",
+                "blogTitle": "TechFeedおすすめ記事ランキング - 継続的インテグレーションチャンネル",
+                "blogLink": "http://techfeed.io/channels/Continuous%20Integration",
+                "blogLinkMd5Hash": "b6920cae8084dfed03df3be1e566e40a"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2024/10/21/105447",
+            "content_html": "こんにちは、クラウド事業部の山路です。 今回は先日GAとなったAWS Console-to-Codeを使う場面を、他のAWSサービスとも比較しながら考えてみました。GAされたけどどんなサービスかあんまりわかってないという方、どこで使えばいいか分からないという方の助けになれば幸いです。 本記事の要約 AWS Console-to-Codeの概要 / アップデート内容の紹介 AWS Console-to-Codeのユースケース AWS Console-to-Codeに向いていること AWS CLIを生成して作業手順書やスクリプト作成をサポートする コード化したいリソースを画面から直接指定できる A…",
+            "url": "https://techblog.ap-com.co.jp/entry/2024/10/21/105447",
+            "title": "AWS Console-to-CodeがGAされたので使いどころを考えてみる | APC 技術ブログ",
+            "summary": "こんにちは、クラウド事業部の山路です。 今回は先日GAとなったAWS Console-to-Codeを使う場面を、他のAWSサービスとも比較しながら考えてみました。GAされたけどどんなサービスかあんまりわかってないという方、どこで使えばいいか分からないという方の助けになれば幸いです。 本記事の要約 AWS Console-to-Codeの概要 / アップデート内容の紹介 AWS Console-t...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/0f6efd90f030ebf4a0696f4ade1166c6fa671564/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FF%2FFY0323%2F20241020%2F20241020120415.png"
+            },
+            "date_modified": "2024-10-21T01:54:47.000Z",
+            "date_published": "2024-10-21T01:54:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AWS Console-to-CodeがGAされたので使いどころを考えてみる",
+                "blogTitle": "APC 技術ブログ",
+                "blogLink": "https://techblog.ap-com.co.jp/",
+                "blogLinkMd5Hash": "44ee1b58b0f91540a3894878b97d1b65"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/21",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QXV0aDAlRTMlODIlOTJTQU1MJTIwSWRQJUUzJTgxJUFCJUUzJTgxJTk3JUUzJTgxJTlGQW1hem9uJTIwTWFuYWdlZCUyMEdyYWZhbmElRTMlODIlOTJUZXJyYWZvcm0lRTMlODElQTclRTYlQTclOEIlRTclQUYlODklRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3A...",
+            "url": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/21",
+            "title": "【10月21日ランキング】Auth0をSAML IdPにしたAmazon Managed GrafanaをTerraformで構築する／ほか1本 | TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-20T20:00:11.025Z",
+            "date_published": "2024-10-20T20:00:11.025Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月21日ランキング】Auth0をSAML IdPにしたAmazon Managed GrafanaをTerraformで構築する／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+                "blogLink": "http://techfeed.io/channels/DevOps",
+                "blogLinkMd5Hash": "6945279e98bfaf926df38719d624b6d1"
+            }
+        },
+        {
+            "id": "https://techblog.nhn-techorus.com/?p=35721",
+            "content_html": "はじめに こんにちは、YUJIです。 今回は、普段働いているオフィスの1Fカフェスペースを使って 社外のエンジニアの方を数人招いて、AWS BuilderCardsを使った交流会を実施してみたので、そのレポートです！ AWS Builder... 続きを読む 社外の方を招いて、AWS BuilderCardsを使った交流会を主催した話 first appeared on NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ.",
+            "url": "https://techblog.nhn-techorus.com/archives/35721",
+            "title": "社外の方を招いて、AWS BuilderCardsを使った交流会を主催した話 | NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ",
+            "summary": "はじめに こんにちは、YUJIです。 今回は、普段働いているオフィスの1Fカフェスペースを使って 社外のエンジニアの方を数人招いて、AWS BuilderCardsを使った交流会を実施してみたので、そのレポートです！ AWS Builder... 続きを読む 社外の方を招いて、AWS BuilderCardsを使った交流会を主催した話 first appeared on NHN テコラス Tech...",
+            "image": {
+                "type": "jpg",
+                "url": "https://techblog.nhn-techorus.com/wp-content/uploads/2024/10/IMG_0848-scaled.jpg"
+            },
+            "date_modified": "2024-10-18T07:00:16.000Z",
+            "date_published": "2024-10-18T07:00:16.000Z",
+            "author": {
+                "name": "YUJI"
+            },
+            "tags": [
+                "AWS"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "社外の方を招いて、AWS BuilderCardsを使った交流会を主催した話",
+                "blogTitle": "NHN テコラス Tech Blog | AWS、機械学習、IoTなどの技術ブログ",
+                "blogLink": "https://techblog.nhn-techorus.com",
+                "blogLinkMd5Hash": "9caa97a77ae08299c6ee23c4d67c22c7"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2024/10/18/120322",
+            "content_html": "はじめに エブリーでソフトウェアエンジニアをしている本丸です。 最近、Amazon Cognitoのユーザープールから別のユーザープールにユーザーを移行する方法について調査する機会がありました。 Amazon Cognitoに関しては色々な箇所で使われていると思いますが、ユーザーの移行について触れる機会はそれほど多くないかと思いますので紹介しようかと思います。 Amazon Cognitoとは Amazon Cognito(以降Cognitoと表記します)は、AWSが提供するウェブアプリとモバイルアプリ用のアイデンティティプラットフォームです。ユーザーの認証・承認を行うユーザープールとユーザー…",
+            "url": "https://tech.every.tv/entry/2024/10/18/120322",
+            "title": "Amazon Cognitoのユーザーの移行 | every Tech Blog",
+            "summary": "はじめに エブリーでソフトウェアエンジニアをしている本丸です。 最近、Amazon Cognitoのユーザープールから別のユーザープールにユーザーを移行する方法について調査する機会がありました。 Amazon Cognitoに関しては色々な箇所で使われていると思いますが、ユーザーの移行について触れる機会はそれほど多くないかと思いますので紹介しようかと思います。 Amazon Cognitoとは A...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/4605e8f5256570d63d3224327db51b7a324f4d8e/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm_book%2F20241018%2F20241018115740.png"
+            },
+            "date_modified": "2024-10-18T03:03:22.000Z",
+            "date_published": "2024-10-18T03:03:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon Cognitoのユーザーの移行",
+                "blogTitle": "every Tech Blog",
+                "blogLink": "https://tech.every.tv/",
+                "blogLinkMd5Hash": "c29ab0fee97894675fe084b84a9033c0"
+            }
+        },
+        {
+            "id": "https://style.biglobe.co.jp/entry/2024/10/18/100000",
+            "content_html": "AWS初心者でも安心して参加できるBIGLOBEのAWSオンラインプログラム。実務体験や社員との交流を通じてクラウド技術を学ぶ絶好のチャンス！",
+            "url": "https://style.biglobe.co.jp/entry/2024/10/18/100000",
+            "title": "AWSを活用したインフラ構築・トラブルシューティングを実務体験で学ぶ！～AWSオンラインプログラム受付中～ | TechBlog - BIGLOBE Style ｜ BIGLOBEの「はたらく人」と「トガッた技術」",
+            "summary": "AWS初心者でも安心して参加できるBIGLOBEのAWSオンラインプログラム。実務体験や社員との交流を通じてクラウド技術を学ぶ絶好のチャンス！",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/3a679754795ff2bae3e66b0e69c979f5b1de7140/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbiglobe-style%2F20241018%2F20241018100005.jpg"
+            },
+            "date_modified": "2024-10-18T01:00:00.000Z",
+            "date_published": "2024-10-18T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWSを活用したインフラ構築・トラブルシューティングを実務体験で学ぶ！～AWSオンラインプログラム受付中～",
+                "blogTitle": "TechBlog - BIGLOBE Style ｜ BIGLOBEの「はたらく人」と「トガッた技術」",
+                "blogLink": "https://style.biglobe.co.jp/archive/category/TechBlog",
+                "blogLinkMd5Hash": "645fc3b66125fe8f1f5de2bae8ea7bd6"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Access%20analysis/selections/daily/2024/10/18",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwU2NoZW1hJTIwQ29udmVyc2lvbiUyMFRvb2wlMjAlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElOUZEQiVFNyVBNyVCQiVFOCVBMSU4QyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc...",
+            "url": "https://techfeed.io/channels/Access%20analysis/selections/daily/2024/10/18",
+            "title": "【10月18日ランキング】AWS Schema Conversion Tool を使ったDB移行／ほか2本 | TechFeedおすすめ記事ランキング - アクセス解析チャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-17T20:00:11.021Z",
+            "date_published": "2024-10-17T20:00:11.021Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月18日ランキング】AWS Schema Conversion Tool を使ったDB移行／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - アクセス解析チャンネル",
+                "blogLink": "http://techfeed.io/channels/Access%20analysis",
+                "blogLinkMd5Hash": "8cc64a97ccfa510c8bf7505a98b460ec"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/18",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/news/articles/2410/17/cover_news124.jpg\"><br>Amazon Web Servicesチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事5本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース（www.itmedia.co.jp）<br>2位: ココナラ、SQLテストツールを活用し、MySQLデータベースをAmazon RDSからAuroraに移行（it.impress.co.jp）<br>3位: Bolt改造：BoltにAWS Bedrockを対応させる方法（hamaruki.com）<br>…ほか12本<br><a href=\"https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/18?from=rss\" target=\"_blank\">ラン...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/18",
+            "title": "【10月18日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか14本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/news/articles/2410/17/cover_news124.jpg\"><br>Amazon Web Servicesチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事5本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Cons...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2410%2F17%2Fcover_news124.jpg"
+            },
+            "date_modified": "2024-10-17T20:00:11.021Z",
+            "date_published": "2024-10-17T20:00:11.021Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月18日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか14本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Cassandra/selections/daily/2024/10/18",
+            "content_html": "<img src=\"https://variety.com/wp-content/uploads/2024/10/Sugarland-3.jpg?w=1000&h=563&crop=1\"><br>Cassandraチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market（variety.com）<br><a href=\"https://techfeed.io/channels/Cassandra/selections/daily/2024/10/18?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%...",
+            "url": "https://techfeed.io/channels/Cassandra/selections/daily/2024/10/18",
+            "title": "【10月18日ランキング】Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market | TechFeedおすすめ記事ランキング - Cassandraチャンネル",
+            "summary": "<img src=\"https://variety.com/wp-content/uploads/2024/10/Sugarland-3.jpg?w=1000&h=563&crop=1\"><br>Cassandraチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Steven Spielberg, Marlon Brando Film ...",
+            "image": {
+                "type": null,
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2024%2F10%2FSugarland-3.jpg%3Fw%3D1000%26h%3D563%26crop%3D1"
+            },
+            "date_modified": "2024-10-17T20:00:11.021Z",
+            "date_published": "2024-10-17T20:00:11.021Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月18日ランキング】Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Cassandraチャンネル",
+                "blogLink": "http://techfeed.io/channels/Cassandra",
+                "blogLinkMd5Hash": "90c73ce81a98f08cf1dd688710e502fa"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Cassandra/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://variety.com/wp-content/uploads/2024/10/Sugarland-3.jpg?w=1000&h=563&crop=1\"><br>Cassandraチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market（variety.com）<br><a href=\"https://techfeed.io/channels/Cassandra/selections/daily/2024/10/17?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%...",
+            "url": "https://techfeed.io/channels/Cassandra/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market | TechFeedおすすめ記事ランキング - Cassandraチャンネル",
+            "summary": "<img src=\"https://variety.com/wp-content/uploads/2024/10/Sugarland-3.jpg?w=1000&h=563&crop=1\"><br>Cassandraチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Steven Spielberg, Marlon Brando Film ...",
+            "image": {
+                "type": null,
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2024%2F10%2FSugarland-3.jpg%3Fw%3D1000%26h%3D563%26crop%3D1"
+            },
+            "date_modified": "2024-10-17T07:00:10.578Z",
+            "date_published": "2024-10-17T07:00:10.578Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】Steven Spielberg, Marlon Brando Film Restoration Broken Down by Universal’s Cassandra Moore at Lumière’s Classic Film Market",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Cassandraチャンネル",
+                "blogLink": "http://techfeed.io/channels/Cassandra",
+                "blogLinkMd5Hash": "90c73ce81a98f08cf1dd688710e502fa"
+            }
+        },
+        {
+            "id": "https://tech.motex.co.jp/entry/2024/10/17/153559",
+            "content_html": "本記事では、Lambdaをカスタムランタイムで実装し、起動時間とメモリ使用量を大幅に削減した事例を紹介します。",
+            "url": "https://tech.motex.co.jp/entry/2024/10/17/153559",
+            "title": "AWS Lambda カスタムランタイムを使って性能改善&コスト削減 | MOTEX TECH BLOG",
+            "summary": "本記事では、Lambdaをカスタムランタイムで実装し、起動時間とメモリ使用量を大幅に削減した事例を紹介します。",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/5331759fa010e3ba84d8010cfbd0984bd995bbfc/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20241011%2F20241011161343.png"
+            },
+            "date_modified": "2024-10-17T06:35:59.000Z",
+            "date_published": "2024-10-17T06:35:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AWS Lambda カスタムランタイムを使って性能改善&コスト削減",
+                "blogTitle": "MOTEX TECH BLOG",
+                "blogLink": "https://tech.motex.co.jp/",
+                "blogLinkMd5Hash": "91b05cfc3de75e8f606079cde9a7e9db"
+            }
+        },
+        {
+            "id": "https://techblog.forgevision.com/entry/2024/10/17/103157",
+            "content_html": "こんにちは、こんばんわ！クラウドインテグレーション事業部の魚介系エンジニア松尾です。 今回の記事は先日シアトルで開催された「2024 AWS Ambassador Global Summit」に新米 Ambassador として参加させていただいた際の参加レポートとなります。 次回以降参加を検討されている方の参考になれれば幸いです！！ セッションの内容は全て NDA のもと全て非公開となるため記載ができませんが、現地での日々の過ごし方や参加者を退屈させないメインセッション以外の催しもありましたので、ご紹介させていただきます。 最後までお読みいただければ幸いです！ そもそも AWS Ambass…",
+            "url": "https://techblog.forgevision.com/entry/2024/10/17/103157",
+            "title": "AWS Ambassador Global Summit 参加報告～新米 Ambassadar による初参加の方向けの体験記～ | ForgeVision Engineer Blog",
+            "summary": "こんにちは、こんばんわ！クラウドインテグレーション事業部の魚介系エンジニア松尾です。 今回の記事は先日シアトルで開催された「2024 AWS Ambassador Global Summit」に新米 Ambassador として参加させていただいた際の参加レポートとなります。 次回以降参加を検討されている方の参考になれれば幸いです！！ セッションの内容は全て NDA のもと全て非公開となるため記載...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/4c1ba93135b4f55be9848de4181942ae867ca0b0/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmatsuo1017%2F20241010%2F20241010012534.png"
+            },
+            "date_modified": "2024-10-17T01:31:57.000Z",
+            "date_published": "2024-10-17T01:31:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS Ambassador Global Summit 参加報告～新米 Ambassadar による初参加の方向けの体験記～",
+                "blogTitle": "ForgeVision Engineer Blog",
+                "blogLink": "https://techblog.forgevision.com/",
+                "blogLinkMd5Hash": "8c8d83cd92fd4b3bda2964d599ee22ec"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUUzJTgwJTkwQVdTJUUzJTgwJTkxTGFtYmRhJTIwJTJCJTIwQVBJJTIwR2F0ZXdheSUyMCUyQiUyMER5bmFtb0RCJUUzJTgxJUE3JUU5JTg1JTkyJUU4JUIxJUFBJUU1JTg4JUE0JUU1JUFFJTlBJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUU5JTk2JThCJUU3JTk...",
+            "url": "https://techfeed.io/channels/API%20Economy/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】【AWS】Lambda + API Gateway + DynamoDBで酒豪判定アプリを開発してみる【前編】／ほか4本 | TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-16T20:00:10.581Z",
+            "date_published": "2024-10-16T20:00:10.581Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】【AWS】Lambda + API Gateway + DynamoDBで酒豪判定アプリを開発してみる【前編】／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - APIエコノミーチャンネル",
+                "blogLink": "http://techfeed.io/channels/API%20Economy",
+                "blogLinkMd5Hash": "3698f948a604b8f3e4c0f17c047c35e2"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://www.publickey1.jp/2024/aws-console-to-code-ga01.png\"><br>Amazon Web Servicesチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース（www.publickey1.jp）<br>2位: 【AWS】Lambda + API Gateway + DynamoDBで酒豪判定アプリを開発してみる【前編】（qiita.com）<br>3位: 日本にはAWS Community Builderが足りていない（tech.enechange.co.jp）<br>…ほか10本<br><a href=\"https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/17?from=rss\" target=\"_blank\">ランキング...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://www.publickey1.jp/2024/aws-console-to-code-ga01.png\"><br>Amazon Web Servicesチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-C...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2024%2Faws-console-to-code-ga01.png"
+            },
+            "date_modified": "2024-10-16T20:00:10.581Z",
+            "date_published": "2024-10-16T20:00:10.581Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか12本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Containers/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwJUUzJTgxJUFFJUU1JUE0JTk2JUUzJTgxJUFFJTIwS3ViZXJuZXRlcyUyMCVFMyU4MSU4QiVFMyU4MiU4OSUyMFByaXZhdGUlMjBFQ1IlMjAlRTMlODElQUUlRTMlODIlQTQlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjglRTMlODIlOTIlRTUlOEYlOTYlRTUlQkUlOTclRTM...",
+            "url": "https://techfeed.io/channels/Containers/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか8本 | TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-16T20:00:10.581Z",
+            "date_published": "2024-10-16T20:00:10.581Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか8本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+                "blogLink": "http://techfeed.io/channels/Containers",
+                "blogLinkMd5Hash": "aaa5794555c616591c7432f0bcf415e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Kubernetes/selections/daily/2024/10/17",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwJUUzJTgxJUFFJUU1JUE0JTk2JUUzJTgxJUFFJTIwS3ViZXJuZXRlcyUyMCVFMyU4MSU4QiVFMyU4MiU4OSUyMFByaXZhdGUlMjBFQ1IlMjAlRTMlODElQUUlRTMlODIlQTQlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjglRTMlODIlOTIlRTUlOEYlOTYlRTUlQkUlOTclRTM...",
+            "url": "https://techfeed.io/channels/Kubernetes/selections/daily/2024/10/17",
+            "title": "【10月17日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか7本 | TechFeedおすすめ記事ランキング - Kubernetesチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-16T20:00:10.581Z",
+            "date_published": "2024-10-16T20:00:10.581Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月17日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか7本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Kubernetesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Kubernetes",
+                "blogLinkMd5Hash": "8cb2f069cd13cac573632afda70e8b8d"
+            }
+        },
+        {
+            "id": "https://creators-note.chatwork.com/entry/2024/10/16/100000",
+            "content_html": "なかなか時間がとれなくてゼルダの伝説 知恵のかりものが一向に進まずに娘にどんどん置いていかれている cw-furuya です。 先日10/12（土）のJAWS Festa 2024 in 広島の参加レポートです。",
+            "url": "https://creators-note.chatwork.com/entry/2024/10/16/100000",
+            "title": "JAWS Festa 2024 in 広島に参加しました | kubell Creator's Note",
+            "summary": "なかなか時間がとれなくてゼルダの伝説 知恵のかりものが一向に進まずに娘にどんどん置いていかれている cw-furuya です。 先日10/12（土）のJAWS Festa 2024 in 広島の参加レポートです。",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/8599973812290600603/6802418398296305567/1729040401"
+            },
+            "date_modified": "2024-10-16T01:00:00.000Z",
+            "date_published": "2024-10-16T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JAWS Festa 2024 in 広島に参加しました",
+                "blogTitle": "kubell Creator's Note",
+                "blogLink": "https://creators-note.chatwork.com/",
+                "blogLinkMd5Hash": "983b4ebe224148a15fcfd7be1924b940"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/16",
+            "content_html": "<img src=\"https://www.publickey1.jp/2024/aws-console-to-code-ga01.png\"><br>Amazon Web Servicesチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事1本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース（www.publickey1.jp）<br>2位: JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた（tech.nri-net.com）<br>3位: 【資格】非ITの事業会社エンジニアがAWS認定資格を取る意味（qiita.com）<br>…ほか8本<br><a href=\"https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/16?from=rss\" target=\"_blank\">ランキングはこち...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/16",
+            "title": "【10月16日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか10本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://www.publickey1.jp/2024/aws-console-to-code-ga01.png\"><br>Amazon Web Servicesチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事1本）。<br>1位: AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-C...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2024%2Faws-console-to-code-ga01.png"
+            },
+            "date_modified": "2024-10-15T20:00:10.950Z",
+            "date_published": "2024-10-15T20:00:10.950Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月16日ランキング】AWS、コンソールの操作をコードに変換してくれる「AWS Console-to-Code」正式リリース／ほか10本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Containers/selections/daily/2024/10/16",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwJUUzJTgxJUFFJUU1JUE0JTk2JUUzJTgxJUFFJTIwS3ViZXJuZXRlcyUyMCVFMyU4MSU4QiVFMyU4MiU4OSUyMFByaXZhdGUlMjBFQ1IlMjAlRTMlODElQUUlRTMlODIlQTQlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjglRTMlODIlOTIlRTUlOEYlOTYlRTUlQkUlOTclRTM...",
+            "url": "https://techfeed.io/channels/Containers/selections/daily/2024/10/16",
+            "title": "【10月16日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか9本 | TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-15T20:00:10.950Z",
+            "date_published": "2024-10-15T20:00:10.950Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月16日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか9本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - コンテナ技術チャンネル",
+                "blogLink": "http://techfeed.io/channels/Containers",
+                "blogLinkMd5Hash": "aaa5794555c616591c7432f0bcf415e4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Kubernetes/selections/daily/2024/10/16",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwJUUzJTgxJUFFJUU1JUE0JTk2JUUzJTgxJUFFJTIwS3ViZXJuZXRlcyUyMCVFMyU4MSU4QiVFMyU4MiU4OSUyMFByaXZhdGUlMjBFQ1IlMjAlRTMlODElQUUlRTMlODIlQTQlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjglRTMlODIlOTIlRTUlOEYlOTYlRTUlQkUlOTclRTM...",
+            "url": "https://techfeed.io/channels/Kubernetes/selections/daily/2024/10/16",
+            "title": "【10月16日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか4本 | TechFeedおすすめ記事ランキング - Kubernetesチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-15T20:00:10.950Z",
+            "date_published": "2024-10-15T20:00:10.950Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月16日ランキング】AWS の外の Kubernetes から Private ECR のイメージを取得する／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Kubernetesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Kubernetes",
+                "blogLinkMd5Hash": "8cb2f069cd13cac573632afda70e8b8d"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Software%20Design/selections/daily/2024/10/16",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs2_ono%2F20241015%2F20241015135601.jpg\"><br>ソフトウェアデザインチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事2本）。<br>1位: JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた（tech.nri-net.com）<br>2位: クリーンアーキテクチャとオニオンアーキテクチャの違い（qiita.com）<br>1位: Microservices Testing: Feature Flags vs. ...",
+            "url": "https://techfeed.io/channels/Software%20Design/selections/daily/2024/10/16",
+            "title": "【10月16日ランキング】JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた／ほか3本 | TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs2_ono%2F20241015%2F20241015135601.jpg"
+            },
+            "date_modified": "2024-10-15T20:00:10.950Z",
+            "date_published": "2024-10-15T20:00:10.950Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月16日ランキング】JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた／ほか3本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル",
+                "blogLink": "http://techfeed.io/channels/Software%20Design",
+                "blogLinkMd5Hash": "1bd86a4011ae179e7db6778cf487d041"
+            }
+        },
+        {
+            "id": "https://tech.enechange.co.jp/entry/2024/10/15/235502",
+            "content_html": "日本にはAWS Community Builderが足りていないので、目指すなら今がお勧めです。 AWS Community Builderに選ばれると、AWSのクレジットやグッズがもらえたり、新サービスや新機能の情報が早く得られたりするなど、さまざまなメリットがあります。 背景 筆者の岩本は、10月12日に開催されたJAWS FESTA 2024 in 広島に参加しました。日本のAWSユーザーグループ (JAWS-UG) が主催した、全国規模の交流イベントです。 そのイベントで「日本にはAWS Community Builderが足りていない」ことを知りました。AWSの沼口さんのセッションで…",
+            "url": "https://tech.enechange.co.jp/entry/2024/10/15/235502",
+            "title": "日本にはAWS Community Builderが足りていない | ENECHANGE Developer Blog",
+            "summary": "日本にはAWS Community Builderが足りていないので、目指すなら今がお勧めです。 AWS Community Builderに選ばれると、AWSのクレジットやグッズがもらえたり、新サービスや新機能の情報が早く得られたりするなど、さまざまなメリットがあります。 背景 筆者の岩本は、10月12日に開催されたJAWS FESTA 2024 in 広島に参加しました。日本のAWSユーザーグ...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/13b1736745c47ee88110663ccb103af5e2c2a808/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdev-enechange%2F20241015%2F20241015235503.jpg"
+            },
+            "date_modified": "2024-10-15T14:55:02.000Z",
+            "date_published": "2024-10-15T14:55:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "日本にはAWS Community Builderが足りていない",
+                "blogTitle": "ENECHANGE Developer Blog",
+                "blogLink": "https://tech.enechange.co.jp/",
+                "blogLinkMd5Hash": "0fd38d3615fca223bf4e302aa6f6bc4d"
+            }
+        },
+        {
+            "id": "https://tech.mobilefactory.jp/entry/2024/10/15/160000",
+            "content_html": "駅メモ！開発基盤チームです。 今回はサービスで利用している Amazon Aurora MySQL を v2 から v3 へ移行したときのことを書きます。 概要 駅メモ！をはじめとする弊社のサービスでは、データストアとして Amazon Aurora MySQL(以降 Aurora MySQL) を利用しています。すでにアナウンスされている通り、Aurora MySQL v2 は 2024 年 10 月 31 日に 標準サポート終了を迎えるため、Aurora MySQL v3 への移行が重要な課題になっていました。これに対し、駅メモ！開発基盤チームでは綿密な計画を立て、今年の初め頃に無事に移行…",
+            "url": "https://tech.mobilefactory.jp/entry/2024/10/15/160000",
+            "title": "復旧用クラスターとB/GデプロイでAmazon Aurora MySQL v2をv3へ安全に移行しました | Mobile Factory Tech Blog",
+            "summary": "駅メモ！開発基盤チームです。 今回はサービスで利用している Amazon Aurora MySQL を v2 から v3 へ移行したときのことを書きます。 概要 駅メモ！をはじめとする弊社のサービスでは、データストアとして Amazon Aurora MySQL(以降 Aurora MySQL) を利用しています。すでにアナウンスされている通り、Aurora MySQL v2 は 2024 年 1...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/7da68fde494d1a2092fb5c6656a154f84aa6e412/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmobile-factory%2F20241015%2F20241015160001.png"
+            },
+            "date_modified": "2024-10-15T07:00:00.000Z",
+            "date_published": "2024-10-15T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "復旧用クラスターとB/GデプロイでAmazon Aurora MySQL v2をv3へ安全に移行しました",
+                "blogTitle": "Mobile Factory Tech Blog",
+                "blogLink": "https://tech.mobilefactory.jp/",
+                "blogLinkMd5Hash": "022d075db57627e2f428314f7b8fbe4d"
+            }
+        },
+        {
+            "id": "https://tech.nri-net.com/entry/jaws_festa_2024_in_hiroshima",
+            "content_html": "こんにちは、佐々木です。 2024年10月12日に広島で開催されたJAWS FESTAに登壇してきました。 テーマはアーキテクチャ設計の考え方ということで、自分がAWSのサービスを選定する際にどういう事を考えていたのか、またサービス特性を把握するためにどういうことをしていたのかを話しました。 発表資料 当日の発表資料です。 よくよく考えたら、一人でTeamsかZoomで立ち上げて話した内容を録音しておけばよかったですね。 speakerdeck.com お伝えしたかった事 資料のみでは伝わりづらいかと思いますが、全体的な流れとしては次のようになっています。 構築対象の構成要素に分解する それぞ…",
+            "url": "https://tech.nri-net.com/entry/jaws_festa_2024_in_hiroshima",
+            "title": "JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた | Technology - NRIネットコムBlog",
+            "summary": "こんにちは、佐々木です。 2024年10月12日に広島で開催されたJAWS FESTAに登壇してきました。 テーマはアーキテクチャ設計の考え方ということで、自分がAWSのサービスを選定する際にどういう事を考えていたのか、またサービス特性を把握するためにどういうことをしていたのかを話しました。 発表資料 当日の発表資料です。 よくよく考えたら、一人でTeamsかZoomで立ち上げて話した内容を録音し...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs2_ono%2F20241015%2F20241015135601.jpg"
+            },
+            "date_modified": "2024-10-15T04:50:42.000Z",
+            "date_published": "2024-10-15T04:50:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた",
+                "blogTitle": "Technology - NRIネットコムBlog",
+                "blogLink": "https://tech.nri-net.com/archive/category/Technology",
+                "blogLinkMd5Hash": "d73827429f2105c820f95ec41c90d4c8"
+            }
+        },
+        {
+            "id": "https://creators.oisixradaichi.co.jp/entry/2024/10/15/112316",
+            "content_html": "はじめに FEモダナイゼーションチームのユウです。 8月6日、8月7日に開催された2日間の「AWS JumpStart 2024」に参加してきました。この記事は、その参加レポートです。 AWS jumpStart2024とは？ AWS JumpStartは、新卒を含むAWS初学者のエンジニアを対象とした、クラウドネイティブなテックリード人材を育成するための実践的な研修プログラムです。事前学習用動画と2日間の集中的なワークショップを通して、自走できる状態までシステムアーキテクチャ設計やAWSの実践的な知識を獲得できる場として知られています。 AWS JumpStartの対象者 AWSについて聞い…",
+            "url": "https://creators.oisixradaichi.co.jp/entry/2024/10/15/112316",
+            "title": "AWS初心者向け実践研修ワークショップ　AWS jumpStart 2024参加レポート | Oisix ra daichi Creator's Blog（オイシックス・ラ・大地クリエイターズブログ）",
+            "summary": "はじめに FEモダナイゼーションチームのユウです。 8月6日、8月7日に開催された2日間の「AWS JumpStart 2024」に参加してきました。この記事は、その参加レポートです。 AWS jumpStart2024とは？ AWS JumpStartは、新卒を含むAWS初学者のエンジニアを対象とした、クラウドネイティブなテックリード人材を育成するための実践的な研修プログラムです。事前学習用動画...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/58429d80a73ec41f645b0203375a76d2210aeb73/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foitech%2F20241008%2F20241008105237.png"
+            },
+            "date_modified": "2024-10-15T02:23:16.000Z",
+            "date_published": "2024-10-15T02:23:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AWS初心者向け実践研修ワークショップ　AWS jumpStart 2024参加レポート",
+                "blogTitle": "Oisix ra daichi Creator's Blog（オイシックス・ラ・大地クリエイターズブログ）",
+                "blogLink": "https://creators.oisixradaichi.co.jp/",
+                "blogLinkMd5Hash": "58827aa174a2a9f01fa2ec0524f5850a"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/15",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JTVCQUklRTMlODElQUIlRTglODElOUUlRTMlODElODQlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYlNUQlMjAlRTMlODIlQjUlRTMlODMlQkMlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQUMlRTMlODIlQjklRTMlODElQTMlRTMlODElQTYlRTMlODElQUElRTMlODIlOTMlRTMlODI...",
+            "url": "https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2024/10/15",
+            "title": "【10月15日ランキング】[AIに聞いてみた] サーバーレスってなんや [AWS Lambda]／ほか10本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-14T20:00:11.187Z",
+            "date_published": "2024-10-14T20:00:11.187Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月15日ランキング】[AIに聞いてみた] サーバーレスってなんや [AWS Lambda]／ほか10本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル",
+                "blogLink": "http://techfeed.io/channels/Amazon%20Web%20Services",
+                "blogLinkMd5Hash": "cc9d1ee30c3967e79796de08d524efe0"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/15",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TmV3JTIwUmVsaWMlRTMlODElQUIlRTMlODIlODglRTMlODIlOEJBV1MlRTMlODElQUUlRTclOUIlQTMlRTglQTYlOTYlRTMlODIlOTJUZXJyYWZvcm0lRTMlODElQTclRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlMjglRTclQUMlQUMzJUU1JTlCJTl...",
+            "url": "https://techfeed.io/channels/DevOps/selections/daily/2024/10/15",
+            "title": "【10月15日ランキング】New RelicによるAWSの監視をTerraformで自動化する(第3回: ダッシュボード)／ほか4本 | TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png"
+            },
+            "date_modified": "2024-10-14T20:00:11.187Z",
+            "date_published": "2024-10-14T20:00:11.187Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月15日ランキング】New RelicによるAWSの監視をTerraformで自動化する(第3回: ダッシュボード)／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - DevOpsチャンネル",
+                "blogLink": "http://techfeed.io/channels/DevOps",
+                "blogLinkMd5Hash": "6945279e98bfaf926df38719d624b6d1"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Software%20Design/selections/daily/2024/10/15",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs2_ono%2F20241015%2F20241015135601.jpg\"><br>ソフトウェアデザインチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事1本）。<br>1位: JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた（tech.nri-net.com）<br>2位: TypeScriptでクラスを使ったオブジェクト指向プログラミング（pythonjp.ikitai.net）<br>1位: Microservices Testing: F...",
+            "url": "https://techfeed.io/channels/Software%20Design/selections/daily/2024/10/15",
+            "title": "【10月15日ランキング】JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた／ほか2本 | TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffoto...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/25529420afeab0909e0885275c34fe5a3eb32434/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs2_ono%2F20241015%2F20241015135601.jpg"
+            },
+            "date_modified": "2024-10-14T20:00:11.187Z",
+            "date_published": "2024-10-14T20:00:11.187Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【10月15日ランキング】JAWS FESTA 2024 in 広島で、データ分析基盤とS3を例にアーキテクチャ設計の検討過程について話してきた／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - ソフトウェアデザインチャンネル",
+                "blogLink": "http://techfeed.io/channels/Software%20Design",
+                "blogLinkMd5Hash": "1bd86a4011ae179e7db6778cf487d041"
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2024/10/11/163931",
+            "content_html": "AWSの東京リージョンでFargate Spotを「中断されたら困る」割合で利用している場合、2024年10月は見直し時かも知れません。 はてながECS Fargateで運用しているWebサービスの多くは、状況に応じてリクエスト数≒負荷が増減します。 これに対して、リクエストを受け持つECSサービスのタスク数をオートスケールさせてコスト最適化を図っています。 ボトルネックはCPUで、CPU使用率を追跡していることが多いでしょうか。 オートスケールで追跡する使用率にはスケールアウトまでの間の負荷に耐えるための余裕を持たせます。 この余裕の部分をSpotタスクで確保することで更にコストを削減できま…",
+            "url": "https://developer.hatenastaff.com/entry/2024/10/11/163931",
+            "title": "「攻めた」AWS Fargate Spot比率の見直し時 | Hatena Developer Blog",
+            "summary": "AWSの東京リージョンでFargate Spotを「中断されたら困る」割合で利用している場合、2024年10月は見直し時かも知れません。 はてながECS Fargateで運用しているWebサービスの多くは、状況に応じてリクエスト数≒負荷が増減します。 これに対して、リクエストを受け持つECSサービスのタスク数をオートスケールさせてコスト最適化を図っています。 ボトルネックはCPUで、CPU使用率を...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/12704346814673975483/6802340630911479171/1728633136"
+            },
+            "date_modified": "2024-10-11T07:39:31.000Z",
+            "date_published": "2024-10-11T07:39:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 28,
+                "originalTitle": "「攻めた」AWS Fargate Spot比率の見直し時",
+                "blogTitle": "Hatena Developer Blog",
+                "blogLink": "https://developer.hatenastaff.com/",
+                "blogLinkMd5Hash": "82438b7efb4fd1a27bf1f1d57489dd2b"
+            }
+        }
+    ]
+}

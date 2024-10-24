@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Thu, 24 Oct 2024 23:23:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[データエンジニア向けSnowflakeプライバシー保護機能まとめと実践① | Zennのトレンド]]></title>
+            <link>https://zenn.dev/taro_cccmkhd/articles/8c1a3ebcc9464a</link>
+            <guid>https://zenn.dev/taro_cccmkhd/articles/8c1a3ebcc9464a</guid>
+            <pubDate>Thu, 24 Oct 2024 03:15:34 GMT</pubDate>
+            <description><![CDATA[はじめに データが企業の重要な資産として活用される現代、顧客や従業員の個人情報を適切に保護することは、コンプライアンスの遵守や信頼性の向上に不可欠です。一方で、データの活用とプライバシー保護のバランスを取ることは、多くの企業にとって難しい課題となっています。Snowflakeは、こうした課題に対応するため、柔軟なデータ管理と高度なプライバシー機能を両立するプラットフォームを提供しています。 本記事...]]></description>
+            <content:encoded><![CDATA[はじめに データが企業の重要な資産として活用される現代、顧客や従業員の個人情報を適切に保護することは、コンプライアンスの遵守や信頼性の向上に不可欠です。一方で、データの活用とプライバシー保護のバランスを取ることは、多くの企業にとって難しい課題となっています。Snowflakeは、こうした課題に対応するため、柔軟なデータ管理と高度なプライバシー機能を両立するプラットフォームを提供しています。 本記事では私自身がsnowflakeの各プライバシー保護機能について学んだ内容に私なりの解釈も含めて、体系的にまとめたものとなります。 実際の実装においてはより詳細で複雑な実装となることが多いと思...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--vmJkqKgz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E5%2590%2591%25E3%2581%2591Snowflake%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2590%25E3%2582%25B7%25E3%2583%25BC%25E4%25BF%259D%25E8%25AD%25B7%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A8%25E5%25AE%259F%25E8%25B7%25B5%25E2%2591%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taro_CCCMK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAzOGRkZjdkNTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake Ventures Invests in Eppo to Bring Experimentation to the AI Data Cloud | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ventures-invests-in-eppo-to-bring-experimentation-to-ai-data-cloud</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ventures-invests-in-eppo-to-bring-experimentation-to-ai-data-cloud</guid>
+            <pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+            <description><![CDATA[We’re investing in Eppo, a next-gen experimentation platform. With Eppo’s end-to-end A/B testing integrated directly into the Snowflake AI Data Cloud, businesses can now run experiments on AI-powered ...]]></description>
+            <content:encoded><![CDATA[We’re investing in Eppo, a next-gen experimentation platform. With Eppo’s end-to-end A/B testing integrated directly into the Snowflake AI Data Cloud, businesses can now run experiments on AI-powered features and product growth with the same data used for business reporting. This partnership will help teams tie product development efforts to real business metrics and build a data-driven experimentation culture.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Snowflake%20Ventures%20%20%20Eppo%20Blog%20Thumbnail_Stacked.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake and Adobe Deepen Partnership to Elevate Customer Experience | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-adobe-partnership-customer-experience</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-adobe-partnership-customer-experience</guid>
+            <pubDate>Mon, 21 Oct 2024 15:51:07 GMT</pubDate>
+            <description><![CDATA[Snowflake and Adobe's expanded partnership enables companies to deliver personalized campaigns by seamlessly integrating data and enhancing marketing strategies]]></description>
+            <content:encoded><![CDATA[Snowflake and Adobe's expanded partnership enables companies to deliver personalized campaigns by seamlessly integrating data and enhancing marketing strategies]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Blog_AEM_1680x720_Partners_adobe-snowflake.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govern an Open Lakehouse with Snowflake Open Catalog | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog</guid>
+            <pubDate>Fri, 18 Oct 2024 18:09:27 GMT</pubDate>
+            <description><![CDATA[Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.]]></description>
+            <content:encoded><![CDATA[Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Polaris-Catalog-BLOG-symmetrical-subhead.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ Container Runtime: GPU Training & Inference with Snowflake Notebooks | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference</guid>
+            <pubDate>Fri, 18 Oct 2024 03:11:00 GMT</pubDate>
+            <description><![CDATA[Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.]]></description>
+            <content:encoded><![CDATA[Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/SF_GA_Notebooks_2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake Migration Success Stories: Core Digital Media and NAVEX | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex</guid>
+            <pubDate>Wed, 16 Oct 2024 17:32:06 GMT</pubDate>
+            <description><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></description>
+            <content:encoded><![CDATA[Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Migration-Customer-Success-1-BlogHeader-1680x720.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflakeのデータガバナンス機能：投影ポリシー | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/snowflake/20241011/60652/</link>
+            <guid>https://blog.truestar.co.jp/?p=60652</guid>
+            <pubDate>Fri, 11 Oct 2024 03:00:43 GMT</pubDate>
+            <description><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></description>
+            <content:encoded><![CDATA[こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Snowflake</category>
+            <category>snowflake</category>
+        </item>
+    </channel>
+</rss>

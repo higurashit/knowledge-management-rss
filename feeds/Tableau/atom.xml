@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2024-10-24T23:23:24.429Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+</feed>

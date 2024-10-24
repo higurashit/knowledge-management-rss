@@ -1,0 +1,177 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/taro_cccmkhd/articles/8c1a3ebcc9464a",
+            "content_html": "はじめに データが企業の重要な資産として活用される現代、顧客や従業員の個人情報を適切に保護することは、コンプライアンスの遵守や信頼性の向上に不可欠です。一方で、データの活用とプライバシー保護のバランスを取ることは、多くの企業にとって難しい課題となっています。Snowflakeは、こうした課題に対応するため、柔軟なデータ管理と高度なプライバシー機能を両立するプラットフォームを提供しています。 本記事では私自身がsnowflakeの各プライバシー保護機能について学んだ内容に私なりの解釈も含めて、体系的にまとめたものとなります。 実際の実装においてはより詳細で複雑な実装となることが多いと思...",
+            "url": "https://zenn.dev/taro_cccmkhd/articles/8c1a3ebcc9464a",
+            "title": "データエンジニア向けSnowflakeプライバシー保護機能まとめと実践① | Zennのトレンド",
+            "summary": "はじめに データが企業の重要な資産として活用される現代、顧客や従業員の個人情報を適切に保護することは、コンプライアンスの遵守や信頼性の向上に不可欠です。一方で、データの活用とプライバシー保護のバランスを取ることは、多くの企業にとって難しい課題となっています。Snowflakeは、こうした課題に対応するため、柔軟なデータ管理と高度なプライバシー機能を両立するプラットフォームを提供しています。 本記事...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vmJkqKgz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E5%2590%2591%25E3%2581%2591Snowflake%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2590%25E3%2582%25B7%25E3%2583%25BC%25E4%25BF%259D%25E8%25AD%25B7%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A8%25E5%25AE%259F%25E8%25B7%25B5%25E2%2591%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taro_CCCMK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAzOGRkZjdkNTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-24T03:15:34.000Z",
+            "date_published": "2024-10-24T03:15:34.000Z",
+            "author": {
+                "name": "Taro_CCCMK"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "データエンジニア向けSnowflakeプライバシー保護機能まとめと実践①",
+                "blogTitle": "Zennのトレンド",
+                "blogLink": "https://zenn.dev",
+                "blogLinkMd5Hash": "5487f5d77fd56a69fe2a1652ad851ab3"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ventures-invests-in-eppo-to-bring-experimentation-to-ai-data-cloud",
+            "content_html": "We’re investing in Eppo, a next-gen experimentation platform. With Eppo’s end-to-end A/B testing integrated directly into the Snowflake AI Data Cloud, businesses can now run experiments on AI-powered features and product growth with the same data used for business reporting. This partnership will help teams tie product development efforts to real business metrics and build a data-driven experimentation culture.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-ventures-invests-in-eppo-to-bring-experimentation-to-ai-data-cloud",
+            "title": "Snowflake Ventures Invests in Eppo to Bring Experimentation to the AI Data Cloud | ",
+            "summary": "We’re investing in Eppo, a next-gen experimentation platform. With Eppo’s end-to-end A/B testing integrated directly into the Snowflake AI Data Cloud, businesses can now run experiments on AI-powered ...",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Snowflake%20Ventures%20%20%20Eppo%20Blog%20Thumbnail_Stacked.png"
+            },
+            "date_modified": "2024-10-22T16:00:00.000Z",
+            "date_published": "2024-10-22T16:00:00.000Z",
+            "author": {
+                "name": "Patrick Crosby, Harsha Kapre"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake Ventures Invests in Eppo to Bring Experimentation to the AI Data Cloud",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-adobe-partnership-customer-experience",
+            "content_html": "Snowflake and Adobe's expanded partnership enables companies to deliver personalized campaigns by seamlessly integrating data and enhancing marketing strategies",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-adobe-partnership-customer-experience",
+            "title": "Snowflake and Adobe Deepen Partnership to Elevate Customer Experience | ",
+            "summary": "Snowflake and Adobe's expanded partnership enables companies to deliver personalized campaigns by seamlessly integrating data and enhancing marketing strategies",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Blog_AEM_1680x720_Partners_adobe-snowflake.jpg"
+            },
+            "date_modified": "2024-10-21T15:51:07.000Z",
+            "date_published": "2024-10-21T15:51:07.000Z",
+            "author": {
+                "name": "Saptarshi (Sap) Mukherjee"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake and Adobe Deepen Partnership to Elevate Customer Experience",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog",
+            "content_html": "Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/govern-open-lakehouse-snowflake-open-catalog",
+            "title": "Govern an Open Lakehouse with Snowflake Open Catalog | ",
+            "summary": "Snowflake Open Catalog, a managed service for Apache Polaris (incubating), enables secure interoperability for data lakes and lakehouses, simplifying data governance.",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Polaris-Catalog-BLOG-symmetrical-subhead.png"
+            },
+            "date_modified": "2024-10-18T18:09:27.000Z",
+            "date_published": "2024-10-18T18:09:27.000Z",
+            "author": {
+                "name": "Scott Teal, Martin Lee, Saurin Shah"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Govern an Open Lakehouse with Snowflake Open Catalog",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference",
+            "content_html": "Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/container-runtime-GPU-training-inference",
+            "title": " Container Runtime: GPU Training & Inference with Snowflake Notebooks | ",
+            "summary": "Container Runtime for Snowflake Notebooks, available in public preview across AWS regions, comes pre-configured with popular Python libraries and frameworks.",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/SF_GA_Notebooks_2.png"
+            },
+            "date_modified": "2024-10-18T03:11:00.000Z",
+            "date_published": "2024-10-18T03:11:00.000Z",
+            "author": {
+                "name": "Vinay Sridhar, Jeffrey Geevarghese"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": " Container Runtime: GPU Training & Inference with Snowflake Notebooks",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex",
+            "content_html": "Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migration-success-stories-core-digital-navex",
+            "title": "Snowflake Migration Success Stories: Core Digital Media and NAVEX | ",
+            "summary": "Discover how customers successfully migrated from legacy systems to Snowflake, improving performance, scalability and reducing costs through the AI Data Cloud.",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2024/10/Migration-Customer-Success-1-BlogHeader-1680x720.jpg"
+            },
+            "date_modified": "2024-10-16T17:32:06.000Z",
+            "date_published": "2024-10-16T17:32:06.000Z",
+            "author": {
+                "name": "Josh Klahr"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake Migration Success Stories: Core Digital Media and NAVEX",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://blog.truestar.co.jp/?p=60652",
+            "content_html": "こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.",
+            "url": "https://blog.truestar.co.jp/snowflake/20241011/60652/",
+            "title": "Snowflakeのデータガバナンス機能：投影ポリシー | Tableau-id Press -タブロイド-",
+            "summary": "こんにちは！Bucciです。 半年くらい前に集約ポリシーに関する記事を書いた際、 投影ポリシーについても紹介します、と言っておきながら、すっかり（しっかり）忘れておりました。 リリースから日が空いてしまいましたが、本記事... Snowflakeのデータガバナンス機能：投影ポリシー first appeared on Tableau-id Press -タブロイド-.",
+            "date_modified": "2024-10-11T03:00:43.000Z",
+            "date_published": "2024-10-11T03:00:43.000Z",
+            "author": {
+                "name": "Bucci"
+            },
+            "tags": [
+                "Snowflake",
+                "snowflake"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflakeのデータガバナンス機能：投影ポリシー",
+                "blogTitle": "Tableau-id Press -タブロイド-",
+                "blogLink": "https://blog.truestar.co.jp",
+                "blogLinkMd5Hash": "34778be0f27832982c7e92447a855a95"
+            }
+        }
+    ]
+}

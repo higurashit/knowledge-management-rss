@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2024-10-24T23:23:34.189Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[【10月25日ランキング】お客様フィードバックをAzureとNotionで構造化：カスタマーサクセスに寄り添うQAの取り組み／ほか3本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/25</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/25"/>
+        <updated>2024-10-24T20:00:10.768Z</updated>
+        <summary type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132608666252/6802418398296211906/1729735200"><br>Microsoft Azureチャンネル 2024年10月25日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: お客様フィードバックをAzureとNo...]]></summary>
+        <content type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132608666252/6802418398296211906/1729735200"><br>Microsoft Azureチャンネル 2024年10月25日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事3本）。<br>1位: お客様フィードバックをAzureとNotionで構造化：カスタマーサクセスに寄り添うQAの取り組み（buildersbox.corp-sansan.com）<br>1位: A cloud services cheat sheet for AWS, Azure and Google Cloud（www.techtarget.com）<br>2位: AWS, Azure auth keys found in Android and iOS apps used by millions（www.bleepingcomputer.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/M...]]></content>
+        <published>2024-10-24T20:00:10.768Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure Document intelligence】事前構築済みモデルで遊んでみる | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/8e16a305468e2d</id>
+        <link href="https://zenn.dev/headwaters/articles/8e16a305468e2d"/>
+        <updated>2024-10-24T09:00:06.000Z</updated>
+        <summary type="html"><![CDATA[執筆日 2024/10/24   前提  Azure Document intelligenceのS0をデプロイ済みであること    code(名刺の読み取り)  main.py from azure.ai.formrecognizer import DocumentAnalysisClient from azure.core.credentials import AzureKeyCredenti...]]></summary>
+        <content type="html"><![CDATA[執筆日 2024/10/24   前提  Azure Document intelligenceのS0をデプロイ済みであること    code(名刺の読み取り)  main.py from azure.ai.formrecognizer import DocumentAnalysisClient from azure.core.credentials import AzureKeyCredential # AzureリソースのエンドポイントとAPIキーを設定 endpoint = "https://<your-resource-name>.cogniti...]]></content>
+        <author>
+            <name>takekawa tomoki</name>
+        </author>
+        <published>2024-10-24T09:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お客様フィードバックをAzureとNotionで構造化：カスタマーサクセスに寄り添うQAの取り組み | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2024/10/24/110000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2024/10/24/110000"/>
+        <updated>2024-10-24T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[序章: カスタマーサクセスに寄り添うためのQAの役割 こんにちは。QA部門でEightとContract Oneの品質マネジャーを務めている三好秀治です。本稿では、Slack・Azure Logic Apps・Azure OpenAI Service・Notionを活用したお客様フィードバックの管理効率化と、カスタマーサクセスに寄り添う取り組みについてご紹介します。カスタマーサクセスの向上には、お...]]></summary>
+        <content type="html"><![CDATA[序章: カスタマーサクセスに寄り添うためのQAの役割 こんにちは。QA部門でEightとContract Oneの品質マネジャーを務めている三好秀治です。本稿では、Slack・Azure Logic Apps・Azure OpenAI Service・Notionを活用したお客様フィードバックの管理効率化と、カスタマーサクセスに寄り添う取り組みについてご紹介します。カスタマーサクセスの向上には、お客様のフィードバックが不可欠です。これはプロダクト改善や顧客満足度向上に直結するからです。私たちは、フィードバックの自動分類や可視化を通じて迅速な対応を実現します。本記事では、この仕組みの構築方法を具…]]></content>
+        <published>2024-10-24T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月24日ランキング】A cloud services cheat sheet for AWS, Azure and Google Cloud／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/24</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/24"/>
+        <updated>2024-10-23T20:00:10.527Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.techtarget.com/rms/onlineimages/cloud_g1251263502.jpg"><br>Microsoft Azureチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: A cloud services cheat sheet for AWS, Azure and ...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.techtarget.com/rms/onlineimages/cloud_g1251263502.jpg"><br>Microsoft Azureチャンネル 2024年10月24日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: A cloud services cheat sheet for AWS, Azure and Google Cloud（www.techtarget.com）<br>2位: AWS, Azure auth keys found in Android and iOS apps used by millions（www.bleepingcomputer.com）<br>3位: Soccer Analytics Copilot with Azure SQL and OpenAI（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/...]]></content>
+        <published>2024-10-23T20:00:10.527Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure Document intelligence】カスタムモデルについて | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/cd0174bbe85b53</id>
+        <link href="https://zenn.dev/headwaters/articles/cd0174bbe85b53"/>
+        <updated>2024-10-23T09:50:56.000Z</updated>
+        <summary type="html"><![CDATA[執筆日 2024/10/23 ※検証してわかったことは追記していきます。   やること Azure Document intelligenceには、「事前構築済みモデル」「カスタムモデル」があります。 カスタムモデルって何ができるの？料金は？作成手順は？..わからないことがいっぱいあるので、この記事にまとめます。   カスタムモデルとは？ ユーザーが特定のドキュメント形式に合わせて独自のモデルをト...]]></summary>
+        <content type="html"><![CDATA[執筆日 2024/10/23 ※検証してわかったことは追記していきます。   やること Azure Document intelligenceには、「事前構築済みモデル」「カスタムモデル」があります。 カスタムモデルって何ができるの？料金は？作成手順は？..わからないことがいっぱいあるので、この記事にまとめます。   カスタムモデルとは？ ユーザーが特定のドキュメント形式に合わせて独自のモデルをトレーニングし、カスタマイズした情報抽出を行うための機能です。  https://learn.microsoft.com/en-us/azure/ai-services/document-in...]]></content>
+        <author>
+            <name>takekawa tomoki</name>
+        </author>
+        <published>2024-10-23T09:50:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月23日ランキング】AWS, Azure auth keys found in Android and iOS apps used by millions／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23"/>
+        <updated>2024-10-22T20:00:10.856Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2023/09/04/cloud-servers.jpg"><br>Microsoft Azureチャンネル 2024年10月23日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: AWS, Azure auth keys found in Android a...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2023/09/04/cloud-servers.jpg"><br>Microsoft Azureチャンネル 2024年10月23日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: AWS, Azure auth keys found in Android and iOS apps used by millions（www.bleepingcomputer.com）<br>2位: Soccer Analytics Copilot with Azure SQL and OpenAI（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/23?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?typ...]]></content>
+        <published>2024-10-22T20:00:10.856Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Static Web AppsにClarityを導入する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/yamaday/articles/azure-static-web-apps-clarity</id>
+        <link href="https://zenn.dev/yamaday/articles/azure-static-web-apps-clarity"/>
+        <updated>2024-10-22T17:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Clarity とは Clarity は Microsoft が提供している Web サイト・モバイルアプリのヒートマップツールです。 Clarity を使うことで、Web サイト上のユーザーの操作を追跡し、ヒートマップの作成やセッションレコーディングなどの機能を利用できます。 https://clarity.microsoft.com/lang/ja-jp   Clarity のプロジェクトの作...]]></summary>
+        <content type="html"><![CDATA[Clarity とは Clarity は Microsoft が提供している Web サイト・モバイルアプリのヒートマップツールです。 Clarity を使うことで、Web サイト上のユーザーの操作を追跡し、ヒートマップの作成やセッションレコーディングなどの機能を利用できます。 https://clarity.microsoft.com/lang/ja-jp   Clarity のプロジェクトの作成 今回は、事前に Azure Static Web Apps のデプロイ済みの Web サイトを対象とします。  プロジェクト作成後に手動でインストールするの「追跡コードを取得する」を選択...]]></content>
+        <author>
+            <name>Yuki Yamada</name>
+        </author>
+        <published>2024-10-22T17:21:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドキュメントの落とし穴に嵌った話：Azure App ServiceでのManaged Identity認証 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/20d0c6c589e4f5</id>
+        <link href="https://zenn.dev/headwaters/articles/20d0c6c589e4f5"/>
+        <updated>2024-10-22T10:16:05.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、クラウド初心者の私がAzureを学び始めたときの体験について書いています。普段は公式ドキュメントを頼りに手探りで進めているのですが、今回は考えずにそのまま信じてしまった私のミスについてお話しします。   背景 そもそもの発端はApp Service上で稼働するコードが他のリソースへアクセスする際の認証としてManaged IDを初めてセットアップすることになったのですが、実際に実装を...]]></summary>
+        <content type="html"><![CDATA[この記事では、クラウド初心者の私がAzureを学び始めたときの体験について書いています。普段は公式ドキュメントを頼りに手探りで進めているのですが、今回は考えずにそのまま信じてしまった私のミスについてお話しします。   背景 そもそもの発端はApp Service上で稼働するコードが他のリソースへアクセスする際の認証としてManaged IDを初めてセットアップすることになったのですが、実際に実装を開始する前に手動で認証が通るか確認しようと思い、公式サイトを参考[1]にこんなコマンドを試しました： curl 'http://169.254.169.254/metadata/identity...]]></content>
+        <author>
+            <name>kzkt</name>
+        </author>
+        <published>2024-10-22T10:16:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bicepによる Event Grid トリガーとバインドした Event Subscription の作成 (Flex Consumption のAzure Functionsの利用) | SIOS Tech. Lab]]></title>
+        <id>https://tech-lab.sios.jp/?p=43826</id>
+        <link href="https://tech-lab.sios.jp/archives/43826"/>
+        <updated>2024-10-22T04:25:10.000Z</updated>
+        <summary type="html"><![CDATA[概要 こんにちは！サイオステクノロジーの安藤 浩です。 Bicep を利用して、Flex Consumption のAzure Functions で Event Grid トリガー とバインドした Event ... Bicepによる Event Grid トリガーとバインドした Event Subscription の作成 (Flex Consumption のAzure Functionsの...]]></summary>
+        <content type="html"><![CDATA[概要 こんにちは！サイオステクノロジーの安藤 浩です。 Bicep を利用して、Flex Consumption のAzure Functions で Event Grid トリガー とバインドした Event ... Bicepによる Event Grid トリガーとバインドした Event Subscription の作成 (Flex Consumption のAzure Functionsの利用) first appeared on SIOS Tech. Lab.]]></content>
+        <author>
+            <name>安藤浩</name>
+        </author>
+        <category label="Azure"/>
+        <category label="クラウド"/>
+        <category label="FlexConsumption"/>
+        <category label="Bicep"/>
+        <category label="GithubActions"/>
+        <category label="AzureFunctions"/>
+        <published>2024-10-22T04:25:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月22日ランキング】Microsoft's Arm-based Cobalt 100 CPU VMs go live in Azure | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/22</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/22"/>
+        <updated>2024-10-22T01:00:10.694Z</updated>
+        <summary type="html"><![CDATA[<img src="https://regmedia.co.uk/2024/10/21/supplied_microsoft_cobalt_100_arm_cpu.jpg"><br>Microsoft Azureチャンネル 2024年10月22日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Arm-based Cobalt 100 CPU V...]]></summary>
+        <content type="html"><![CDATA[<img src="https://regmedia.co.uk/2024/10/21/supplied_microsoft_cobalt_100_arm_cpu.jpg"><br>Microsoft Azureチャンネル 2024年10月22日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft's Arm-based Cobalt 100 CPU VMs go live in Azure（www.theregister.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/22?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure">]]></content>
+        <published>2024-10-22T01:00:10.694Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure OpenAI ServiceのRealtime Audioを使ってVoice to Voiceを実現 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/c4028cd8dffd01</id>
+        <link href="https://zenn.dev/headwaters/articles/c4028cd8dffd01"/>
+        <updated>2024-10-21T13:38:16.000Z</updated>
+        <summary type="html"><![CDATA[やること 10月にAzure OpenAI ServiceのGPT-4oモデルの一つであるRealtime Audioが発表されました。 現在JavaScriptとPythonとC#のサンプルコードが提供されています。 https://github.com/Azure-Samples/aoai-realtime-audio-sdk/tree/main/python/samples Pythonのサ...]]></summary>
+        <content type="html"><![CDATA[やること 10月にAzure OpenAI ServiceのGPT-4oモデルの一つであるRealtime Audioが発表されました。 現在JavaScriptとPythonとC#のサンプルコードが提供されています。 https://github.com/Azure-Samples/aoai-realtime-audio-sdk/tree/main/python/samples Pythonのサンプルコードはバックエンドでの動作確認としてしか使えないので、API化してクライアント側から叩けるようにします。 Voice to Voiceはモバイルアプリでの利用されることが多そうなので...]]></content>
+        <author>
+            <name>ikebowsan</name>
+        </author>
+        <published>2024-10-21T13:38:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure OpenAIでStructured Outputsを使用する際の注意点 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/sioois/articles/71a6a4bb07843b</id>
+        <link href="https://zenn.dev/sioois/articles/71a6a4bb07843b"/>
+        <updated>2024-10-21T10:06:53.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIには、Structured Outputs という便利な機能があります。これにより、生成されたテキストを構造化して返すことが可能です。OpenAIの公式リファレンスによると、対応しているモデルは以下の通りです。 https://platform.openai.com/docs/guides/structured-outputs/introduction  このため、zureのOpenA...]]></summary>
+        <content type="html"><![CDATA[OpenAIには、Structured Outputs という便利な機能があります。これにより、生成されたテキストを構造化して返すことが可能です。OpenAIの公式リファレンスによると、対応しているモデルは以下の通りです。 https://platform.openai.com/docs/guides/structured-outputs/introduction  このため、zureのOpenAIサービスで gpt-4o-mini-2024-07-18 モデルを使ってStructured Outputsを試してみたのですが、次のようなエラーメッセージが表示されました。 Invalid ...]]></content>
+        <author>
+            <name>おいっすさん</name>
+        </author>
+        <published>2024-10-21T10:06:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraformを本気で使う。Azureで【既存リソースのTF化編】 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/yotan/articles/4aaa62fd11abee</id>
+        <link href="https://zenn.dev/yotan/articles/4aaa62fd11abee"/>
+        <updated>2024-10-21T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回までの記事では主にTerraform Cloudの使い方について試用記を書きました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 https://zenn.dev/yotan/articles/f67037e76526e3 今回は既存のAzure上のリソースをエクスポートしてTFファイルを作成していきたいと思います。   Azure ...]]></summary>
+        <content type="html"><![CDATA[はじめに 前回までの記事では主にTerraform Cloudの使い方について試用記を書きました。 https://zenn.dev/yotan/articles/09ddfbf6db24d1 https://zenn.dev/yotan/articles/f67037e76526e3 今回は既存のAzure上のリソースをエクスポートしてTFファイルを作成していきたいと思います。   Azure Export for Terraform このツールですね。 https://github.com/Azure/aztfexport MS公式ドキュメントは以下です。 Azure Expor...]]></content>
+        <author>
+            <name>よたん</name>
+        </author>
+        <published>2024-10-21T06:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユーザー割り当てマネージドIDが設定されたApp ServiceでDefaultAzureCredentialを使用する際の注意 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/62ce9887a37b68</id>
+        <link href="https://zenn.dev/headwaters/articles/62ce9887a37b68"/>
+        <updated>2024-10-21T04:39:26.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Azureではリソースに対してマネージドIDという機能があり、この機能を使うことによってパスワードなどの資格情報をユーザーが使用することなくリソースへアクセスできるようになります。 https://learn.microsoft.com/ja-jp/entra/identity/managed-identities-azure-resources/overview 今回はマネージドIDの...]]></summary>
+        <content type="html"><![CDATA[はじめに Azureではリソースに対してマネージドIDという機能があり、この機能を使うことによってパスワードなどの資格情報をユーザーが使用することなくリソースへアクセスできるようになります。 https://learn.microsoft.com/ja-jp/entra/identity/managed-identities-azure-resources/overview 今回はマネージドIDの利用で直面した問題について、備忘録としてまとめておきます。   問題について   前提条件  App Service  カスタムコンテナー (Linux) 言語: Python  ユーザー割...]]></content>
+        <author>
+            <name>Shuichiro Sakata</name>
+        </author>
+        <published>2024-10-21T04:39:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AppService / Container AppsでManaged Identityを利用する | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2024/10/21/112300</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2024/10/21/112300"/>
+        <updated>2024-10-21T02:23:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ACS事業部亀崎です。 最近取り組んでいたBackstage RBAC Policy対応のため、Open Policy Agentのopa-serverをAzure Container Appsで利用するための設定をする機会がありました。 Backstage RBAC Policyの対応についてはぜひ以下の投稿をご覧ください。 techblog.ap-com.co.jp opa-ser...]]></summary>
+        <content type="html"><![CDATA[こんにちは。ACS事業部亀崎です。 最近取り組んでいたBackstage RBAC Policy対応のため、Open Policy Agentのopa-serverをAzure Container Appsで利用するための設定をする機会がありました。 Backstage RBAC Policyの対応についてはぜひ以下の投稿をご覧ください。 techblog.ap-com.co.jp opa-serverはPolicyという設定情報の置き場としてAzure Blob Storageを利用することができるのですが、アクセスの際の認証方法としてmanaged identityが利用できるように記載さ…]]></content>
+        <published>2024-10-21T02:23:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月21日ランキング】Microsoft creates fake Azure tenants to pull phishers into honeypots | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21"/>
+        <updated>2024-10-20T20:00:11.025Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"><br>Microsoft Azureチャンネル 2024年10月21日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft creates fake Azure tenants to pul...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"><br>Microsoft Azureチャンネル 2024年10月21日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Microsoft creates fake Azure tenants to pull phishers into honeypots（www.bleepingcomputer.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/21?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FMicrosoft%2520Azure">]]></content>
+        <published>2024-10-20T20:00:11.025Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure App ServiceでマネージドIDを使ってコンテナレジストリのイメージをpullする | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/minato86/articles/bdfe6c0c6f725b</id>
+        <link href="https://zenn.dev/minato86/articles/bdfe6c0c6f725b"/>
+        <updated>2024-10-20T19:55:06.000Z</updated>
+        <summary type="html"><![CDATA[私の働いている会社では、Azure App Service Web App for Containersでアプリケーションをホストしています。 Azure App Serviceには、Azure PipelinesでビルドしたDocker imageをAzure Container Registryにpushしてデプロイしてるのですが、以下のようなエラーでAzure App Serviceからのp...]]></summary>
+        <content type="html"><![CDATA[私の働いている会社では、Azure App Service Web App for Containersでアプリケーションをホストしています。 Azure App Serviceには、Azure PipelinesでビルドしたDocker imageをAzure Container Registryにpushしてデプロイしてるのですが、以下のようなエラーでAzure App Serviceからのpullができませんでした。 2021-03-23T21:26:19.442Z ERROR - DockerApiException: Docker API responded with stat...]]></content>
+        <author>
+            <name>巳波みなと</name>
+        </author>
+        <published>2024-10-20T19:55:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Functions:host.jsonのリファレンス | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/sasakiki/articles/0b96152cd496c8</id>
+        <link href="https://zenn.dev/sasakiki/articles/0b96152cd496c8"/>
+        <updated>2024-10-20T10:30:48.000Z</updated>
+        <summary type="html"><![CDATA[概要 Azure Functionsのコードを生成したときに一緒に生成されるhost.jsonというファイルがどのようなものなかについてわからなかたので下記記事を参考に個人の備忘録としてまとめて(写経して)いきます。なお、Functionのversionとしてv2のhost.jsonについてみていきます。 参考 https://learn.microsoft.com/ja-jp/azure/azu...]]></summary>
+        <content type="html"><![CDATA[概要 Azure Functionsのコードを生成したときに一緒に生成されるhost.jsonというファイルがどのようなものなかについてわからなかたので下記記事を参考に個人の備忘録としてまとめて(写経して)いきます。なお、Functionのversionとしてv2のhost.jsonについてみていきます。 参考 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-host-json   サンプル host.json ファイル  host.json {  "version": "2.0",  "...]]></content>
+        <author>
+            <name>Katsuharu Sasaki</name>
+        </author>
+        <published>2024-10-20T10:30:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Instancesをコンソールから使う | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/arbr/articles/7ad259c4f6183d</id>
+        <link href="https://zenn.dev/arbr/articles/7ad259c4f6183d"/>
+        <updated>2024-10-20T08:50:35.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Azureでコンテナを扱う方法を勉強中です。今回はAzure Container Instancesをやってみました。 CLIでの使い方は以下のトレーニングにありました。 https://learn.microsoft.com/ja-jp/training/modules/run-docker-with-azure-container-instances/ これと同じことをコンソールでや...]]></summary>
+        <content type="html"><![CDATA[はじめに Azureでコンテナを扱う方法を勉強中です。今回はAzure Container Instancesをやってみました。 CLIでの使い方は以下のトレーニングにありました。 https://learn.microsoft.com/ja-jp/training/modules/run-docker-with-azure-container-instances/ これと同じことをコンソールでやってみました。 ! 実施できたのは、"演習 - Azure Container Instances を実行する"までで、それ以降の演習では指定のイメージが存在しませんでした。    やってみ...]]></content>
+        <author>
+            <name>ARBR</name>
+        </author>
+        <published>2024-10-20T08:50:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Content Safetyでテキストから「有害なカテゴリ」を検出する。 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/buenotheebiten/articles/a524109766d963</id>
+        <link href="https://zenn.dev/buenotheebiten/articles/a524109766d963"/>
+        <updated>2024-10-20T05:53:51.000Z</updated>
+        <summary type="html"><![CDATA[今回はAzure AIの「Content Safety」を使って、テキストのフィルタを作ります。 【関連】 → 【Natural Language API】テキストから「有害なカテゴリ」を検出する。 → 【OpenAI】ModerationAPIでテキストから「有害なカテゴリ」を検出する。   「Azure AI Content Safety」とは 「入力テキスト/画像」から、各カテゴリに対する「...]]></summary>
+        <content type="html"><![CDATA[今回はAzure AIの「Content Safety」を使って、テキストのフィルタを作ります。 【関連】 → 【Natural Language API】テキストから「有害なカテゴリ」を検出する。 → 【OpenAI】ModerationAPIでテキストから「有害なカテゴリ」を検出する。   「Azure AI Content Safety」とは 「入力テキスト/画像」から、各カテゴリに対する「重大度（深刻度）」 を算出してくれます。  重大度 severity → どのくらい深刻な内容か（0, 2, 4, 6）    料金   約0.054円（1000文字あたり） （無料枠: 約50...]]></content>
+        <author>
+            <name>えびてん</name>
+        </author>
+        <published>2024-10-20T05:53:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSCodeを利用してAzure FunctionsをCosmosDBに接続 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/sasakiki/articles/7aac5a66091709</id>
+        <link href="https://zenn.dev/sasakiki/articles/7aac5a66091709"/>
+        <updated>2024-10-19T10:10:35.000Z</updated>
+        <summary type="html"><![CDATA[概要 こちらの記事で作成したAzureのFunctionsの続きとして、このFunctionsからCosmos DBに接続する方法について下記チュートリアルをもとに実行したのでその内容について個人の備忘録としてまとめていきます(写経)。 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-add-output-bind...]]></summary>
+        <content type="html"><![CDATA[概要 こちらの記事で作成したAzureのFunctionsの続きとして、このFunctionsからCosmos DBに接続する方法について下記チュートリアルをもとに実行したのでその内容について個人の備忘録としてまとめていきます(写経)。 https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python   環境セットアップ 前回の記事の環境構築の内容に加えて、下記の拡張機能をV...]]></content>
+        <author>
+            <name>Katsuharu Sasaki</name>
+        </author>
+        <published>2024-10-19T10:10:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Codeを利用したAzure FunctionsのPython実装例(チュートリアル) | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/sasakiki/articles/8221ff630d9209</id>
+        <link href="https://zenn.dev/sasakiki/articles/8221ff630d9209"/>
+        <updated>2024-10-19T09:59:39.000Z</updated>
+        <summary type="html"><![CDATA[概要 下記公式ドキュメントをもとにHTTP 要求に応答する Python 関数を、Visual Studio Code を使用して作成した際のログを個人の備忘録としてまとめていきます。(ほぼ公式ドキュメントの写経です。) https://learn.microsoft.com/ja-jp/azure/azure-functions/create-first-function-vs-code-pyt...]]></summary>
+        <content type="html"><![CDATA[概要 下記公式ドキュメントをもとにHTTP 要求に応答する Python 関数を、Visual Studio Code を使用して作成した際のログを個人の備忘録としてまとめていきます。(ほぼ公式ドキュメントの写経です。) https://learn.microsoft.com/ja-jp/azure/azure-functions/create-first-function-vs-code-python   環境のセットアップ 今回はVSCodeを利用してPythonで実装していくのでPythonのインストールやVSCodeの拡張機能の設定が必要になります。  VSCode Pyth...]]></content>
+        <author>
+            <name>Katsuharu Sasaki</name>
+        </author>
+        <published>2024-10-19T09:59:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsとAzure AD B2Cでログイン機能を持つWebサイトを作る【Next.js 14】 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/microsoft/articles/azure_adb2c_nextjs_auth</id>
+        <link href="https://zenn.dev/microsoft/articles/azure_adb2c_nextjs_auth"/>
+        <updated>2024-10-19T09:23:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 今回はAzure AD B2CとNext.jsを使って、ログイン機能を実装してみたいと思います。 作成するWebサイトのアーキテクチャは以下のようになります。  リポジトリは以下になります。 ご参考までに！ https://github.com/SatakeYusuke19920527/azure-adb2c-nextjs-auth   環境構築   Githubリポジトリの作成 まずは...]]></summary>
+        <content type="html"><![CDATA[はじめに 今回はAzure AD B2CとNext.jsを使って、ログイン機能を実装してみたいと思います。 作成するWebサイトのアーキテクチャは以下のようになります。  リポジトリは以下になります。 ご参考までに！ https://github.com/SatakeYusuke19920527/azure-adb2c-nextjs-auth   環境構築   Githubリポジトリの作成 まずはリポジトリを作成します。 https://github.com/  サクサク進めていきます。  コードの箇所からURLをコピーしてローカルへcloneします。 これでリポジトリの作成は完了で...]]></content>
+        <author>
+            <name>Yusuke Satake</name>
+        </author>
+        <published>2024-10-19T09:23:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Bicep初心者向け】AzureVMの複製/デプロイ方法 | TechHarmony]]></title>
+        <id>https://blog.usize-tech.com/?p=22745</id>
+        <link href="https://blog.usize-tech.com/azure-vm-iac-bicep/"/>
+        <updated>2024-10-18T07:51:56.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。今回初めてAzureを触った薮谷です。AWS CloudFormationを利用してAWSのリソースをIaCで構築したことはありましたが、AzureのリソースをIaCで構築したのは初めてでした。 同じOSイメ […]]]></summary>
+        <content type="html"><![CDATA[こんにちは。今回初めてAzureを触った薮谷です。AWS CloudFormationを利用してAWSのリソースをIaCで構築したことはありましたが、AzureのリソースをIaCで構築したのは初めてでした。 同じOSイメ […]]]></content>
+        <author>
+            <name>薮谷彩恵</name>
+        </author>
+        <category label="Azure"/>
+        <category label="クラウド"/>
+        <category label="Bicep"/>
+        <category label="IaC"/>
+        <published>2024-10-18T07:51:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月18日ランキング】未使用のAzureサブスクリプションがブロック・削除されます。／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/18"/>
+        <updated>2024-10-17T20:00:11.021Z</updated>
+        <summary type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729149161"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事5本）。<br>1位: 未使用のAzureサブスクリプションが...]]></summary>
+        <content type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/10257846132689992429/6802418398296815384/1729149161"><br>Microsoft Azureチャンネル 2024年10月18日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事5本）。<br>1位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>1位: Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps（devblogs.microsoft.com）<br>2位: Microsoft preps Rust hypervisor for Azure workloads（www.theregister.com）<br>…ほか3本<br><a href="https://techfeed...]]></content>
+        <published>2024-10-17T20:00:11.021Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure OpenAI Serviceでo1-previewを試す | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/e7cd59c54b23a5</id>
+        <link href="https://zenn.dev/headwaters/articles/e7cd59c54b23a5"/>
+        <updated>2024-10-17T10:30:16.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#ava...]]></summary>
+        <content type="html"><![CDATA[やりたいこと ちょっとしたことではありますが、o1のモデルデプロイで罠があったので、メモしておきます。 まず、下記のようにo1-previewとo1-miniモデルが限定アクセスできるようになっています。 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure#availability o1モデルの説明。  OpenAI o1 シリーズ モデルは、推論と問題解決のタスクに集中力と能力を高めて取り組むために特別に設計されています。これらのモデルは、ユーザー...]]></content>
+        <author>
+            <name>koki takeishi</name>
+        </author>
+        <published>2024-10-17T10:30:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未使用のAzureサブスクリプションがブロック・削除されます。 | Alternative Architecture DOJO]]></title>
+        <id>https://aadojo.alterbooth.com/entry/2024/10/17/161241</id>
+        <link href="https://aadojo.alterbooth.com/entry/2024/10/17/161241"/>
+        <updated>2024-10-17T07:12:41.000Z</updated>
+        <summary type="html"><![CDATA[未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。]]></summary>
+        <content type="html"><![CDATA[未使用のAzureサブスクリプションがブロック・削除されることになりましたので、わかりやすく解説します。]]></content>
+        <published>2024-10-17T07:12:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する | SIOS Tech. Lab]]></title>
+        <id>https://tech-lab.sios.jp/?p=43562</id>
+        <link href="https://tech-lab.sios.jp/archives/43562"/>
+        <updated>2024-10-17T06:23:56.000Z</updated>
+        <summary type="html"><![CDATA[初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.]]></summary>
+        <content type="html"><![CDATA[初めまして、新卒1年目の伊藤です。今回は、新卒研修にてGoogleによるSSO（シングルサインオン）を持つAzure Static Web Appsのアプリを作成したため、その方法をまとめていきます。 Azure Sta ... GoogleによるSSOを持つAzure Static Web Appsのアプリを作成する first appeared on SIOS Tech. Lab.]]></content>
+        <author>
+            <name>Sogo Ito</name>
+        </author>
+        <category label="Azure"/>
+        <category label="認証"/>
+        <category label="Google Authenticator"/>
+        <category label="Azure App Service"/>
+        <published>2024-10-17T06:23:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Advanced SecurityのAlertを、Azure Functions経由でいい感じにSlackに飛ばす | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2024/10/17/120000</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2024/10/17/120000"/>
+        <updated>2024-10-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会...]]></summary>
+        <content type="html"><![CDATA[はじめに なぜAzure Functions経由? いざ実装 SlackにIncommig Webhookをインストール Azure Functionsの実装 GitHub Webhookの実装 Alertを飛ばしてみよう 最後に PR はじめに ACS事業部でEngineering Managerもとい中間管理職をしている谷合です。 Managerになってからというものの、めっきり手を動かす機会が減り、その過程でのエンジニアとしてのワクワクを感じなくなってきたなと思う今日この頃。 中間管理職だってワクワクしたい！！！というピュアピュアな想いで本ブログを書いてみました。 弊社はGitHub社と…]]></content>
+        <published>2024-10-17T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Devopsで組織とプロジェクトを作成する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/shimiyu/articles/7bab46064bc377</id>
+        <link href="https://zenn.dev/shimiyu/articles/7bab46064bc377"/>
+        <updated>2024-10-16T21:46:10.000Z</updated>
+        <summary type="html"><![CDATA[概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと...]]></summary>
+        <content type="html"><![CDATA[概要 Azure Devopsの組織とプロジェクトを作ってみました。 https://learn.microsoft.com/ja-jp/azure/devops/organizations/accounts/create-organization?view=azure-devops 職場では日常的にAzure Devopsを使っていますが、個人でも自由に触れるAzure Devopsが欲しいなと思ったのです。 職場のDevopsも結構自由に使うことはできるのですが、やっぱり遊び半分で使うのは気が引けますし、権限の関係で自由に触れない部分もありますし...。   初めてのAzure ...]]></content>
+        <author>
+            <name>しみゆー</name>
+        </author>
+        <published>2024-10-16T21:46:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月17日ランキング】日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果／ほか5本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/17"/>
+        <updated>2024-10-16T20:00:10.581Z</updated>
+        <summary type="html"><![CDATA[<img src="https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、...]]></summary>
+        <content type="html"><![CDATA[<img src="https://japan.zdnet.com/storage/2024/10/16/e2ec1bd8d657fe39d7efd767f404de82/241016_ms_001.jpg"><br>Microsoft Azureチャンネル 2024年10月17日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事4本）。<br>1位: 日立とギブリーが明かす、「Azure OpenAI」や「Microsoft Copilot」導入の成果（japan.zdnet.com）<br>2位: 未使用のAzureサブスクリプションがブロック・削除されます。（aadojo.alterbooth.com）<br>1位: Azure Cobalt 100-based Virtual Machines are now generally available（azure.microsoft.com）<br>…ほか3本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/...]]></content>
+        <published>2024-10-16T20:00:10.581Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Center for SAP Solutions (ACSS) を使って SAP on Azure の展開 (つづき) | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/microsoft/articles/b4b9a45302d8e0</id>
+        <link href="https://zenn.dev/microsoft/articles/b4b9a45302d8e0"/>
+        <updated>2024-10-16T07:38:40.000Z</updated>
+        <summary type="html"><![CDATA[前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケー...]]></summary>
+        <content type="html"><![CDATA[前回からしばらく時間が空いてしまいました..。 今回は SAP ソフトウェアのインストールと、SAP GUI から接続してみます。  ACSS の展開を行うネットワークインフラストラクチャーの構築 ACSS インフラストラクチャーの展開 SAP インストールメディアの準備 SAP インストール (ここから)  ! 現在、SLES for SAP Applications 15 SP4 にてパッケージの依存関係の問題によりインフラの展開が失敗する問題があります。 下記内容は、SLES for SAP Applications 15 SP にて確認した内容ということでご留意ください。    ...]]></content>
+        <author>
+            <name>taskwoof</name>
+        </author>
+        <published>2024-10-16T07:38:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL DatabaseのデプロイメントをCI/CDで自動化する方法 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a</id>
+        <link href="https://zenn.dev/yutakaosada/articles/e58f9e4c0f846a"/>
+        <updated>2024-10-16T04:57:28.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pip...]]></summary>
+        <content type="html"><![CDATA[1. はじめに 本記事では、SQL Databaseのデプロイメントを自動化するためのCI/CDパイプラインの構築方法について解説します。データベースの変更を効率的に管理し、自動化を行うためのツールとして、Visual StudioのデータベースプロジェクトやAzure Data Studioを利用します。また、DACPAC/BACPACを活用したデータベースのデプロイメントと、Azure Pipelineを使ったCI/CDの具体的な実装方法についても触れていきます。 本記事のソースコードは、Gitに登録しています。 https://github.com/yutaka-art/sql...]]></content>
+        <author>
+            <name>yutakaosada</name>
+        </author>
+        <published>2024-10-16T04:57:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Searchの垂直統合されたベクトル検索用LangChain Retrieverを作る | エムティーアイ エンジニアリングブログ]]></title>
+        <id>https://tech.mti.co.jp/entry/2024/10/16/104813</id>
+        <link href="https://tech.mti.co.jp/entry/2024/10/16/104813"/>
+        <updated>2024-10-16T01:48:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langcha...]]></summary>
+        <content type="html"><![CDATA[はじめに 前回の記事 tech.mti.co.jp 前回、Rest APIで垂直統合されたベクトル検索を試行しました。この機能はすでに Python の Azure SDK では対応していますが、LangChain の Retriever として利用できるとより便利そうです。 Custom Retriever の学習がてら実験してみたいと思います。 OSSライブラリの実装を確認する langchain-community ライブラリで AzureAISearchRetriever が公開されています。 python.langchain.com 実装を一部引用します。 class AzureAI…]]></content>
+        <published>2024-10-16T01:48:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Searchで垂直統合されたベクトル検索を試す | エムティーアイ エンジニアリングブログ]]></title>
+        <id>https://tech.mti.co.jp/entry/2024/10/16/102613</id>
+        <link href="https://tech.mti.co.jp/entry/2024/10/16/102613"/>
+        <updated>2024-10-16T01:26:13.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース...]]></summary>
+        <content type="html"><![CDATA[こんにちは。 弊社でもAIの利用、導入に向けて研究や開発案件に取り組んでいる最中なのですが、今日はそこで試した小ネタを紹介します。 垂直統合されたベクトル検索とは Azure AI Searchのインデックスにベクタライザを設定することにより、アプリケーション側でベクトル化をしなくてもAI Searchによってベクトル化が可能になります。 イメージ図 必要なもの Azure OpenAI リソース *1 Azure OpenAIに組み込みモデルがデプロイされていること text-embedding-3-small を利用しました。 Azure AI Search リソース ベクトルストアに投入…]]></content>
+        <published>2024-10-16T01:26:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月16日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか4本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16"/>
+        <updated>2024-10-15T20:00:10.950Z</updated>
+        <summary type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...]]></summary>
+        <content type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月16日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事3本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>2位: SCSK、Azure上に各企業専用の生成AI環境を構築するサービス「生成AI 統合活用基盤」（cloud.watch.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>…ほか2本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/16?from...]]></content>
+        <published>2024-10-15T20:00:10.950Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月15日ランキング】江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15"/>
+        <updated>2024-10-14T20:00:11.187Z</updated>
+        <summary type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新...]]></summary>
+        <content type="html"><![CDATA[<img src="https://it.impress.co.jp/mwimgs/4/e/400/img_4e0accd1aad4a95491218a1d789083a6357510.jpg"><br>Microsoft Azureチャンネル 2024年10月15日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: 江ノ電、システム基盤をAzureで刷新、脆弱性や属人化の課題を解消、安全なデータ共有を実現（it.impress.co.jp）<br>1位: Catch the highlights from Azure Developers（devblogs.microsoft.com）<br>2位: Azure Developer CLI (azd)（devblogs.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2024/10/15?from=rss" target="_blank">ランキングはこちらから...]]></content>
+        <published>2024-10-14T20:00:11.187Z</published>
+    </entry>
+</feed>

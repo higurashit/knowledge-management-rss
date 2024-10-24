@@ -1,0 +1,9 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": []
+}
