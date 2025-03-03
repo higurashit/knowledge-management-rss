@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 03 Mar 2025 07:24:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Tableau】メタデータAPIでTableau CloudのData Source情報取得した | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/tableau/20250226/62260/</link>
+            <guid>https://blog.truestar.co.jp/?p=62260</guid>
+            <pubDate>Wed, 26 Feb 2025 07:48:46 GMT</pubDate>
+            <description><![CDATA[はじめに Tableauは、データを視覚化し、インサイトを得るための強力なツールです。 しかし、データの管理やその関係性を理解するためには、メタデータの把握が欠かせません。 ここで登場するのが、Tableau Metad... 【Tableau】メタデータAPIでTableau CloudのData Source情報取得した first appeared on Tableau-id Press -...]]></description>
+            <content:encoded><![CDATA[はじめに Tableauは、データを視覚化し、インサイトを得るための強力なツールです。 しかし、データの管理やその関係性を理解するためには、メタデータの把握が欠かせません。 ここで登場するのが、Tableau Metad... 【Tableau】メタデータAPIでTableau CloudのData Source情報取得した first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Tableau</category>
+        </item>
+        <item>
+            <title><![CDATA[【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/dataiku/20250220/62220/</link>
+            <guid>https://blog.truestar.co.jp/?p=62220</guid>
+            <pubDate>Wed, 19 Feb 2025 15:00:01 GMT</pubDate>
+            <description><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今日は普段TableauPrep、Tableau、Snowflakeをメインで使用している私が、Dataikuでデータク... 【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる first appeared on Tableau-id Press -タブロイ...]]></description>
+            <content:encoded><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今日は普段TableauPrep、Tableau、Snowflakeをメインで使用している私が、Dataikuでデータク... 【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Dataiku</category>
+            <category>Data Visualization</category>
+            <category>Tableau Prep</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,628 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/o2wsu9/articles/7688bd2320f164",
+            "content_html": "TL;DR  Cloud Functionsにデプロイされたライブラリの正確なバージョンは、コンテナイメージを取得して内部を調査することで確認できる Artifact Registryから取得したコンテナイメージのファイルシステムを抽出し、.dist-infoディレクトリを調べることでバージョン情報がわかる    はじめに Cloud Functionsをデプロイする際、requirements.txtでライブラリのバージョンを指定することがあります。 しかし、ワイルドカード（*）を使用してバージョンを指定している場合、実際にどのバージョンがデプロイされているか把握しづらくなります。...",
+            "url": "https://zenn.dev/o2wsu9/articles/7688bd2320f164",
+            "title": "Cloud Functionsで使用中のライブラリバージョンを特定する方法 | Zennの「Google Cloud」のフィード",
+            "summary": "TL;DR  Cloud Functionsにデプロイされたライブラリの正確なバージョンは、コンテナイメージを取得して内部を調査することで確認できる Artifact Registryから取得したコンテナイメージのファイルシステムを抽出し、.dist-infoディレクトリを調べることでバージョン情報がわかる    はじめに Cloud Functionsをデプロイする際、requirements....",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--mLSPlJiC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Functions%25E3%2581%25A7%25E4%25BD%25BF%25E7%2594%25A8%25E4%25B8%25AD%25E3%2581%25AE%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E7%2589%25B9%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:o2wsu9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdjMTFhNDRkZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-03-02T11:34:14.000Z",
+            "date_published": "2025-03-02T11:34:14.000Z",
+            "author": {
+                "name": "o2wsu9"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Functionsで使用中のライブラリバージョンを特定する方法",
+                "blogTitle": "Zennの「Google Cloud」のフィード",
+                "blogLink": "https://zenn.dev/topics/googlecloud",
+                "blogLinkMd5Hash": "3011d612a26632efab83261da71ef7d6"
+            }
+        },
+        {
+            "id": "https://zenn.dev/gluc0se/articles/ccb48b0168dbc7",
+            "content_html": "ハマった経緯と内容 Cloud Run上で動かすアプリケーションにおいて「Cloud Storageに格納しているファイルを署名付きURLを利用してダウンロードする」機能を実装する必要がありました。 ローカル環境では、サービスアカウントキーのファイル（jsonファイル）を利用してGoogle Cloudのドキュメントを参考にプログラムを作成し、署名付URLの生成とファイルのダウンロードも成功しました。 https://cloud.google.com/storage/docs/access-control/signing-urls-with-helpers?hl=ja import ...",
+            "url": "https://zenn.dev/gluc0se/articles/ccb48b0168dbc7",
+            "title": "Cloud Run上でサービスアカウントキー.jsonファイルを使わずにCloud Storageの署名付きURLを生成したい | Zennの「Google Cloud」のフィード",
+            "summary": "ハマった経緯と内容 Cloud Run上で動かすアプリケーションにおいて「Cloud Storageに格納しているファイルを署名付きURLを利用してダウンロードする」機能を実装する必要がありました。 ローカル環境では、サービスアカウントキーのファイル（jsonファイル）を利用してGoogle Cloudのドキュメントを参考にプログラムを作成し、署名付URLの生成とファイルのダウンロードも成功しまし...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--erH2YkQy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Run%25E4%25B8%258A%25E3%2581%25A7%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25BC.json%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2581%25ABCloud%2520Storage%25E3%2581%25AE%25E7%25BD%25B2%25E5%2590%258D%25E4%25BB%2598%25E3%2581%258DURL...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%2588%25E3%2581%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UyNmYzYWRjODYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-03-01T03:01:53.000Z",
+            "date_published": "2025-03-01T03:01:53.000Z",
+            "author": {
+                "name": "こえだ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Run上でサービスアカウントキー.jsonファイルを使わずにCloud Storageの署名付きURLを生成したい",
+                "blogTitle": "Zennの「Google Cloud」のフィード",
+                "blogLink": "https://zenn.dev/topics/googlecloud",
+                "blogLinkMd5Hash": "3011d612a26632efab83261da71ef7d6"
+            }
+        },
+        {
+            "id": "https://zenn.dev/cloud_ace/articles/dns-healthcheck-routing",
+            "content_html": "はじめに Google Cloud Partner Top Engineer で\\textcolor{red}{赤髪}がトレードマークの Shanks です。 本記事では 2025/02/21 に GA になったばかりの新機能「Cloud DNS のパブリック IP によるヘルスチェック機能」についてのご紹介と、DNS ヘルスチェックによる可用性をいかにして高めるかを解説します。  SS：リリースノート   セカンダリー サーバへ切り替える苦労   BCP のジレンマ  SS：DNS 切り替えと BCP WEB サーバのように、パブリック IP アドレスを購入したドメインに DNS ...",
+            "url": "https://zenn.dev/cloud_ace/articles/dns-healthcheck-routing",
+            "title": "Cloud DNS で可用性向上！ヘルスチェックで健全なサーバに繋げよう！ | Zennの「Google Cloud」のフィード",
+            "summary": "はじめに Google Cloud Partner Top Engineer で\\textcolor{red}{赤髪}がトレードマークの Shanks です。 本記事では 2025/02/21 に GA になったばかりの新機能「Cloud DNS のパブリック IP によるヘルスチェック機能」についてのご紹介と、DNS ヘルスチェックによる可用性をいかにして高めるかを解説します。  SS：リリース...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--_6NN5qMj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520DNS%2520%25E3%2581%25A7%25E5%258F%25AF%25E7%2594%25A8%25E6%2580%25A7%25E5%2590%2591%25E4%25B8%258A%25EF%25BC%2581%25E3%2583%2598%25E3%2583%25AB%25E3%2582%25B9%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%2581%25A5%25E5%2585%25A8%25E3%2581%25AA%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2581%25AB%25E7%25B9%258B%25E3%2581%2592%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B9%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE2OGMwYmM4MTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-02-28T09:00:40.000Z",
+            "date_published": "2025-02-28T09:00:40.000Z",
+            "author": {
+                "name": "クラウドエース株式会社"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud DNS で可用性向上！ヘルスチェックで健全なサーバに繋げよう！",
+                "blogTitle": "Zennの「Google Cloud」のフィード",
+                "blogLink": "https://zenn.dev/topics/googlecloud",
+                "blogLinkMd5Hash": "3011d612a26632efab83261da71ef7d6"
+            }
+        },
+        {
+            "id": "https://zenn.dev/neoai/articles/fa80f5311fc4fc",
+            "content_html": "はじめに 初めまして、neoAIでソフトウェアエンジニアをしている松岡です。 本記事では、Google Cloud の Workload Identity Federation を使用して、Azure Container Apps から サービスアカウントキーを使用せずにGoogle CloudのサービスであるVertex AI に認証する方法を解説します。 サービスアカウントキーを使用しないことで、以下のようなメリットがあります。  秘匿情報の漏洩リスクの軽減 キーローテーションなどの管理コストの削減  Workload Identity を用いた連携方法については、公式ドキュメン...",
+            "url": "https://zenn.dev/neoai/articles/fa80f5311fc4fc",
+            "title": "Azure Container Apps から Workload Identity 連携 を使って Vertex AI に認証する | Zennの「Azure」のフィード",
+            "summary": "はじめに 初めまして、neoAIでソフトウェアエンジニアをしている松岡です。 本記事では、Google Cloud の Workload Identity Federation を使用して、Azure Container Apps から サービスアカウントキーを使用せずにGoogle CloudのサービスであるVertex AI に認証する方法を解説します。 サービスアカウントキーを使用しないこと...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--trQfPKQ7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Azure%2520Container%2520Apps%2520%25E3%2581%258B%25E3%2582%2589%2520Workload%2520Identity%2520%25E9%2580%25A3%25E6%2590%25BA%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Vertex%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hotaka%2520Matsuoka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZjZjY5YTdmZDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:neoAI%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3QlllbzBabXBHQjVCT2VFRzBQZDRobEY2N19iUVhPVUowSVFHSlE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-02-28T06:53:50.000Z",
+            "date_published": "2025-02-28T06:53:50.000Z",
+            "author": {
+                "name": "Hotaka Matsuoka"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure Container Apps から Workload Identity 連携 を使って Vertex AI に認証する",
+                "blogTitle": "Zennの「Azure」のフィード",
+                "blogLink": "https://zenn.dev/topics/azure",
+                "blogLinkMd5Hash": "a2b9bf68cdf4acf4118cd8c7f98373e4"
+            }
+        },
+        {
+            "id": "https://techblog.gmo-ap.jp/?p=43179",
+            "content_html": "こんにちは。GMOインサイトのT.Oです。 クラウドストレージに保存したファイルを、特定の取引先や顧客と一時的に共有したいというニーズは多いのではないでしょうか。Google Cloud Storage（GCS）の署名付",
+            "url": "https://techblog.gmo-ap.jp/2025/02/28/gcs-signed-url-dl/",
+            "title": "Google Cloud Storageを利用したファイル共有 | GMOインターネット アドエンジニア TECH BLOG byGMO",
+            "summary": "こんにちは。GMOインサイトのT.Oです。 クラウドストレージに保存したファイルを、特定の取引先や顧客と一時的に共有したいというニーズは多いのではないでしょうか。Google Cloud Storage（GCS）の署名付",
+            "image": {
+                "type": "png",
+                "url": "https://techblog.gmo-ap.jp/wp-content/uploads/2025/01/CloudStorageFileShare.png"
+            },
+            "date_modified": "2025-02-28T01:30:00.000Z",
+            "date_published": "2025-02-28T01:30:00.000Z",
+            "author": {
+                "name": "T.O"
+            },
+            "tags": [
+                "Cloud Storage",
+                "IS",
+                "Google Cloud Storage"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Google Cloud Storageを利用したファイル共有",
+                "blogTitle": "GMOインターネット アドエンジニア TECH BLOG byGMO",
+                "blogLink": "https://techblog.gmo-ap.jp",
+                "blogLinkMd5Hash": "b1ae363dea485a83e9c2545927d74ead"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/looker-symmetric-aggregates-explained",
+            "content_html": "G-genの菊池です。当記事では、Looker の対称集計機能について解説します。 対称集計とは 対称集計が必要になる状況 対称集計の仕組み 対称集計の使い方 必要な設定 一意の主キー（primary_key） 正しい結合関係（relationship） 対称集計とは 対称集計は、Looker の標準機能です。Looker では、複数のテーブルを結合して利用する場合があります。結合するテーブル間の関係が「1対多」の場合、集計関数（カウント、合計、平均など）で値を求めると、一部の値が二重にカウントされる可能性があります。集計結果が誤った値にならないように、本来はテーブルを結合する段階で考慮が必要…",
+            "url": "https://blog.g-gen.co.jp/entry/looker-symmetric-aggregates-explained",
+            "title": "Lookerでデータ二重カウントを防ぐ対称集計を解説 | G-gen Tech Blog",
+            "summary": "G-genの菊池です。当記事では、Looker の対称集計機能について解説します。 対称集計とは 対称集計が必要になる状況 対称集計の仕組み 対称集計の使い方 必要な設定 一意の主キー（primary_key） 正しい結合関係（relationship） 対称集計とは 対称集計は、Looker の標準機能です。Looker では、複数のテーブルを結合して利用する場合があります。結合するテーブル間の...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/c60c06869b0a5f38e54dd6c8bb4a463e18d6f4cd/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250219%2F20250219081924.png"
+            },
+            "date_modified": "2025-02-28T00:00:00.000Z",
+            "date_published": "2025-02-28T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Lookerでデータ二重カウントを防ぐ対称集計を解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/28",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/88e10c6d63bc10d2a5475805d186b6db52775e43/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknqyf263%2F20250228%2F20250228204941.png\"><br>Google Cloudチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事2本）。<br>1位: GitHub Container registryのレート制限について（knqyf263.hatenablog.com）<br>2位: Google Cloud Storageを利用したファイル共有（techblog.gmo-ap.jp）<br>3位: GKE 1.32以降でのmackerel-container-agentの利用について（mackerel....",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/28",
+            "title": "【2月28日ランキング】GitHub Container registryのレート制限について／ほか4本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/88e10c6d63bc10d2a5475805d186b6db52775e43/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fk...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/88e10c6d63bc10d2a5475805d186b6db52775e43/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknqyf263%2F20250228%2F20250228204941.png"
+            },
+            "date_modified": "2025-02-27T20:00:09.260Z",
+            "date_published": "2025-02-27T20:00:09.260Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月28日ランキング】GitHub Container registryのレート制限について／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Marketing/selections/daily/2025/2/28",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg\"><br>マーケティングチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事9本、英語記事2本）。<br>1位: Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）（business.hatenastaff.com）<br>2位: 生成AI時代、マーケターにとって「特に重要になると思うスキル」は？（www.itmedia.co.jp）<br>3位: 生成AIの活用でインバウンド対応を効率化、マーケティング分析工数...",
+            "url": "https://techfeed.io/channels/Marketing/selections/daily/2025/2/28",
+            "title": "【2月28日ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか10本 | TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fh...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg"
+            },
+            "date_modified": "2025-02-27T20:00:09.260Z",
+            "date_published": "2025-02-27T20:00:09.260Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月28日ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか10本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+                "blogLink": "http://techfeed.io/channels/Marketing",
+                "blogLinkMd5Hash": "c0fb926698132bf684908762f7e1d550"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Marketing/selections/monthly/2025/2",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg\"><br>マーケティングチャンネル 2025年2月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>1位: Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）（business.hatenastaff.com）<br>2位: デザイナーに学ぶ！ マーケターが押さえておきたい「デザイナー思考」（webtan.impress.co.jp）<br>3位: 目指すは「応援される会社」。マーケティング専門家に聞く、消費者行...",
+            "url": "https://techfeed.io/channels/Marketing/selections/monthly/2025/2",
+            "title": "【2月ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか19本 | TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fh...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg"
+            },
+            "date_modified": "2025-02-27T15:00:00.000Z",
+            "date_published": "2025-02-27T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか19本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+                "blogLink": "http://techfeed.io/channels/Marketing",
+                "blogLinkMd5Hash": "c0fb926698132bf684908762f7e1d550"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/X%20as%20a%20Service/selections/monthly/2025/2",
+            "content_html": "<img src=\"https://res.cloudinary.com/zenn/image/upload/s--gxwfGxsW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%25E3%2581%25A8Firebase%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2582%25E3%2582%258C%25E3%2581%2593%25E3%2582%258C%2Cw_1010%2Cx_90...",
+            "url": "https://techfeed.io/channels/X%20as%20a%20Service/selections/monthly/2025/2",
+            "title": "【2月ランキング】FlutterとFirebaseを使ってアプリを作る上でのテクニックあれこれ／ほか14本 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+            "summary": "<img src=\"https://res.cloudinary.com/zenn/image/upload/s--gxwfGxsW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%25E3%2581%25A8Firebase%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--gxwfGxsW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%25E3%2581%25A8Firebase%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2582%25E3%2582%258C%25E3%2581%2593%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kingu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l4VkhrM2JzdjU3U1RPdmF0QXlHUm84WmJvZTFhbzktM1ZpTVAwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-02-27T15:00:00.000Z",
+            "date_published": "2025-02-27T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月ランキング】FlutterとFirebaseを使ってアプリを作る上でのテクニックあれこれ／ほか14本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+                "blogLink": "http://techfeed.io/channels/X%20as%20a%20Service",
+                "blogLinkMd5Hash": "06ee3f121ba403e0005e31e22cd35021"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/27",
+            "content_html": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZkOGYxYmY4MjkxNTFhZDQ3MWQ1YzQ2NzViM2ExZmY4MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1hNWY3...",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/27",
+            "title": "【2月27日ランキング】Cloud Run入門！Dockerコンテナをサーバーレスで爆速デプロイする方法／ほか3本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258...",
+            "image": {
+                "type": null,
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZkOGYxYmY4MjkxNTFhZDQ3MWQ1YzQ2NzViM2ExZmY4MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1hNWY3NjEwNTJlNjhhYzQxYTgzMGQ0YTAwZjA0OTFkNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc775085f716949a6e11eb4778b6575f9"
+            },
+            "date_modified": "2025-02-26T20:00:08.923Z",
+            "date_published": "2025-02-26T20:00:08.923Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月27日ランキング】Cloud Run入門！Dockerコンテナをサーバーレスで爆速デプロイする方法／ほか3本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Marketing/selections/daily/2025/2/27",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg\"><br>マーケティングチャンネル 2025年2月27日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事1本）。<br>1位: Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）（business.hatenastaff.com）<br>2位: コンマケ、MA、データ活用、Webサイト最適化……BtoBマーケティングで生成AIはどう活用できる？（markezine.jp）<br>1位: ROI vs. VOI: Smart M...",
+            "url": "https://techfeed.io/channels/Marketing/selections/daily/2025/2/27",
+            "title": "【2月27日ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか2本 | TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fh...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/deef4583970a93c07179ade9ef30664d86001286/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenabusiness%2F20250214%2F20250214184702.jpg"
+            },
+            "date_modified": "2025-02-26T20:00:08.923Z",
+            "date_published": "2025-02-26T20:00:08.923Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月27日ランキング】Looker Studio×オウンドメディアの基本的な使い方。レポート作成手順を解説【前編】（文・小川卓）／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - マーケティングチャンネル",
+                "blogLink": "http://techfeed.io/channels/Marketing",
+                "blogLinkMd5Hash": "c0fb926698132bf684908762f7e1d550"
+            }
+        },
+        {
+            "id": "https://zenn.dev/newbee1958/articles/87e558c8096205",
+            "content_html": "従来の切り戻し作業の課題 従来の切り戻し作業には以下のような手順が必要で、多くの時間を要します。 その結果として、ユーザーに多大な影響を及ぼしてしまいます。  原因箇所の特定 コードの修正または git revert PR 作成（自動テスト含む） レビュー実施 再デプロイ（イメージのビルド、プッシュ、デプロイ）    Cloud Run のリビジョンによる解決策 この問題は、Cloud Run のリビジョン機能を活用することで解決できます。   リビジョンとは デプロイ履歴を保持する機能です。 デプロイごとに自動で作成され、各リビジョンに対してトラフィックの振り分けが可能です。   ...",
+            "url": "https://zenn.dev/newbee1958/articles/87e558c8096205",
+            "title": "Cloud Runを爆速で切り戻す💨 | Zennの「Google Cloud」のフィード",
+            "summary": "従来の切り戻し作業の課題 従来の切り戻し作業には以下のような手順が必要で、多くの時間を要します。 その結果として、ユーザーに多大な影響を及ぼしてしまいます。  原因箇所の特定 コードの修正または git revert PR 作成（自動テスト含む） レビュー実施 再デプロイ（イメージのビルド、プッシュ、デプロイ）    Cloud Run のリビジョンによる解決策 この問題は、Cloud Run の...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--pis6pUD1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloud%2520Run%25E3%2582%2592%25E7%2588%2586%25E9%2580%259F%25E3%2581%25A7%25E5%2588%2587%25E3%2582%258A%25E6%2588%25BB%25E3%2581%2599%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hidev%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzODVhNDg4NjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2025-02-26T08:05:05.000Z",
+            "date_published": "2025-02-26T08:05:05.000Z",
+            "author": {
+                "name": "hidev"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Runを爆速で切り戻す💨",
+                "blogTitle": "Zennの「Google Cloud」のフィード",
+                "blogLink": "https://zenn.dev/topics/googlecloud",
+                "blogLinkMd5Hash": "3011d612a26632efab83261da71ef7d6"
+            }
+        },
+        {
+            "id": "https://www.techfirm.co.jp/blog/?p=11601",
+            "content_html": "ITデータの活用が進む中で、「大量のデータを素早く分析したい」「専門知識がなくてもデータを扱いたい」と考える企業が増えています。 そんな課題を解決するのが、Googleのクラウド型データウェアハウス「BigQuery（ビ […]",
+            "url": "https://www.techfirm.co.jp/blog/bigquery",
+            "title": "BigQuery（ビッグクエリ）とは？初心者でもわかる基礎知識と活用事例 | テックファームブログ",
+            "summary": "ITデータの活用が進む中で、「大量のデータを素早く分析したい」「専門知識がなくてもデータを扱いたい」と考える企業が増えています。 そんな課題を解決するのが、Googleのクラウド型データウェアハウス「BigQuery（ビ […]",
+            "image": {
+                "type": "png",
+                "url": "https://www.techfirm.co.jp/blog/wp-content/uploads/2025/02/thumb_bigquery.png"
+            },
+            "date_modified": "2025-02-26T02:57:59.000Z",
+            "date_published": "2025-02-26T02:57:59.000Z",
+            "author": {
+                "name": "Asako Tanaka"
+            },
+            "tags": [
+                "ナレッジ",
+                "AI",
+                "データ分析",
+                "マーケティング"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "BigQuery（ビッグクエリ）とは？初心者でもわかる基礎知識と活用事例",
+                "blogTitle": "テックファームブログ",
+                "blogLink": "https://www.techfirm.co.jp/blog",
+                "blogLinkMd5Hash": "d129092d9c3c3306a8b457d806f79ad2"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/26",
+            "content_html": "<img src=\"https://ogimage.blog.st-hatena.com/6802340630900496324/6802418398331753335/1740490238\"><br>Google Cloudチャンネル 2025年2月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事2本）。<br>1位: GitHub Actions から GitHub Container Registry へ丁寧にコンテナイメージを Push する（blog.km3.dev）<br>2位: Cloud Run入門！Dockerコンテナをサーバーレスで爆速デプロイする方法（qiita.com）<br>3位: Cloud Buildのデプロイ失敗をDiscordに通知する仕組みを構築する（qiita.com）<br>…ほか2本<br><a href=\"https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/26?from=rss\" target=\"_blank\">ランキングはこちら...",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/26",
+            "title": "【2月26日ランキング】GitHub Actions から GitHub Container Registry へ丁寧にコンテナイメージを Push する／ほか4本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://ogimage.blog.st-hatena.com/6802340630900496324/6802418398331753335/1740490238\"><br>Google Cloudチャンネル 2025年2月26日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事2本）。<br>1位: GitHub Actions から GitHub...",
+            "image": {
+                "type": null,
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F6802340630900496324%2F6802418398331753335%2F1740490238"
+            },
+            "date_modified": "2025-02-25T20:00:09.301Z",
+            "date_published": "2025-02-25T20:00:09.301Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月26日ランキング】GitHub Actions から GitHub Container Registry へ丁寧にコンテナイメージを Push する／ほか4本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2025/02/25/190503",
+            "content_html": "データ&AIチームでデータエンジニアを担当している塚田です。 弊社のデータ基盤はさまざまなデータソースからデータを連携しており、そのデータを活用することで全社のデータ基盤として成り立っています。 その中で、Google Analytics for Firebaseの活用をベースにBigQueryのコストダウンした事例をご紹介できればと思います。 概要 改めて、弊社ではGoogle Analytics for Firebaseなど色々な基盤を用いてログを収集していいます。 今回はGoogle Analytics for Firebaseを用いたログの取得とその保存先であるBigQueryを利用し…",
+            "url": "https://tech.every.tv/entry/2025/02/25/190503",
+            "title": "BigQueryのストレージコストを削減するために実施したこと | every Tech Blog",
+            "summary": "データ&AIチームでデータエンジニアを担当している塚田です。 弊社のデータ基盤はさまざまなデータソースからデータを連携しており、そのデータを活用することで全社のデータ基盤として成り立っています。 その中で、Google Analytics for Firebaseの活用をベースにBigQueryのコストダウンした事例をご紹介できればと思います。 概要 改めて、弊社ではGoogle Analytic...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/14b77caa897c0a1e597da63cdf33d32002996bb3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkadakei%2F20250225%2F20250225160543.png"
+            },
+            "date_modified": "2025-02-25T10:05:03.000Z",
+            "date_published": "2025-02-25T10:05:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "BigQueryのストレージコストを削減するために実施したこと",
+                "blogTitle": "every Tech Blog",
+                "blogLink": "https://tech.every.tv/",
+                "blogLinkMd5Hash": "c29ab0fee97894675fe084b84a9033c0"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2025/02/switch_bigquery_editions/",
+            "content_html": "はじめに こんにちは。データ基盤部ゲームエンタメグループ所属の武永です。 データ基盤部ゲームエンタメグループでは全社のゲーム関連プロジェクトを横断し、データ分析や機械学習に用いるデータ基盤を提供しています。 突然ですが、みなさんは毎月のBigQuery分析費用に頭を悩ませていないでしょうか。 ゲームエンタメグループでは日々のデータ集計で発生する高額なBigQuery分析費用に対し課題を感じていました。 その",
+            "url": "https://engineering.dena.com/blog/2025/02/switch_bigquery_editions/",
+            "title": "BigQuery Editions移行で分析コストを70%削減した話 | Blog on DeNA Engineering",
+            "summary": "はじめに こんにちは。データ基盤部ゲームエンタメグループ所属の武永です。 データ基盤部ゲームエンタメグループでは全社のゲーム関連プロジェクトを横断し、データ分析や機械学習に用いるデータ基盤を提供しています。 突然ですが、みなさんは毎月のBigQuery分析費用に頭を悩ませていないでしょうか。 ゲームエンタメグループでは日々のデータ集計で発生する高額なBigQuery分析費用に対し課題を感じていまし...",
+            "image": {
+                "type": "png",
+                "url": "https://engineering.dena.com/blog/2025/02/switch_bigquery_editions/cover.png"
+            },
+            "date_modified": "2025-02-25T00:00:00.000Z",
+            "date_published": "2025-02-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "BigQuery Editions移行で分析コストを70%削減した話",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/WordPress/selections/daily/2025/2/25",
+            "content_html": "<img src=\"https://speckyboy.com/wp-content/uploads/2025/02/wp-ai-prompts-thumb.jpg\"><br>WordPressチャンネル 2025年2月25日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: 8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy（speckyboy.com）<br>2位: WordPress.com vs WordPress.org: 10 Differences to Know（jetpack.com）<br><a href=\"https://techfeed.io/channels/WordPress/selections/daily/2025/2/25?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2...",
+            "url": "https://techfeed.io/channels/WordPress/selections/daily/2025/2/25",
+            "title": "【2月25日ランキング】8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy／ほか1本 | TechFeedおすすめ記事ランキング - WordPressチャンネル",
+            "summary": "<img src=\"https://speckyboy.com/wp-content/uploads/2025/02/wp-ai-prompts-thumb.jpg\"><br>WordPressチャンネル 2025年2月25日のTechFeed記事デイリーランキングです（英語記事2本）。<br>1位: 8 Handy AI Prompts to Speed Up Your WordPress Wo...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fwp-ai-prompts-thumb.jpg"
+            },
+            "date_modified": "2025-02-24T20:00:09.717Z",
+            "date_published": "2025-02-24T20:00:09.717Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月25日ランキング】8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - WordPressチャンネル",
+                "blogLink": "http://techfeed.io/channels/WordPress",
+                "blogLinkMd5Hash": "3d0d0148d7b199ee99ad4667861d6138"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/WordPress/selections/daily/2025/2/24",
+            "content_html": "<img src=\"https://speckyboy.com/wp-content/uploads/2025/02/wp-ai-prompts-thumb.jpg\"><br>WordPressチャンネル 2025年2月24日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: 8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy（speckyboy.com）<br><a href=\"https://techfeed.io/channels/WordPress/selections/daily/2025/2/24?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FWordPress\">",
+            "url": "https://techfeed.io/channels/WordPress/selections/daily/2025/2/24",
+            "title": "【2月24日ランキング】8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy | TechFeedおすすめ記事ランキング - WordPressチャンネル",
+            "summary": "<img src=\"https://speckyboy.com/wp-content/uploads/2025/02/wp-ai-prompts-thumb.jpg\"><br>WordPressチャンネル 2025年2月24日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: 8 Handy AI Prompts to Speed Up Your WordPress Wo...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fwp-ai-prompts-thumb.jpg"
+            },
+            "date_modified": "2025-02-24T01:00:09.504Z",
+            "date_published": "2025-02-24T01:00:09.504Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月24日ランキング】8 Handy AI Prompts to Speed Up Your WordPress Workflow – Speckyboy",
+                "blogTitle": "TechFeedおすすめ記事ランキング - WordPressチャンネル",
+                "blogLink": "http://techfeed.io/channels/WordPress",
+                "blogLinkMd5Hash": "3d0d0148d7b199ee99ad4667861d6138"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/21",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250218%2F20250218184044.jpg\"><br>Google Cloudチャンネル 2025年2月21日のTechFeed記事デイリーランキングです（日本語記事2本）。<br>1位: BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する（techblog.zozo.com）<br>2位: Cloud Runの手動スケーリングを解説（blog.g-gen.co.jp）<br><a href=\"https://techfeed.io/channels/Google%20Cloud/selections/daily/2...",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/21",
+            "title": "【2月21日ランキング】BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する／ほか1本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fv...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250218%2F20250218184044.jpg"
+            },
+            "date_modified": "2025-02-20T20:00:19.377Z",
+            "date_published": "2025-02-20T20:00:19.377Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月21日ランキング】BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する／ほか1本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/21",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2502/19/cover_news038.jpg\"><br>X as a Serviceチャンネル 2025年2月21日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Androidアプリに生成AI機能を追加する際に注意すべき点 Googleが「Firebase向けVertex AI」で説明（atmarkit.itmedia.co.jp）<br><a href=\"https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/21?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FX%2520as%2520a%2520Service\">",
+            "url": "https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/21",
+            "title": "【2月21日ランキング】Androidアプリに生成AI機能を追加する際に注意すべき点　Googleが「Firebase向けVertex AI」で説明 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2502/19/cover_news038.jpg\"><br>X as a Serviceチャンネル 2025年2月21日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Androidアプリに生成AI機能を追加する際に注意すべき点 Googleが「Firebase向...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2502%2F19%2Fcover_news038.jpg"
+            },
+            "date_modified": "2025-02-20T20:00:19.377Z",
+            "date_published": "2025-02-20T20:00:19.377Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月21日ランキング】Androidアプリに生成AI機能を追加する際に注意すべき点　Googleが「Firebase向けVertex AI」で説明",
+                "blogTitle": "TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+                "blogLink": "http://techfeed.io/channels/X%20as%20a%20Service",
+                "blogLinkMd5Hash": "06ee3f121ba403e0005e31e22cd35021"
+            }
+        },
+        {
+            "id": "https://engineering.mercari.com/blog/entry/20250220-8685a1def6/",
+            "content_html": "こんにちは。Mercari DBRE(Database Reliability Engineer) チームのエンジニアの @takashi-kun です. 今回私達のチームでは複数の Cloud SQL for Post […]",
+            "url": "https://engineering.mercari.com/blog/entry/20250220-8685a1def6/",
+            "title": "Cloud SQL for PostgreSQL のインスタンス統合 | メルカリエンジニアリングブログ",
+            "summary": "こんにちは。Mercari DBRE(Database Reliability Engineer) チームのエンジニアの @takashi-kun です. 今回私達のチームでは複数の Cloud SQL for Post […]",
+            "image": {
+                "type": "jpg",
+                "url": "https://engineering.mercari.com//img/ogp/ogp_a.jpg"
+            },
+            "date_modified": "2025-02-20T06:18:39.000Z",
+            "date_published": "2025-02-20T06:18:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud SQL for PostgreSQL のインスタンス統合",
+                "blogTitle": "メルカリエンジニアリングブログ",
+                "blogLink": "https://engineering.mercari.com/blog/",
+                "blogLinkMd5Hash": "bb31afa18161ec12208933ea2b5056a5"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/bq-storage-cost-calculation",
+            "content_html": "こんにちは。千葉県の特産品として真っ先に思い浮かぶものがヨウ素*1な、データシステム部データ基盤ブロックの塩崎です。 この記事ではBigQueryストレージの費用を計算する方法と、費用を節約するための戦略について説明します。BigQueryストレージの費用計算をするために、まずストレージを2軸・8種類に分類し、それぞれの軸の視点から費用節約をする方法を紹介します。特にTime travel機能やFail-safe機能が関わると計算ミスをしやすくなるため、それらについても説明します。 ストレージの分類 最初にBigQueryストレージを分類するための2つの軸を説明します。1つ目の軸はライフサイク…",
+            "url": "https://techblog.zozo.com/entry/bq-storage-cost-calculation",
+            "title": "BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する | ZOZO TECH BLOG",
+            "summary": "こんにちは。千葉県の特産品として真っ先に思い浮かぶものがヨウ素*1な、データシステム部データ基盤ブロックの塩崎です。 この記事ではBigQueryストレージの費用を計算する方法と、費用を節約するための戦略について説明します。BigQueryストレージの費用計算をするために、まずストレージを2軸・8種類に分類し、それぞれの軸の視点から費用節約をする方法を紹介します。特にTime travel機能やF...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250218%2F20250218184044.jpg"
+            },
+            "date_modified": "2025-02-20T02:00:00.000Z",
+            "date_published": "2025-02-20T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2025/02/20/100000",
+            "content_html": "技術本部 研究開発部 Architectグループの島です。 前回の記事の続きで、完結編です。Sansan内製の名刺OCRである「NineOCR」の基盤を改良します。 buildersbox.corp-sansan.com 筆が進まないまま前編から1年経ちそうで慌てて書いている次第ですが、そうこうしているうちに、実は更に新しいシステム構成にする話が挙がってきまして、なんとかその前に話を完結させておきます。あくまで取り組んだ当時の判断として開発した内容を以下ご紹介します。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2025/02/20/100000",
+            "title": "【R&D DevOps通信】Google Compute Engine + GPUで動作するMLサービスの基盤を刷新した話（完結編） | Sansan Tech Blog",
+            "summary": "技術本部 研究開発部 Architectグループの島です。 前回の記事の続きで、完結編です。Sansan内製の名刺OCRである「NineOCR」の基盤を改良します。 buildersbox.corp-sansan.com 筆が進まないまま前編から1年経ちそうで慌てて書いている次第ですが、そうこうしているうちに、実は更に新しいシステム構成にする話が挙がってきまして、なんとかその前に話を完結させておき...",
+            "image": {
+                "type": null,
+                "url": "https://cdn.image.st-hatena.com/image/scale/d1d660fc11d4ea10916a11cbad0cecb7b7fed8c5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F157843564%2F1657502198539697"
+            },
+            "date_modified": "2025-02-20T01:00:00.000Z",
+            "date_published": "2025-02-20T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "【R&D DevOps通信】Google Compute Engine + GPUで動作するMLサービスの基盤を刷新した話（完結編）",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/cloud-run-manual-scaling-explained",
+            "content_html": "G-gen の佐々木です。当記事では、Cloud Run の手動スケーリング機能について解説します。 はじめに Cloud Run とは 注意事項 手動スケーリングの仕様 手動スケーリングとは サービスとリビジョンの設定 トラフィック分割への影響 サービスの無効化 手動スケーリングの使用 手動スケーリング設定時の料金 リクエストベースの課金の場合 インスタンスベースの課金の場合 スケジュールベースの自動スケーリング Cloud Scheduler の利用 自動スケーリングにおけるスケールのスケジューリング はじめに Cloud Run とは Cloud Run は Google Cloud の…",
+            "url": "https://blog.g-gen.co.jp/entry/cloud-run-manual-scaling-explained",
+            "title": "Cloud Runの手動スケーリングを解説 | G-gen Tech Blog",
+            "summary": "G-gen の佐々木です。当記事では、Cloud Run の手動スケーリング機能について解説します。 はじめに Cloud Run とは 注意事項 手動スケーリングの仕様 手動スケーリングとは サービスとリビジョンの設定 トラフィック分割への影響 サービスの無効化 手動スケーリングの使用 手動スケーリング設定時の料金 リクエストベースの課金の場合 インスタンスベースの課金の場合 スケジュールベース...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/0ae7038129cbe39b78100346a912cfe8634322a0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250220%2F20250220090017.png"
+            },
+            "date_modified": "2025-02-20T00:00:00.000Z",
+            "date_published": "2025-02-20T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Runの手動スケーリングを解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/20",
+            "content_html": "<img src=\"https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250218%2F20250218184044.jpg\"><br>Google Cloudチャンネル 2025年2月20日のTechFeed記事デイリーランキングです（日本語記事2本、英語記事1本）。<br>1位: BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する（techblog.zozo.com）<br>2位: Cloud Runの手動スケーリングを解説（blog.g-gen.co.jp）<br>1位: Run open-source LLMs on BigQuery ML（cloud.google.com）<br><a ...",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/20",
+            "title": "【2月20日ランキング】BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する／ほか2本 | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fv...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/ab4946ffc0be50e712c653266f2741f5ee5b2c44/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250218%2F20250218184044.jpg"
+            },
+            "date_modified": "2025-02-19T20:00:17.242Z",
+            "date_published": "2025-02-19T20:00:17.242Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月20日ランキング】BigQueryストレージのライフサイクルと課金モデルという視点から費用の計算方法を整理する／ほか2本",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/20",
+            "content_html": "<img src=\"https://image.itmedia.co.jp/ait/articles/2502/19/cover_news038.jpg\"><br>X as a Serviceチャンネル 2025年2月20日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Androidアプリに生成AI機能を追加する際に注意すべき点 Googleが「Firebase向けVertex AI」で説明（atmarkit.itmedia.co.jp）<br><a href=\"https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/20?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FX%2520as%2520a%2520Service\">",
+            "url": "https://techfeed.io/channels/X%20as%20a%20Service/selections/daily/2025/2/20",
+            "title": "【2月20日ランキング】Androidアプリに生成AI機能を追加する際に注意すべき点　Googleが「Firebase向けVertex AI」で説明 | TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+            "summary": "<img src=\"https://image.itmedia.co.jp/ait/articles/2502/19/cover_news038.jpg\"><br>X as a Serviceチャンネル 2025年2月20日のTechFeed記事デイリーランキングです（日本語記事1本）。<br>1位: Androidアプリに生成AI機能を追加する際に注意すべき点 Googleが「Firebase向...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2502%2F19%2Fcover_news038.jpg"
+            },
+            "date_modified": "2025-02-19T20:00:17.242Z",
+            "date_published": "2025-02-19T20:00:17.242Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月20日ランキング】Androidアプリに生成AI機能を追加する際に注意すべき点　Googleが「Firebase向けVertex AI」で説明",
+                "blogTitle": "TechFeedおすすめ記事ランキング - X as a Serviceチャンネル",
+                "blogLink": "http://techfeed.io/channels/X%20as%20a%20Service",
+                "blogLinkMd5Hash": "06ee3f121ba403e0005e31e22cd35021"
+            }
+        },
+        {
+            "id": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/19",
+            "content_html": "<img src=\"https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg\"><br>Google Cloudチャンネル 2025年2月19日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Run open-source LLMs on BigQuery ML（cloud.google.com）<br><a href=\"https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/19?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fchannels%2FGoogle%2520Cloud%2520Platform\">",
+            "url": "https://techfeed.io/channels/Google%20Cloud/selections/daily/2025/2/19",
+            "title": "【2月19日ランキング】Run open-source LLMs on BigQuery ML | TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+            "summary": "<img src=\"https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg\"><br>Google Cloudチャンネル 2025年2月19日のTechFeed記事デイリーランキングです（英語記事1本）。<br>1位: Run open-so...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Fimages%2F09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
+            },
+            "date_modified": "2025-02-19T01:00:13.159Z",
+            "date_published": "2025-02-19T01:00:13.159Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【2月19日ランキング】Run open-source LLMs on BigQuery ML",
+                "blogTitle": "TechFeedおすすめ記事ランキング - Google Cloudチャンネル",
+                "blogLink": "http://techfeed.io/channels/Google%20Cloud%20Platform",
+                "blogLinkMd5Hash": "4efa9da48b12ef27b65b746e247d9ca4"
+            }
+        }
+    ]
+}

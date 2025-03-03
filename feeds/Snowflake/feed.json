@@ -1,0 +1,128 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025",
+            "content_html": "Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025",
+            "title": "Top 3 Reasons to Join Snowflake at Mobile World Congress 2025 | ",
+            "summary": "Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Snowflake_Mobile%20World%20Congress%202025-BlogHeader.png"
+            },
+            "date_modified": "2025-02-28T17:55:21.000Z",
+            "date_published": "2025-02-28T17:55:21.000Z",
+            "author": {
+                "name": "Snowflake"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top 3 Reasons to Join Snowflake at Mobile World Congress 2025",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion",
+            "content_html": "Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion",
+            "title": "Snowflake to Invest up to $200M in Next Gen Startups Innovating on its AI Data Cloud | ",
+            "summary": "Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Blog_AEM_1680x720_Start-up-accelerator-optimized-v2.png"
+            },
+            "date_modified": "2025-02-27T16:40:45.000Z",
+            "date_published": "2025-02-27T16:40:45.000Z",
+            "author": {
+                "name": "Snowflake"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake to Invest up to $200M in Next Gen Startups Innovating on its AI Data Cloud",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants",
+            "content_html": "Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants",
+            "title": "Snowflake invests in Genesis Computing, bringing chatbot assistants to the AI Data Cloud | ",
+            "summary": "Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.",
+            "image": {
+                "type": "image/png",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/250224_Snowflake%20Ventures%20%20%20Genesis%20Thumbnail.png"
+            },
+            "date_modified": "2025-02-27T02:16:02.000Z",
+            "date_published": "2025-02-27T02:16:02.000Z",
+            "author": {
+                "name": "Harsha Kapre"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Snowflake invests in Genesis Computing, bringing chatbot assistants to the AI Data Cloud",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights",
+            "content_html": "Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.",
+            "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights",
+            "title": "The Snowflake Training Advantage: Powerful ROI of Snowflake Education | ",
+            "summary": "Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Training_for_success_Blog_3_AEM_1680x720.jpg"
+            },
+            "date_modified": "2025-02-20T18:11:12.000Z",
+            "date_published": "2025-02-20T18:11:12.000Z",
+            "author": {
+                "name": "Cassie Wallgren"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Snowflake Training Advantage: Powerful ROI of Snowflake Education",
+                "blogTitle": "",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "https://blog.truestar.co.jp/?p=62094",
+            "content_html": "こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -タブロイド-.",
+            "url": "https://blog.truestar.co.jp/dataiku/20250219/62094/",
+            "title": "Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった | Tableau-id Press -タブロイド-",
+            "summary": "こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -...",
+            "date_modified": "2025-02-18T15:00:39.000Z",
+            "date_published": "2025-02-18T15:00:39.000Z",
+            "author": {
+                "name": "s.sumi"
+            },
+            "tags": [
+                "Dataiku"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった",
+                "blogTitle": "Tableau-id Press -タブロイド-",
+                "blogLink": "https://blog.truestar.co.jp",
+                "blogLinkMd5Hash": "34778be0f27832982c7e92447a855a95"
+            }
+        }
+    ]
+}

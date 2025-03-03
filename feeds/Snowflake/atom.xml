@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2025-03-03T07:24:43.766Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Top 3 Reasons to Join Snowflake at Mobile World Congress 2025 | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025"/>
+        <updated>2025-02-28T17:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.]]></summary>
+        <content type="html"><![CDATA[Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <published>2025-02-28T17:55:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake to Invest up to $200M in Next Gen Startups Innovating on its AI Data Cloud | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion"/>
+        <updated>2025-02-27T16:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.]]></summary>
+        <content type="html"><![CDATA[Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.]]></content>
+        <author>
+            <name>Snowflake</name>
+        </author>
+        <published>2025-02-27T16:40:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake invests in Genesis Computing, bringing chatbot assistants to the AI Data Cloud | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants"/>
+        <updated>2025-02-27T02:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.]]></summary>
+        <content type="html"><![CDATA[Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.]]></content>
+        <author>
+            <name>Harsha Kapre</name>
+        </author>
+        <published>2025-02-27T02:16:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Snowflake Training Advantage: Powerful ROI of Snowflake Education | ]]></title>
+        <id>https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights</id>
+        <link href="https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights"/>
+        <updated>2025-02-20T18:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.]]></summary>
+        <content type="html"><![CDATA[Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.]]></content>
+        <author>
+            <name>Cassie Wallgren</name>
+        </author>
+        <published>2025-02-20T18:11:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった | Tableau-id Press -タブロイド-]]></title>
+        <id>https://blog.truestar.co.jp/?p=62094</id>
+        <link href="https://blog.truestar.co.jp/dataiku/20250219/62094/"/>
+        <updated>2025-02-18T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -...]]></summary>
+        <content type="html"><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -タブロイド-.]]></content>
+        <author>
+            <name>s.sumi</name>
+        </author>
+        <category label="Dataiku"/>
+        <published>2025-02-18T15:00:39.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>企業テックブログRSS</title>
+        <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        <description>企業のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 03 Mar 2025 07:24:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higurashit/knowledge-management-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>企業テックブログRSS</title>
+            <url>https://higurashit.github.io/knowledge-management-rss/images/icon.png</url>
+            <link>https://higurashit.github.io/knowledge-management-rss/</link>
+        </image>
+        <copyright>higurashit/knowledge-management-rss</copyright>
+        <atom:link href="https://higurashit.github.io/knowledge-management-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top 3 Reasons to Join Snowflake at Mobile World Congress 2025 | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/join-snowflake-mwc-2025</guid>
+            <pubDate>Fri, 28 Feb 2025 17:55:21 GMT</pubDate>
+            <description><![CDATA[Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.]]></description>
+            <content:encoded><![CDATA[Join Snowflake at MWC 2025 to explore AI innovation, telecom trends, and cutting-edge connectivity solutions. Discover hands-on insights and industry-leading expertise.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Snowflake_Mobile%20World%20Congress%202025-BlogHeader.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake to Invest up to $200M in Next Gen Startups Innovating on its AI Data Cloud | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-accelerator-investment-expansion</guid>
+            <pubDate>Thu, 27 Feb 2025 16:40:45 GMT</pubDate>
+            <description><![CDATA[Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.]]></description>
+            <content:encoded><![CDATA[Snowflake is expanding the Startup Accelerator to include up to a $200 million investment in startups growing their businesses on the Snowflake AI Data Cloud.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Blog_AEM_1680x720_Start-up-accelerator-optimized-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake invests in Genesis Computing, bringing chatbot assistants to the AI Data Cloud | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/genesis-computing-investment-chatbot-assistants</guid>
+            <pubDate>Thu, 27 Feb 2025 02:16:02 GMT</pubDate>
+            <description><![CDATA[Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.]]></description>
+            <content:encoded><![CDATA[Snowflake invests in Genesis Computing empowering technical & non-technical users to create data agents for Business Analysts, Data Engineers & Data Ops teams.]]></content:encoded>
+            <enclosure length="0" type="image/png" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/250224_Snowflake%20Ventures%20%20%20Genesis%20Thumbnail.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Snowflake Training Advantage: Powerful ROI of Snowflake Education | ]]></title>
+            <link>https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights</link>
+            <guid>https://www.snowflake.com/content/snowflake-site/global/en/blog/training-advantage-survey-roi-insights</guid>
+            <pubDate>Thu, 20 Feb 2025 18:11:12 GMT</pubDate>
+            <description><![CDATA[Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.]]></description>
+            <content:encoded><![CDATA[Leading enterprises are using Snowflake training programs to fuel widespread efficiency, innovation and cost-savings. Learn more in our Train for Success report.]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" url="https://publish-p57963-e462109.adobeaemcloud.com/content/dam/snowflake-site/blog/2025/02/Training_for_success_Blog_3_AEM_1680x720.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった | Tableau-id Press -タブロイド-]]></title>
+            <link>https://blog.truestar.co.jp/dataiku/20250219/62094/</link>
+            <guid>https://blog.truestar.co.jp/?p=62094</guid>
+            <pubDate>Tue, 18 Feb 2025 15:00:39 GMT</pubDate>
+            <description><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -...]]></description>
+            <content:encoded><![CDATA[こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今回は最近リリースされたDataiku Optimizer for Snowflakeの導入方法～何ができるのか？をまと... Dataiku Optimizer for Snowflakeはトライアル環境だと接続できなかった first appeared on Tableau-id Press -タブロイド-.]]></content:encoded>
+            <category>Dataiku</category>
+        </item>
+    </channel>
+</rss>

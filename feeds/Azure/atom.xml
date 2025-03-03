@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higurashit.github.io/knowledge-management-rss/</id>
+    <title>企業テックブログRSS</title>
+    <updated>2025-03-03T07:24:48.159Z</updated>
+    <generator>higurashit/knowledge-management-rss</generator>
+    <link rel="alternate" href="https://higurashit.github.io/knowledge-management-rss/"/>
+    <link rel="self" href="https://higurashit.github.io/knowledge-management-rss/feeds/atom.xml"/>
+    <subtitle>企業のテックブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://higurashit.github.io/knowledge-management-rss/images/icon.png</logo>
+    <icon>https://higurashit.github.io/knowledge-management-rss/images/favicon.ico</icon>
+    <rights>higurashit/knowledge-management-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[【3月3日ランキング】クラウドインフラのシェア、Google Cloudがやや上昇するもAWSが33％で依然トップ、2位Azureの20％は変わらず。Canalysによる2024年第4四半期の調査結果／ほか2本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/3/3</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/3/3"/>
+        <updated>2025-03-02T20:00:09.772Z</updated>
+        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2025/canalys2024q4.png"><br>Amazon Web Servicesチャンネル 2025年3月3日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: クラウドインフラのシェア、Google Cloudがやや上昇するもAWSが33％で依然トップ、2位Azureの...]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.publickey1.jp/2025/canalys2024q4.png"><br>Amazon Web Servicesチャンネル 2025年3月3日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事2本）。<br>1位: クラウドインフラのシェア、Google Cloudがやや上昇するもAWSが33％で依然トップ、2位Azureの20％は変わらず。Canalysによる2024年第4四半期の調査結果（www.publickey1.jp）<br>1位: Here's how AWS is helping financial giants like JPMorgan and Bridgewater with their AI ambitions（www.businessinsider.com）<br>2位: OpenAI's half-step; AWS has a quantum chip（www.runtime.news）<br><a href="https://techfeed.io/channels/Amazon%2...]]></content>
+        <published>2025-03-02T20:00:09.772Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Apps でo1-mini LLMを叩く | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/clouddevcode/articles/0c488c193301a0</id>
+        <link href="https://zenn.dev/clouddevcode/articles/0c488c193301a0"/>
+        <updated>2025-03-02T06:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Azure Container Appsから o1-mini LLMに対して推論試せるところまで環境作成しました。   アプリケーション Managed ID認証を利用してAzureOpenAI (o1-mini)にアクセスします。 AzureOpenAI Service のoシリーズモデル、o1-miniのみ解放されていたので、o1-miniでの実装になります。 AzureOpenAI Serv...]]></summary>
+        <content type="html"><![CDATA[Azure Container Appsから o1-mini LLMに対して推論試せるところまで環境作成しました。   アプリケーション Managed ID認証を利用してAzureOpenAI (o1-mini)にアクセスします。 AzureOpenAI Service のoシリーズモデル、o1-miniのみ解放されていたので、o1-miniでの実装になります。 AzureOpenAI Serviceのo1-miniは、Global Standardのみの提供です。リージョンは、westus3 (今回は使用しませんが、Azure Container AppsのGPU Quota 解放し...]]></content>
+        <author>
+            <name>s.hiruta</name>
+        </author>
+        <published>2025-03-02T06:41:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】異なるリージョン間でのAppServiceとAzure Database for MySQLの接続が失敗する場合の対処方法 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/0ae2073c8f23a8</id>
+        <link href="https://zenn.dev/headwaters/articles/0ae2073c8f23a8"/>
+        <updated>2025-02-28T14:52:43.000Z</updated>
+        <summary type="html"><![CDATA[概要 2025年2月現在、東日本リージョンのAppServicePlanが枯渇していることがあり、AppServicePlanを西日本リージョンにデプロイし、Azure Database for MySQLは東日本リージョンでデプロイしている状況です。その際に仮想ネットワーク統合、仮想ネットワークのピアリング、NSGやサブネットの設定に誤りがないにもかかわらず、AppServiceからAzure ...]]></summary>
+        <content type="html"><![CDATA[概要 2025年2月現在、東日本リージョンのAppServicePlanが枯渇していることがあり、AppServicePlanを西日本リージョンにデプロイし、Azure Database for MySQLは東日本リージョンでデプロイしている状況です。その際に仮想ネットワーク統合、仮想ネットワークのピアリング、NSGやサブネットの設定に誤りがないにもかかわらず、AppServiceからAzure Database for MySQLへのPython処理が失敗している事象がありました。   構成    確認したこと  特に西日本リージョンでデプロイしたAppServicePlanの仮想...]]></content>
+        <author>
+            <name>jemiya</name>
+        </author>
+        <published>2025-02-28T14:52:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure OpenAI の Function Calling で並列関数呼び出しが出来るようになっていた | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/0f1de630d467f8</id>
+        <link href="https://zenn.dev/headwaters/articles/0f1de630d467f8"/>
+        <updated>2025-02-28T14:46:04.000Z</updated>
+        <summary type="html"><![CDATA[執筆日 2025/02/28   概要 以前、Function Callingについての記事を書いていましたがこの時は並列関数呼び出しに対応しておらず、一度のリクエスト実行で一つの関数しか実行してくれませんでした（一つの関数を複数回呼び出しは出来た）。が、いつの間にか対応して出来るようになっていました。API的には2023年12月には出来たよとMS Learnに書いてあるけど……？ https:/...]]></summary>
+        <content type="html"><![CDATA[執筆日 2025/02/28   概要 以前、Function Callingについての記事を書いていましたがこの時は並列関数呼び出しに対応しておらず、一度のリクエスト実行で一つの関数しか実行してくれませんでした（一つの関数を複数回呼び出しは出来た）。が、いつの間にか対応して出来るようになっていました。API的には2023年12月には出来たよとMS Learnに書いてあるけど……？ https://zenn.dev/headwaters/articles/13316d641c9555   使用方法 AzureOpenAIのクライアントのchat.completions.createメ...]]></content>
+        <author>
+            <name>kodani takushi</name>
+        </author>
+        <published>2025-02-28T14:46:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Webアプリ に Streamlitアプリ を最速でデプロイする | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/5491513f88a8b9</id>
+        <link href="https://zenn.dev/headwaters/articles/5491513f88a8b9"/>
+        <updated>2025-02-28T13:56:07.000Z</updated>
+        <summary type="html"><![CDATA[概要 Streamlitで作ったアプリのWebアプリデプロイが思ってたより簡単で感動したので共有します。   前提  Azure Subscriptionがある VSCodeがあり、拡張機能でAzureにログインしている    手順  Azure portalでWebアプリのリソースを作成[1]（コードはpythonを選択） VSCodeの拡張機能でアプリデプロイ ※ Azure App Serv...]]></summary>
+        <content type="html"><![CDATA[概要 Streamlitで作ったアプリのWebアプリデプロイが思ってたより簡単で感動したので共有します。   前提  Azure Subscriptionがある VSCodeがあり、拡張機能でAzureにログインしている    手順  Azure portalでWebアプリのリソースを作成[1]（コードはpythonを選択） VSCodeの拡張機能でアプリデプロイ ※ Azure App Service拡張機能をインストールしていない場合はインストールする 下記サンプルコード類を参考にプロジェクトディレクトリにファイル2つを用意。 AzureのWebアプリのアイコン → Deploy...]]></content>
+        <author>
+            <name>kodani takushi</name>
+        </author>
+        <published>2025-02-28T13:56:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Azureのサービスの予約購入したものを参照できない際の対処方法 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/5337259b0612f5</id>
+        <link href="https://zenn.dev/headwaters/articles/5337259b0612f5"/>
+        <updated>2025-02-28T12:35:17.000Z</updated>
+        <summary type="html"><![CDATA[概要 Azureサービスのリソースは基本的には従量課金のコストですが、長く使用する場合は予約購入を使用することで従量課金と比較すると場合によってはおよそ半額のコストで運用ができるようになります。今回は、グローバル管理者などの管理者が予約購入しても、予約から下図画面のように内容が表示されない時の対処方法を共有します。    予約購入可能な主なサービス  ここで予約購入可能な主なサービスをピックアップ...]]></summary>
+        <content type="html"><![CDATA[概要 Azureサービスのリソースは基本的には従量課金のコストですが、長く使用する場合は予約購入を使用することで従量課金と比較すると場合によってはおよそ半額のコストで運用ができるようになります。今回は、グローバル管理者などの管理者が予約購入しても、予約から下図画面のように内容が表示されない時の対処方法を共有します。    予約購入可能な主なサービス  ここで予約購入可能な主なサービスをピックアップします。他にもありますが、あくまでよく使うであろうものになります。   仮想マシン AppService（リソース数ではなくて、インスタンス数のカウントになるので注意） Database f...]]></content>
+        <author>
+            <name>jemiya</name>
+        </author>
+        <published>2025-02-28T12:35:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Azureの管理者を引き継ぐ方法 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/a7dd37e96931af</id>
+        <link href="https://zenn.dev/headwaters/articles/a7dd37e96931af"/>
+        <updated>2025-02-28T11:35:22.000Z</updated>
+        <summary type="html"><![CDATA[概要 今回はAzureの管理者を引き継ぐ方法を紹介します。 例えば、Aさんが退職なり離職なり案件から外れるなりの理由でBさんに引き継ぐといった形です。 ※GPTに描かせましたwww 少し文字は微妙な感じはしますが。    必要なもの  スマホ Authenticatorアプリのインストール ※なお、1アカウント5台までスマホによるAuthenticator認証が可能です。  ! 注意事項 パスワー...]]></summary>
+        <content type="html"><![CDATA[概要 今回はAzureの管理者を引き継ぐ方法を紹介します。 例えば、Aさんが退職なり離職なり案件から外れるなりの理由でBさんに引き継ぐといった形です。 ※GPTに描かせましたwww 少し文字は微妙な感じはしますが。    必要なもの  スマホ Authenticatorアプリのインストール ※なお、1アカウント5台までスマホによるAuthenticator認証が可能です。  ! 注意事項 パスワードの管理は厳重にお願いします。忘れると場合によっては非常に面倒なことになります...    手順   管理者を引き継ぐBさんがグローバル管理者アカウントでAzureにアクセスする。 http...]]></content>
+        <author>
+            <name>jemiya</name>
+        </author>
+        <published>2025-02-28T11:35:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Apps から Workload Identity 連携 を使って Vertex AI に認証する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/neoai/articles/fa80f5311fc4fc</id>
+        <link href="https://zenn.dev/neoai/articles/fa80f5311fc4fc"/>
+        <updated>2025-02-28T06:53:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 初めまして、neoAIでソフトウェアエンジニアをしている松岡です。 本記事では、Google Cloud の Workload Identity Federation を使用して、Azure Container Apps から サービスアカウントキーを使用せずにGoogle CloudのサービスであるVertex AI に認証する方法を解説します。 サービスアカウントキーを使用しないこと...]]></summary>
+        <content type="html"><![CDATA[はじめに 初めまして、neoAIでソフトウェアエンジニアをしている松岡です。 本記事では、Google Cloud の Workload Identity Federation を使用して、Azure Container Apps から サービスアカウントキーを使用せずにGoogle CloudのサービスであるVertex AI に認証する方法を解説します。 サービスアカウントキーを使用しないことで、以下のようなメリットがあります。  秘匿情報の漏洩リスクの軽減 キーローテーションなどの管理コストの削減  Workload Identity を用いた連携方法については、公式ドキュメン...]]></content>
+        <author>
+            <name>Hotaka Matsuoka</name>
+        </author>
+        <published>2025-02-28T06:53:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure】Log Analyticsを理解する（初級） | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2025/02/28/103702</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2025/02/28/103702"/>
+        <updated>2025-02-28T01:37:02.000Z</updated>
+        <summary type="html"><![CDATA[目次 目次 はじめに Log Analyticsとは（ざっくり） 設定～ログ確認まで Log Analyticsワークスペースを作成 データ収集ルール （DCR）を作成 クエリ実行してログを確認 停止中（最後のHeartbeatが3分以上前）のVM 直近1時間でどのVMにどのOSユーザがログインしたか VMログイン失敗のログ まとめ はじめに 最近資格取得を目指しつつAzureを触っている機会があ...]]></summary>
+        <content type="html"><![CDATA[目次 目次 はじめに Log Analyticsとは（ざっくり） 設定～ログ確認まで Log Analyticsワークスペースを作成 データ収集ルール （DCR）を作成 クエリ実行してログを確認 停止中（最後のHeartbeatが3分以上前）のVM 直近1時間でどのVMにどのOSユーザがログインしたか VMログイン失敗のログ まとめ はじめに 最近資格取得を目指しつつAzureを触っている機会があるのでその一部をご紹介したいできればと思います。今回はLog Analytics編です。 「どこまでのログが見えるのか」というより「どうやって使うのか」を理解するため、今回試してみた内容は超シンプルに…]]></content>
+        <published>2025-02-28T01:37:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Communication Services (EMail) を用いた SMTP メール送信 | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/_pochio_/articles/9afff144699534</id>
+        <link href="https://zenn.dev/_pochio_/articles/9afff144699534"/>
+        <updated>2025-02-27T23:37:55.000Z</updated>
+        <summary type="html"><![CDATA[API 利用して送信する記事は多かったのですが、SMTP を利用して～が見当たらなかったので、雑多ですが個人的な備忘メモとして。 端的に言うと SendGrid 等ではなく Email Communication Services を利用してメール送信してみようという話です。   Azure Communication Services リソースの作成 Azure Portal の検索から "Co...]]></summary>
+        <content type="html"><![CDATA[API 利用して送信する記事は多かったのですが、SMTP を利用して～が見当たらなかったので、雑多ですが個人的な備忘メモとして。 端的に言うと SendGrid 等ではなく Email Communication Services を利用してメール送信してみようという話です。   Azure Communication Services リソースの作成 Azure Portal の検索から "Communication Services" 選択して、任意でリソースを作成   Email Communication Services リソースの作成 以下、参照  クイック スタート: メー...]]></content>
+        <author>
+            <name>ぽちお</name>
+        </author>
+        <published>2025-02-27T23:37:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月28日ランキング】【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/2/28</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/2/28"/>
+        <updated>2025-02-27T20:00:09.260Z</updated>
+        <summary type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Amazon Web Servicesチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事...]]></summary>
+        <content type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Amazon Web Servicesチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: 【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた（megalodon.jp）<br>2位: AIエージェントを使ってRDSに関するCloudWatchの費用を50％削減した✨（zenn.dev）<br>3位: 個人的備忘録：AWS S3とHTMLで画像を簡単に15分で公開する方法を勝手に紹介してみた（qiita.com）<br>…ほか10本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/2/28?from=rss" t...]]></content>
+        <published>2025-02-27T20:00:09.260Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月28日ランキング】【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた／ほか1本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/28</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/28"/>
+        <updated>2025-02-27T20:00:09.260Z</updated>
+        <summary type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事1本）。<...]]></summary>
+        <content type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月28日のTechFeed記事デイリーランキングです（日本語記事1本、英語記事1本）。<br>1位: 【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた（megalodon.jp）<br>1位: Announcing new models, customization tools, and enterprise agent upgrades in Azure AI Foundry（azure.microsoft.com）<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/28?from=rss" target="_blank">ランキングはこ...]]></content>
+        <published>2025-02-27T20:00:09.260Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月ランキング】【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた／ほか19本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/monthly/2025/2</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/monthly/2025/2"/>
+        <updated>2025-02-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>...]]></summary>
+        <content type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた（megalodon.jp）<br>2位: 「DeepSeek-R1は厳格なレッドチームテストと安全性評価を受けている」Microsoftが公式ブログにて言及／Azure AI FoundryとGitHubで「R1」を提供開始（forest.watch.impress.co.jp）<br>3位: Azure Database for MySQLのIOPS設定の変更で月額約100万円のコストダウンが実現しました（zenn.dev）<br>…ほか17本<br><a href="https://techfeed.io/...]]></content>
+        <published>2025-02-27T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AzureのRoleについての整理(AWSとの比較) | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/cwo/articles/7ff04f486efdba</id>
+        <link href="https://zenn.dev/cwo/articles/7ff04f486efdba"/>
+        <updated>2025-02-27T09:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Roleという単語の概念が、awsとazureで異なるので整理してみました。 まず、Azureには2種類のRoleがあります。本記事はAzure Roleに関する整理になります。   Azure Role : 仮想マシンやストレージなどの Azure リソースへのアクセスを制御  Microsoft Entra Role : ユーザー、グループ、アプリケーションなどの Microsoft Entr...]]></summary>
+        <content type="html"><![CDATA[Roleという単語の概念が、awsとazureで異なるので整理してみました。 まず、Azureには2種類のRoleがあります。本記事はAzure Roleに関する整理になります。   Azure Role : 仮想マシンやストレージなどの Azure リソースへのアクセスを制御  Microsoft Entra Role : ユーザー、グループ、アプリケーションなどの Microsoft Entra リソースへのアクセスを制御  結論として AWSのIAMポリシーがAzure Role、AWSのIAMロールがAzure Managed IDに該当します。 以下対応表です。    Azur...]]></content>
+        <author>
+            <name>punchi</name>
+        </author>
+        <published>2025-02-27T09:14:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Kubernetes Service で kubenet を使っている場合、RouteTable は切り替えることができない | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/aeonpeople/articles/aks-kubenet-cannot-switch-route-table</id>
+        <link href="https://zenn.dev/aeonpeople/articles/aks-kubenet-cannot-switch-route-table"/>
+        <updated>2025-02-27T04:48:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに イオンスマートテクノロジー（AST）でSREチーム所属のTocyukiです。 本記事では最近遭遇したAzure Kubernetes Service（以下AKS）+ kubenet 環境下でRouteTable切り替えをしようとして発生した不可解な挙動について理解出来たので備忘録がてら記事にしたいと思います。   ことの発端 そもそもなんでAKSサブネットのRouteTableを切り替え...]]></summary>
+        <content type="html"><![CDATA[はじめに イオンスマートテクノロジー（AST）でSREチーム所属のTocyukiです。 本記事では最近遭遇したAzure Kubernetes Service（以下AKS）+ kubenet 環境下でRouteTable切り替えをしようとして発生した不可解な挙動について理解出来たので備忘録がてら記事にしたいと思います。   ことの発端 そもそもなんでAKSサブネットのRouteTableを切り替えるというよくわからんことをしようとしたのかという背景について説明します。 御存知の通り(?)、弊社ではAzureリソースにスルメ系命名規則を採用しています。 https://zenn.dev...]]></content>
+        <author>
+            <name>Tocyuki</name>
+        </author>
+        <published>2025-02-27T04:48:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存 Prepayment から新規 Azure テナントのサブスクリプションを払い出してみた | TechHarmony]]></title>
+        <id>https://blog.usize-tech.com/?p=33315</id>
+        <link href="https://blog.usize-tech.com/new-azure-tenant-subscription-from-existing-prepayment/"/>
+        <updated>2025-02-27T01:30:05.000Z</updated>
+        <summary type="html"><![CDATA[概要 Azureの既存Prepaymentから新規Azureテナントのサブスクリプションを払い出してみました。 Microsoft Learnに記載されている手順を参照するだけですが、私が対応した際にアカウントやサブスク […]]]></summary>
+        <content type="html"><![CDATA[概要 Azureの既存Prepaymentから新規Azureテナントのサブスクリプションを払い出してみました。 Microsoft Learnに記載されている手順を参照するだけですが、私が対応した際にアカウントやサブスク […]]]></content>
+        <author>
+            <name>森村</name>
+        </author>
+        <category label="Azure"/>
+        <category label="クラウド"/>
+        <published>2025-02-27T01:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【保存版】GASでAzure OpenAI APIを使いこなす！基本から並列処理まで | SIOS Tech. Lab]]></title>
+        <id>https://tech-lab.sios.jp/?p=46453</id>
+        <link href="https://tech-lab.sios.jp/archives/46453"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[挨拶 最近は、「Dify入門シリーズ」の検証＋執筆にいそしんでいる龍ちゃんです。応用的ステップとして、GASで本格運用する業務アプリの開発などもやっていました。こちらの業務アプリでは、DifyのAPIを叩くわけでなく、A ... 【保存版】GASでAzure OpenAI APIを使いこなす！基本から並列処理まで first appeared on SIOS Tech. Lab.]]></summary>
+        <content type="html"><![CDATA[挨拶 最近は、「Dify入門シリーズ」の検証＋執筆にいそしんでいる龍ちゃんです。応用的ステップとして、GASで本格運用する業務アプリの開発などもやっていました。こちらの業務アプリでは、DifyのAPIを叩くわけでなく、A ... 【保存版】GASでAzure OpenAI APIを使いこなす！基本から並列処理まで first appeared on SIOS Tech. Lab.]]></content>
+        <author>
+            <name>龍：Ryu</name>
+        </author>
+        <category label="生成AI"/>
+        <category label="AOAI"/>
+        <category label="GAS"/>
+        <published>2025-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月27日ランキング】【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた／ほか12本 | TechFeedおすすめ記事ランキング - Amazon Web Servicesチャンネル]]></title>
+        <id>https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/2/27</id>
+        <link href="https://techfeed.io/channels/Amazon%20Web%20Services/selections/daily/2025/2/27"/>
+        <updated>2025-02-26T20:00:08.923Z</updated>
+        <summary type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Amazon Web Servicesチャンネル 2025年2月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事...]]></summary>
+        <content type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Amazon Web Servicesチャンネル 2025年2月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事3本）。<br>1位: 【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた（megalodon.jp）<br>2位: 【注意喚起】AWSのs3にて初歩的なミスを狙った、悪意のある「サンプルコードが吐き出すファイルを意図的に捕獲する公開バケット」が発見される（posfie.com）<br>3位: YouTubeチャンネルを開設したのでAmazon QuickSightで可視化したい！（qiita.com）<br>…ほか10本<br><a href="https://techfeed.io/channels/Amazon%20Web%20Services/selection...]]></content>
+        <published>2025-02-26T20:00:08.923Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月27日ランキング】【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた／ほか3本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/27</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/27"/>
+        <updated>2025-02-26T20:00:08.923Z</updated>
+        <summary type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月27日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<...]]></summary>
+        <content type="html"><![CDATA[<img src="https://megalodon.jp/ci/0/0/1200/630/2025-0226-0209-06/https://zenn.dev:443/murakami_koki/articles/6afb413e829a43"><br>Microsoft Azureチャンネル 2025年2月27日のTechFeed記事デイリーランキングです（日本語記事3本、英語記事1本）。<br>1位: 【魚拓】AzureやAWSなどの認定資格は「本当に無駄なのか」を考えてみた（megalodon.jp）<br>2位: アット東京 Cloud LabでAzureのExpressRouteの検証環境でもくもくしてきました（techblog.ap-com.co.jp）<br>3位: Azureの更新情報を効率よく受け取る方法(英語の情報を自動で翻訳する)（qiita.com）<br>…ほか1本<br><a href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/27?from=rss" ...]]></content>
+        <published>2025-02-26T20:00:08.923Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【書評】400ページ以上に渡り解説される、Azure RAGの構成サービスに関する知識理解を確かめられる資格対策本のご紹介(AI-102本) | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/shisyu_gaku/articles/a6ab0d907f04fb</id>
+        <link href="https://zenn.dev/shisyu_gaku/articles/a6ab0d907f04fb"/>
+        <updated>2025-02-26T17:53:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 著者であるMicrosoftでData&AI領域のSpecialist佐野寛さんよりご恵贈いただきました。感謝の気持ちを込めて推しポイントをご紹介させていただきます。 ▼こちらのAmazonリンクよりご購入可能です。 https://amzn.asia/d/3fdRcM9   結論、RAG構築の際にAzureのAIサービスを既に利用されている方、ご検討されている方は開発の手元に置くバイブ...]]></summary>
+        <content type="html"><![CDATA[はじめに 著者であるMicrosoftでData&AI領域のSpecialist佐野寛さんよりご恵贈いただきました。感謝の気持ちを込めて推しポイントをご紹介させていただきます。 ▼こちらのAmazonリンクよりご購入可能です。 https://amzn.asia/d/3fdRcM9   結論、RAG構築の際にAzureのAIサービスを既に利用されている方、ご検討されている方は開発の手元に置くバイブルとしておすすめです!💡 👇他にもこんな方にも・・・  AzureでRAGを構築していて、より機能レベルで使いこなしたい実装者の方 ハイブリッドクラウドの構成(例えばデータベース/リ...]]></content>
+        <author>
+            <name>Kohei Ogawa</name>
+        </author>
+        <published>2025-02-26T17:53:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月26日ランキング】Azureの更新情報を効率よく受け取る方法(英語の情報を自動で翻訳する)／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/26</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/26"/>
+        <updated>2025-02-26T07:00:09.291Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NDMzOTIlMkYzMDMyMGIzMWFmMzdmYzhmMTZlY2NlMjQyNDE4ZjAwM2M1ZTRlNTQ1JTJGeF9sYXJnZS5wbmclM0Yx...]]></content>
+        <published>2025-02-26T07:00:09.291Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アット東京 Cloud LabでAzureのExpressRouteの検証環境でもくもくしてきました | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2025/02/26/153000</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2025/02/26/153000"/>
+        <updated>2025-02-26T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ACSD安藤です。 Microsoft MVPの吉川さんのツテと酒見さんのご厚意で、アット東京のCloud LabでAzureのExpressRouteでAzureとオンプレルータを接続したり、もくもくしてきました！ AzureのExpressRouteとは？ Cloud Labってどんなところ？ 検証したこと ExpressRouteをオンプレミスルータと接続してみる ざっくり構成図 Expre...]]></summary>
+        <content type="html"><![CDATA[ACSD安藤です。 Microsoft MVPの吉川さんのツテと酒見さんのご厚意で、アット東京のCloud LabでAzureのExpressRouteでAzureとオンプレルータを接続したり、もくもくしてきました！ AzureのExpressRouteとは？ Cloud Labってどんなところ？ 検証したこと ExpressRouteをオンプレミスルータと接続してみる ざっくり構成図 ExpressRoute Circuitの作成 ExpressRoute Circuitとオンプレルータとの接続 ExpressRoute CircuitとVirtual Network Gatewayとの接続…]]></content>
+        <published>2025-02-26T06:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Proactive Resiliency Libraryとは何か | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/azpower/articles/azure-proactive-resiliency-library</id>
+        <link href="https://zenn.dev/azpower/articles/azure-proactive-resiliency-library"/>
+        <updated>2025-02-26T03:07:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、AZPower 株式会社のクラウドインテグレーション部に所属している wai です。 みなさんは Azure Proactive Resiliency Library(APRL) をご存知でしょうか？ 後に詳しく解説しますが、Azure 上のワークロードの回復性（resiliency）を向上させるためのテクニックやツールを集約した、Microsoft が提供するライブラリです...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、AZPower 株式会社のクラウドインテグレーション部に所属している wai です。 みなさんは Azure Proactive Resiliency Library(APRL) をご存知でしょうか？ 後に詳しく解説しますが、Azure 上のワークロードの回復性（resiliency）を向上させるためのテクニックやツールを集約した、Microsoft が提供するライブラリです。しかし、Zenn をはじめとする各種プラットフォームで日本語の記事が見当たらないことから、まだ知名度はそれほど高くないようです。 少し話は逸れますが、Microsoft Learn では、...]]></content>
+        <author>
+            <name>wai</name>
+        </author>
+        <published>2025-02-26T03:07:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChainとAzure OpenAIでAI エージェント ~実装編~ | 神戸のデータ活用塾！KDL Data Blog]]></title>
+        <id>https://kdl-di.hatenablog.com/entry/2025/02/25/100000</id>
+        <link href="https://kdl-di.hatenablog.com/entry/2025/02/25/100000"/>
+        <updated>2025-02-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ Data Intelligenceチームの福岡です。 今回は、前回に引き続きLangchainとAzure OpenAIでAIエージェントを構築します。 前回記事はこちらkdl-di.hatenablog.com 前回のまとめ API の環境を設定する 修正項目・補足事項 環境構築について 環境変数について Azure OpenAI Serviceに置き換え api/data/mon...]]></summary>
+        <content type="html"><![CDATA[こんにちは！ Data Intelligenceチームの福岡です。 今回は、前回に引き続きLangchainとAzure OpenAIでAIエージェントを構築します。 前回記事はこちらkdl-di.hatenablog.com 前回のまとめ API の環境を設定する 修正項目・補足事項 環境構築について 環境変数について Azure OpenAI Serviceに置き換え api/data/mongodb/init.py api/service/init.py 日本語に対応させる api/service/init.py web/src/TripPlanning/TravelAgent.js a…]]></content>
+        <published>2025-02-25T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure のコストの実績をリソース グループごとに集計して通知する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/microsoft/articles/74a9be61bc6df7</id>
+        <link href="https://zenn.dev/microsoft/articles/74a9be61bc6df7"/>
+        <updated>2025-02-25T00:53:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Azure 環境をリソース グループ単位で利用者に払い出している場合、各利用者に対して月次の利用料を通知する必要があるケースがあります。こちらを Azure の組み込み機能で実現するのは困難なので、課金データをエクスポートし、Azure Functions で集計、Logic Apps で通知する仕組みを作ります。   課金データのエクスポート 課金データはサブスクリプション単位でストレ...]]></summary>
+        <content type="html"><![CDATA[はじめに Azure 環境をリソース グループ単位で利用者に払い出している場合、各利用者に対して月次の利用料を通知する必要があるケースがあります。こちらを Azure の組み込み機能で実現するのは困難なので、課金データをエクスポートし、Azure Functions で集計、Logic Apps で通知する仕組みを作ります。   課金データのエクスポート 課金データはサブスクリプション単位でストレージ アカウントに保存することができます。 設定方法はこちらに詳細なチュートリアルがあるので、割愛します。 https://learn.microsoft.com/ja-jp/azure/c...]]></content>
+        <author>
+            <name>k.sato</name>
+        </author>
+        <published>2025-02-25T00:53:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025年版] Azure Trusted SigningでWindowsアプリにコード署名する | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/minamiso/articles/b514c7bcc08a62</id>
+        <link href="https://zenn.dev/minamiso/articles/b514c7bcc08a62"/>
+        <updated>2025-02-24T02:49:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Electronで作ったWindowsアプリを配布して実行できるようにしたい！ そんなときに避けて通れないのがコード署名（code signing）です。Windowsのコード署名なんて簡単だろうと勝手に思っていたのですが、地味に面倒で苦労したのでその手順を備忘として記載します。 基本的な流れは以下の記事の通りで、初心者に分かりづらかったポイントに絞って補足記載していきます。 https...]]></summary>
+        <content type="html"><![CDATA[はじめに Electronで作ったWindowsアプリを配布して実行できるようにしたい！ そんなときに避けて通れないのがコード署名（code signing）です。Windowsのコード署名なんて簡単だろうと勝手に思っていたのですが、地味に面倒で苦労したのでその手順を備忘として記載します。 基本的な流れは以下の記事の通りで、初心者に分かりづらかったポイントに絞って補足記載していきます。 https://learn.microsoft.com/ja-jp/azure/trusted-signing/quickstart?tabs=registerrp-portal%2Caccount-...]]></content>
+        <author>
+            <name>み</name>
+        </author>
+        <published>2025-02-24T02:49:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月24日ランキング】【Azure】Github ActionからApp Serviceデプロイ時にOIDC認証を使用するための７ステップ | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/24</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/24"/>
+        <updated>2025-02-23T20:00:09.513Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzc4MzE2OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcxNDcyNDU1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3Jv...]]></content>
+        <published>2025-02-23T20:00:09.513Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Apps でカナリアリリースっぽいことをやってみる | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/08thse/articles/109-aca-fflag-sample</id>
+        <link href="https://zenn.dev/08thse/articles/109-aca-fflag-sample"/>
+        <updated>2025-02-23T15:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft のコミュニティブログにて、Azure Container Apps (ACA) にて Feature Flag / カナリアリリースっぽいことをやる記事が出ていました。  少し試してみていたのですが、色々と動かない箇所・誤りがありましたので、補足を加えつつまとめてみました。なお、後述の手順はすべて Azure Cloud Shell 上で実施しています。   お試し手順   A...]]></summary>
+        <content type="html"><![CDATA[Microsoft のコミュニティブログにて、Azure Container Apps (ACA) にて Feature Flag / カナリアリリースっぽいことをやる記事が出ていました。  少し試してみていたのですが、色々と動かない箇所・誤りがありましたので、補足を加えつつまとめてみました。なお、後述の手順はすべて Azure Cloud Shell 上で実施しています。   お試し手順   Azure Container Registory の準備 まず、適当なリソースグループと Azure Container Registory (ACR) は作成しておきます。  また、アプリケー...]]></content>
+        <author>
+            <name>sou (08thse)</name>
+        </author>
+        <published>2025-02-23T15:48:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5回 Azure Travelers 勉強会 沖縄の旅に参加してきたよ | Zennの「Azure」のフィード]]></title>
+        <id>https://zenn.dev/hirotomotaguchi/articles/202502-jat-okinawa</id>
+        <link href="https://zenn.dev/hirotomotaguchi/articles/202502-jat-okinawa"/>
+        <updated>2025-02-22T05:23:42.000Z</updated>
+        <summary type="html"><![CDATA[2025年2月15日に沖縄で開催された第5回 Azure Travelers 勉強会に参加してきました。 Lagoon KOZA で行われたこのイベントは、Azure の様々な機能をテーマにした充実した内容でした。ブログを書くまでが勉強会ということで、簡単ですがブログに残しておこうと思います。  会場となった沖縄市コザ   イベント概要 勉強会は朝10時30分から夕方18時30分まで行われ、Azu...]]></summary>
+        <content type="html"><![CDATA[2025年2月15日に沖縄で開催された第5回 Azure Travelers 勉強会に参加してきました。 Lagoon KOZA で行われたこのイベントは、Azure の様々な機能をテーマにした充実した内容でした。ブログを書くまでが勉強会ということで、簡単ですがブログに残しておこうと思います。  会場となった沖縄市コザ   イベント概要 勉強会は朝10時30分から夕方18時30分まで行われ、Azure に関する多彩なセッションが用意されていました。パネルディスカッションから技術セッション、 Azure クイズまで、盛りだくさんの内容でした。  https://jat.connpass.c...]]></content>
+        <author>
+            <name>gucci</name>
+        </author>
+        <published>2025-02-22T05:23:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月21日ランキング】Introducing Azure AI Foundry Labs: A hub for the latest AI research and experiments at Microsoft／ほか2本 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/21</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/21"/>
+        <updated>2025-02-20T20:00:19.377Z</updated>
+        <summary type="html"><![CDATA[<img src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/02/Azure_Hero_Cylinder_LightGreen_GreenGrad_cropped.png"><br>Microsoft Azureチャンネル 2025年2月21日のTechFeed記事デイリーランキングです（英語記事3本）。<br>...]]></summary>
+        <content type="html"><![CDATA[<img src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/02/Azure_Hero_Cylinder_LightGreen_GreenGrad_cropped.png"><br>Microsoft Azureチャンネル 2025年2月21日のTechFeed記事デイリーランキングです（英語記事3本）。<br>1位: Introducing Azure AI Foundry Labs: A hub for the latest AI research and experiments at Microsoft（azure.microsoft.com）<br>2位: Microsoft Azure outage hits Norway for hours（www.theregister.com）<br>3位: Deploying WebJobs to Azure Container Apps（devblogs.microsoft.com）<br><a href="https://techfeed.io/...]]></content>
+        <published>2025-02-20T20:00:19.377Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月20日ランキング】Azure 初学者必見！MVP が教える勉強方法🧑‍💻 | TechFeedおすすめ記事ランキング - Microsoft Azureチャンネル]]></title>
+        <id>https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/20</id>
+        <link href="https://techfeed.io/channels/Microsoft%20Azure/selections/daily/2025/2/20"/>
+        <updated>2025-02-20T14:00:13.537Z</updated>
+        <summary type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258...]]></summary>
+        <content type="html"><![CDATA[<img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjMzNTQyOSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcyNTk0ODIxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3Jv...]]></content>
+        <published>2025-02-20T14:00:13.537Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【基礎】AzureとAWSのグローバルインフラストラクチャ | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2025/02/20/153442</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2025/02/20/153442"/>
+        <updated>2025-02-20T06:34:42.000Z</updated>
+        <summary type="html"><![CDATA[目次 目次 はじめに Azureのグローバルインフラストラクチャ AWSのグローバルインフラストラクチャ まとめ はじめに こんにちは。個人としてこれまでAWSの経験はありますが、Azureについてはあまり深く触ってこなかったため、資格取得も目指しつつ基礎の部分から改めてインプット中です。 そこで今回はそれぞれのグローバルインフラストラクチャについて、復習も兼ねて書いていきたいと思います。 基礎的...]]></summary>
+        <content type="html"><![CDATA[目次 目次 はじめに Azureのグローバルインフラストラクチャ AWSのグローバルインフラストラクチャ まとめ はじめに こんにちは。個人としてこれまでAWSの経験はありますが、Azureについてはあまり深く触ってこなかったため、資格取得も目指しつつ基礎の部分から改めてインプット中です。 そこで今回はそれぞれのグローバルインフラストラクチャについて、復習も兼ねて書いていきたいと思います。 基礎的な内容ではありますが、各サービスを利用する上で可用性や耐障害性の観点でポイントとなるため、簡単にはなりますがまとめていきたいと思います。 ※本記事は単純な優劣を比較するものではなく、用語や特徴を整理し…]]></content>
+        <published>2025-02-20T06:34:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Quick Review (azqr) を試してみたので紹介します | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2025/02/18/194441</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2025/02/18/194441"/>
+        <updated>2025-02-18T10:44:41.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ACS 事業部の埜下です。 先日、Microsoft の「Azure Quick Review」というツールの紹介がありました。 🚀 Excited to announce the release of Azure Quick Review 2.3.0! 🎉 Now with support for scanning resources under a Management Gro...]]></summary>
+        <content type="html"><![CDATA[こんにちは、ACS 事業部の埜下です。 先日、Microsoft の「Azure Quick Review」というツールの紹介がありました。 🚀 Excited to announce the release of Azure Quick Review 2.3.0! 🎉 Now with support for scanning resources under a Management Group.👇 #Azure #Cloud #BestPractices #azqr https://t.co/EuK6jrpOH5— Carlos Mendible (@cmendibl3) 2025年2月1…]]></content>
+        <published>2025-02-18T10:44:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonでAzure AI Searchのインデックスを構築する方法 | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2025/02/18/163403</id>
+        <link href="https://tech.smarthr.jp/entry/2025/02/18/163403"/>
+        <updated>2025-02-18T07:34:03.000Z</updated>
+        <summary type="html"><![CDATA[PythonでAzure AI Searchのインデックスを構築する方法SmartHRでAIプロダクトの開発をしているmizunaoです！現在SmartHRでは、LLM（Large Language Model）を活用したプロダクト開発に取り組んでいます。この記事では、その一環として取り組んだ「PythonでAzure AI Searchのインデックスを構築する方法」を紹介します。 Azure A...]]></summary>
+        <content type="html"><![CDATA[PythonでAzure AI Searchのインデックスを構築する方法SmartHRでAIプロダクトの開発をしているmizunaoです！現在SmartHRでは、LLM（Large Language Model）を活用したプロダクト開発に取り組んでいます。この記事では、その一環として取り組んだ「PythonでAzure AI Searchのインデックスを構築する方法」を紹介します。 Azure AI Searchとは？ Azure AI SearchはAzureが提供する検索サービスで、全文検索、ベクトル検索、ハイブリッド検索など、様々な検索ソリューションに対応しています。検索に使用するファイ…]]></content>
+        <published>2025-02-18T07:34:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS】Azure経験者でAWS初心者の私がPythonでLambdaに触れてみる | APC 技術ブログ]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2025/02/18/153053</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2025/02/18/153053"/>
+        <updated>2025-02-18T06:30:53.000Z</updated>
+        <summary type="html"><![CDATA[目次 目次 はじめに この記事のゴール 作業の流れ 取り上げないこと 作業 ハマったこと Pythonのソースコードを実装 AWS上でLambda関数の作成と設定 PythonのソースコードをLambdaへデプロイ 動作確認 感想など はじめに こんにちは、株式会社エーピーコミュニケーションズ クラウド事業部の佐藤です。 私は2025年2月にAPCに中途入社いたしました。前職ではAzureをメイン...]]></summary>
+        <content type="html"><![CDATA[目次 目次 はじめに この記事のゴール 作業の流れ 取り上げないこと 作業 ハマったこと Pythonのソースコードを実装 AWS上でLambda関数の作成と設定 PythonのソースコードをLambdaへデプロイ 動作確認 感想など はじめに こんにちは、株式会社エーピーコミュニケーションズ クラウド事業部の佐藤です。 私は2025年2月にAPCに中途入社いたしました。前職ではAzureをメインに触っていたのですが、今後AWSを触る機会が多くなりそうなので早速AWSに触れてみて力を身に着けていこうと思います。 AWSを触ってみたい、Lambdaを触ってみたい、PythonでLambda動かし…]]></content>
+        <published>2025-02-18T06:30:53.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "企業テックブログRSS",
+    "home_page_url": "https://higurashit.github.io/knowledge-management-rss/",
+    "feed_url": "https://higurashit.github.io/knowledge-management-rss/feeds/feed.json",
+    "description": "企業のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://higurashit.github.io/knowledge-management-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://blog.truestar.co.jp/?p=62260",
+            "content_html": "はじめに Tableauは、データを視覚化し、インサイトを得るための強力なツールです。 しかし、データの管理やその関係性を理解するためには、メタデータの把握が欠かせません。 ここで登場するのが、Tableau Metad... 【Tableau】メタデータAPIでTableau CloudのData Source情報取得した first appeared on Tableau-id Press -タブロイド-.",
+            "url": "https://blog.truestar.co.jp/tableau/20250226/62260/",
+            "title": "【Tableau】メタデータAPIでTableau CloudのData Source情報取得した | Tableau-id Press -タブロイド-",
+            "summary": "はじめに Tableauは、データを視覚化し、インサイトを得るための強力なツールです。 しかし、データの管理やその関係性を理解するためには、メタデータの把握が欠かせません。 ここで登場するのが、Tableau Metad... 【Tableau】メタデータAPIでTableau CloudのData Source情報取得した first appeared on Tableau-id Press -...",
+            "date_modified": "2025-02-26T07:48:46.000Z",
+            "date_published": "2025-02-26T07:48:46.000Z",
+            "author": {
+                "name": "kyota.takahashi"
+            },
+            "tags": [
+                "Tableau"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Tableau】メタデータAPIでTableau CloudのData Source情報取得した",
+                "blogTitle": "Tableau-id Press -タブロイド-",
+                "blogLink": "https://blog.truestar.co.jp",
+                "blogLinkMd5Hash": "34778be0f27832982c7e92447a855a95"
+            }
+        },
+        {
+            "id": "https://blog.truestar.co.jp/?p=62220",
+            "content_html": "こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今日は普段TableauPrep、Tableau、Snowflakeをメインで使用している私が、Dataikuでデータク... 【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる first appeared on Tableau-id Press -タブロイド-.",
+            "url": "https://blog.truestar.co.jp/dataiku/20250220/62220/",
+            "title": "【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる | Tableau-id Press -タブロイド-",
+            "summary": "こんにちは！DataikuMonth3週目、初心者投稿の3日目、4日目を担当するs.sumiです！ 今日は普段TableauPrep、Tableau、Snowflakeをメインで使用している私が、Dataikuでデータク... 【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる first appeared on Tableau-id Press -タブロイ...",
+            "date_modified": "2025-02-19T15:00:01.000Z",
+            "date_published": "2025-02-19T15:00:01.000Z",
+            "author": {
+                "name": "s.sumi"
+            },
+            "tags": [
+                "Dataiku",
+                "Data Visualization",
+                "Tableau Prep"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Dataiku】サンプルスーパーストアを使ってTableauPrepとの違いを探ってみる",
+                "blogTitle": "Tableau-id Press -タブロイド-",
+                "blogLink": "https://blog.truestar.co.jp",
+                "blogLinkMd5Hash": "34778be0f27832982c7e92447a855a95"
+            }
+        }
+    ]
+}
